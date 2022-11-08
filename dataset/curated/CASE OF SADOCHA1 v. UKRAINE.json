@@ -1,0 +1,597 @@
+[
+    {
+        "id": 0,
+        "translation": {
+            "en": "FIFTH SECTION",
+            "uk": "П’ЯТА СЕКЦІЯ"
+        }
+    },
+    {
+        "id": 1,
+        "translation": {
+            "en": "CASE OF SADOCHA v. UKRAINE",
+            "uk": "СПРАВА «САДОХА ПРОТИ УКРАЇНИ»"
+        }
+    },
+    {
+        "id": 2,
+        "translation": {
+            "en": "(Application no. 77508/11)",
+            "uk": "(Заява № 77508/11)"
+        }
+    },
+    {
+        "id": 3,
+        "translation": {
+            "en": "JUDGMENT",
+            "uk": "РІШЕННЯ"
+        }
+    },
+    {
+        "id": 4,
+        "translation": {
+            "en": "(Merits)",
+            "uk": "(По суті)"
+        }
+    },
+    {
+        "id": 5,
+        "translation": {
+            "en": "STRASBOURG",
+            "uk": "СТРАСБУРГ"
+        }
+    },
+    {
+        "id": 6,
+        "translation": {
+            "en": "11 July 2019",
+            "uk": "11 липня 2019 року"
+        }
+    },
+    {
+        "id": 7,
+        "translation": {
+            "en": "FINAL",
+            "uk": "ОСТАТОЧНЕ"
+        }
+    },
+    {
+        "id": 8,
+        "translation": {
+            "en": "11/10/2019",
+            "uk": "11.10.2019"
+        }
+    },
+    {
+        "id": 9,
+        "translation": {
+            "en": "This judgment has become final under Article 44 § 2 of the Convention. It may be subject to editorial revision.",
+            "uk": "Це рішення набуло статусу остаточного відповідно до пункту 2 статті 44 Конвенції. Його текст може підлягати редакційним виправленням."
+        }
+    },
+    {
+        "id": 10,
+        "translation": {
+            "en": "In the case of Sadocha v. Ukraine,",
+            "uk": "У справі «Садоха проти України»"
+        }
+    },
+    {
+        "id": 11,
+        "translation": {
+            "en": "The European Court of Human Rights (Fifth Section), sitting as a Chamber composed of:",
+            "uk": "Європейський суд з прав людини (П’ята секція), засідаючи палатою, до складу якої увійшли:"
+        }
+    },
+    {
+        "id": 12,
+        "translation": {
+            "en": "Angelika Nußberger, President,\n\tYonko Grozev,\n\tGanna Yudkivska,\n\tSíofra O’Leary,\n\tMārtiņš Mits,\n\tLәtif Hüseynov,\n\tLado Chanturia, judges,\nand Milan Blaško, Deputy Section Registrar,",
+            "uk": "Ангеліка Нуссбергер (Angelika Nußberger), Голова,\n\tЙонко Грозєв (Yonko Grozev),\n\tГанна Юдківська (Ganna Yudkivska),\n\tСіофра О’Лірі (Síofra O’Leary),\n\tМартіньш Мітс (Mārtiņš Mits),\n\tЛятіф Гусейнов (Lәtif Hüseynov),\n\tЛадо Чантурія (Lado Chanturia), судді,\nта Мілан Блашко (Milan Blaško), заступник Секретаря секції,"
+        }
+    },
+    {
+        "id": 13,
+        "translation": {
+            "en": "Having deliberated in private on 18 June 2019,",
+            "uk": "після обговорення за зачиненими дверима 18 червня 2019 року"
+        }
+    },
+    {
+        "id": 14,
+        "translation": {
+            "en": "Delivers the following judgment, which was adopted on that date:",
+            "uk": "постановляє таке рішення, що було ухвалено у той день:"
+        }
+    },
+    {
+        "id": 15,
+        "translation": {
+            "en": "PROCEDURE",
+            "uk": "ПРОЦЕДУРА"
+        }
+    },
+    {
+        "id": 16,
+        "translation": {
+            "en": "1.  The case originated in an application (no. 77508/11) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Czech national, Mr Vasil Sadocha (“the applicant”), on 6 December 2011.",
+            "uk": "1.  Справу було розпочато за заявою (№ 77508/11), яку 06 грудня 2011 року подав до Суду проти України на підставі статті 34 Конвенції про захист прав людини і основоположних свобод (далі – Конвенція) громадянин Чехії, пан Васіл Садоха (далі – заявник)."
+        }
+    },
+    {
+        "id": 17,
+        "translation": {
+            "en": "2.  The applicant was represented by Mr V. Kasko, a lawyer practising in Kyiv. The Ukrainian Government (“the Government”) were represented by their Agent, Mr I. Lishchyna.",
+            "uk": "2.  Заявника представляв пан В. Касько, юрист, який практикує у м. Київ. Уряд України (далі – Уряд) представляв його Уповноважений, пан І. Ліщина."
+        }
+    },
+    {
+        "id": 18,
+        "translation": {
+            "en": "3.  The applicant complained that the confiscation of his lawfully acquired money had been an excessive and disproportionate measure and that he had not been duly summoned to court hearings in his case.",
+            "uk": "3.  Заявник скаржився, що конфіскація його отриманих законним шляхом коштів була надмірним і непропорційним заходом, та що його не було належним чином викликано у судові засідання у його справі."
+        }
+    },
+    {
+        "id": 19,
+        "translation": {
+            "en": "4.  On 16 April 2018 notice of the above-mentioned complaints was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "uk": "4.  16 квітня 2018 року про зазначені скарги було повідомлено Уряд, а решту скарг у заяві було визнано неприйнятними відповідно до пункту 3 Правила 54 Регламенту Суду."
+        }
+    },
+    {
+        "id": 20,
+        "translation": {
+            "en": "5.  The Czech Government were invited to submit written comments, in accordance with Article 36 § 1 of the Convention, but declined to do so.",
+            "uk": "5.  Уряду Чехії було запропоновано надати письмові зауваження відповідно до пункту 1 статті 36 Конвенції, але він відмовився від цього."
+        }
+    },
+    {
+        "id": 21,
+        "translation": {
+            "en": "THE FACTS",
+            "uk": "ФАКТИ"
+        }
+    },
+    {
+        "id": 22,
+        "translation": {
+            "en": "I.  THE CIRCUMSTANCES OF THE CASE",
+            "uk": "I.  ОБСТАВИНИ СПРАВИ"
+        }
+    },
+    {
+        "id": 23,
+        "translation": {
+            "en": "6.  The applicant was born in 1972 and lives in Olomouc, the Czech Republic.",
+            "uk": "6.  Заявник народився у 1972 році та проживає у м. Оломоуц Чеської Республіки."
+        }
+    },
+    {
+        "id": 24,
+        "translation": {
+            "en": "7.  On 22 July 2011 the applicant travelled from Kyiv Zhuliany Airport to Poland. He went through the “green corridor” carrying 41,000 euros (EUR) in cash in his hand luggage. At the security check, his hand luggage was Xrayed. According to the applicant, once the officer had asked him whether he was carrying any cash he had acknowledged that he had money in his luggage and showed it to the officer.",
+            "uk": "7.  22 липня 2011 року заявник подорожував з аеропорту «Київ» (Жуляни) до Польщі. Він пройшов через «зелений коридор», перевозячи 41 000 євро готівкою у ручній поклажі. Під час контролю на безпеку його ручну поклажу було проскановано. Згідно з твердженнями заявника, як тільки працівник служби авіаційної безпеки запитав його, чи перевозив він будь-яку готівку, заявник повідомив, що в його ручній поклажі були гроші та показав їх працівнику служби авіаційної безпеки."
+        }
+    },
+    {
+        "id": 25,
+        "translation": {
+            "en": "10.  The District Court held on the same date that the customs report was sufficient evidence of the offences and issued a confiscation order for the sum of EUR 31,000. In so deciding it held as follows:",
+            "uk": "10.  Того дня районний суд встановив, що протокол про порушення митних правил був достатнім доказом правопорушення, та ухвалив постанову про конфіскацію суми у розмірі 31 000 євро. Приймаючи таке рішення, він встановив:"
+        }
+    },
+    {
+        "id": 26,
+        "translation": {
+            "en": "“... the court considers the written evidence presented by the [applicant’s] representative, namely the loan agreement and copies of the receipts for the amount of EUR 21,600, to be irrelevant because the origin of money has no impact whatsoever on the determination of the scope of the [applicant’s] liability. ...",
+            "uk": "«... суд критично ставиться до наданих письмових документів представником [заявника], а саме: договору позики та копії квитанції на отримання коштів в сумі 21 600 євро, оскільки вони належним чином не стосуються справи, оскільки походження цих грошових коштів ніяким чином не впливає на визначення міри відповідальності [заявника]. ..."
+        }
+    },
+    {
+        "id": 27,
+        "translation": {
+            "en": "Having examined the case file, the court considers the [applicant’s] guilt is fully confirmed by the available materials, in particular by the customs offence report. ...",
+            "uk": "Дослідивши матеріали справи, суд вважає, що винність [заявника] повністю підтверджується матеріалами справи, зокрема, даними протоколу про порушення митних правил. ..."
+        }
+    },
+    {
+        "id": 28,
+        "translation": {
+            "en": "When deciding on the punishment for breaches of the customs rules, the court has taken into account the nature of the offence and the way in which it was committed, and information on the character of the offender, and considers it appropriate to order confiscation of goods [from the applicant] as provided for by Article 340 of the Customs Code of Ukraine.”",
+            "uk": "Вирішуючи питання призначення виду стягнення за порушення митних правил, з урахуванням характеру і способу вчиненого порушення митних правил, особи правопорушника, суд приходить до висновку, що на [заявника] слід накласти стягнення у вигляді конфіскації товарів відповідно до статті 340 Митного кодексу України.»"
+        }
+    },
+    {
+        "id": 29,
+        "translation": {
+            "en": "13.  The judgment of the Court of Appeal was final and not subject to appeal.",
+            "uk": "13.  Постанова апеляційного суду була остаточною та оскарженню не підлягала."
+        }
+    },
+    {
+        "id": 30,
+        "translation": {
+            "en": "II.  RELEVANT DOMESTIC LAW",
+            "uk": "II.  ВІДПОВІДНЕ НАЦІОНАЛЬНЕ ЗАКОНОДАВСТВО"
+        }
+    },
+    {
+        "id": 31,
+        "translation": {
+            "en": "14.  The Customs Code (as worded at the material time) provided as follows:",
+            "uk": "14.  Митний кодекс України (у редакції, чинній на момент подій) передбачав:"
+        }
+    },
+    {
+        "id": 32,
+        "translation": {
+            "en": "Article 97. Limitations on the movement of certain goods \nacross the customs border of Ukraine",
+            "uk": "Стаття 97. Обмеження щодо переміщення окремих товарів \nчерез митний кордон України"
+        }
+    },
+    {
+        "id": 33,
+        "translation": {
+            "en": "“... The procedure on moving currency across the customs border of Ukraine is determined by the National Bank of Ukraine. ...”",
+            "uk": "«...Порядок переміщення через митний кордон України валютних цінностей встановлюється Національним банком України. ...»"
+        }
+    },
+    {
+        "id": 34,
+        "translation": {
+            "en": "Article 327. Ensuring the lawfulness of imposing sanctions\n on persons who breached customs rules",
+            "uk": "Стаття 327. Забезпечення законності у разі застосування\nстягнень до порушників митних правил"
+        }
+    },
+    {
+        "id": 35,
+        "translation": {
+            "en": "“Punishment for a violation of customs rules cannot be applied otherwise than on the basis of and in accordance with the procedure prescribed by this Code and other laws of Ukraine.”",
+            "uk": "«Стягнення за порушення митних правил не може бути застосовано інакше, як на підставі та в порядку, встановленому цим Кодексом та іншими законами України.»"
+        }
+    },
+    {
+        "id": 36,
+        "translation": {
+            "en": "Article 377. Seizure of goods, vehicles and documents",
+            "uk": "Стаття 377. Вилучення товарів, транспортних засобів і документів"
+        }
+    },
+    {
+        "id": 37,
+        "translation": {
+            "en": "“Goods which are the direct objects of violations of the customs rules ... are subject to seizure ...”",
+            "uk": "«Товари, що є безпосередніми предметами порушення митних правил... вилучаються...»"
+        }
+    },
+    {
+        "id": 38,
+        "translation": {
+            "en": "Article 339. Violations of the customs control procedure \nin simplified customs control areas (corridors)",
+            "uk": "Стаття 339. Порушення порядку проходження митного контролю в зонах\n(коридорах) спрощеного митного контролю"
+        }
+    },
+    {
+        "id": 39,
+        "translation": {
+            "en": "“Violations of the customs control procedure in a simplified customs control area (corridor), as specified by this Code, that is when an individual who has chosen to go through such a corridor is carrying goods that are either forbidden from or restricted in respect of being carried across the customs border of Ukraine or in quantities exceeding the non-taxable norm set for such goods’ movement across the customs border of Ukraine,",
+            "uk": "«Порушення встановленого відповідно до цього Кодексу порядку проходження митного контролю в зонах (коридорах) спрощеного митного контролю, тобто наявність під час проведення митного контролю в особи, яка формою проходження митного контролю обрала проходження через таку зону (коридор), товарів, заборонених або обмежених до переміщення через митний кордон України, або товарів у кількостях, що перевищують неоподатковувану норму переміщення через митний кордон України,"
+        }
+    },
+    {
+        "id": 40,
+        "translation": {
+            "en": "- shall be punishable by a fine of between fifty and one hundred times the minimum tax-free income of a citizen or confiscation of the goods.”",
+            "uk": "- тягне за собою накладення штрафу в розмірі від п’ятдесяти до ста неоподатковуваних мінімумів доходів громадян або конфіскацію цих товарів.»"
+        }
+    },
+    {
+        "id": 41,
+        "translation": {
+            "en": "Article 340. Non-declaration of goods or vehicles",
+            "uk": "Стаття 340. Недекларування товарів, транспортних засобів"
+        }
+    },
+    {
+        "id": 42,
+        "translation": {
+            "en": "“The non-declaration of goods and vehicles being carried across the customs border of Ukraine ... which are subject to mandatory declaration ...",
+            "uk": "«Недекларування товарів, транспортних засобів, що переміщуються через митний кордон України... які підлягають обов’язковому декларуванню..."
+        }
+    },
+    {
+        "id": 43,
+        "translation": {
+            "en": "- shall be punishable by a fine of between one hundred and one thousand times the minimum tax-free income of a citizen or confiscation of the goods or vehicle ...”",
+            "uk": "- тягне за собою накладення штрафу на громадян у розмірі від ста до тисячі неоподатковуваних мінімумів доходів громадян або конфіскацію цих товарів, транспортних засобів...»"
+        }
+    },
+    {
+        "id": 44,
+        "translation": {
+            "en": "15.  The Regulation on Transportation of Cash and Investment Metals across Ukraine’s Customs Border (as worded at the material time), approved by the Decree of the National Bank of Ukraine of 27 May 2008, no. 148, provided as follows:",
+            "uk": "15.  Інструкція про переміщення готівки і банківських металів через митний кордон України (у редакції, чинній на момент подій), затверджена постановою Національного банку України від 27 травня 2008 року № 148, передбачає:"
+        }
+    },
+    {
+        "id": 45,
+        "translation": {
+            "en": "2.  Bringing cash into and out of Ukraine",
+            "uk": "2.  Увезення в Україну та вивезення за межі України готівки"
+        }
+    },
+    {
+        "id": 46,
+        "translation": {
+            "en": "“1. Individuals may bring up to EUR 10,000 in cash (or the equivalent) into and out of Ukraine without declaring it in writing at the customs office.",
+            "uk": "«1. Фізична особа має право ввозити в Україну та вивозити за межі України готівку в сумі, що не перевищує в еквіваленті 10 000 євро без письмового декларування митному органу."
+        }
+    },
+    {
+        "id": 47,
+        "translation": {
+            "en": "2. Individuals may bring over EUR 10,000 in cash (or the equivalent) into and out of Ukraine subject to making a full declaration in writing at the customs office. ...”",
+            "uk": "2. Фізична особа має право ввозити в Україну та вивозити за межі України готівку в сумі, що перевищує в еквіваленті 10 000 євро за умови письмового декларування митному органу в повному обсязі. ...»"
+        }
+    },
+    {
+        "id": 48,
+        "translation": {
+            "en": "THE LAW",
+            "uk": "ПРАВО"
+        }
+    },
+    {
+        "id": 49,
+        "translation": {
+            "en": "I.  ALLEGED VIOLATION OF ARTICLE 1 OF PROTOCOL No. 1 TO THE CONVENTION",
+            "uk": "I.  СТВЕРДЖУВАНЕ ПОРУШЕННЯ СТАТТІ 1 ПЕРШОГО ПРОТОКОЛУ ДО КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 50,
+        "translation": {
+            "en": "16.  The applicant complained that the decision of the domestic authorities in the administrative-offence proceedings to confiscate EUR 31,000 of his money for having failed to declare it at customs had been unlawful, excessive and disproportionate to the legitimate aim pursued. He relied on Article 1 of Protocol No. 1 to the Convention, which reads as follows:",
+            "uk": "16.  Заявник скаржився, що рішення національних органів державної влади у справі про адміністративне правопорушення конфіскувати його кошти у сумі 31 000 євро у зв’язку з недекларуванням їх на митниці було незаконним, надмірним і непропорційним переслідуваній законній меті. Він посилався на статтю 1 Першого протоколу до Конвенції, яка передбачає:"
+        }
+    },
+    {
+        "id": 51,
+        "translation": {
+            "en": "“Every natural or legal person is entitled to the peaceful enjoyment of his possessions. No one shall be deprived of his possessions except in the public interest and subject to the conditions provided for by law and by the general principles of international law.",
+            "uk": "«Кожна фізична або юридична особа має право мирно володіти своїм майном. Ніхто не може бути позбавлений своєї власності інакше як в інтересах суспільства і на умовах, передбачених законом і загальними принципами міжнародного права."
+        }
+    },
+    {
+        "id": 52,
+        "translation": {
+            "en": "The preceding provisions shall not, however, in any way impair the right of a State to enforce such laws as it deems necessary to control the use of property in accordance with the general interest or to secure the payment of taxes or other contributions or penalties.”",
+            "uk": "Проте попередні положення жодним чином не обмежують право держави вводити в дію такі закони, які вона вважає за необхідне, щоб здійснювати контроль за користуванням майном відповідно до загальних інтересів або для забезпечення сплати податків чи інших зборів або штрафів.»"
+        }
+    },
+    {
+        "id": 53,
+        "translation": {
+            "en": "A.  Admissibility",
+            "uk": "A.  Прийнятність"
+        }
+    },
+    {
+        "id": 54,
+        "translation": {
+            "en": "17.  The Court considers that this complaint is not manifestly ill-founded within the meaning of Article 35 § 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+            "uk": "17.  Суд вважає, що ця скарга не є явно необґрунтованою у розумінні підпункту «а» пункту 3 статті 35 Конвенції. Суд також зазначає, що вона не є неприйнятною з будь-яких інших підстав. Отже, вона має бути визнана прийнятною."
+        }
+    },
+    {
+        "id": 55,
+        "translation": {
+            "en": "B.  Merits",
+            "uk": "B.  Суть"
+        }
+    },
+    {
+        "id": 56,
+        "translation": {
+            "en": "1.  The arguments of the parties",
+            "uk": "1.  Аргументи сторін"
+        }
+    },
+    {
+        "id": 57,
+        "translation": {
+            "en": "(a)  The applicant",
+            "uk": "(a)  Заявник"
+        }
+    },
+    {
+        "id": 58,
+        "translation": {
+            "en": "(b)  The Government",
+            "uk": "(b)  Уряд"
+        }
+    },
+    {
+        "id": 59,
+        "translation": {
+            "en": "2.  The Court’s assessment",
+            "uk": "2.  Оцінка Суду"
+        }
+    },
+    {
+        "id": 60,
+        "translation": {
+            "en": "22.  It is not in dispute between the parties that the decision to confiscate the amount of EUR 31,000 constituted an interference with the applicant’s right to the peaceful enjoyment of his possessions. Having regard to its case-law on the matter (see, for example, Ismayilov v. Russia, no. 30352/03, § 29, 6 November 2008, and Boljević v. Croatia, no. 43492/11, § 37, 31 January 2017), the Court sees no reason to hold otherwise.",
+            "uk": "22.  Сторонами не оскаржується, що постанова про конфіскацію суми у розмірі 31 000 євро становила втручання у право заявника на мирне володіння своїм майном. Беручи до уваги свою практику з цього питання (див., наприклад, рішення у справах «Ісмаїлов проти Росії» (Ismayilov v. Russia), заява № 30352/03, пункт 29, від 06 листопада \n2008 року та «Болєвіч проти Хорватії» (Boljević v. Croatia), \nзаява № 43492/11, пункт 37, від 31 січня 2017 року), Суд не вбачає підстав для іншого висновку."
+        }
+    },
+    {
+        "id": 61,
+        "translation": {
+            "en": "23.  The Court reiterates its consistent approach that a confiscation measure, even though it involves a deprivation of possessions, falls within the scope of the second paragraph of Article 1 of Protocol No. 1, which allows the Contracting States to control the use of property to secure the payment of penalties (see Gabrić, cited above, § 33, with further reference).",
+            "uk": "23.  Суд повторює свій послідовний підхід, що захід у вигляді конфіскації, навіть якщо він передбачає позбавлення власності, підпадає під сферу дії другого абзацу статті 1 Першого протоколу до Конвенції, яким Договірним державам дозволяється здійснювати контроль за користуванням майном для забезпечення сплати податків (див. згадане рішення у справі «Габріч проти Хорватії» (Gabrić v. Croatia), пункт 33 з подальшими посиланнями)."
+        }
+    },
+    {
+        "id": 62,
+        "translation": {
+            "en": "24.  As to the lawfulness of the interference, the Court notes that the parties disagreed on the matter (see paragraphs 18 and 20 above).",
+            "uk": "24.  Щодо законності втручання Суд зазначає, що сторони не дійшли згоди з цього питання (див. пункти 18 і 20)."
+        }
+    },
+    {
+        "id": 63,
+        "translation": {
+            "en": "31.  The Court reiterates that in order to be proportionate, the interference should correspond to the severity of the infringement, and the sanction to the gravity of the offence it is designed to punish – in the instant case, failure to comply with the declaration requirement (see Gyrlyan, § 28, and Gabrić, § 29, both cited above).",
+            "uk": "31.  Суд повторює, що для того, щоб втручання було пропорційним, воно має відповідати серйозності вчиненого правопорушення, а санкція – серйозності злочину, який вона має покарати, у цій справі – недотримання вимоги щодо декларування (див. згадані рішення у справах «Гирлян проти Росії» (Gyrlyan v. Russia), пункт 28 і «Габріч проти Хорватії» (Gabrić v. Croatia), пункт 29)."
+        }
+    },
+    {
+        "id": 64,
+        "translation": {
+            "en": "34.  In the same way, it has not been convincingly shown by the Government before this Court that a less severe sanction, such as a fine, was not sufficient to achieve the desired deterrent and punitive effect and to prevent future breaches of the declaration requirement.",
+            "uk": "34.  Аналогічно, Уряд переконливо не довів у цьому Суді, що менш суворе стягнення, наприклад, штраф, було недостатнім для досягнення бажаного стримуючого та карального ефекту і запобігання майбутнім порушенням вимоги щодо декларування."
+        }
+    },
+    {
+        "id": 65,
+        "translation": {
+            "en": "36.  In these circumstances, the confiscation of the entire undeclared amount of the money, in the Court’s view, imposed an individual and excessive burden on the applicant and was disproportionate to the offence committed (see Gabrić, § 39, and Ismayilov, § 38, both cited above; and Tanasov v. Romania [Committee], no. 65910/09, § 28, 31 October 2017).",
+            "uk": "36.  За цих обставин конфіскація незадекларованих коштів у повному обсязі, на думку Суду, поклала індивідуальний і надмірний тягар на заявника та була непропорційною вчиненому правопорушенню (див. згадані рішення у справах «Габріч проти Хорватії» (Gabrić v. Croatia), пункт 39 і Ісмаїлов проти Росії» (Ismayilov v. Russia), пункт 38; та рішення у справі «Танасов проти Румунії» [Комітет] (Tanasov v. Romania) [Committee], \nзаява № 65910/09, пункт 28, від 31 жовтня 2017 року)."
+        }
+    },
+    {
+        "id": 66,
+        "translation": {
+            "en": "37.  There has therefore been a violation of Article 1 of Protocol No. 1.",
+            "uk": "37.  Отже, було порушено статтю 1 Першого протоколу до Конвенції."
+        }
+    },
+    {
+        "id": 67,
+        "translation": {
+            "en": "II.  ALLEGED VIOLATION OF ARTICLE 6 OF THE CONVENTION",
+            "uk": "II.  СТВЕРДЖУВАНЕ ПОРУШЕННЯ СТАТТІ 6 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 68,
+        "translation": {
+            "en": "38.  On the basis of the same facts the applicant further complained, under Article 6 § 1 of the Convention, that the above-mentioned administrative offences proceedings were unfair as the court hearings were held in his absence.",
+            "uk": "38.  На підставі тих самих фактів заявник також скаржився за пунктом 1 статті 6 Конвенції на несправедливість згаданого провадження у справі про адміністративне правопорушення у зв’язку з проведенням судових засідань за його відсутності."
+        }
+    },
+    {
+        "id": 69,
+        "translation": {
+            "en": "III.  APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+            "uk": "III.  ЗАСТОСУВАННЯ СТАТТІ 41 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 70,
+        "translation": {
+            "en": "40.  Article 41 of the Convention provides:",
+            "uk": "40.  Стаття 41 Конвенції передбачає:"
+        }
+    },
+    {
+        "id": 71,
+        "translation": {
+            "en": "“If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”",
+            "uk": "«Якщо Суд визнає факт порушення Конвенції або протоколів до неї і якщо внутрішнє право відповідної Високої Договірної Сторони передбачає лише часткове відшкодування, Суд, у разі необхідності, надає потерпілій стороні справедливу сатисфакцію.»"
+        }
+    },
+    {
+        "id": 72,
+        "translation": {
+            "en": "Damage",
+            "uk": "Шкода"
+        }
+    },
+    {
+        "id": 73,
+        "translation": {
+            "en": "42.  The Government contested these claims.",
+            "uk": "42.  Уряд заперечив проти цих вимог."
+        }
+    },
+    {
+        "id": 74,
+        "translation": {
+            "en": "44.  As regards non-pecuniary damage, the Court considers that in the circumstances of the present case the finding of a violation of Article 1 of Protocol No. 1 to the Convention constitutes in itself sufficient just satisfaction (see, for instance, Gabrić, § 49; Boljević, § 54; all cited above).",
+            "uk": "44.  Щодо моральної шкоди Суд вважає, що за обставин цієї справи встановлення порушення статті 1 Першого протоколу до Конвенції само собою становить достатню справедливу сатисфакцію\n(див., наприклад, згадані рішення у справах «Габріч проти Хорватії» (Gabrić v. Croatia), пункт 49, «Болєвіч проти Хорватії» (Boljević v. Croatia), пункт 54)."
+        }
+    },
+    {
+        "id": 75,
+        "translation": {
+            "en": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+            "uk": "ЗА ЦИХ ПІДСТАВ СУД ОДНОГОЛОСНО"
+        }
+    },
+    {
+        "id": 76,
+        "translation": {
+            "en": "1.  Declares the complaint under Article 1 of Protocol No. 1 to the Convention admissible;",
+            "uk": "1.  Оголошує прийнятною скаргу за статтею 1 Першого протоколу до Конвенції;"
+        }
+    },
+    {
+        "id": 77,
+        "translation": {
+            "en": "2.  Holds that there has been a violation of Article 1 of Protocol No. 1 to the Convention;",
+            "uk": "2.  Постановляє, що було порушено статтю 1 Першого протоколу до Конвенції;"
+        }
+    },
+    {
+        "id": 78,
+        "translation": {
+            "en": "3.  Holds that there is no need to examine the admissibility and merits of the applicant’s complaint under Article 6 of the Convention;",
+            "uk": "3.  Постановляє, що немає необхідності розглядати питання прийнятності та суті скарги заявника за статтею 6 Конвенції;"
+        }
+    },
+    {
+        "id": 79,
+        "translation": {
+            "en": "4.  Holds that, as regards pecuniary damage resulting from the violation found, the question of just satisfaction is not ready for decision and accordingly:",
+            "uk": "4.  Постановляє, що в частині щодо відшкодування матеріальної шкоди внаслідок встановленого порушення питання справедливої сатисфакції не готове для вирішення, а тому:"
+        }
+    },
+    {
+        "id": 80,
+        "translation": {
+            "en": "(a)  reserves the said question;",
+            "uk": "(a)  відкладає розгляд цього питання;"
+        }
+    },
+    {
+        "id": 81,
+        "translation": {
+            "en": "(b)  invites the Government and the applicant to submit, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, their written observations on this question and, in particular, to notify the Court of any agreement that they may reach;",
+            "uk": "(b)  закликає Уряд та заявника упродовж трьох місяців з дати, коли це рішення набуде статусу остаточного відповідно до пункту 2 статті 44 Конвенції, надати свої письмові зауваження з цього питання та, зокрема, повідомити Суд про будь-яку угоду, якої вони можуть досягти;"
+        }
+    },
+    {
+        "id": 82,
+        "translation": {
+            "en": "(c)  reserves the further procedure and delegates to the President of the Chamber the power to fix it if need be;",
+            "uk": "(c)  відкладає подальший розгляд цього питання та делегує Голові палати повноваження вирішити його за необхідності;"
+        }
+    },
+    {
+        "id": 83,
+        "translation": {
+            "en": "5.  Dismisses the remainder of the applicant’s claim for just satisfaction.",
+            "uk": "5.  Відхиляє решту вимог заявника щодо справедливої сатисфакції."
+        }
+    },
+    {
+        "id": 84,
+        "translation": {
+            "en": "Done in English, and notified in writing on 11 July 2019, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+            "uk": "Учинено англійською мовою та повідомлено письмово 11 липня 2019 року відповідно до пунктів 2 та 3 Правила 77 Регламенту Суду."
+        }
+    }
+]

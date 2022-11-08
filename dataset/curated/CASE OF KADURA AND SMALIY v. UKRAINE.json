@@ -1,0 +1,1661 @@
+[
+    {
+        "id": 0,
+        "translation": {
+            "en": "FIFTH SECTION",
+            "uk": "П’ЯТА СЕКЦІЯ"
+        }
+    },
+    {
+        "id": 1,
+        "translation": {
+            "en": "CASE OF KADURA AND SMALIY v. UKRAINE",
+            "uk": "СПРАВА «КАДУРА ТА СМАЛІЙ ПРОТИ УКРАЇНИ»"
+        }
+    },
+    {
+        "id": 2,
+        "translation": {
+            "en": "(Applications nos. 42753/14 and 43860/14)",
+            "uk": "(Заяви № 42753/14 та № 43860/14)"
+        }
+    },
+    {
+        "id": 3,
+        "translation": {
+            "en": "JUDGMENT",
+            "uk": "РІШЕННЯ"
+        }
+    },
+    {
+        "id": 4,
+        "translation": {
+            "en": "Art 3 (procedural and substantive) • Art 5 § 3 • Ill treatment and unjustified detention of the Automaidan movement participant and lawyer defending members of the movement, as part of the authorities’ deliberate strategy to put an end to Maidan protests",
+            "uk": "Ст. 3 (процесуальний та матеріальний аспекти) • П. 3 ст. 5 • Жорстоке поводження та необґрунтоване тримання під вартою учасника руху «Автомайдан» і захисника учасників руху, як частина цілеспрямованої стратегії органів державної влади щодо припинення акцій протесту на Майдані"
+        }
+    },
+    {
+        "id": 5,
+        "translation": {
+            "en": "Art 8 • Respect for private life • Personal search and seizure of telephone and documents of lawyer not in accordance with the law, in absence of safeguards for information subject to legal professional privilege",
+            "uk": "Ст. 8 • Повага до приватного життя • Особистий обшук і вилучення телефону та документів захисника з порушенням законодавства та за відсутності гарантій щодо захисту інформації, яка становить адвокатську таємницю"
+        }
+    },
+    {
+        "id": 6,
+        "translation": {
+            "en": "STRASBOURG",
+            "uk": "СТРАСБУРГ"
+        }
+    },
+    {
+        "id": 7,
+        "translation": {
+            "en": "21 January 2021",
+            "uk": "21 січня 2021 року"
+        }
+    },
+    {
+        "id": 8,
+        "translation": {
+            "en": "FINAL",
+            "uk": "ОСТАТОЧНЕ"
+        }
+    },
+    {
+        "id": 9,
+        "translation": {
+            "en": "21/04/2021",
+            "uk": "21.04.2021"
+        }
+    },
+    {
+        "id": 10,
+        "translation": {
+            "en": "This judgment has become final under Article 44 § 2 of the Convention. It may be subject to editorial revision.",
+            "uk": "Це рішення набуло статусу остаточного відповідно до пункту 2 статті 44 Конвенції. Його текст може підлягати редакційним виправленням."
+        }
+    },
+    {
+        "id": 11,
+        "translation": {
+            "en": "In the case of Kadura and Smaliy v. Ukraine,",
+            "uk": "У справі «Кадура та Смалій проти України»"
+        }
+    },
+    {
+        "id": 12,
+        "translation": {
+            "en": "The European Court of Human Rights (Former Fifth Section), sitting as a Chamber composed of:",
+            "uk": "Європейський суд з прав людини (колишня П’ята секція), засідаючи палатою, до складу якої увійшли:"
+        }
+    },
+    {
+        "id": 13,
+        "translation": {
+            "en": "Síofra O’Leary, President,",
+            "uk": "Сіофра О’Лірі (Síofra O’Leary), Голова,"
+        }
+    },
+    {
+        "id": 14,
+        "translation": {
+            "en": "Yonko Grozev,",
+            "uk": "Йонко Грозєв (Yonko Grozev),"
+        }
+    },
+    {
+        "id": 15,
+        "translation": {
+            "en": "Ganna Yudkivska,",
+            "uk": "Ганна Юдківська (Ganna Yudkivska),"
+        }
+    },
+    {
+        "id": 16,
+        "translation": {
+            "en": "Mārtiņš Mits,",
+            "uk": "Мартіньш Мітс (Mārtiņš Mits),"
+        }
+    },
+    {
+        "id": 17,
+        "translation": {
+            "en": "Gabriele Kucsko-Stadlmayer,",
+            "uk": "Габріеле Куцско-Штадльмайер (Gabriele Kucsko-Stadlmayer),"
+        }
+    },
+    {
+        "id": 18,
+        "translation": {
+            "en": "Lado Chanturia,",
+            "uk": "Ладо Чантурія (Lado Chanturia),"
+        }
+    },
+    {
+        "id": 19,
+        "translation": {
+            "en": "Angelika Nußberger, judges,",
+            "uk": "Ангеліка Нуссбергер (Angelika Nußberger), судді,"
+        }
+    },
+    {
+        "id": 20,
+        "translation": {
+            "en": "and Victor Soloveytchik, Section Registrar,",
+            "uk": "та Віктор Соловейчік (Victor Soloveytchik), Секретар секції,"
+        }
+    },
+    {
+        "id": 21,
+        "translation": {
+            "en": "Having regard to:",
+            "uk": "з огляду на:"
+        }
+    },
+    {
+        "id": 22,
+        "translation": {
+            "en": "the applications (nos. 42753/14 and 43860/14) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by two Ukrainian nationals, Mr Volodymyr Oleksandrovych Kadura (“the first applicant) and Mr Viktor Mykolayovych Smaliy (“the second applicant”), on 3 and 13 June 2014 respectively;",
+            "uk": "заяви (№ 42753/14 та № 43860/14), які 03 та 13 червня 2014 року подали до Суду проти України на підставі статті 34 Конвенції про захист прав людини і основоположних свобод (далі – Конвенція) двоє громадян України, пан Володимир Олександрович Кадура (далі – перший заявник) та пан Віктор Миколайович Смалій (далі – другий заявник) відповідно;"
+        }
+    },
+    {
+        "id": 23,
+        "translation": {
+            "en": "the decision to give notice to the Ukrainian Government (“the Government”) of the applications;",
+            "uk": "рішення повідомити Уряд України (далі – Уряд) про заяви;"
+        }
+    },
+    {
+        "id": 24,
+        "translation": {
+            "en": "the decision to give priority to the applications (Rule 41 of the Rules of Court);",
+            "uk": "рішення надати заявам статус пріоритетних (Правило 41 Регламенту Суду);"
+        }
+    },
+    {
+        "id": 25,
+        "translation": {
+            "en": "the parties’ observations;",
+            "uk": "зауваження сторін;"
+        }
+    },
+    {
+        "id": 26,
+        "translation": {
+            "en": "Having deliberated in private on 7 May 2019 and 9 December 2020,",
+            "uk": "після обговорення за зачиненими дверима 07 травня 2019 року та 09 грудня 2020 року,"
+        }
+    },
+    {
+        "id": 27,
+        "translation": {
+            "en": "Delivers the following judgment, which was adopted on the latter date:",
+            "uk": "постановляє таке рішення, що було ухвалено у той день:"
+        }
+    },
+    {
+        "id": 28,
+        "translation": {
+            "en": "INTRODUCTION",
+            "uk": "ВСТУП"
+        }
+    },
+    {
+        "id": 29,
+        "translation": {
+            "en": "THE FACTS",
+            "uk": "ФАКТИ"
+        }
+    },
+    {
+        "id": 30,
+        "translation": {
+            "en": "2.  The applicants were born in 1982 and 1976 respectively and live in Kyiv. The first applicant was represented by Mr M. Tarakhkalo, Ms A. Martynovska, Ms A. Saliuk, Ms V. Lebid, Ms O. Protsenko and Ms Ie. Kapalkina, lawyers practising in Kyiv, and also by Mr A. Bushchenko, at the material time a lawyer practicing in Kyiv. The second applicant was represented by Ms O. Preobrazhenskaya, a lawyer practising in Strasbourg.",
+            "uk": "2.  Заявники народилися у 1982 та 1976 роках відповідно і проживають у м. Київ. Першого заявника представляли пан М. Тарахкало, пані А. Мартиновська, пані А. Салюк, пані В. Лебідь, пані О. Проценко та пані Є. Капалкіна, юристи, які практикують у м. Київ, а також пан А. Бущенко, на той момент юрист, який практикував у м. Київ. Другого заявника представляла пані О. Преображенська, юрист, яка практикує у м. Страсбург."
+        }
+    },
+    {
+        "id": 31,
+        "translation": {
+            "en": "3.  The Government were represented by their Agent, most recently Mr I. Lishchyna, of the Ministry of Justice.",
+            "uk": "3.  Уряд України представляв його Уповноважений, на останніх етапах провадження пан І. Ліщина з Міністерства юстиції."
+        }
+    },
+    {
+        "id": 32,
+        "translation": {
+            "en": "Events which concern the first applicant, Mr V. Kadura (application no. 42753/14)",
+            "uk": "Події, які стосуються першого заявника, пана В. Кадури (заява № 42753/14)"
+        }
+    },
+    {
+        "id": 33,
+        "translation": {
+            "en": "4.  At the material time, the applicant was an active member of the Automaidan (Автомайдан) movement, which organised car rallies to support the Maidan protesters in various parts of Ukraine, including by protesting in front of the homes of high-ranking officials and bringing supplies to protesters.",
+            "uk": "4.  На момент подій заявник був активним учасником руху «Автомайдан», який організовував автомобільні акції протесту на підтримку протестувальників на Майдані в різних частинах України, в тому числі шляхом пікетування перед приватними будинками високопосадовців і поставок необхідних речей протестувальникам."
+        }
+    },
+    {
+        "id": 34,
+        "translation": {
+            "en": "Mr V. Kadura’s alleged ill-treatment by the police",
+            "uk": "Стверджуване жорстоке поводження працівників міліції з паном В. Кадурою"
+        }
+    },
+    {
+        "id": 35,
+        "translation": {
+            "en": "6.  The applicant spent several hours in the van, where he had the impression he was driven to different areas in Kyiv. While in the van, the applicant was allegedly forced to sit in a position with his head between his knees, and when he raised his head his body was punched.",
+            "uk": "6.  Заявник провів у мікроавтобусі декілька годин, і в нього склалося враження, що його возили різними районами м. Київ. Перебуваючи у мікроавтобусі, заявник був змушений сидіти в положенні з головою між колінами, і коли він підняв голову, його вдарили кулаком."
+        }
+    },
+    {
+        "id": 36,
+        "translation": {
+            "en": "8.  The applicant also alleged that police officers pointed a gun at him while trying to make him sign some documents the content of which he did not understand. He refused to do so.",
+            "uk": "8.  Заявник також стверджував, що працівники міліції направляли на нього пістолет, намагаючись змусити його підписати деякі документи, зміст яких він не розумів. Він відмовився це зробити."
+        }
+    },
+    {
+        "id": 37,
+        "translation": {
+            "en": "9.  Subsequently, the applicant was taken to a hospital and examined by a doctor who noted in his report of 5 December 2013 – a copy of which was submitted to the Court – that the applicant had contusions to the chest and abdomen and a bruise on his face.",
+            "uk": "9.  Згодом заявника доставили до лікарні і його оглянув лікар, який у своєму висновку від 05 грудня 2013 року, копія якого була надана Суду, зазначив, що у заявника було забиття грудної клітки та живота і синці на обличчі."
+        }
+    },
+    {
+        "id": 38,
+        "translation": {
+            "en": "10.   Eventually, the applicant was taken to the Kyiv police detention unit (ізолятор тимчасового тримання – “the ITT”).",
+            "uk": "10.  Зрештою, заявника доставили до ізолятора тимчасового тримання ГУМВС України у м. Києві (далі – ІТТ)."
+        }
+    },
+    {
+        "id": 39,
+        "translation": {
+            "en": "11.  According to the documents submitted by the Government, on 5 December 2013 a police investigator ordered a medical examination of the applicant by a forensic expert in order to detect any injuries on his body and establish the cause of such injuries.",
+            "uk": "11.  Згідно з наданими Урядом документами 05 грудня 2013 року слідчий міліції призначив судово-медичну експертизу заявника для встановлення наявності яких-небудь тілесних ушкоджень на його тілі та причини утворення таких ушкоджень."
+        }
+    },
+    {
+        "id": 40,
+        "translation": {
+            "en": "12.  In the expert’s report issued in January 2014, it was noted that the applicant had refused to undergo such an examination on 10 December 2013, and that on 6 January 2014 the investigator had informed the expert that after his arrest on 5 December 2013 the applicant had not complained of ill-treatment. The expert concluded that it was not possible to carry out the examination ordered by the investigator. The report does not contain the applicant’s signature or handwriting.",
+            "uk": "12.  У висновку експерта, складеному у січні 2014 року, було зазначено, що заявник відмовився проходити таку експертизу \n10 грудня 2013 року, а 06 січня 2014 року слідчий повідомив експерта, що після його затримання 05 грудня 2013 року заявник не скаржився на жорстоке поводження. Експерт дійшов висновку про неможливість проведення призначеної слідчим експертизи. Висновок не містить підпису та написаного заявником від руки тексту."
+        }
+    },
+    {
+        "id": 41,
+        "translation": {
+            "en": "13.  The applicant stated that he had not been informed of the examination ordered by the investigator, and denied having refused to undergo it.",
+            "uk": "13.  Заявник зазначив, що його не було повідомлено про експертизу, призначену слідчим, і заперечив, що він відмовився її проходити."
+        }
+    },
+    {
+        "id": 42,
+        "translation": {
+            "en": "14.  On 6 December 2013 the applicant was taken to the Shevchenkivskyy District Court to take part in the hearing concerning his detention (see paragraph 29 below). At some point between the applicant’s arrest and the detention hearing three lawyers, apparently lawyers of the applicant’s choice, started representing him.",
+            "uk": "14.  06 грудня 2013 року заявника було доставлено до Шевченківського районного суду для участі у засіданні щодо обрання йому запобіжного заходу у вигляді тримання під вартою (див. пункт 29). На певному етапі між затриманням заявника та судовим засіданням щодо обрання йому запобіжного заходу його інтереси почали представляти троє захисників, вочевидь вибраних ним на власний розсуд."
+        }
+    },
+    {
+        "id": 43,
+        "translation": {
+            "en": "15.  According to the applicant, during the detention hearing one of his lawyers complained orally to the court of his ill-treatment on 5 December 2013, but the judge ignored that complaint.",
+            "uk": "15.  Згідно з твердженнями заявника під час засідання щодо обрання йому запобіжного заходу один із його захисників усно поскаржився у суді на жорстоке поводження із заявником 05 грудня 2013 року, проте суддя проігнорував цю скаргу."
+        }
+    },
+    {
+        "id": 44,
+        "translation": {
+            "en": "17.  The Government stated that the authorities had received no complaint of the applicant’s ill-treatment prior to 20 June 2014.",
+            "uk": "17.  Уряд зазначив, що до 20 червня 2014 року до органів державної влади не надходило жодних скарг щодо жорстокого поводження із заявником."
+        }
+    },
+    {
+        "id": 45,
+        "translation": {
+            "en": "18.  On 7 December 2013 the applicant was taken to the Kyiv Pre-Trial Detention Centre (слідчий ізолятор – “the SIZO”). Upon his arrival he was examined by a paramedic, who noted in a report of the same date that the applicant had a bruise on his face and also chest and abdominal contusions, and that the applicant had stated that he had received those injuries in the course of his arrest. On 24 January 2014 the applicant was released from detention (see paragraph 33 below).",
+            "uk": "18.  07 грудня 2013 року заявника доставили до Київського слідчого ізолятора (далі – СІЗО). Після прибуття його оглянув терапевт, який зазначив у записі тією ж датою про наявність у заявника синців на обличчі, а також забою грудної клітки та живота, і твердження заявника, що він отримав ці тілесні ушкодження під час затримання. \n24 січня 2014 року заявника було звільнено з-під варти (див. пункт 33)."
+        }
+    },
+    {
+        "id": 46,
+        "translation": {
+            "en": "20.  On 20 June and 14 July 2014 the applicant lodged two complaints with the Kyiv prosecutor’s office, alleging that he had been ill-treated by the police on 5 December 2013. According to the Government, on 8 July and 20 August 2014 the prosecutor’s office refused to start a criminal investigation in respect of those complaints. According to the applicant, he was not informed of those decisions. The parties submitted no copies of the relevant documents.",
+            "uk": "20.  20 червня та 14 липня 2014 року заявник звернувся до прокуратури міста Києва з двома скаргами, стверджуючи, що \n05 грудня 2013 року працівники міліції піддали його жорстокому поводженню. Згідно з твердженнями Уряду 08 липня та 20 серпня \n2014 року прокуратура винесла постанови про відмову у порушенні кримінального провадження за цими скаргами. Згідно з твердженнями заявника він не був поінформований про ці постанови. Сторони не надали копій відповідних документів."
+        }
+    },
+    {
+        "id": 47,
+        "translation": {
+            "en": "21.   In December 2016, having learned about the decisions of 8 July and 20 August 2014 from the Government’s observations of 18 July 2016, the applicant lodged a new complaint with the Prosecutor-General’s Office (PGO) in which he raised his complaints of ill-treatment as set out above (see paragraphs 5-8 above). He was given no information concerning any decision taken in that regard. The Government did not comment on these developments.",
+            "uk": "21.  У грудні 2016 року, дізнавшись про постанови від 08 липня та 20 серпня 2014 року із зауважень Уряду від 18 липня 2016 року, заявник звернувся до Генеральної прокуратури України (далі – ГПУ) з новою скаргою, в якій він висунув свої скарги на зазначене жорстоке поводження (див. пункти 5 – 8). Він не отримав жодної інформації про винесення будь-яких постанов у зв’язку з цим. Уряд не прокоментував ці події."
+        }
+    },
+    {
+        "id": 48,
+        "translation": {
+            "en": "Decisions relating to Mr V. Kadura’s detention and the criminal proceedings against him",
+            "uk": "Рішення щодо обрання пану В. Кадурі запобіжного заходу у вигляді тримання під вартою та кримінальне провадження щодо нього"
+        }
+    },
+    {
+        "id": 49,
+        "translation": {
+            "en": "22.  On 1 December 2013 the police started a criminal investigation into suspected abuses against the police committed by protesters in the course of the protests in the area adjacent to the Presidential Administration building on that date.",
+            "uk": "22.  01 грудня 2013 року працівники міліції порушили кримінальне провадження за підозрою у вчиненні протестувальниками протиправних дій проти працівників міліції під час акцій протесту на території, прилеглій до будівлі Адміністрації Президента України цього дня."
+        }
+    },
+    {
+        "id": 50,
+        "translation": {
+            "en": "23.  On 4 December 2013 a police investigator submitted to the Shevchenkivskyy District Court an application for authorisation of the applicant’s arrest as he was suspected of vehicle hijacking, mass disorder and assault against lawenforcement officials.",
+            "uk": "23.  04 грудня 2013 року слідчий міліції подав до Шевченківського районного суду клопотання про дозвіл на затримання заявника, оскільки його підозрювали у викраденні транспортного засобу, вчиненні масових заворушень та нападі на працівників правоохоронних органів."
+        }
+    },
+    {
+        "id": 51,
+        "translation": {
+            "en": "24.  In particular, the applicant was suspected of hijacking a loader and using it in an attempt to murder the police officers who had been involved in the public-order operation near the Presidential Administration building on 1 December 2013.",
+            "uk": "24.  Зокрема, заявника підозрювали у викраденні навантажувача та його використанні під час спроби вбивства працівників міліції, які брали участь в операції з охорони громадського порядку біля будівлі Адміністрації Президента України 01 грудня 2013 року."
+        }
+    },
+    {
+        "id": 52,
+        "translation": {
+            "en": "25.  The suspicion was allegedly based on a criminal complaint of a Mr K., the loader’s operator, who had stated that on 1 December 2013 he had been driving the loader near the Presidential Administration building, when several unknown individuals had forced him to leave the vehicle and had stolen the keys to it.",
+            "uk": "25.  Підозра, як стверджувалося, ґрунтувалася на заяві про злочин пана К., машиніста навантажувача, який зазначив, що 01 грудня \n2013 року він керував навантажувачем біля будівлі Адміністрації Президента України, коли декілька невідомих осіб змусили його залишити транспортний засіб і вкрали у нього ключі."
+        }
+    },
+    {
+        "id": 53,
+        "translation": {
+            "en": "26.  According to the investigator, in the course of the criminal proceedings, K. and two of his colleagues had been questioned by the police and had identified a man on a photograph shown to them as one of the individuals who had hijacked the vehicle. Also, several video-recordings of the events at issue, which had been examined by the police, had contained an image of those individuals. The police had identified one of those individuals as the applicant.",
+            "uk": "26.  Згідно з твердженнями слідчого під час кримінального провадження були допитані К. і двоє його колег та встановлено особу чоловіка на фотографії, яку їм показали, якого вони опізнали як одного з викрадачів транспортного засобу. Крім того, декілька відеозаписів відповідних подій, які були досліджені працівниками міліції, містили зображення цих осіб. Працівники міліції встановили, що одним із цих осіб був заявник."
+        }
+    },
+    {
+        "id": 54,
+        "translation": {
+            "en": "27.  The investigator finally stated that the applicant might evade and hinder the criminal proceedings against him, as he had failed to appear when summoned. The investigator gave no further details in that regard.",
+            "uk": "27.  Насамкінець, слідчий зазначив, що заявник міг ухилятися та перешкоджати кримінальному провадженню щодо нього, оскільки він не з’явився за викликом. Слідчий не надав більш детальної інформації у зв’язку з цим."
+        }
+    },
+    {
+        "id": 55,
+        "translation": {
+            "en": "28.  On 5 December 2013 Judge B. of the Shevchenkivskyy District Court authorised the applicant’s arrest with reference to the evidence summarised above. The applicant was arrested on the basis of that court decision.",
+            "uk": "28.  05 грудня 2013 року суддя Б. Шевченківського районного суду надав дозвіл на затримання заявника з посиланням на наведені докази. Заявника затримали на підставі цієї ухвали суду."
+        }
+    },
+    {
+        "id": 56,
+        "translation": {
+            "en": "29.  On 6 December 2013, at the hearing in relation to his continued detention, the applicant denied having committed the crimes of which he was suspected and stated that he lived at the address where he was registered but had never been summoned to appear before the investigator.",
+            "uk": "29.  06 грудня 2013 року у судовому засіданні щодо обрання заявнику запобіжного заходу у вигляді тримання під вартою заявник заперечив вчинення злочинів, в яких його підозрювали, та зазначив, що проживав за адресою, за якою був зареєстрований, і його ніколи не викликали до слідчого."
+        }
+    },
+    {
+        "id": 57,
+        "translation": {
+            "en": "31.  On 10 December 2013 the applicant’s lawyer appealed, arguing insufficient grounds for the applicant’s continued detention and, in particular, that there had been no evidence of guilt.",
+            "uk": "31.  10 грудня 2013 року захисник заявника подав апеляційну скаргу, стверджуючи про відсутність достатніх підстав для тримання заявника під вартою і, зокрема, доказів вини."
+        }
+    },
+    {
+        "id": 58,
+        "translation": {
+            "en": "32.  On 17 December 2013 the Kyiv Court of Appeal upheld the decision of 6 December 2013, finding no procedural irregularities.",
+            "uk": "32.  17 грудня 2013 року Апеляційний суд міста Києва залишив без змін ухвалу від 06 грудня 2013 року, не встановивши жодних процесуальних порушень."
+        }
+    },
+    {
+        "id": 59,
+        "translation": {
+            "en": "33.  On 24 January 2014, relying on the Amnesty Law of 19 December 2013, as amended on 16 January 2014, the Shevchenkivskyy District Court discontinued the criminal proceedings in so far as they concerned the applicant, and released him from detention. No copy of that decision was provided to the Court.",
+            "uk": "33.  24 січня 2014 року, посилаючись на Закон України «Про усунення негативних наслідків та недопущення переслідування та покарання осіб з приводу подій, які мали місце під час проведення мирних зібрань» від 19 грудня 2013 року зі змінами, внесеними \n16 січня 2014 року, Шевченківський районний суд закрив кримінальне провадження у частині щодо заявника та звільнив його з-під варти. Суду не було надано копії цієї ухвали."
+        }
+    },
+    {
+        "id": 60,
+        "translation": {
+            "en": "34.  On 11 April 2014 the Shevchenkivskyy District Court, on application from the prosecutor’s office, set aside the decision of 24 January 2014 in light of “newly discovered circumstances”; pointing out that the relevant proceedings had been discontinued on 28 February 2014 by the prosecutor’s office on the grounds that no sufficient evidence of guilt had been found and the means of collecting evidence had been exhausted. No appeal was lodged and the decision became final.",
+            "uk": "34.  11 квітня 2014 року Шевченківський районний суд за клопотанням прокуратури скасував ухвалу від 24 січня 2014 року з огляду на «нововиявлені обставини»; вказавши, що відповідне провадження було закрито 28 лютого 2014 року прокуратурою у зв’язку з відсутністю достатніх доказів вини та вичерпанням засобів збору доказів. Апеляційна скарга не подавалася, і ухвала набрала законної сили."
+        }
+    },
+    {
+        "id": 61,
+        "translation": {
+            "en": "Search and seizure",
+            "uk": "Обшук і вилучення"
+        }
+    },
+    {
+        "id": 62,
+        "translation": {
+            "en": "35.  On 5 December 2013 the police searched the applicant’s car and seized a number of his personal belongings. The next day the police searched his house and, in the course of that search, they also seized a number of objects as well as cash. The searches were conducted on the basis of warrants issued on the same day by the Shevchenkivskyy District Court.",
+            "uk": "35.  05 грудня 2013 року працівники міліції здійснили обшук автомобіля заявника та вилучили низку його особистих речей. Наступного дня працівники міліції обшукали його будинок, і під час цього обшуку також вилучили низку предметів, а також готівкові кошти. Обшуки проводилися на підставі ухвал, постановлених того дня Шевченківським районним судом."
+        }
+    },
+    {
+        "id": 63,
+        "translation": {
+            "en": "Disciplinary proceedings against the judge who dealt with the applicant’s case",
+            "uk": "Дисциплінарне провадження щодо судді, який розглядав справу заявника"
+        }
+    },
+    {
+        "id": 64,
+        "translation": {
+            "en": "38.  The TSC recommended to the High Council of Justice (HCJ, see Shmorgunov and Others, cited above, §§ 226 and 227) that the judge be dismissed for irregularities in the course of examination of the applicant’s case, which the TSC considered amounted to a breach of the judicial oath.",
+            "uk": "38.  ТСК рекомендувала Вищій раді юстиції (далі – ВРЮ, див. згадане рішення у справі «Шморгунов та інші проти України» (Shmorgunov and Others v. Ukraine), пункти 226 та 227) звільнити суддю за допущені під час розгляду справи заявника порушення, які, як вважала ТСК, становили порушення присяги судді."
+        }
+    },
+    {
+        "id": 65,
+        "translation": {
+            "en": "39.  On 3 December 2015 the HCJ agreed with the TSC’s findings that certain irregularities had occurred but did not agree that they had amounted to a breach of oath meriting dismissal. It remitted the case to the Qualification Commission of Judges for a decision as to whether any other disciplinary sanction had to be imposed. No information on any further proceedings was provided to the Court.",
+            "uk": "39.  03 грудня 2015 року ВРЮ погодилася з висновками TСК, що були допущені певні порушення, але не погодилася, що вони становили порушення присяги, яке вимагало б звільнення. ВРЮ передала справу до Вищої кваліфікаційної комісії суддів України для прийняття рішення, чи потрібно було накладати яке-небудь інше дисциплінарне стягнення. Суду не було надано жодної інформації щодо подальшого провадження."
+        }
+    },
+    {
+        "id": 66,
+        "translation": {
+            "en": "Events which concern the second applicant, Mr V. Smaliy (application no. 43860/14)",
+            "uk": "Події, які стосуються другого заявника, пана В. Смалія (заява № 43860/14)"
+        }
+    },
+    {
+        "id": 67,
+        "translation": {
+            "en": "The applicant’s arrest, detention and alleged ill-treatment by the police",
+            "uk": "Затримання, тримання під вартою заявника та стверджуване жорстоке поводження з ним працівників міліції"
+        }
+    },
+    {
+        "id": 68,
+        "translation": {
+            "en": "41.  In December 2013 the applicant, Mr V. Smaliy, a lawyer practising in Kyiv, represented Mr A. Dzyndzya, one of the organisers of the Automaidan movement, in a criminal case relating to the Automaidan rallies.",
+            "uk": "41.  У грудні 2013 року заявник, пан В. Смалій, юрист, який практикує у м. Київ, представляв пана А. Дзиндзу, одного з організаторів руху «Автомайдан», у кримінальному проваджені стосовно мітингів «Автомайдану»."
+        }
+    },
+    {
+        "id": 69,
+        "translation": {
+            "en": "42.  On 6 December 2013 the police started criminal proceedings against the applicant, suspecting him of having verbally abused and attempting to hit a judge of the Shevchenkivskyy District Court during a hearing concerning his client’s detention. At the time, the applicant was not informed of those proceedings.",
+            "uk": "42.  06 грудня 2013 року міліція порушила кримінальне провадження щодо заявника, підозрюючи його у висловленні усних образ і спробі вдарити суддю Шевченківського районного суду під час засідання щодо тримання під вартою його клієнта. На той момент заявник не був поінформований про це провадження."
+        }
+    },
+    {
+        "id": 70,
+        "translation": {
+            "en": "43.  On 9 December 2013 the applicant went to the Kyiv Central Police Department for the Fight against Organised Crime as a representative of another client who was there. At about 3 p.m. on that date the police arrested the applicant and allegedly beat him. He allegedly received numerous blows to the head, face and body and the police also stepped on his fingers several times.",
+            "uk": "43.  09 грудня 2013 року заявник поїхав до Головного управління по боротьбі з організованою злочинністю у м. Київ як представник іншого клієнта, який там знаходився. Близько 15 год 00 хв цього дня працівники міліції затримали заявника та нібито побили його. Він, як стверджувалося, отримав численні удари в голову, обличчя та тіло, і також працівники міліції декілька разів наступили на його пальці."
+        }
+    },
+    {
+        "id": 71,
+        "translation": {
+            "en": "44.  The police searched the applicant and seized the documents in his possession and a mobile telephone (see paragraph 67 below).",
+            "uk": "44.  Працівники міліції здійснили особистий обшук заявника та вилучили документи, які були в нього із собою, та мобільний телефон (див. пункт 67)."
+        }
+    },
+    {
+        "id": 72,
+        "translation": {
+            "en": "45.  According to the applicant, he was then handcuffed and thrown onto the floor of a police van, where he was forced to remain lying with his face down while he was taken to the Kyiv ITT. Because of this, he started to experience shortness of breath.",
+            "uk": "45.  Згідно з твердженнями заявника йому одягли наручники і кинули на підлогу мікроавтобуса міліції, де його змусили лежати обличчям вниз, поки його везли до Київського ІТТ. Через це він почав задихатися."
+        }
+    },
+    {
+        "id": 73,
+        "translation": {
+            "en": "46.  At about 6.40 p.m. the applicant arrived at the Kyiv ITT, where he was medically examined and found to have numerous haematomas on the trunk of his body, head, limbs and fingers.",
+            "uk": "46.  Близько 18 год 40 хв заявник прибув до Київського ІТТ, де його обстежили та виявили численні синці на тулубі, голові, кінцівках і пальцях."
+        }
+    },
+    {
+        "id": 74,
+        "translation": {
+            "en": "47.  An ambulance was called for the applicant, and at about 8 p.m. he was taken to Kyiv Emergency Hospital, where doctors found that he had dystonia and numerous haematomas on the trunk of his body, head and limbs.",
+            "uk": "47.  Заявнику викликали швидку медичну допомогу, і близько \n20 год 00 хв його доставили до Київської міської клінічної лікарні швидкої медичної допомоги, де лікарі виявили, що у нього була дистонія та численні синці на тулубі, голові та кінцівках."
+        }
+    },
+    {
+        "id": 75,
+        "translation": {
+            "en": "48.  On his return to the ITT, at about 11.55 p.m. a lawyer was allowed to meet with the applicant.",
+            "uk": "48.  Після повернення до ІТТ близько 23 год 55 хв захиснику було дозволено побачитися із заявником."
+        }
+    },
+    {
+        "id": 76,
+        "translation": {
+            "en": "49.  On 10 December 2013 the lawyer lodged a habeas corpus application with the Dniprovskyy District Court in Kyiv, seeking the applicant’s release and complaining that he had been arrested and detained unlawfully, that he had been ill-treated by the police in the course of his arrest, and pointing out that the Code of Criminal Procedure required, in case of such complaints of ill-treatment, that the court order a forensic medical examination and investigation in that regard.",
+            "uk": "49.  10 грудня 2013 року захисник звернувся до Дніпровського районного суду міста Києва із клопотанням habeas corpus, вимагаючи звільнити заявника. Він поскаржився, що заявник був незаконно затриманий та тримався під вартою, що під час затримання з ним жорстоко поводилися працівники міліції, а також вказав, що Кримінальний процесуальний кодекс України передбачав у випадку висунення таких скарг на жорстоке поводження призначення судом судово-медичної експертизи та проведення розслідування у зв’язку з цим."
+        }
+    },
+    {
+        "id": 77,
+        "translation": {
+            "en": "51.  On 11 December 2013 the District Court ordered the applicant’s continued detention on remand on grounds that he was suspected of a serious crime, that the suspicion had an evidential basis and that there was a danger of him absconding, influencing witnesses or obstructing the investigation. That decision was upheld on appeal and on 6 February 2014 the District Court extended the applicant’s detention on similar grounds.",
+            "uk": "51.  11 грудня 2013 року районний суд обрав заявнику запобіжний захід у вигляді тримання під вартою на підставі підозри у вчиненні ним тяжкого злочину, що підозра ґрунтувалася на доказах та існувала небезпека його переховування, впливу на свідків або перешкоджання розслідуванню. Ця ухвала була залишена без змін в апеляційному порядку, і 06 лютого 2014 року районний суд продовжив строк тримання заявника під вартою на подібних підставах."
+        }
+    },
+    {
+        "id": 78,
+        "translation": {
+            "en": "52.  On the same day the applicant underwent a forensic medical examination, apparently at the Kyiv SIZO (see paragraph 72 below). The medical expert noted that the applicant had various haematomas on the trunk of his body, head, limbs and fingers which had been caused by “blunt objects” around one to three days before his examination. Those injuries were classified as minor.",
+            "uk": "52.  Того ж дня заявник пройшов судово-медичну експертизу, очевидно, у Київському СІЗО (див. пункт 72). Судово-медичний експерт зазначив, що у заявника були різні синці на тулубі, голові, кінцівках і пальцях, які були спричинені «тупими предметами» приблизно за один – три дні до його обстеження. Ці тілесні ушкодження були кваліфіковані як легкі."
+        }
+    },
+    {
+        "id": 79,
+        "translation": {
+            "en": "Termination of the criminal proceedings against the applicant",
+            "uk": "Закриття кримінального провадження щодо заявника"
+        }
+    },
+    {
+        "id": 80,
+        "translation": {
+            "en": "53.  On 23 February 2014 the Dniprovskyy District Court, following an application from the prosecutor’s office, released the applicant on the grounds that the acts of which he was suspected had been decriminalised by the Amnesty Law of 21 February 2014.",
+            "uk": "53.  23 лютого 2014 року Дніпровський районний суд за заявою прокуратури звільнив заявника на підставі, що злочинність і караність дій, у вчиненні яких він підозрювався, була усунута Законом України «Про недопущення переслідування та покарання осіб з приводу подій, які мали місце під час проведення мирних зібрань, та визнання такими, що втратили чинність, деяких законів України» від 21 лютого \n2014 року."
+        }
+    },
+    {
+        "id": 81,
+        "translation": {
+            "en": "55.  On 26 February 2014 the criminal proceedings against the applicant were discontinued for absence of the elements of a crime in his actions, with reference to the Resolution of 24 February 2014.",
+            "uk": "55.  26 лютого 2014 року кримінальне провадження щодо заявника було закрито у зв’язку з відсутністю у його діях складу злочину з посиланням на Постанову від 24 лютого 2014 року."
+        }
+    },
+    {
+        "id": 82,
+        "translation": {
+            "en": "56.  On 26 November 2016 the applicant submitted applications to the Dniprovskyy District Court and the Dniprovskyy police department in Kyiv for compensation for pecuniary and non-pecuniary damage resulting from his allegedly unlawful prosecution and detention. He provided no information about the outcome of those applications to the Court.",
+            "uk": "56.  26 листопада 2016 року заявник звернувся до Дніпровського районного суду та Дніпровського районного управління міліції у м. Києві із заявами про відшкодування матеріальної та моральної шкоди у зв’язку з незаконним притягненням його до відповідальності та затриманням. Він не надав Суду жодної інформації про результат розгляду цих заяв."
+        }
+    },
+    {
+        "id": 83,
+        "translation": {
+            "en": "Investigation into the applicant’s complaints of ill-treatment",
+            "uk": "Розслідування скарг заявника на жорстоке поводження"
+        }
+    },
+    {
+        "id": 84,
+        "translation": {
+            "en": "57.  On 27 December 2013 the Kyiv prosecutor’s office initiated criminal proceedings into the applicant’s alleged ill-treatment on 9 December 2013.",
+            "uk": "57.  27 грудня 2013 року прокуратура міста Києва порушила кримінальне провадження за фактом стверджуваного жорстокого поводження із заявником 09 грудня 2013 року."
+        }
+    },
+    {
+        "id": 85,
+        "translation": {
+            "en": "58.  According to the information note issued by the Kyiv prosecutor’s office on 25 April 2014, the investigators obtained all the necessary medical documents concerning the applicant’s injuries and questioned him and five police officers as witnesses on unspecified dates.",
+            "uk": "58.  Згідно з інформаційною довідкою, складеною прокуратурою міста Києва 25 квітня 2014 року, слідчі отримали всі необхідні медичні документи щодо тілесних ушкоджень заявника та допитали його та п’ятьох працівників міліції як свідків у невказані дати."
+        }
+    },
+    {
+        "id": 86,
+        "translation": {
+            "en": "59.  On 8 August 2014 the case was transferred to the Kyiv Oblast prosecutor’s office for further investigation.",
+            "uk": "59.  08 серпня 2014 року справу направили до Київської обласної прокуратури для подальшого розслідування."
+        }
+    },
+    {
+        "id": 87,
+        "translation": {
+            "en": "60.  In February 2015 the investigators identified several police officers from the “Sokil” special unit and the Kyiv Central Police Department for the Fight against Organised Crime who had arrested the applicant on 9 December 2013. Some of them were questioned and denied having illtreated him.",
+            "uk": "60.  У лютому 2015 року слідчі встановили декількох працівників спецпідрозділу міліції «Сокіл» і Головного управління по боротьбі з організованою злочинністю у м. Київ, які затримали заявника \n09 грудня 2013 року. Деякі з них були допитані та заперечили факт жорстокого поводження із заявником."
+        }
+    },
+    {
+        "id": 88,
+        "translation": {
+            "en": "61.  On 17 February 2015 a notification of suspicion was issued in respect of three police officers from the Sokil unit, mainly in relation to charges of abuse of power and knowingly falsely reporting a crime as regards the applicant (Article 365 § 2, Article 383 § 2 and Article 384 § 2 of CC). No copy of that document was submitted to the Court.",
+            "uk": "61.  17 лютого 2015 року було складено повідомлення про підозру стосовно трьох працівників спецпідрозділу міліції «Сокіл», головним чином у зв’язку з обвинуваченнями у зловживанні службовим становищем і завідомо неправдивим повідомленням про вчинення злочину заявником (частина друга статті 365, частина друга статті 383 та частина друга статті 384 Кримінального кодексу України). Суду не було надано копії цього документа."
+        }
+    },
+    {
+        "id": 89,
+        "translation": {
+            "en": "62.  By decisions of 18 February and 2 and 19 March 2015 the Pecherskyy District Court of Kyiv and the Kyiv Court of Appeal refused applications for the arrest of those suspects. No copy of those decisions was provided to the Court.",
+            "uk": "62.  Рішеннями від 18 лютого, 02 та 19 березня 2015 року Печерський районний суд міста Києва та Апеляційний суд міста Києва відмовили у задоволенні клопотань про затримання цих підозрюваних. Суду не було надано копій цих рішень."
+        }
+    },
+    {
+        "id": 90,
+        "translation": {
+            "en": "63.  According to a letter from the PGO of 9 February 2016 sent to the office of the Government’s Agent, the investigation was suspended on several occasions, as the suspects could not be found from April 2015 onwards.",
+            "uk": "63.  Відповідно до листа ГПУ від 09 лютого 2016 року, надісланого до Секретаріату Урядового уповноваженого у справах Європейського суду з прав людини, слідство декілька разів зупинялося, оскільки з квітня 2015 року підозрюваних не вдавалося знайти."
+        }
+    },
+    {
+        "id": 91,
+        "translation": {
+            "en": "64.  In October 2016 the applicant lodged complaints with the Pecherskyy District Court and the PGO, challenging the inactivity of the Kyiv Oblast prosecutor’s office. No reply was given to his complaints.",
+            "uk": "64.  У жовтні 2016 року заявник звернувся до Печерського районного суду та ГПУ зі скаргами на бездіяльність Київської обласної прокуратури. Відповіді на його скарги надано не було."
+        }
+    },
+    {
+        "id": 92,
+        "translation": {
+            "en": "65.  The parties have not informed the Court of any further developments in that regard.",
+            "uk": "65.  Сторони не повідомили Суд про будь-які подальші зміни щодо цього."
+        }
+    },
+    {
+        "id": 93,
+        "translation": {
+            "en": "66.  According to the information published on the PGO’s dedicated website, on 1 April 2017 the proceedings against three unidentified suspects in the applicant’s case were terminated for lack of evidence of their guilt. The investigations concerning the applicant’s alleged ill-treatment were being pursued further.",
+            "uk": "66.  Згідно з інформацією, опублікованою на спеціальному вебсайті ГПУ, 01 квітня 2017 року провадження щодо трьох невстановлених підозрюваних у справі заявника було закрито у зв’язку з відсутністю доказів їхньої вини. Розслідування щодо стверджуваного жорстокого поводження із заявником тривало."
+        }
+    },
+    {
+        "id": 94,
+        "translation": {
+            "en": "Search and seizure of the applicant’s belongings",
+            "uk": "Обшук і вилучення речей заявника"
+        }
+    },
+    {
+        "id": 95,
+        "translation": {
+            "en": "68.  On 14 December 2013 the investigator returned the seized items other than the telephone to the applicant’s lawyer.",
+            "uk": "68.  14 грудня 2013 року слідчий повернув захиснику заявника всі вилучені речі, крім телефону."
+        }
+    },
+    {
+        "id": 96,
+        "translation": {
+            "en": "70.  According to the applicant, the telephone was not returned to him.",
+            "uk": "70.  Згідно з твердженнями заявника телефон йому так і не повернули."
+        }
+    },
+    {
+        "id": 97,
+        "translation": {
+            "en": "71.  According to the Government, the investigation into the applicant’s ill-treatment by the police (see paragraph 57 above) also concerned the applicant’s complaints of the unlawful search, seizure and retention of his belongings.",
+            "uk": "71.  Згідно з твердженнями Уряду розслідування жорстокого поводження працівників міліції (див. пункт 57) також стосувалося скарг заявника на незаконні обшуки, вилучення та утримання його речей."
+        }
+    },
+    {
+        "id": 98,
+        "translation": {
+            "en": "Conditions of the applicant’s detention",
+            "uk": "Умови тримання заявника під вартою"
+        }
+    },
+    {
+        "id": 99,
+        "translation": {
+            "en": "72.  On 11 December 2013 the applicant was taken to the Kyiv SIZO, where he was examined by a paramedic who noted that he had dystonia, contusion to the abdomen, and numerous haematomas on the trunk of his body, head and limbs.",
+            "uk": "72.  11 грудня 2013 року заявника доставили до Київського СІЗО, де його оглянув терапевт, який зазначив, що у нього була дистонія, забій живота та численні синці на тулубі, голові та кінцівках."
+        }
+    },
+    {
+        "id": 100,
+        "translation": {
+            "en": "73.  From 12 December 2013 to 19 February 2014 the applicant was examined by doctors on four occasions. On two of those occasions he was found not to be suffering from any acute pathology. On two others it was noted that he had acute chronic obstructive pulmonary disease, chronic pancreatitis, biliary dyskinesia and intercostal neuralgia. The applicant was given medication. According to the relevant medical records, subsequently the applicant’s state of health improved and was considered satisfactory.",
+            "uk": "73.  У період з 12 грудня 2013 року до 19 лютого 2014 року заявника чотири рази оглядали лікарі. У двох з цих випадків було встановлено, що у нього не було жодної гострої патології. Інші два рази зазначалося, що у нього було хронічне обструктивне захворювання легень на стадії загострення, хронічний панкреатит, дискінезія жовчних шляхів і міжреберна невралгія. Заявнику були надані медичні препарати. Згідно з відповідними медичними записами згодом стан здоров’я заявника покращився і вважався задовільним."
+        }
+    },
+    {
+        "id": 101,
+        "translation": {
+            "en": "74.  During his detention in the Kyiv SIZO the applicant was placed consecutively in three cells, measuring between 8.6 and 9 square metres. He did not provide information as to how many prisoners were held with him and during which periods. The applicant submitted that the conditions in the cell were unhygienic and that it was subject to video surveillance. He complained in that respect to the prison authorities but they rejected his allegations.",
+            "uk": "74.  Під час тримання під вартою у Київському СІЗО заявника послідовно поміщали до трьох камер площею від 8,6 до 9 квадратних метрів. Він не надав інформації, скільки ув’язнених трималося разом з ним і протягом яких періодів. Заявник стверджував, що в камері були антисанітарні умови та за ним велося відеоспостереження. Він скаржився на це до адміністрації ізолятора, але вона заперечила його твердження."
+        }
+    },
+    {
+        "id": 102,
+        "translation": {
+            "en": "RELEVANT LEGAL FRAMEWORK AND PRACTICE",
+            "uk": "ВІДПОВІДНА нормативно-правова база ТА ІНШІ документи"
+        }
+    },
+    {
+        "id": 103,
+        "translation": {
+            "en": "77.  Section 23(2) of the Bar Act of 2012 requires the presence of a representative of the regional Bar Council during searches of licenced advocates’ homes and premises used by advocates for their professional activities.",
+            "uk": "77.  Частина друга статті 23 Закону України «Про адвокатуру та адвокатську діяльність» 2012 року вимагає присутності представника ради адвокатів регіону під час обшуків житла і приміщень, де адвокат здійснює свою адвокатську діяльність."
+        }
+    },
+    {
+        "id": 104,
+        "translation": {
+            "en": "78.  The relevant extracts from the International Advisory Panel’s report read as follows (emphasis added by the panel, references omitted):",
+            "uk": "78.  У відповідних витягах зі звіту Міжнародної дорадчої групи зазначено (виділення в тексті додано МДГ, посилання опущено):"
+        }
+    },
+    {
+        "id": 105,
+        "translation": {
+            "en": "“5.  Investigations by the Kyiv City Prosecutors Office (EuroMaidan investigations)",
+            "uk": "«5.  Розслідування, проведене Київською міською прокуратурою (розслідування справ Євромайдану)"
+        }
+    },
+    {
+        "id": 106,
+        "translation": {
+            "en": "(b) The AutoMaidan proceedings",
+            "uk": "(b) Провадження щодо «Автомайдану»"
+        }
+    },
+    {
+        "id": 107,
+        "translation": {
+            "en": "321. The PGO informed the Panel that approximately 500 complaints of, inter alia, false prosecutions, illegal detention and ill-treatment had been registered and were being investigated. The suspects were law enforcement officers and judges.",
+            "uk": "321. ГПУ поінформувала МДГ, що було зареєстровано та розслідуються близько 500 скарг, зокрема, на незаконне притягнення до відповідальності, незаконне тримання під вартою та жорстоке поводження. Підозрюваними були працівники правоохоронних органів і судді."
+        }
+    },
+    {
+        "id": 108,
+        "translation": {
+            "en": "322. On 22 October 2014 members of AutoMaidan protested in front of the PGO’s office about the lack of progress in this investigation. The only substantial information from the PGO in relation to this investigation was received by the Panel in December 2014.",
+            "uk": "322. 22 жовтня 2014 року учасники «Автомайдану» протестували перед будівлею ГПУ через відсутність прогресу в цьому розслідуванні. Єдину суттєву інформацію стосовно цього розслідування МДГ отримала від ГПУ у грудні \n2014 року."
+        }
+    },
+    {
+        "id": 109,
+        "translation": {
+            "en": "323. While one [Ministry of the Interior] official had been notified of suspicion in September 2014, approximately 30 traffic police and a Berkut officer were notified of suspicion of AutoMaidan-related crimes in October and November 2014. One of the notices of suspicion served on a traffic police officer was dated 7 March 2014.",
+            "uk": "323. Тоді як одній з посадових осіб [МВС України] було повідомлено про підозру у вересні 2014 року, близько 30 працівників ДАІ та представники «Беркут» було повідомлено про підозру у вчиненні злочинів проти «Автомайдану» у жовтні та листопаді 2014 року. Одне з повідомлень про підозру працівнику ДАІ було датоване 07 березня 2014 року."
+        }
+    },
+    {
+        "id": 110,
+        "translation": {
+            "en": "324. The PGO announced on 29 January 2015 that a number of indictments had been sent to court. At a press conference of 2 February 2014, Mr Yarema confirmed that two judges of the Pecherskyi District Court had been notified of suspicion as regards their annulment of the driving licences of certain AutoMaidan activists.",
+            "uk": "324. 29 січня 2015 року ГПУ оголосила, що до суду було направлено низку обвинувальних актів. На прес-конференції 02 лютого 2015 року пан Ярема підтвердив, що двом суддям Печерського районного суду було повідомлено про підозру у зв’язку з анулюванням ними водійських прав деяких з активістів «Автомайдану»."
+        }
+    },
+    {
+        "id": 111,
+        "translation": {
+            "en": "THE LAW",
+            "uk": "ПРАВО"
+        }
+    },
+    {
+        "id": 112,
+        "translation": {
+            "en": "JOINDER OF THE APPLICATIONS",
+            "uk": "ОБ’ЄДНАННЯ ЗАЯВ"
+        }
+    },
+    {
+        "id": 113,
+        "translation": {
+            "en": "79.  Having regard to the common factual and legal background of the two applications under examination, the Court finds it appropriate to examine them jointly in a single judgment (Rule 42 § 1 of the Rules of Court).",
+            "uk": "79.  Беручи до уваги спільну фактологічну та правову основу двох заяв, які розглядаються, Суд вважає за доцільне розглянути їх спільно в одному рішенні (пункт 1 Правила 42 Регламенту Суду)."
+        }
+    },
+    {
+        "id": 114,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION",
+            "uk": "СТВЕРДЖУВАНЕ ПОРУШЕННЯ СТАТТІ 3 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 115,
+        "translation": {
+            "en": "80.  The applicants complained that they had been ill-treated by the police at the time of their arrest and that no effective investigation had been conducted in that respect, contrary to Article 3 of the Convention, which reads as follows:",
+            "uk": "80.  Заявники скаржилися на жорстоке поводження працівників міліції під час їхнього затримання та непроведення ефективного розслідування у зв’язку з цим всупереч статті 3 Конвенції, яка передбачає:"
+        }
+    },
+    {
+        "id": 116,
+        "translation": {
+            "en": "“No one shall be subjected to torture or to inhuman or degrading treatment or punishment.”",
+            "uk": "«Нікого не може бути піддано катуванню або нелюдському чи такому, що принижує гідність, поводженню або покаранню.»"
+        }
+    },
+    {
+        "id": 117,
+        "translation": {
+            "en": "Mr V. Kadura’s complaints (application no. 42753/14)",
+            "uk": "Скарги пана В. Кадури (заява № 42753/14)"
+        }
+    },
+    {
+        "id": 118,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 119,
+        "translation": {
+            "en": "The parties’ submissions",
+            "uk": "Доводи сторін"
+        }
+    },
+    {
+        "id": 120,
+        "translation": {
+            "en": "83.  The applicant contended that his lawyer had raised his complaint of ill-treatment – which had been supported by medical evidence – the day after the incident (see paragraph 15 above), and that therefore the circumstances of his case were fundamentally different from those in Nagorskiy, cited above. He stated that he had been unaware of the forensic medical examination ordered by the investigator, and consequently he could not undergo or refuse to undergo it (see paragraphs 11-13 above).",
+            "uk": "83.  Заявник стверджував, що його захисник подав скаргу на жорстоке поводження, яка була підтверджена медичними доказами, наступного дня після події (див. пункт 15), і тому обставини його справи принципово відрізнялися від наведених в згаданій ухвалі щодо прийнятності у справі «Нагорський проти України» (Nagorskiy v. Ukraine). Він зазначив, що йому не було відомо про призначену слідчим судово-медичну експертизу, і тому він не міг пройти її або відмовитися від її проходження (див. пункти 11 – 13)."
+        }
+    },
+    {
+        "id": 121,
+        "translation": {
+            "en": "84.  The applicant had lodged his application with the Court on 3 June 2014 in order not to miss the six-month time-limit, in accordance with Article 35 § 1 of the Convention, as at the time he had believed that his alleged ill-treatment was the subject of one of the ongoing investigations into the abuses against the Maidan protesters but that the investigation in question would not be effective.",
+            "uk": "84.  Заявник подав заяву до Суду 03 червня 2014 року, щоб не пропустити шестимісячний строк згідно з пунктом 1 статті 35 Конвенції, оскільки на той момент він вважав, що стверджуване жорстоке поводження з ним було предметом одного з триваючих розслідувань стосовно протиправних дій проти протестувальників на Майдані, але таке розслідування не буде ефективним."
+        }
+    },
+    {
+        "id": 122,
+        "translation": {
+            "en": "85.  The applicant had not been informed of the decisions of the Kyiv prosecutor’s office of 8 and 20 July 2014 dismissing his complaints of illtreatment by the police, and consequently he had not been able to appeal against them. Once he had learned of those decisions from the Government’s observations of 18 July 2016, he had lodged a new complaint with the PGO in which he had raised his complaints of ill-treatment by the police (see paragraphs 20 and 21 above).",
+            "uk": "85.  Заявник не був поінформований про постанови прокуратури міста Києва від 08 та 20 липня 2014 року, якими були відхилені його скарги на жорстоке поводження працівників міліції, а тому він не міг подати апеляційні скарги на них. Після того, як він дізнався про ці постанови із зауважень Уряду від 18 липня 2016 року, він звернувся до ГПУ з новою скаргою, в якій висунув свої скарги на жорстоке поводження працівників міліції (див. пункти 20 і 21)."
+        }
+    },
+    {
+        "id": 123,
+        "translation": {
+            "en": "The Court’s assessment",
+            "uk": "Оцінка Суду"
+        }
+    },
+    {
+        "id": 124,
+        "translation": {
+            "en": "88.  The Court further notes that the Government did not contest the applicant’s statements in which he said that he had reiterated his allegations of ill-treatment by the police in his complaints of 20 June and 14 July 2014 to the Kyiv prosecutor’s office (see paragraph 20 above).",
+            "uk": "88.  Суд також зазначає, що Уряд не оскаржував твердження заявника, в яких він зазначив, що повторив свої твердження про жорстоке поводження працівників міліції у своїх скаргах від 20 червня та 14 липня 2014 року до прокуратури міста Києва (див. пункт 20)."
+        }
+    },
+    {
+        "id": 125,
+        "translation": {
+            "en": "91.  In the light of the foregoing, the Court considers that the applicant duly raised and pursued his complaints of ill-treatment at the domestic level and cannot be reproached for not taking any additional action.",
+            "uk": "91.  З огляду на зазначене Суд вважає, що на національному рівні заявник належним чином висунув і підтримав свої скарги на жорстоке поводження, та йому не можна дорікнути бездіяльністю."
+        }
+    },
+    {
+        "id": 126,
+        "translation": {
+            "en": "92.  Accordingly, the Court rejects the Government’s objections as to the admissibility of these complaints. Regard being had to all the information before it, the Court finds that these complaints are not manifestly illfounded within the meaning of Article 35 § 3 (a) of the Convention and are not inadmissible on any other grounds. They should therefore be declared admissible.",
+            "uk": "92.  Отже, Суд відхиляє заперечення Уряду щодо прийнятності цих скарг. З огляду на всю наявну в нього інформацію Суд вважає, що ці скарги не є явно необґрунтованими у розумінні підпункту «а» пункту 3 статті 35 Конвенції та не є неприйнятними з будь-яких інших підстав. Отже, вони мають бути визнані прийнятними."
+        }
+    },
+    {
+        "id": 127,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 128,
+        "translation": {
+            "en": "93.  The relevant general principles relating to the procedural and substantive limbs of Article 3 of the Convention are set out in Shmorgunov and Others (cited above, §§ 327-36 and 359-63).",
+            "uk": "93.  Відповідні загальні принципи щодо процесуального та матеріального аспектів статті 3 Конвенції наведені в згаданому рішенні у справі «Шморгунов та інші проти України» (Shmorgunov and Others v. Ukraine), пункти 327 – 336 та 359 – 363)."
+        }
+    },
+    {
+        "id": 129,
+        "translation": {
+            "en": "94.  Noting that the applicant’s complaint of ill-treatment by the police on 5 December 2013 is supported by medical evidence and his detailed account of the relevant events (see paragraphs 5 to 9 above), the Court considers that his complaint was arguable and triggered the authorities’ duty under Article 3 to investigate.",
+            "uk": "94. Беручи до уваги, що скарга заявника на жорстоке поводження працівників міліції 05 грудня 2013 року підтверджена медичними доказами та наданим ним детальним описом відповідних подій (див. пункти 5 – 9), Суд вважає, що його скарга була небезпідставною та призвела до виникнення в органів державної влади зобов’язання за статтею 3 Конвенції провести розслідування."
+        }
+    },
+    {
+        "id": 130,
+        "translation": {
+            "en": "96.  The Court finds that, thus far, the authorities have failed to carry out an effective official investigation into the applicant’s complaint of illtreatment.",
+            "uk": "96.  Суд вважає, що до цього часу органи державної влади не провели ефективне офіційне розслідування скарги заявника на жорстоке поводження."
+        }
+    },
+    {
+        "id": 131,
+        "translation": {
+            "en": "98.  Accordingly, there has been a violation of Article 3 of the Convention in its procedural and substantive aspects in respect of Mr V. Kadura (application no. 42753/14).",
+            "uk": "98.  Отже, було порушено процесуальний та матеріальний аспекти статті 3 Конвенції щодо пана В. Кадури (заява № 42753/14)."
+        }
+    },
+    {
+        "id": 132,
+        "translation": {
+            "en": "Mr V. Smaliy’s complaints (application no. 43860/14)",
+            "uk": "Скарги пана В. Смалія (заява № 43860/14)"
+        }
+    },
+    {
+        "id": 133,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 134,
+        "translation": {
+            "en": "The parties’ submissions",
+            "uk": "Доводи сторін"
+        }
+    },
+    {
+        "id": 135,
+        "translation": {
+            "en": "99.  Relying on McCaughey and Others v. the United Kingdom (no. 43098/09, §§ 121 and 128, ECHR 2013), the Government argued that the applicant’s complaint of ill-treatment by the police was premature, given that an investigation in that regard was still ongoing.",
+            "uk": "99.  Посилаючись на рішення у справі «МакКоггі та інші проти Сполученого Королівства» (McCaughey and Others v. the United Kingdom), заява № 43098/09, пункти 121 та 128, ЄСПЛ 2013), Уряд стверджував, що скарга заявника на жорстоке поводження працівників міліції була передчасною, враховуючи те, що розслідування ще тривало."
+        }
+    },
+    {
+        "id": 136,
+        "translation": {
+            "en": "100.  The applicant stated that the investigation had failed to establish thoroughly all the relevant circumstances and was ineffective. In particular, the principal investigative actions – notably, his forensic medical examination, the official launch of the investigation, the transfer of the investigation to the Kyiv prosecutor’s office and the issuing of the indictment – had been carried out after serious delays, which had resulted in the suspects being able to avoid prosecution.",
+            "uk": "100.  Заявник зазначив, що під час розслідування не було ретельно встановлено всі відповідні обставини і таке розслідування було неефективним. Зокрема, основні слідчі дії – а саме: судово-медична експертиза, порушення справи, передача розслідування до прокуратури міста Києва та складання обвинувального акту – були проведені зі значними затримками, які призвели до того, що підозрювані змогли уникнути відповідальності."
+        }
+    },
+    {
+        "id": 137,
+        "translation": {
+            "en": "101.  The applicant also stated that he had not been promptly informed of the principal investigative actions and had found out about them from the Government’s observations of 17 June 2016.",
+            "uk": "101.  Заявник також зазначив, що він не був негайно поінформований про проведення основних слідчих дій та дізнався про них із зауважень Уряду від 17 червня 2016 року."
+        }
+    },
+    {
+        "id": 138,
+        "translation": {
+            "en": "The Court’s assessment",
+            "uk": "Оцінка Суду"
+        }
+    },
+    {
+        "id": 139,
+        "translation": {
+            "en": "103.  The Court further considers that the applicant’s complaints are not manifestly ill-founded within the meaning of Article 35 § 3 (a) of the Convention and are not inadmissible on any other grounds. They should therefore be declared admissible.",
+            "uk": "103.  Суд також вважає, що скарги заявника не є явно необґрунтованими у розумінні підпункту «а» пункту 3 статті 35 Конвенції та не є неприйнятними з будь-яких інших підстав. Отже, вони мають бути визнані прийнятними."
+        }
+    },
+    {
+        "id": 140,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 141,
+        "translation": {
+            "en": "The parties’ submissions",
+            "uk": "Доводи сторін"
+        }
+    },
+    {
+        "id": 142,
+        "translation": {
+            "en": "105.  The applicant disagreed, relying on his submissions as to admissibility (see paragraphs 100 and 101 above).",
+            "uk": "105.  Заявник заперечив, пославшись на свої доводи щодо прийнятності (див. пункти 100 та 101)."
+        }
+    },
+    {
+        "id": 143,
+        "translation": {
+            "en": "The Court’s assessment",
+            "uk": "Оцінка Суду"
+        }
+    },
+    {
+        "id": 144,
+        "translation": {
+            "en": "106.  The relevant general principles relating to the procedural and substantive limbs of Article 3 of the Convention are set out in Shmorgunov and Others (cited above, §§ 327-36 and 359-63).",
+            "uk": "106.  Відповідні загальні принципи щодо процесуального та матеріального аспектів статті 3 Конвенції наведені у згаданому рішенні у справі «Шморгунов та інші проти України» (Shmorgunov and Others v. Ukraine), пункти 327 – 336 та 359 – 363)."
+        }
+    },
+    {
+        "id": 145,
+        "translation": {
+            "en": "107.  The Court notes that the applicant duly raised his complaint of illtreatment by the police at domestic level the day after the incident (see paragraph 49 above) and that that complaint was arguable. In particular, it was supported by his detailed account of the facts and by relevant medical information (see paragraphs 43-47 above).",
+            "uk": "107.  Суд зазначає, що на національному рівні заявник належним чином подав скаргу на жорстоке поводження працівників міліції наступного дня після події (див. пункт 49), і ця скарга була небезпідставною. Зокрема, вона була підтверджена його докладним описом фактів і відповідною медичною інформацією (див. пункти 43 – 47)."
+        }
+    },
+    {
+        "id": 146,
+        "translation": {
+            "en": "108.  It is true that a number of important investigative actions – including the applicant’s forensic medical examination, his questioning, and the questioning of several witnesses – were conducted within a relatively short period of time after the incident. Eventually, the investigators identified several police officers whom they suspected of having ill-treated the applicant.",
+            "uk": "108.  Дійсно, низка важливих слідчих дій – у тому числі судово-медична експертиза заявника, його допит і допит декількох свідків – було проведено протягом відносно короткого періоду часу після події. Зрештою, слідчі встановили декількох працівників міліції, яких вони підозрювали у жорстокому поводженні із заявником."
+        }
+    },
+    {
+        "id": 147,
+        "translation": {
+            "en": "110.  On the whole, because of the scarce and insufficiently detailed material regarding the investigations in question with which the Court was provided, it cannot comprehensively assess whether from March 2015 onwards the authorities took any meaningful action in order to find the suspects and generally ensure that all the circumstances pertaining to the applicant’s alleged ill-treatment were duly established.",
+            "uk": "110.  Загалом через малу кількість та недостатню детальність наданих Суду матеріалів цих розслідувань він не може всебічно оцінити, чи вжили органи державної влади з березня 2015 року який-небудь суттєвий захід, аби знайти підозрюваних і загалом забезпечити належне встановлення всіх обставин стверджуваного жорстокого поводження із заявником."
+        }
+    },
+    {
+        "id": 148,
+        "translation": {
+            "en": "111.  Furthermore, the applicant received no reply to his complaints regarding the investigations and the only publicly available information about the proceedings in question which he could obtain seems to have been the indication that the proceedings were ongoing, posted on the PGO’s dedicated website (see paragraphs 64-66 above).",
+            "uk": "111.  Крім того, заявник не отримав жодної відповіді на свої скарги щодо розслідування, а єдиною публічно доступною інформацією про відповідне провадження, яку він міг отримати, вочевидь, було розміщене на спеціальному вебсайті ГПУ повідомлення, що провадження тривало (див. пункти 64 – 66)."
+        }
+    },
+    {
+        "id": 149,
+        "translation": {
+            "en": "112.  In these circumstances, the Government have not convincingly shown that the authorities’ failure to establish all the circumstances pertaining to the applicant’s alleged ill-treatment, more than six years after the events, was due to objective difficulties that the authorities attempted but realistically could not overcome. Thus, it finds that, thus far, the authorities have failed to carry out an effective official investigation into that matter.",
+            "uk": "112.  За цих обставин Уряд переконливо не продемонстрував, що невстановлення органами державної влади всіх обставин стверджуваного жорстокого поводження із заявником упродовж більше шести років після подій було зумовлене об’єктивними труднощами, які органи державної влади намагалися, проте реально не змогли подолати. Таким чином, Суд вважає, що органи державної влади досі не провели ефективне офіційне розслідування цього питання."
+        }
+    },
+    {
+        "id": 150,
+        "translation": {
+            "en": "114.  In the light of the foregoing, the Court finds that there has been a violation of Article 3 of the Convention in its procedural and substantive aspects in respect of Mr V. Smaliy (application no. 43860/14).",
+            "uk": "114.  З огляду на зазначене Суд вважає, що було порушено процесуальний та матеріальний аспекти статті 3 Конвенції щодо \nпана В. Смалія (заява № 43860/14)."
+        }
+    },
+    {
+        "id": 151,
+        "translation": {
+            "en": "ALLEGED VIOLATIONS OF ARTICLES 5 AND 18 OF THE CONVENTION",
+            "uk": "СТВЕРДЖУВАНЕ ПОРУШЕННЯ СТАТЕЙ 5 ТА 18 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 152,
+        "translation": {
+            "en": "116.  Mr V. Kadura further complained under Article 5 § 5 that he had had no effective and enforceable right to compensation for the violations of his right to liberty.",
+            "uk": "116.  Пан В. Кадура також скаржився за пунктом 5 статті 5 Конвенції, що він не мав ефективного та забезпеченого правовою санкцією права на відшкодування у зв’язку з порушеннями його права на свободу."
+        }
+    },
+    {
+        "id": 153,
+        "translation": {
+            "en": "117.  The relevant parts of Article 5 of the Convention and Article 18 read as follows:",
+            "uk": "117.  Відповідні частини статті 5 Конвенції та статті 18 Конвенції передбачають:"
+        }
+    },
+    {
+        "id": 154,
+        "translation": {
+            "en": "Article 5",
+            "uk": "Стаття 5 Конвенції"
+        }
+    },
+    {
+        "id": 155,
+        "translation": {
+            "en": "“1.  Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+            "uk": "«1.  Кожен має право на свободу та особисту недоторканність. Нікого не може бути позбавлено свободи, крім таких випадків і відповідно до процедури, встановленої законом:"
+        }
+    },
+    {
+        "id": 156,
+        "translation": {
+            "en": "(c)  the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;",
+            "uk": "(c)  законний арешт або затримання особи, здійснене з метою допровадження її до компетентного судового органу за наявності обґрунтованої підозри у вчиненні нею правопорушення або якщо обґрунтовано вважається необхідним запобігти вчиненню нею правопорушення чи її втечі після його вчинення;"
+        }
+    },
+    {
+        "id": 157,
+        "translation": {
+            "en": "3.  Everyone arrested or detained in accordance with the provisions of paragraph 1 (c) of this Article shall be brought promptly before a judge or other officer authorised by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release pending trial. Release may be conditioned by guarantees to appear for trial.",
+            "uk": "3.  Кожен, кого заарештовано або затримано згідно з положеннями підпункту «c» пункту 1 цієї статті, має негайно постати перед суддею чи іншою посадовою особою, якій закон надає право здійснювати судову владу, і йому має бути забезпечено розгляд справи судом упродовж розумного строку або звільнення під час провадження. Таке звільнення може бути обумовлене гарантіями з’явитися на судове засідання."
+        }
+    },
+    {
+        "id": 158,
+        "translation": {
+            "en": "5.  Everyone who has been the victim of arrest or detention in contravention of the provisions of this Article shall have an enforceable right to compensation.”",
+            "uk": "5.  Кожен, хто є потерпілим від арешту або затримання, здійсненого всупереч положенням цієї статті, має забезпечене правовою санкцією право на відшкодування.»"
+        }
+    },
+    {
+        "id": 159,
+        "translation": {
+            "en": "Article 18",
+            "uk": "Стаття 18 Конвенції"
+        }
+    },
+    {
+        "id": 160,
+        "translation": {
+            "en": "“The restrictions permitted under [the] Convention to the said rights and freedoms shall not be applied for any purpose other than those for which they have been prescribed.”",
+            "uk": "«Обмеження, дозволені згідно з цією Конвенцією щодо зазначених прав і свобод, не застосовуються для інших цілей ніж ті, для яких вони встановлені.»"
+        }
+    },
+    {
+        "id": 161,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 162,
+        "translation": {
+            "en": "The parties’ submissions",
+            "uk": "Доводи сторін"
+        }
+    },
+    {
+        "id": 163,
+        "translation": {
+            "en": "119.  The applicants replied that there had been no sufficient acknowledgement of the alleged unlawfulness of their detention at the domestic level and the proceedings under the Compensation Act would not have entailed an examination of the lawfulness of that detention.",
+            "uk": "119.  Заявники відповіли, що на національному рівні стверджувана незаконність тримання їх під вартою не мала достатнього визнання, а провадження, ініційоване відповідно до Закону України «Про порядок відшкодування шкоди, завданої громадянинові незаконними діями органів, що здійснюють оперативно-розшукову діяльність, органів досудового розслідування, прокуратури і суду», не передбачало б перевірки законності такого тримання."
+        }
+    },
+    {
+        "id": 164,
+        "translation": {
+            "en": "The Court’s assessment",
+            "uk": "Оцінка Суду"
+        }
+    },
+    {
+        "id": 165,
+        "translation": {
+            "en": "Mr V. Kadura",
+            "uk": "Пан В. Кадура"
+        }
+    },
+    {
+        "id": 166,
+        "translation": {
+            "en": "121.  The Court therefore rejects the Government’s non-exhaustion objection as far as it concerns Mr V. Kadura.",
+            "uk": "121.  Отже, Суд відхиляє заперечення Уряду щодо невичерпання засобів юридичного захисту у частині щодо пана В. Кадури."
+        }
+    },
+    {
+        "id": 167,
+        "translation": {
+            "en": "122.  At the same time, the Court observes that Mr Kadura failed to present sufficiently strong arguments or evidence demonstrating that, at the time his detention was ordered, there was insufficient evidence to support a reasonable suspicion against him (see paragraphs 23-28 and 30-32 above). Accordingly, Mr V. Kadura’s complaint under Article 5 § 1 of the Convention is manifestly ill-founded and should be rejected pursuant to Article 35 §§ 3 (a) and 4 of the Convention.",
+            "uk": "122.  Водночас Суд зазначає, що пан В. Кадура не навів достатньо вагомих аргументів чи доказів, які б свідчили, що на момент обрання йому запобіжного заходу у вигляді тримання під вартою було недостатньо доказів для доведення існування обґрунтованої підозри щодо нього (див. пункти 23 – 28 та 30 – 32). Отже, скарга пана В. Кадури за пунктом 1 статті 5 Конвенції є явно необґрунтованою і повинна бути відхилена відповідно до підпункту «а» пункту 3 та пункту 4 статті 35 Конвенції."
+        }
+    },
+    {
+        "id": 168,
+        "translation": {
+            "en": "123.  By contrast, Mr V. Kadura’s complaints under Article 5 §§ 3 and 5 are not manifestly ill-founded within the meaning of Article 35 § 3 (a) of the Convention and are not inadmissible on any other grounds. They should therefore be declared admissible.",
+            "uk": "123.  На противагу, скарги пана В. Кадури за пунктами 3 та 5 статті 5 Конвенції не є ні явно необґрунтованими у розумінні підпункту «а» пункту 3 статті 35 Конвенції, ні неприйнятними з будь-яких інших підстав. Отже, вони мають бути визнані прийнятними."
+        }
+    },
+    {
+        "id": 169,
+        "translation": {
+            "en": "Mr V. Smaliy",
+            "uk": "Пан В. Смалій"
+        }
+    },
+    {
+        "id": 170,
+        "translation": {
+            "en": "125.  Accordingly, this part of Mr V. Smaliy’s complaints under Articles 5 §§ 1 and 3 and 18 concerning his detention must be declared inadmissible and rejected, pursuant to Article 35 § 4 of the Convention for non-exhaustion of domestic remedies under Article 35 § 1 of the Convention.",
+            "uk": "125.  Отже, ця частина скарг пана В. Смалія за пунктами 1 та 3 статті 5 Конвенції та статті 18 Конвенції щодо тримання його під вартою має бути визнана неприйнятною та відхилена на підставі пункту 4 статті 35 Конвенції у зв’язку з невичерпанням національних засобів юридичного захисту відповідно до пункту 1 статті 35 Конвенції."
+        }
+    },
+    {
+        "id": 171,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 172,
+        "translation": {
+            "en": "Article 5 § 3 of the Convention",
+            "uk": "Пункт 3 статті 5 Конвенції"
+        }
+    },
+    {
+        "id": 173,
+        "translation": {
+            "en": "126.  The Court has frequently found violations of Article 5 § 3 of the Convention in cases where courts based their pre-trial detention decisions on stereotyped formulae without addressing specific facts or considering alternative preventive measures (see, for example, Kharchenko v. Ukraine, no. 40107/02, §§ 80-81, 10 February 2011).",
+            "uk": "126.  Суд часто встановлював порушення пункту 3 статті 5 Конвенції у справах, коли суди обґрунтовували ухвали про тримання під вартою під час досудового розслідування стереотипними формулюваннями без розгляду конкретних фактів або можливості застосування альтернативних запобіжних заходів (див., наприклад, рішення у справі «Харченко проти України» (Kharchenko v. Ukraine), заява № 40107/02, пункти 80 – 81, від 10 лютого 2011 року)."
+        }
+    },
+    {
+        "id": 174,
+        "translation": {
+            "en": "128.  The domestic courts took the investigating authority’s allegations as to those risks at face value without engaging in their own effective assessment. In particular, they failed to comment on the important question of whether the applicant, as the investigator alleged (see paragraph 27 above), had failed to appear when summoned.",
+            "uk": "128.  Національні суди беззаперечно прийняли твердження працівників органу досудового розслідування щодо цих ризиків, не провівши їхньої власної ефективної оцінки. Зокрема, вони не прокоментували важливе питання, чи дійсно заявник, як стверджував слідчий (див. пункт 27), не з’явився за викликом."
+        }
+    },
+    {
+        "id": 175,
+        "translation": {
+            "en": "131.  The courts, therefore, failed to give relevant and sufficient reasons for the applicant’s continued detention after the hearing of 6 December 2013 (see paragraph 30 above).",
+            "uk": "131.  Отже, суди не навели належних і достатніх підстав для тривалого тримання заявника під вартою після засідання 06 грудня 2013 року (див. пункт 30)."
+        }
+    },
+    {
+        "id": 176,
+        "translation": {
+            "en": "132.  It follows that there has been a violation of Article 5 § 3 of the Convention in respect of Mr V. Kadura (application no. 42753/14).",
+            "uk": "132.  Отже, було порушено пункт 3 статті 5 Конвенції щодо \nпана В. Кадури (заява № 42753/14)."
+        }
+    },
+    {
+        "id": 177,
+        "translation": {
+            "en": "Article 5 § 5 of the Convention",
+            "uk": "Пункт 5 статті 5 Конвенції"
+        }
+    },
+    {
+        "id": 178,
+        "translation": {
+            "en": "133.  In the circumstances of the present case, having regard to the above finding of a violation and the Court’s conclusion in respect of exhaustion of domestic remedies in paragraph 120 above, the Court finds that it is not necessary to decide whether there has been a violation of Article 5 § 5 of the Convention.",
+            "uk": "133.  За обставин цієї справи та з огляду на зазначений висновок про порушення і висновок Суду щодо вичерпання національних засобів юридичного захисту у пункті 120 Суд вважає, що немає необхідності розглядати, чи було порушено пункт 5 статті 5 Конвенції."
+        }
+    },
+    {
+        "id": 179,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLE 8 OF THE CONVENTION (APPLICATION NO. 43860/14 – MR V. SMALIY)",
+            "uk": "СТВЕРДЖУВАНЕ ПОРУШЕННЯ СТАТТІ 8 КОНВЕНЦІЇ (ЗАЯВА № 43860/14 – ПАН В. СМАЛІЙ)"
+        }
+    },
+    {
+        "id": 180,
+        "translation": {
+            "en": "134.  The applicant complained about his personal search and the seizure of his telephone and documents containing what he alleged to be confidential information relating to his clients’ cases (see paragraph 44 above). He argued that this had constituted an arbitrary interference with his private life within the meaning of Article 8 of the Convention, the relevant parts of which read as follows:",
+            "uk": "134.  Заявник скаржився на особистий обшук і вилучення у нього телефону і документів, які містили, як він стверджував, конфіденційну інформацію стосовно справ його клієнтів (див. пункт 44). Він доводив, що це становило свавільне втручання у його приватне життя у розумінні статті 8 Конвенції, відповідні частини якої передбачають:"
+        }
+    },
+    {
+        "id": 181,
+        "translation": {
+            "en": "“1.  Everyone has the right to respect for his private ... life...",
+            "uk": "«1.  Кожен має право на повагу до свого приватного ... життя..."
+        }
+    },
+    {
+        "id": 182,
+        "translation": {
+            "en": "2.  There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.”",
+            "uk": "2.  Органи державної влади не можуть втручатись у здійснення цього права, за винятком випадків, коли втручання здійснюється згідно із законом і є необхідним у демократичному суспільстві в інтересах національної та громадської безпеки чи економічного добробуту країни, для запобігання заворушенням чи злочинам, для захисту здоров’я чи моралі або для захисту прав і свобод інших осіб..»"
+        }
+    },
+    {
+        "id": 183,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 184,
+        "translation": {
+            "en": "136.  The applicant stated that the relevant investigation was ineffective.",
+            "uk": "136.  Заявник зазначив, що відповідне розслідування було неефективним."
+        }
+    },
+    {
+        "id": 185,
+        "translation": {
+            "en": "137.  The Court reiterates its findings that the investigation in question was ineffective in so far as it concerned the applicant’s ill-treatment by the police. In particular, the Court has found that after more than six years the relevant investigations have not led to the establishment of all the relevant circumstances (see paragraphs 108 to 112 above).",
+            "uk": "137.  Суд повторює свої висновки, що відповідне розслідування було неефективним у частині щодо жорстокого поводження працівників міліції із заявником. Зокрема, Суд встановив, що через більше ніж шість років відповідне розслідування не призвело до встановлення усіх відповідних обставин (див. пункти 108 – 112)."
+        }
+    },
+    {
+        "id": 186,
+        "translation": {
+            "en": "139.  The Court further considers that the above complaints are not manifestly ill-founded within the meaning of Article 35 § 3 (a) of the Convention and are not inadmissible on any other grounds. These complaints should therefore be declared admissible.",
+            "uk": "139.  Суд також вважає, що зазначені скарги не є ні явно необґрунтованими у розумінні підпункту «а» пункту 3 статті 35 Конвенції, ні неприйнятними з будь-яких інших підстав. Отже, вони мають бути визнані прийнятними."
+        }
+    },
+    {
+        "id": 187,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 188,
+        "translation": {
+            "en": "140.  The applicant’s argument that the personal search and seizure of his belongings constituted an interference with his right to respect for his private life within the meaning of Article 8 § 1 of the Convention was not disputed by the Government, and the Court finds no reason to hold otherwise. The question remains as to whether that interference was justified under paragraph 2 of that provision.",
+            "uk": "140.  Уряд не оскаржував твердження заявника, що особистий обшук і вилучення його речей становили втручання у його право на повагу до приватного життя у розумінні пункту 1 статті 8 Конвенції, і Суд не знаходить підстав для іншого висновку. Залишається питання, чи було це втручання виправданим за пунктом 2 цієї статті."
+        }
+    },
+    {
+        "id": 189,
+        "translation": {
+            "en": "143.  At the time of his arrest Mr. V. Smaliy was at the police station as a lawyer, representing one of his clients. He had not been invited there in relation to criminal investigation concerning himself, a criminal investigation of which he had not been informed (see paragraphs 42 and 43 above). The authorities, therefore, had to be aware that the material in the applicant’s possession could have been subject to legal professional privilege.",
+            "uk": "143.  На момент затримання пан В. Смалій знаходився у відділі міліції як захисник, який представляв інтереси одного зі своїх клієнтів. Його не запросили туди у зв’язку з кримінальним провадженням щодо нього самого, про яке йому не було повідомлено (див. пункти 42 та 43). Отже, органи державної влади повинні були знати, що документи, які були у заявника, могли становити адвокатську таємницю."
+        }
+    },
+    {
+        "id": 190,
+        "translation": {
+            "en": "145.  No element of the domestic legal system or practice providing any safeguards in that respect was cited in the domestic proceedings or in the proceedings before the Court. The relevant provision of the 2012 Bar Act (see paragraph 77 above), had no application in the case of the personal search incidental to the arrest as it concerned neither the applicant’s home nor his law office.",
+            "uk": "145.  Ні під час провадження на національному рівні, ні під час провадження у Суді не було наведено жодного елементу національної правової системи чи практики, який би надавав які-небудь гарантії у зв’язку з цим. Відповідне положення Закону України «Про адвокатуру та адвокатську діяльність» 2012 року (див. пункт 77) не застосовувалося у випадку особистого обшуку, пов’язаного із затриманням, оскільки такий обшук не стосувався ні житла заявника, ні приміщення, де він здійснював свою адвокатську діяльність."
+        }
+    },
+    {
+        "id": 191,
+        "translation": {
+            "en": "147.  There has, accordingly, been a violation of Article 8 of the Convention in respect of Mr V. Smaliy on account of his search and the seizure of his telephone and documents.",
+            "uk": "147.  Отже, було порушено статтю 8 Конвенції щодо пана В. Смалія у зв’язку з його обшуком і вилученням його телефону та документів."
+        }
+    },
+    {
+        "id": 192,
+        "translation": {
+            "en": "THE APPLICANTS’ OTHER COMPLAINTS",
+            "uk": "ІНШІ СКАРГИ ЗАЯВНИКІВ"
+        }
+    },
+    {
+        "id": 193,
+        "translation": {
+            "en": "Other inadmissible complaints",
+            "uk": "Інші неприйнятні скарги"
+        }
+    },
+    {
+        "id": 194,
+        "translation": {
+            "en": "149.  Having regard to all the material in its possession, and in so far as these complaints are within its competence, the Court finds that they do not disclose any appearance of a violation of the Convention. It follows that these complaints are inadmissible under Article 35 § 3 (a) as manifestly illfounded, and must be rejected pursuant to Article 35 § 4 of the Convention.",
+            "uk": "149.  Беручи до уваги всі наявні у нього матеріали та з огляду на належність скарг до сфери його компетенції, Суд вважає, що вони не виявляють жодних ознак порушення Конвенції. З цього випливає, що ці скарги є неприйнятними відповідно до підпункту «а» пункту 3 статті 35 Конвенції як явно необґрунтовані та повинні бути відхилені на підставі пункту 4 статті 35 Конвенції."
+        }
+    },
+    {
+        "id": 195,
+        "translation": {
+            "en": "Complaints not requiring a separate examination",
+            "uk": "Скарги, що не потребують окремого розгляду"
+        }
+    },
+    {
+        "id": 196,
+        "translation": {
+            "en": "150.  Mr V. Kadura also complained under Article 1 of Protocol No. 1 that his belongings had been arbitrarily seized and retained by the police and some items had not been returned to him.",
+            "uk": "150.  Пан В. Кадура також скаржився за статтею 1 Першого протоколу до Конвенції, що його речі були свавільно вилучені та зберігалися у працівників міліції, а деякі предмети не були йому повернуті."
+        }
+    },
+    {
+        "id": 197,
+        "translation": {
+            "en": "151.  Mr V. Smaliy further complained: (i) under Article 8 of the Convention alleging that, while he had been detained in the Kyiv SIZO, the sanitary facilities had not been sufficiently separated from the rest of the SIZO cells, and there had been video surveillance in the cells; and (ii) under Article 13 on account of the alleged lack of an effective and accessible remedy under domestic law for his complaints of police ill-treatment under Article 3.",
+            "uk": "151.  Пан В. Смалій також скаржився: (i) за статтею 8 Конвенції, стверджуючи, що під час тримання його під вартою у Київському СІЗО туалет не був достатньо відгороджений від решти камери СІЗО і в камерах велося відеоспостереження; та (ii) за статтею 13 Конвенції у зв’язку зі стверджуваною неефективністю та недоступністю національного засобу юридичного захисту у зв’язку з його скаргами за статтею 3 Конвенції на жорстоке поводження працівників міліції."
+        }
+    },
+    {
+        "id": 198,
+        "translation": {
+            "en": "152.  Having regard to the facts of the case, the submissions of the parties, and its findings under various Articles of the Convention above, the Court considers that it has examined the main legal questions raised in the present case, and that there is no need to give a separate ruling on the admissibility and merits of the other complaints mentioned in the preceding paragraphs (see, for example, Centre for Legal Resources on behalf of Valentin Câmpeanu v. Romania [GC], no. 47848/08, § 156, ECHR 2014).",
+            "uk": "152.  З огляду на факти справи, доводи сторін і висновки за різними статтями Конвенції, Суд вважає, що він розглянув основні юридичні питання, порушені у цій справі, і немає потреби у винесенні окремого рішення щодо прийнятності та суті інших скарг, зазначених у попередніх пунктах (див., наприклад, рішення у справі «Центр юридичних ресурсів в інтересах Валентина Кимпеану проти Румунії» [ВП] (Centre for Legal Resources on behalf of Valentin Câmpeanu v. Romania) [GC], заява № 47848/08, пункт 156, ЄСПЛ 2014)."
+        }
+    },
+    {
+        "id": 199,
+        "translation": {
+            "en": "CONCLUDING REMARKS",
+            "uk": "ЗАКЛЮЧНІ ЗАУВАЖЕННЯ"
+        }
+    },
+    {
+        "id": 200,
+        "translation": {
+            "en": "APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+            "uk": "ЗАСТОСУВАННЯ СТАТТІ 41 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 201,
+        "translation": {
+            "en": "154.  Article 41 of the Convention provides:",
+            "uk": "154.  Стаття 41 Конвенції передбачає:"
+        }
+    },
+    {
+        "id": 202,
+        "translation": {
+            "en": "“If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”",
+            "uk": "«Якщо Суд визнає факт порушення Конвенції або протоколів до неї і якщо внутрішнє право відповідної Високої Договірної Сторони передбачає лише часткове відшкодування, Суд, у разі необхідності, надає потерпілій стороні справедливу сатисфакцію»."
+        }
+    },
+    {
+        "id": 203,
+        "translation": {
+            "en": "Damage",
+            "uk": "Шкода"
+        }
+    },
+    {
+        "id": 204,
+        "translation": {
+            "en": "155.  Mr V. Kadura and Mr V. Smaliy claimed 100,000 euros (EUR) each as regards non-pecuniary damage.",
+            "uk": "155.  Пан В. Кадура та В. Смалій вимагали по 100 000 євро кожен в якості відшкодування моральної шкоди."
+        }
+    },
+    {
+        "id": 205,
+        "translation": {
+            "en": "156.  The Government contested Mr V. Smaliy’s claim, mainly arguing that it was excessive.",
+            "uk": "156.  Уряд заперечив проти вимоги пана В. Смалія, головним чином стверджуючи про її надмірність."
+        }
+    },
+    {
+        "id": 206,
+        "translation": {
+            "en": "157.  Judging on an equitable basis, the Court awards the applicants EUR 13,200 each in respect of non-pecuniary damage, plus any tax that may be chargeable.",
+            "uk": "157.  Постановляючи рішення на засадах справедливості, Суд присуджує кожному заявнику по 13 200 євро та додатково суму будь-якого податку, що може нараховуватися, в якості відшкодування моральної шкоди."
+        }
+    },
+    {
+        "id": 207,
+        "translation": {
+            "en": "Costs and expenses",
+            "uk": "Судові та інші витрати"
+        }
+    },
+    {
+        "id": 208,
+        "translation": {
+            "en": "158.  The applicants also claimed various sums for the costs and expenses incurred before the domestic courts and/or for those incurred before the Court, which included postal expenses and legal costs. In support of their claims, they submitted copies of contracts with lawyers and related bills and/or copies of postal receipts.",
+            "uk": "158.  Заявники також вимагали різні суми в якості компенсації судових та інших витрат, понесених під час провадження на національному рівні та/або у Суді, у тому числі поштових витрат і витрат на правову допомогу. На підтвердження своїх вимог вони надали копії договорів із захисниками і пов’язаних з цим рахунків та/або копії поштових квитанцій."
+        }
+    },
+    {
+        "id": 209,
+        "translation": {
+            "en": "159.  In particular, according to those documents, Mr V. Kadura had to pay EUR 9,600 to his lawyer, Mr M. Tarakhkalo, for the preparation of his submissions to the Court, the sum which was based on an hourly rate of EUR 150. Mr V. Kadura requested that this sum be paid directly into the lawyer’s bank account.",
+            "uk": "159.  Зокрема, згідно з цими документами пан В. Кадура мав сплатити 9 600 євро своєму захиснику, пану М. Тарахкалу, за підготовку його зауважень до Суду, сума ґрунтувалася на погодинній ставці у розмірі 150 євро. Пан В. Кадура просив сплатити цю суму безпосередньо на банківський рахунок захисника."
+        }
+    },
+    {
+        "id": 210,
+        "translation": {
+            "en": "161.  The Government contested Mr V. Smaliy’s claims for costs and expenses, stating that they had not been duly substantiated, and that those which concerned costs and expenses incurred in the domestic proceedings could not be awarded in the proceedings before the Court and were excessive.",
+            "uk": "161.  Уряд заперечив проти вимог пана В. Смалія щодо компенсації судових та інших витрат, зазначивши, що деякі з них не були належним чином обґрунтовані, а витрати, понесені під час провадження на національному рівні, не підлягали компенсації під час провадження у Суді та були надмірними."
+        }
+    },
+    {
+        "id": 211,
+        "translation": {
+            "en": "162.  The Court reiterates that, according to its established case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum.",
+            "uk": "162.  Суд нагадує, що відповідно до практики Суду заявник має право на компенсацію судових та інших витрат, лише якщо буде доведено, що такі витрати були фактичними і неминучими, а їхній розмір – обґрунтованим."
+        }
+    },
+    {
+        "id": 212,
+        "translation": {
+            "en": "163.  In the present case, regard being had to the documents in its possession and the above criteria, the Court rejects Mr Smaliy’s claims in respect of costs incurred in the domestic proceedings, as he failed to submit relevant documents in support that claim.",
+            "uk": "163.  У цій справі з огляду на наявні у нього документи та зазначені критерії Суд відхиляє вимоги пана В. Смалія щодо компенсації витрат, понесених під час провадження на національному рівні, оскільки він не надав відповідних документів на підтвердження цієї вимоги."
+        }
+    },
+    {
+        "id": 213,
+        "translation": {
+            "en": "The Court considers it reasonable to award EUR 3,500 to each of the applicants for the proceedings before the Court, plus any tax that may be chargeable to the applicants on those sums, to be paid directly into the bank accounts indicated by Mr M. Tarakhkalo and Ms O. Preobrazhenskaya respectively.",
+            "uk": "Суд вважає за розумне присудити 3 500 євро кожному із заявників у зв’язку з провадженням у Суді та додатково суму будь-якого податку, що може нараховуватися заявникам на ці суми, які мають бути сплачені безпосередньо на банківські рахунки, вказані паном М. Тарахкалом та пані О. Преображенською відповідно."
+        }
+    },
+    {
+        "id": 214,
+        "translation": {
+            "en": "Default interest",
+            "uk": "Пеня"
+        }
+    },
+    {
+        "id": 215,
+        "translation": {
+            "en": "164.  The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+            "uk": "164.  Суд вважає за належне призначити пеню на підставі граничної позичкової ставки Європейського центрального банку, до якої має бути додано три відсоткові пункти."
+        }
+    },
+    {
+        "id": 216,
+        "translation": {
+            "en": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+            "uk": "ЗА ЦИХ ПІДСТАВ СУД ОДНОГОЛОСНО"
+        }
+    },
+    {
+        "id": 217,
+        "translation": {
+            "en": "Decides to join the applications;",
+            "uk": "Вирішує об’єднати заяви;"
+        }
+    },
+    {
+        "id": 218,
+        "translation": {
+            "en": "Declares the following complaints admissible:",
+            "uk": "Оголошує прийнятними такі скарги:"
+        }
+    },
+    {
+        "id": 219,
+        "translation": {
+            "en": "the applicants’ complaints under Article 3 of the Convention about their ill-treatment by the police and the lack of an effective investigation in that regard;",
+            "uk": "скарги заявників за статтею 3 Конвенції на жорстоке поводження працівників міліції та відсутність ефективного розслідування у зв’язку з цим;"
+        }
+    },
+    {
+        "id": 220,
+        "translation": {
+            "en": "Mr V. Kadura’s complaints under Article 5 §§ 3 and 5 of the Convention;",
+            "uk": "скарги пана В. Кадури за пунктами 3 та 5 статті 5 Конвенції;"
+        }
+    },
+    {
+        "id": 221,
+        "translation": {
+            "en": "Mr V. Smaliy’s complaint under Article 8 of the Convention about his personal search and the seizure of his telephone and documents;",
+            "uk": "скаргу пана В. Смалія за статтею 8 Конвенції на його особистий обшук та вилучення його телефону і документів;"
+        }
+    },
+    {
+        "id": 222,
+        "translation": {
+            "en": "Holds that that there is no need to give a separate ruling on the admissibility and merits of Mr V. Kadura’s complaint under Article 1 of Protocol No. 1 and of Mr V. Smaliy’s complaints under Articles 8 of the Convention in respect of conditions of detention in the Kyiv SIZO, and under Article 13 of the Convention taken in conjunction with Articles 3, 5 §§ 1 and 3 and 8 of the Convention;",
+            "uk": "Постановляє, що немає необхідності виносити окреме рішення щодо прийнятності та суті скарги пана В. Кадури за статтею 1 Першого протоколу Конвенції та скарг пана В. Смалія за статтею 8 Конвенції щодо умов тримання під вартою у Київському СІЗО та за статтею 13 Конвенції у поєднанні зі статтею 3, пунктами 1 та 3 статті 5 та статтею 8 Конвенції;"
+        }
+    },
+    {
+        "id": 223,
+        "translation": {
+            "en": "Declares the remaining complaints inadmissible.",
+            "uk": "Оголошує решту скарг неприйнятними."
+        }
+    },
+    {
+        "id": 224,
+        "translation": {
+            "en": "Holds that there has been a violation of Article 3 of the Convention in its procedural and substantive aspects in respect of Mr V. Kadura;",
+            "uk": "Постановляє, що було порушено процесуальний та матеріальний аспекти статті 3 Конвенції щодо пана В. Кадури;"
+        }
+    },
+    {
+        "id": 225,
+        "translation": {
+            "en": "Holds that there has been a violation of Article 3 of the Convention in its procedural and substantive aspects in respect of Mr V. Smaliy;",
+            "uk": "Постановляє, що було порушено процесуальний та матеріальний аспекти статті 3 Конвенції щодо пана В. Смалія;"
+        }
+    },
+    {
+        "id": 226,
+        "translation": {
+            "en": "Holds that there has been a violation of Article 5 § 3 of the Convention in respect of Mr V. Kadura;",
+            "uk": "Постановляє, що було порушено пункт 3 статті 5 Конвенції щодо пана В. Кадури;"
+        }
+    },
+    {
+        "id": 227,
+        "translation": {
+            "en": "Holds that there is no need to examine Mr V. Kadura’s complaint under Article 5 § 5 of the Convention;",
+            "uk": "Постановляє, що немає необхідності розглядати скаргу пана В. Кадури за пунктом 5 статті 5 Конвенції;"
+        }
+    },
+    {
+        "id": 228,
+        "translation": {
+            "en": "Holds that there has been a violation of Article 8 of the Convention in respect of Mr V. Smaliy on account of his search and the seizure of his telephone and documents;",
+            "uk": "Постановляє, що було порушено статтю 8 Конвенції щодо пана В. Смалія у зв’язку з його обшуком і вилученням його телефону та документів;"
+        }
+    },
+    {
+        "id": 229,
+        "translation": {
+            "en": "Holds",
+            "uk": "Постановляє, що:"
+        }
+    },
+    {
+        "id": 230,
+        "translation": {
+            "en": "that the respondent State is to pay, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+            "uk": "упродовж трьох місяців з дати, коли це рішення набуде статусу остаточного відповідно до пункту 2 статті 44 Конвенції держава-відповідач повинна сплатити заявникам такі суми; які мають бути конвертовані в національну валюту держави-відповідача за курсом на день здійснення платежу:"
+        }
+    },
+    {
+        "id": 231,
+        "translation": {
+            "en": "EUR 13,200 (thirteen thousand two hundred euros), plus any tax that may be chargeable, to each of the applicants in respect of non-pecuniary damage,",
+            "uk": "по 13 200 (тринадцять тисяч двісті) євро та додатково суму будь-якого податку, що може нараховуватись, кожному заявнику в якості відшкодування моральної шкоди;"
+        }
+    },
+    {
+        "id": 232,
+        "translation": {
+            "en": "EUR 3,500 (three thousand five hundred euros), plus any tax that may be chargeable to the applicant, to Mr V. Kadura in respect of costs and expenses incurred in the proceedings before the Court, to be paid directly into the bank account indicated by Mr M. Tarakhkalo;",
+            "uk": "3 500 (три тисячі п’ятсот) євро та додатково суму будь-якого податку, що може нараховуватись заявнику, пану В. Кадурі, в якості компенсації судових та інших витрат, понесених під час провадження у Суді, ця сума має бути сплачена безпосередньо на банківський рахунок, вказаний паном М. Тарахкалом;"
+        }
+    },
+    {
+        "id": 233,
+        "translation": {
+            "en": "EUR 3,500 (three thousand five hundred euros), plus any tax that may be chargeable to the applicant, to Mr V. Smaliy in respect of costs and expenses incurred in the proceedings before the Court, to be paid directly into the bank account indicated by Ms O. Preobrazhenskaya;",
+            "uk": "3 500 (три тисячі п’ятсот) євро та додатково суму будь-якого податку, що може нараховуватись заявнику, пану В. Смалію, в якості компенсації судових та інших витрат, понесених під час провадження у Суді, ця сума має бути сплачена безпосередньо на банківський рахунок, вказаний пані О. Преображенською;"
+        }
+    },
+    {
+        "id": 234,
+        "translation": {
+            "en": "that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+            "uk": "із закінченням зазначеного тримісячного строку до остаточного розрахунку на зазначені суми нараховуватиметься простий відсоток (simple interest) у розмірі граничної позичкової ставки Європейського центрального банку, яка діятиме в період несплати, до якої має бути додано три відсоткові пункти;"
+        }
+    },
+    {
+        "id": 235,
+        "translation": {
+            "en": "Dismisses, the remainder of the applicants’ claims for just satisfaction.",
+            "uk": "Відхиляє решту вимог заявників щодо справедливої сатисфакції."
+        }
+    },
+    {
+        "id": 236,
+        "translation": {
+            "en": "Done in English, and notified in writing on 21 January 2021, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+            "uk": "Учинено англійською мовою та повідомлено письмово 21 січня 2021 року відповідно до пунктів 2 і 3 Правила 77 Регламенту Суду."
+        }
+    }
+]

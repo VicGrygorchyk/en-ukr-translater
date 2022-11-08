@@ -1,0 +1,1766 @@
+[
+    {
+        "id": 0,
+        "translation": {
+            "en": "FIFTH SECTION",
+            "uk": "П’ЯТА СЕКЦІЯ"
+        }
+    },
+    {
+        "id": 1,
+        "translation": {
+            "en": "CASE OF GRUBNYK v. UKRAINE",
+            "uk": "СПРАВА «ГРУБНИК ПРОТИ УКРАЇНИ»"
+        }
+    },
+    {
+        "id": 2,
+        "translation": {
+            "en": "(Application no. 58444/15)",
+            "uk": "(Заява № 58444/15)"
+        }
+    },
+    {
+        "id": 3,
+        "translation": {
+            "en": "JUDGMENT",
+            "uk": "РІШЕННЯ"
+        }
+    },
+    {
+        "id": 4,
+        "translation": {
+            "en": "Art 5 § 1 • Lawful arrest or detention • Delay in drawing up of arrest report • No legal basis for arrest without prior court decision",
+            "uk": "П. 1 ст. 5 • Законне затримання або тримання під вартою • Затримка у складанні протоколу про затримання • Відсутні правові підстави для затримання без попередньо постановленої ухвали суду"
+        }
+    },
+    {
+        "id": 5,
+        "translation": {
+            "en": "Art 5 § 2 • Information on reasons for arrest • Tenor of questioning and circumstances of search communicating sufficient information • Applicant not prevented from challenging the lawfulness of his detention despite possible delay in the formal explanation of the reasons for arrest",
+            "uk": "П. 2 ст. 5 • Інформація про підстави затримання • Суть запитань та обставини проведення обшуку надали достатньо інформації • Заявнику не пере-шкоджали в оскарженні законності тримання його під вартою, незважаючи на можливу затримку з офіційним поясненням підстав затримання"
+        }
+    },
+    {
+        "id": 6,
+        "translation": {
+            "en": "Art 6 § 2 • Presumption of innocence • Wording of pre-trial detention order expressing the domestic court’s opinion that the applicant was guilty",
+            "uk": "П. 2 ст. 6 • Презумпція невинуватості • Формулювання постанови про обрання запобіжного заходу у вигляді тримання під вартою, яке відображало думку національного суду про вину заявника"
+        }
+    },
+    {
+        "id": 7,
+        "translation": {
+            "en": "STRASBOURG",
+            "uk": "СТРАСБУРГ"
+        }
+    },
+    {
+        "id": 8,
+        "translation": {
+            "en": "17 September 2020",
+            "uk": "17 вересня 2020 року"
+        }
+    },
+    {
+        "id": 9,
+        "translation": {
+            "en": "FINAL",
+            "uk": "ОСТАТОЧНЕ"
+        }
+    },
+    {
+        "id": 10,
+        "translation": {
+            "en": "17/12/2020",
+            "uk": "17.12.2020"
+        }
+    },
+    {
+        "id": 11,
+        "translation": {
+            "en": "This judgment has become final under Article 44 § 2 of the Convention. It may be subject to editorial revision.",
+            "uk": "Це рішення набуло статусу остаточного відповідно до пункту 2 статті 44 Конвенції. Його текст може підлягати редакційним виправленням."
+        }
+    },
+    {
+        "id": 12,
+        "translation": {
+            "en": "In the case of Grubnyk v. Ukraine,",
+            "uk": "У справі «Грубник проти України»"
+        }
+    },
+    {
+        "id": 13,
+        "translation": {
+            "en": "The European Court of Human Rights (Fifth Section), sitting as a Chamber composed of:",
+            "uk": "Європейський суд з прав людини (П’ята секція), засідаючи палатою, до складу якої увійшли:"
+        }
+    },
+    {
+        "id": 14,
+        "translation": {
+            "en": "Síofra O’Leary, President,\n\tGabriele Kucsko-Stadlmayer,\n\tGanna Yudkivska,\n\tMārtiņš Mits,\n\tLatif Hüseynov,\n\tLado Chanturia,\n\tAnja Seibert-Fohr, judges,\nand Victor Soloveytchik, Section Registrar,",
+            "uk": "Сіофра О’Лірі (Síofra O’Leary), Голова,\n\tГабріеле Куцско-Штадльмайер (Gabriele Kucsko-Stadlmayer),\n\tГанна Юдківська (Ganna Yudkivska),\n\tМартіньш Мітс (Mārtiņš Mits),\n\tЛятіф Гусейнов (Lәtif Hüseynov),\n\tЛадо Чантурія (Lado Chanturia),\n\tАня Сайбер-Фор (Anja Seibert-Fohr), судді,\nта Віктор Соловейчік (Victor Soloveytchik), заступник Секретаря секції,"
+        }
+    },
+    {
+        "id": 15,
+        "translation": {
+            "en": "Having deliberated in private on 25 August 2020,",
+            "uk": "після обговорення за зачиненими дверима 25 серпня 2020 року"
+        }
+    },
+    {
+        "id": 16,
+        "translation": {
+            "en": "Delivers the following judgment, which was adopted on that date:",
+            "uk": "постановляє таке рішення, що було ухвалено у той день:"
+        }
+    },
+    {
+        "id": 17,
+        "translation": {
+            "en": "PROCEDURE",
+            "uk": "процедура"
+        }
+    },
+    {
+        "id": 18,
+        "translation": {
+            "en": "1.  The case originated in an application (no. 58444/15) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Volodymyr Yuriyovych Grubnyk (“the applicant”), on 13 November 2015.",
+            "uk": "1.  Справу було розпочато за заявою (№ 58444/15), яку 13 листопада 2015 року подав до Суду проти України на підставі статті 34 Конвенції про захист прав людини і основоположних свобод (далі – Конвенція) громадянин України, пан Володимир Юрійович Грубник (далі – заявник)."
+        }
+    },
+    {
+        "id": 19,
+        "translation": {
+            "en": "2.  The applicant was initially represented by Mr V. Khilko and then by Mr A. Bogachev, lawyers practising in Odessa. The Ukrainian Government (“the Government”) were represented by their Agent, Mr I. Lishchyna.",
+            "uk": "2.  Спочатку заявника представляв пан В. Хілько, а згодом – \nпан А. Богачев, юристи, які практикують у м. Одеса. Уряд України (далі – Уряд) представляв його Уповноважений, пан І. Ліщина."
+        }
+    },
+    {
+        "id": 20,
+        "translation": {
+            "en": "4.  On 21 April 2016 notice of the above complaints was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "uk": "4.  21 квітня 2016 року Уряд було повідомлено про зазначені скарги, а решту скарг у заяві було визнано неприйнятними відповідно до пункту 3 Правила 54 Регламенту Суду."
+        }
+    },
+    {
+        "id": 21,
+        "translation": {
+            "en": "5.  On 3 September 2019 the Chamber invited the parties to submit further observations in respect of the applicant’s complaint under Article 5 § 3 of the Convention, in light of the judgment of the Constitutional Court of Ukraine of 25 June 2019 (see paragraph 53 below) any other relevant case-law of the domestic courts, notably that cited in paragraphs 54 to 56 below.",
+            "uk": "5.  03 вересня 2019 року палата запропонувала сторонам надати подальші зауваження щодо скарги заявника за пунктом 5 статті 5 Конвенції з огляду на Рішення Конституційного Суду України \nвід 25 червня 2019 року (див. пункт 53) та будь-яку іншу відповідну практику національних судів, зокрема наведену у пунктах 54 – 56."
+        }
+    },
+    {
+        "id": 22,
+        "translation": {
+            "en": "THE FACTS",
+            "uk": "Факти"
+        }
+    },
+    {
+        "id": 23,
+        "translation": {
+            "en": "THE CIRCUMSTANCES OF THE CASE",
+            "uk": "Обставини справи"
+        }
+    },
+    {
+        "id": 24,
+        "translation": {
+            "en": "6.  The applicant was born in 1983 and, at the time of the most recent communication from the parties to the Court, was detained in Odessa.",
+            "uk": "6.  Заявник народився у 1983 році і на момент отримання Судом останнього листа від сторін тримався під вартою у м. Одеса."
+        }
+    },
+    {
+        "id": 25,
+        "translation": {
+            "en": "Background information",
+            "uk": "Довідкова інформація"
+        }
+    },
+    {
+        "id": 26,
+        "translation": {
+            "en": "7.  In its report of 4 November 2015 the International Advisory Panel – an international body constituted by the Secretary General of the Council of Europe to assess the effectiveness of the investigations carried out by the Ukrainian authorities into the violent clashes during the Maidan demonstrations between 30 November 2013 and 21 February 2014 and events in Odessa in May 2014 – described the events in Odessa in the following terms:",
+            "uk": "7.  У своєму звіті від 04 листопада 2015 року Міжнародна дорадча група – міжнародний орган, створений Генеральним Секретарем Ради Європи для оцінки ефективності проведених українськими органами влади розслідувань щодо жорстоких сутичок під час демонстрацій на Майдані у період з 30 листопада 2013 року до 21 лютого 2014 року та подій у м. Одеса у травні 2014 року – описала події у м. Одеса так:"
+        }
+    },
+    {
+        "id": 27,
+        "translation": {
+            "en": "3. By May 2014 Odesa was unstable following numerous mass demonstrations, seizures of official buildings, incitements to violence and clashes between the profederalism and pro-unity activists.",
+            "uk": "3. До травня 2014 року ситуація в Одесі залишалася нестабільною після численних масових протестів, захоплень адміністративних будівель, провокацій та сутичок між прихильниками федералізації та єдності."
+        }
+    },
+    {
+        "id": 28,
+        "translation": {
+            "en": "On 2 May 2014 [major clashes between the pro-unity and pro-federalism activists and a fire at the Trade Union Building] occurred.",
+            "uk": "02 травня відбулися [основні сутички між прихильниками єдності та федералізації, а також пожежа у Будинку профспілок]."
+        }
+    },
+    {
+        "id": 29,
+        "translation": {
+            "en": "31. According to official statistics, as a result of the clashes on 2 May, 48 persons died (seven women and 41 men). Six persons died as a result of firearm injuries they had received during the clashes... and 42 died as a result of the fire in the Trade Union Building. Of those 42, 34 died as a direct result of the fire and eight died as a result of jumping or falling from a height ...”",
+            "uk": "31. Згідно з офіційною статистикою, у результаті сутичок 02 травня загинуло 48 осіб (сім жінок та 41 чоловік). Шестеро осіб загинули від вогнепальних поранень, які вони отримали під час сутичок ..., а також 42 особи загинули в результаті пожежі в Будинку профспілок. З цих 42 осіб, 34 особи загинули в результаті безпосередньо самої пожежі, а вісім загинули в результаті вистрибування чи падіння з висоти ...»"
+        }
+    },
+    {
+        "id": 30,
+        "translation": {
+            "en": "9.  In late 2014 and early 2015 a series of explosions occurred in Odessa. They mainly targeted military facilities and buildings occupied by volunteers supporting the Ukrainian military’s war effort in the east of Ukraine.",
+            "uk": "9.  Наприкінці 2014 року та на початку 2015 року у м. Одеса відбулася низка вибухів. Здебільшого вони були спрямовані на військові об’єкти та будівлі, зайняті добровольцями, які підтримували воєнні дії українських військовослужбовців на сході України."
+        }
+    },
+    {
+        "id": 31,
+        "translation": {
+            "en": "Explosion of 27 September 2015 and the applicant’s arrest",
+            "uk": "Вибух 27 вересня 2015 року та затримання заявника"
+        }
+    },
+    {
+        "id": 32,
+        "translation": {
+            "en": "11.  On 27 September 2015 an explosive device was placed outside the offices of the Odessa Regional Directorate of the Security Service of Ukraine (Служба безпеки України, “the SBU”, Ukraine’s domestic security agency), where it later exploded. There were no casualties.",
+            "uk": "11.  27 вересня 2015 року біля адміністративної будівлі Управління Служби безпеки України в Одеській області (далі – СБУ, орган національної безпеки України) було встановлено вибуховий пристрій, де він згодом вибухнув. Потерпілих не було."
+        }
+    },
+    {
+        "id": 33,
+        "translation": {
+            "en": "12.  On the same day the SBU started a criminal investigation into the incident, which was classified as a terrorist act. The incident received considerable media coverage.",
+            "uk": "12.  Того ж дня СБУ порушила кримінальне провадження за фактом інциденту, який був кваліфікований як терористичний акт. Інцидент отримав значне висвітлення у засобах масової інформації."
+        }
+    },
+    {
+        "id": 34,
+        "translation": {
+            "en": "From July to September 2015 the applicant planned the explosion. Communicating with co-conspirators through encrypted messaging applications, he and the members of his group had the necessary equipment purchased and the explosive device made. They also scoped the location and developed a plan for the operation.",
+            "uk": "Упродовж липня – вересня 2015 року заявник планував здійснення вибуху. Спілкуючись зі своїми спільниками за допомогою програм для обміну зашифрованими повідомленнями, він і члени його групи придбали необхідне обладнання та виготовили вибуховий пристрій. Вони також визначили місце проведення та розробили план операції."
+        }
+    },
+    {
+        "id": 35,
+        "translation": {
+            "en": "14.  On 1 October 2015, following a search of Ch.’s home and the retrieval of mobile telephone data, G. was identified as a suspect. Ch. himself could not be found. A search for him as a wanted person was commenced on 23 October 2015.",
+            "uk": "14.  01 жовтня 2015 року після обшуку в будинку Ч. та отримання інформації з мобільного телефону, Г. було ідентифіковано як підозрюваного. Самого Ч. знайти не вдалося. 23 жовтня 2015 року його було оголошено у розшук."
+        }
+    },
+    {
+        "id": 36,
+        "translation": {
+            "en": "15.  On 15 October 2015 a considerable amount of gunpowder was discovered in G.’s home. He was later convicted in a separate case (see paragraph 32 below). A mobile telephone used to communicate with other members of the group was discovered and G. was questioned. On 19 October 2015 the investigating authority also showed him a line-up of photographs including the applicant’s.",
+            "uk": "15.  15 жовтня 2015 року в будинку Г. було виявлено значну кількість пороху. Згодом його визнали винним в окремому провадженні (див. пункт 32). Було виявлено мобільний телефон, який використовувався для спілкування з іншими членами групи, і Г. допитали. 19 жовтня 2015 року працівники слідчого органу також пред’явили йому низку фотознімків для впізнання, у тому числі фотознімки заявника."
+        }
+    },
+    {
+        "id": 37,
+        "translation": {
+            "en": "16.  At 10.30 a.m. on 19 October 2015 SBU officers arrested the applicant outside his home, in his car, on suspicion of organising the explosion.",
+            "uk": "16.  19 жовтня 2015 року о 10 год. 30 хв. працівники СБУ затримали заявника в його автомобілі поза межами житла за підозрою в організації вибуху."
+        }
+    },
+    {
+        "id": 38,
+        "translation": {
+            "en": "17.  According to the Government, at the time of the applicant’s arrest the officers introduced themselves and informed him of the reasons for the arrest and his rights, as they were required to do by the Code of Criminal Procedure (see paragraph 45 below). According to the Government, the applicant resisted arrest. The applicant denied this and stated that, in actual fact, the officers had behaved in “an aggressive manner”. He also denied that the officers had informed him of the reasons for his arrest.",
+            "uk": "17.  Згідно з твердженнями Уряду під час затримання заявника працівники СБУ представились і поінформували його про підстави затримання та роз’яснили йому його права, як від них вимагалося відповідно до Кримінального процесуального кодексу України (див. пункт 45). Згідно з твердженнями Уряду заявник чинив опір затриманню. Заявник це заперечив і зазначив, що насправді саме працівники СБУ поводились «агресивно». Він також заперечив, що працівники СБУ поінформували його про підстави затримання."
+        }
+    },
+    {
+        "id": 39,
+        "translation": {
+            "en": "18.  From 11 a.m. to 8.30 p.m. that day an SBU investigator conducted a search of the applicant’s home. A large number of mobile telephones, SIM cards, notes, ammunition, body armour, balaclavas and camouflage clothing were seized, as well as the lease for the Parkova Street flat and other items. The applicant was also searched and numerous items were seized, including a key ring holding a number of keys.",
+            "uk": "18.  З 11 год. 00 хв. до 20 год. 30 хв. того дня слідчий СБУ проводив обшук у житлі заявника. Було вилучено велику кількість мобільних телефонів, SIM-карт, блокнотів, амуніцію, бронежилет, шапок типу «балаклава» та камуфляжну форму, а також договір оренди квартири на вулиці Парковій та інші предмети. Також було проведено обшук заявника та вилучено численні предмети, у тому числі кільце, яке скріплювало декілька ключів."
+        }
+    },
+    {
+        "id": 40,
+        "translation": {
+            "en": "20.  The search reports were signed by the applicant, his father (the first report), the flat’s owner (the second report), two attesting witnesses, the investigator and two other SBU officers, listing them all by full name and rank. They identified the dates, time of start and finish and the locations of the searches.",
+            "uk": "20.  Протоколи обшуку підписали заявник, його батько (перший протокол), власник квартири (другий протокол), двоє понятих, слідчий та два інші працівники СБУ, були вказані їхні повні імена та звання. У протоколах були вказані дати, час початку та закінчення, а також місця проведення обшуків."
+        }
+    },
+    {
+        "id": 41,
+        "translation": {
+            "en": "21.  According to an expert report subsequently summarised in the charges against the applicant (see paragraph 33 below), the explosives discovered had the potential to cause damage within at least a sixty-seven metre radius.",
+            "uk": "21.  Згідно з висновком експерта, короткий виклад якого був згодом наведений у повідомленні про підозру заявнику (див. пункт 33), виявлені вибухові речовини могли заподіяти шкоду в радіусі щонайменше шістдесяти семи метрів."
+        }
+    },
+    {
+        "id": 42,
+        "translation": {
+            "en": "23.  At 10.30 a.m. on 20 October 2015 the applicant was served with a formal notification of suspicion stating that he had, between July and September 2015, conspired with G., V. and Ch. and other unidentified individuals to plan and prepare a terrorist act, and that he had then, on 27 September 2015, committed a terrorist act, an offence under Article 258 § 2 of the Criminal Code (see paragraph 49 below).",
+            "uk": "23.  20 жовтня 2015 року о 10 год. 30 хв. заявнику було вручено офіційне повідомлення про підозру, в якому зазначалося, що у період з липня до вересня 2015 року заявник вступив у змову з Г., В. і Ч. та іншими невстановленими особами для планування та підготовки терористичного акту, а також згодом, 27 вересня 2015 року, заявник вчинив терористичний акт, злочин, передбачений частиною другою статті 258 Кримінального кодексу України (див. пункт 49)."
+        }
+    },
+    {
+        "id": 43,
+        "translation": {
+            "en": "24.  It is not contested that the applicant’s right to access a lawyer was respected only from 20 October 2015 after the arrest report had been drawn up and formal notification of suspicion served.",
+            "uk": "24.  Не оскаржується, що лише з 20 жовтня 2015 року після складання протоколу про затримання та вручення офіційного повідомлення про підозру заявник отримав право на доступ до захисника."
+        }
+    },
+    {
+        "id": 44,
+        "translation": {
+            "en": "The applicant’s placement in pre-trial detention",
+            "uk": "Взяття заявника під варту під час досудового слідства"
+        }
+    },
+    {
+        "id": 45,
+        "translation": {
+            "en": "26.  On the same day the District Court held a hearing at which it heard submissions from the prosecutor, the applicant and his lawyer. It ordered his pre-trial detention for sixty days, to be counted from 10.30 a.m. on 19 October 2015. The reasons were formulated as follows:",
+            "uk": "26.  Того ж дня районний суд провів засідання, на якому заслухав доводи прокурора, заявника та його захисника. Суд обрав заявнику запобіжний захід у вигляді тримання під вартою на строк шістдесят діб, який мав обчислюватися з 19 год. 30 хв. 19 жовтня 2015 року. Підстави для такого рішення були сформульовані так:"
+        }
+    },
+    {
+        "id": 46,
+        "translation": {
+            "en": "“The pre-trial investigation authorities suspect [the applicant] of commission of a [terrorist act] under the following circumstances:",
+            "uk": "«Органами досудового розслідування [заявник] підозрюється у вчиненні [терористичного акту], за наступних обставин:"
+        }
+    },
+    {
+        "id": 47,
+        "translation": {
+            "en": "[there followed a seventeen-paragraph description of the facts as presented by the investigator, set out in paragraph 13 above]",
+            "uk": "[далі у сімнадцяти абзацах наводився опис поданих слідчим фактів, як вони наведені у пункті 13]"
+        }
+    },
+    {
+        "id": 48,
+        "translation": {
+            "en": "On 19 October 2015 [the applicant was arrested under the provision of the Code of Criminal Procedure allowing arrests without a court warrant].",
+            "uk": "19 жовтня 2015 року [заявник був затриманий на підставі положень Кримінального процесуального кодексу України, які передбачали можливість затримання за відсутності ухвали суду про обрання запобіжного заходу]."
+        }
+    },
+    {
+        "id": 49,
+        "translation": {
+            "en": "On 20 October 2015 [the applicant was served with a formal notification of suspicion].",
+            "uk": "20 жовтня 2015 року [заявнику було вручено офіційне повідомлення про підозру]."
+        }
+    },
+    {
+        "id": 50,
+        "translation": {
+            "en": "[... In] the course of the pre-trial investigation it has been established that there was a risk [that the applicant would abscond]. The need to prevent new attempts to abscond is grounds for applying pre-trial detention. Other, less restrictive, preventive measures would not ensure the applicant’s compliance with his [procedural obligations].",
+            "uk": "[... Під] час досудового розслідування встановлено наявність ризику, [що заявник може переховуватися]. В обґрунтування необхідності застосування запобіжного заходу ставиться запобігання подальших спроб переховуватись від органів досудового слідства. Інші, менш суворі запобіжні заходи, не забезпечать виконання заявником його [процесуальних обов’язків]."
+        }
+    },
+    {
+        "id": 51,
+        "translation": {
+            "en": "In the course of the hearing the prosecutor supported the investigator’s application ...",
+            "uk": "Прокурор у судовому засіданні підтримав клопотання слідчого: ..."
+        }
+    },
+    {
+        "id": 52,
+        "translation": {
+            "en": "[The applicant] and his lawyer objected ...",
+            "uk": "[Заявник] та його захисник заперечили проти ..."
+        }
+    },
+    {
+        "id": 53,
+        "translation": {
+            "en": "Having examined the material on which the application is based, having examined the suspect, his lawyer ... having considered the prosecutor’s position, I come to the conclusion that the application must be granted for the following reasons.",
+            "uk": "Вивчивши матеріали, які обґрунтовують доводи клопотання, допитавши підозрюваного, його захисника...., вислухавши думку прокурора, приходжу до висновку, що клопотання слідчого підлягає задоволенню з наступних підстав."
+        }
+    },
+    {
+        "id": 54,
+        "translation": {
+            "en": "It can be seen from the criminal case material submitted that there is a reasonable suspicion that the applicant committed the offence [under the Criminal Code provision providing for the punishment of terrorist acts], which is punishable by more than ten years’ imprisonment.",
+            "uk": "З наданих матеріалів досудового розслідування вбачається, що заявник обґрунтовано підозрюється у вчиненні кримінального правопорушення, [передбаченого Кримінальним кодексом України щодо покарання за вчинення терористичного акту], за яке передбачено покарання тільки у виді позбавлення волі на строк більше десяти років."
+        }
+    },
+    {
+        "id": 55,
+        "translation": {
+            "en": "The above-mentioned circumstances show that there are risks which give reason to believe that the suspect may breach the procedural obligations imposed on him by law.",
+            "uk": "Викладені обставини свідчать про наявність ризиків, які дають достатні підстави вважати, що підозрюваний може порушити покладені на нього Законом процесуальні обов’язки."
+        }
+    },
+    {
+        "id": 56,
+        "translation": {
+            "en": "The aim of the imposition of pre-trial detention on [the applicant] is the prevention of attempts to abscond from the pre-trial investigation authorities or the court; destroy, conceal or spoil any of the items or documents that are of material importance for establishing the circumstances of the criminal offence; exert unlawful influence on the victim or the witnesses in the same criminal proceedings; obstruct the criminal proceedings and commit another criminal offence.",
+            "uk": "Метою застосування запобіжного заходу у вигляді тримання під вартою [заявника] є запобігання спробам переховуватися від органу досудового розслідування або суду; знищити, сховати або спотворити будь-яку із речей чи документів, які мають істотне значення для встановлення обставин кримінального правопорушення; незаконно впливати на потерпілого або свідків у цьому ж кримінальному провадженні; перешкоджати кримінальному провадженню та вчинити інше кримінальне правопорушення."
+        }
+    },
+    {
+        "id": 57,
+        "translation": {
+            "en": "The evidence for this is that [the applicant] committed a particularly grave offence (доказами цього є те, що Грубник В.Ю. вчинив особливо тяжкий злочин).",
+            "uk": "Доказами цього є те, що Грубник В.Ю. вчинив особливо тяжкий злочин."
+        }
+    },
+    {
+        "id": 58,
+        "translation": {
+            "en": "In [imposing] pre-trial detention I take into account the weighty evidence pointing to the commission of the offence by the applicant, the severity of the punishment which he faces, his age and his state of health.",
+            "uk": "При [обранні] запобіжного заходу у вигляді тримання під вартою, також враховую вагомість наявних доказів про вчинення заявником кримінального правопорушення, тяжкість покарання, що йому загрожує, вік та стан його здоров’я."
+        }
+    },
+    {
+        "id": 59,
+        "translation": {
+            "en": "I consider that the prosecutor, in the course of the hearing regarding the application for pre-trial detention, has submitted material sufficient to [support the opinion] that none of the less restrictive preventive measures would prevent the occurrence of the risks proven in the course of the hearing.",
+            "uk": "Вважаю, що прокурором під час розгляду клопотання про обрання запобіжного заходу у вигляді тримання під вартою надано матеріали [для доведення думки], що жоден із більш м’яких запобіжних заходів не може запобігти доведеним під час розгляду ризикам."
+        }
+    },
+    {
+        "id": 60,
+        "translation": {
+            "en": "There are none of the circumstances provided for by Article 183 § 2 of the Code of Criminal Procedure] that would prevent the application of pre-trial detention.",
+            "uk": "Обставини, передбачені частиною другою статті 183 Кримінального процесуального кодексу України], які є перешкодою для застосування запобіжного заходу у вигляді тримання під вартою, не встановлено."
+        }
+    },
+    {
+        "id": 61,
+        "translation": {
+            "en": "In summary, based on the material submitted, I have come to the conclusion that less restrictive preventive measures may fail to ensure that the [applicant] conduct himself in an appropriate fashion.",
+            "uk": "Таким чином, на підставі наданих матеріалів, приходжу до висновку, що більш м’які запобіжні заходи можуть не забезпечити належної поведінки [заявника]."
+        }
+    },
+    {
+        "id": 62,
+        "translation": {
+            "en": "Also (при цьому), pursuant to Article 176 § 5 of the Code of Criminal Procedure, preventive measures less restrictive than pre-trial detention cannot be imposed on a person who is suspected of [the provision of the Criminal Code providing for the punishment of terrorist acts].",
+            "uk": "При цьому, відповідно до частини п’ятої статті 176 Кримінального процесуального кодексу України більш м’які запобіжні заходи за тримання під вартою, не можуть бути застосовані до особи, яка підозрюється у вчиненні злочину, [передбаченого положенням Кримінального кодексу України щодо покарання за вчинення терористичного акту]."
+        }
+    },
+    {
+        "id": 63,
+        "translation": {
+            "en": "It is impossible to prevent the risks set out in the application by applying less restrictive preventive measures.”",
+            "uk": "Запобігти ризикам, зазначеним у клопотанні, шляхом застосування більш м’яких запобіжних заходів неможливо.»"
+        }
+    },
+    {
+        "id": 64,
+        "translation": {
+            "en": "27.  On the same date the District Court also ordered the pre-trial detention of the other two suspects.",
+            "uk": "27.  Цієї дати районний суд також обрав запобіжний захід у вигляді тримання під вартою для двох інших підозрюваних."
+        }
+    },
+    {
+        "id": 65,
+        "translation": {
+            "en": "30.  Concerning the grounds for the applicant’s arrest, the investigator’s application for pre-trial detention, the District Court’s and the Court of Appeal’s decisions all contained the same statement: “On 19 October 2015 [the applicant] was arrested under Article 208 of the Code of Criminal Procedure” (see paragraph 45 below).",
+            "uk": "30.  Щодо підстав для затримання заявника, клопотання слідчого про обрання запобіжного заходу у вигляді тримання під вартою, ухвали районного та апеляційного суду містили одне і те саме формулювання: «19 жовтня 2015 року [заявник] був затриманий у порядку статті 208 Кримінального процесуального кодексу України» (див. пункт 45)."
+        }
+    },
+    {
+        "id": 66,
+        "translation": {
+            "en": "Subsequent criminal proceedings",
+            "uk": "Подальше кримінальне провадження"
+        }
+    },
+    {
+        "id": 67,
+        "translation": {
+            "en": "31.  On 17 December 2015 the District Court extended the detention of the applicant and the other two suspects. No copy of the relevant detention order was provided to the Court.",
+            "uk": "31.  17 грудня 2015 року районний суд продовжив строк тримання заявника та інших двох підозрюваних під вартою. Суду не було надано копії відповідної ухвали."
+        }
+    },
+    {
+        "id": 68,
+        "translation": {
+            "en": "32.  On 9 February 2016 the proceedings against G. were split into a separate case. He pleaded guilty and on 29 March 2016 the District Court convicted him of participation in the creation of a terrorist group, commission of a terrorist act, preparation of terrorist acts, and unlawful possession of firearms. Reducing the sentence due to G.’s cooperation, the court convicted him to four and a half years’ imprisonment.",
+            "uk": "32.  09 лютого 2016 року провадження щодо Г. було виділено в окрему справу. Він визнав свою вину, і 29 березня 2016 року районний суд визнав його винним в участі у створенні терористичної групи, вчиненні терористичного акту, підготовці до терористичних актів і незаконному зберіганні вогнепальної зброї. Зменшивши покарання у зв’язку з угодою Г. про визнання винуватості, суд обрав йому покарання у виді позбавлення волі на строк чотири з половиною роки."
+        }
+    },
+    {
+        "id": 69,
+        "translation": {
+            "en": "33.  On 11 March 2016, almost five months after his arrest, the charges against the applicant were amended. He was notified that he was accused of creation, leadership of and membership in of a terrorist group, unlawful fabrication of explosives, unlawful possession of firearms (two handguns, ammunition and a silencer), commission of a terrorist act, and preparation of new terrorist acts after the explosion at the SBU building.",
+            "uk": "33.  11 березня 2016 року, майже через п’ять місяців після його затримання, до пред’явлених заявнику обвинувачень було внесено зміни. Заявнику було повідомлено, що його обвинувачували у створенні, керівництві та членстві у терористичній групі, незаконному виготовленні вибухових речовин, незаконному зберіганні вогнепальної зброї (два пістолети, амуніція та глушник), вчиненні терористичного акту та підготовці нового терористичного акту після здійснення вибуху біля будівлі СБУ."
+        }
+    },
+    {
+        "id": 70,
+        "translation": {
+            "en": "34.  On 30 March 2016 the District Court again extended the applicant’s detention.",
+            "uk": "34.  30 березня 2016 року районний суд знову продовжив строк тримання заявника під вартою."
+        }
+    },
+    {
+        "id": 71,
+        "translation": {
+            "en": "35.  On 8 April 2016 the Court of Appeal upheld that extension order. It pointed out that, according to the material provided by the prosecution, the suspect had organised clandestine activities, searched for material for the commission of terrorist acts, and ensured the safe movement of members of the terrorist group. Those elements indicated that, if the suspect were at liberty, there was a risk that he would commit new serious offences, abscond or interfere with the investigation.",
+            "uk": "35.  08 квітня 2016 року апеляційний суд залишив без змін ухвалу про продовження строку тримання під вартою. Він вказав, що згідно з наданими стороною обвинувачення матеріалами підозрюваний організовував протиправну діяльність, шукав знаряддя для вчинення терористичних актів і забезпечував безпечне пересування членів терористичної групи. Ці елементи свідчили, що у випадку перебування заявника на свободі існував ризик вчинення нових тяжких злочинів, переховування або перешкоджання розслідуванню."
+        }
+    },
+    {
+        "id": 72,
+        "translation": {
+            "en": "36.  On 12 April 2016 the bill of indictment in respect of the applicant was transferred to the District Court for trial.",
+            "uk": "36.  12 квітня 2016 року обвинувальний висновок щодо заявника було направлено до районного суду для розгляду по суті."
+        }
+    },
+    {
+        "id": 73,
+        "translation": {
+            "en": "37.  Subsequently the District Court extended the applicant’s detention on multiple occasions. According to the most recent information from the parties, on 3 October 2019 his detention was extended until 2 December 2019.",
+            "uk": "37.  Згодом районний суд неодноразово продовжував строк тримання заявника під вартою. Згідно з останньою наданою сторонами інформацією 03 жовтня 2019 року строк тримання його під вартою було продовжено до 02 грудня 2019 року."
+        }
+    },
+    {
+        "id": 74,
+        "translation": {
+            "en": "38.  According to media reports, on 26 November 2019 the District Court extended the applicant’s detention until 25 January 2020 but on 29 December 2019 he was released and handed over to the so-called “DPR” as part of a large exchange of prisoners agreed through negotiations between Ukraine and Russia.",
+            "uk": "38.  Згідно з повідомленнями засобів масової інформації \n26 листопада 2019 року районний суд продовжив строк тримання заявника під вартою до 25 січня 2020 року, але 29 грудня 2019 року заявник був звільнений з-під варти і переданий так званій «ДНР» у межах великого обміну полоненими, узгодженого під час переговорів між Україною та Росією."
+        }
+    },
+    {
+        "id": 75,
+        "translation": {
+            "en": "RELEVANT DOMESTIC LAW",
+            "uk": "відповідне національне законодавство"
+        }
+    },
+    {
+        "id": 76,
+        "translation": {
+            "en": "Constitution of Ukraine 1996",
+            "uk": "Конституція України 1996 року"
+        }
+    },
+    {
+        "id": 77,
+        "translation": {
+            "en": "39.  Article 29, which is relevant to the case, reads as follows:",
+            "uk": "39.  Стаття 29, яка стосується цієї справи, передбачає:"
+        }
+    },
+    {
+        "id": 78,
+        "translation": {
+            "en": "“Every person has the right to freedom and personal inviolability.",
+            "uk": "«Кожна людина має право на свободу та особисту недоторканність."
+        }
+    },
+    {
+        "id": 79,
+        "translation": {
+            "en": "No one shall be arrested or held in custody other than pursuant to a reasoned court decision and only on the grounds and in accordance with the procedure established by law.",
+            "uk": "Ніхто не може бути заарештований або триматися під вартою інакше як за вмотивованим рішенням суду і тільки на підставах та в порядку, встановлених законом."
+        }
+    },
+    {
+        "id": 80,
+        "translation": {
+            "en": "In the event of an urgent necessity to prevent or stop a crime, bodies authorised by law may hold a person in custody as a temporary preventive measure, the reasonable grounds for which shall be verified by a court within seventy-two hours. The detained person shall be released immediately if he or she has not been provided, within seventy-two hours of the time of detention, with a reasoned court decision in respect of the holding in custody...”",
+            "uk": "У разі нагальної необхідності запобігти злочинові чи його перепинити уповноважені на те законом органи можуть застосувати тримання особи під вартою як тимчасовий запобіжний захід, обґрунтованість якого протягом сімдесяти двох годин має бути перевірена судом. Затримана особа негайно звільняється, якщо протягом сімдесяти двох годин з моменту затримання їй не вручено вмотивованого рішення суду про тримання під вартою ...»"
+        }
+    },
+    {
+        "id": 81,
+        "translation": {
+            "en": "Code of Criminal Procedure 2012",
+            "uk": "Кримінальний процесуальний кодекс України 2012 року"
+        }
+    },
+    {
+        "id": 82,
+        "translation": {
+            "en": "40.  Article 176 § 1 provides for the following preventive measures:",
+            "uk": "40.  Частиною першою статті 176 передбачено такі запобіжні заходи:"
+        }
+    },
+    {
+        "id": 83,
+        "translation": {
+            "en": "(i)  a personal undertaking of the defendant;",
+            "uk": "(i)  особисте зобов’язання;"
+        }
+    },
+    {
+        "id": 84,
+        "translation": {
+            "en": "(ii)  a personal warranty of a third party;",
+            "uk": "(ii)  особиста порука;"
+        }
+    },
+    {
+        "id": 85,
+        "translation": {
+            "en": "(iii)  bail;",
+            "uk": "(iii)  застава;"
+        }
+    },
+    {
+        "id": 86,
+        "translation": {
+            "en": "(iv)  house arrest; and",
+            "uk": "(iv)  домашній арешт; та"
+        }
+    },
+    {
+        "id": 87,
+        "translation": {
+            "en": "(v)  pre-trial detention.",
+            "uk": "(v)  тримання під вартою."
+        }
+    },
+    {
+        "id": 88,
+        "translation": {
+            "en": "The investigating judge or the court must reject an application for a preventive measure if the investigator or the prosecutor has not proven that there are sufficient grounds to believe that none of the more lenient preventive measures would be sufficient for the prevention of the established risk or risks. The most lenient preventive measure is a personal undertaking and the most severe is pre-trial detention (Article 176 § 3).",
+            "uk": "Слідчий суддя або суд відмовляє у застосуванні запобіжного заходу, якщо слідчий або прокурор не доведе існування достатніх підстав для переконання, що жоден із більш м’яких запобіжних заходів не зможе запобігти доведеним під час розгляду ризику або ризикам. Найбільш м’яким запобіжним заходом є особисте зобов’язання, а найбільш суворим – тримання під вартою (частина третя статті 176)."
+        }
+    },
+    {
+        "id": 89,
+        "translation": {
+            "en": "Preventive measures are applied by the judge at the request of the investigator, on application by the prosecutor, or on application by the investigator approved by the prosecutor (Article 176 § 4).",
+            "uk": "Запобіжні заходи застосовуються слідчим суддею за клопотанням слідчого, за клопотанням прокурора, або за клопотанням слідчого, погодженим з прокурором (частина четверта статті 176)."
+        }
+    },
+    {
+        "id": 90,
+        "translation": {
+            "en": "Article 176 § 5, added by the Act of 7 October 2014 (hereinafter also “the Bail Exclusion Clause”, see paragraph 50 below regarding its legislative history), provides that “preventive measures of a personal undertaking, a personal warranty, house arrest and bail may not be imposed on people who are suspected of or charged” with:",
+            "uk": "Частиною п’ятою статті 176, додана Законом України від 07 жовтня 2014 року (далі також – положення про неможливість застосування інших запобіжних заходів, окрім тримання під вартою, див. пункт 50 щодо історії розробки цього положення), передбачено, що «запобіжні заходи у вигляді особистого зобов’язання, особистої поруки, домашнього арешту, застави не можуть бути застосовані до осіб, які підозрюються або обвинувачуються» у:"
+        }
+    },
+    {
+        "id": 91,
+        "translation": {
+            "en": "(i)  terrorism (Article 258 of the Criminal Code, see paragraph 49 below) and certain terrorism-related offences: creation of a terrorist group, recruitment for the purposes of terrorism, public appeals to commit a terrorist act and terrorism financing;",
+            "uk": "(i)  тероризмі (стаття 258 Кримінального кодексу України, див. пункт 49) та певних злочинах, пов’язаних з тероризмом: створення терористичної групи, вербування з метою вчинення терористичного акту, публічні заклики до вчинення терористичного акту та фінансування тероризму;"
+        }
+    },
+    {
+        "id": 92,
+        "translation": {
+            "en": "(ii)  certain offences against national security, such as treason, attacks on the territorial integrity of Ukraine, creation of an unlawful armed group, and so forth.",
+            "uk": "(ii)  вчиненні певних злочинів проти основ національної безпеки, таких як зрада, посягання на територіальну цілісність України, створення незаконного збройного формування тощо."
+        }
+    },
+    {
+        "id": 93,
+        "translation": {
+            "en": "41.  Article 177 § 1 provides that the purpose of preventive measures is to ensure compliance with procedural obligations and prevent the risk of the suspect or accused:",
+            "uk": "41.  Частиною першою статті 177 передбачено, що метою запобіжних заходів є забезпечення виконання процесуальних обов’язків і запобігання спробам підозрюваного чи обвинуваченого:"
+        }
+    },
+    {
+        "id": 94,
+        "translation": {
+            "en": "(i)  absconding from the pre-trial investigation authorities and/or the court;",
+            "uk": "(i)  переховуватися від органів досудового розслідування та/або суду;"
+        }
+    },
+    {
+        "id": 95,
+        "translation": {
+            "en": "(ii)  destroying, concealing or spoiling any of the items or documents that are of essential importance for establishing the circumstances of the criminal offence;",
+            "uk": "(ii)  знищити, сховати або спотворити будь-яку із речей чи документів, які мають істотне значення для встановлення обставин кримінального правопорушення;"
+        }
+    },
+    {
+        "id": 96,
+        "translation": {
+            "en": "(iii)  exerting unlawful influence on the victim, witnesses, other suspects, the accused, expert...;",
+            "uk": "(iii)  незаконно впливати на потерпілого, свідка, іншого підозрюваного, обвинуваченого, експерта...;"
+        }
+    },
+    {
+        "id": 97,
+        "translation": {
+            "en": "(iv)  obstructing the criminal proceedings in any other way;",
+            "uk": "(iv)  перешкоджати кримінальному провадженню іншим чином;"
+        }
+    },
+    {
+        "id": 98,
+        "translation": {
+            "en": "(v)  committing another criminal offence or continuing the criminal offence of which he or she is suspected or accused.",
+            "uk": "(v)  вчинити інше кримінальне правопорушення чи продовжити кримінальне правопорушення, в якому підозрюється або обвинувачується особа."
+        }
+    },
+    {
+        "id": 99,
+        "translation": {
+            "en": "Article 177 § 2 provides that a preventive measure can be applied provided that there is a reasonable suspicion that the person has committed a criminal offence and there are risks giving sufficient grounds for the judge to believe that the suspect, accused or convicted person could commit the actions specified in Article 177 § 1.",
+            "uk": "Частиною другою статті 177 передбачено, що запобіжний захід може бути застосований за умови наявності обґрунтованої підозри у вчиненні особою кримінального правопорушення та наявності ризиків, які дають достатні підстави судді вважати, що підозрюваний, обвинувачений або засуджений може вчинити дії, передбачені частиною першою статті 177."
+        }
+    },
+    {
+        "id": 100,
+        "translation": {
+            "en": "43.  Article 194 § 1 provides that, in examining an application for a preventive measure, the court must consider whether the following circumstances have been proven:",
+            "uk": "43.  Частиною першою статті 194 передбачено, що під час розгляду клопотання про застосування запобіжного заходу суд зобов’язаний встановити, чи були доведені такі обставини:"
+        }
+    },
+    {
+        "id": 101,
+        "translation": {
+            "en": "(i)  there is a reasonable suspicion against the suspect or accused;",
+            "uk": "(i)  наявність обґрунтованої підозри у вчиненні підозрюваним або обвинуваченим кримінального правопорушення;"
+        }
+    },
+    {
+        "id": 102,
+        "translation": {
+            "en": "(ii)  the prosecutor asserts in the application for a preventive measure, and there are sufficient grounds to believe, that there is at least one of the risks specified in Article 177;",
+            "uk": "(ii)  прокурор стверджує у клопотанні про застосування запобіжного заходу про наявність достатніх підстав вважати, що існує хоча б один із ризиків, передбачених статтею 177;"
+        }
+    },
+    {
+        "id": 103,
+        "translation": {
+            "en": "(iii)  less severe preventive measures would be insufficient to prevent the relevant risks identified in the application.",
+            "uk": "(iii)  недостатність застосування більш м’яких запобіжних заходів для запобігання відповідним ризикам, зазначеним у клопотанні;"
+        }
+    },
+    {
+        "id": 104,
+        "translation": {
+            "en": "Article 194 § 2 provides that the court must refuse to apply a preventive measure if the prosecutor has failed to prove the existence of all the circumstances specified in Article 194 § 1.",
+            "uk": "Частиною другою статті 194 передбачено, що суд зобов’язаний відмовити у застосуванні запобіжного заходу, якщо прокурор не довів наявність всіх обставин, передбачених частиною першою статті 194."
+        }
+    },
+    {
+        "id": 105,
+        "translation": {
+            "en": "Article 194 § 3 provides that if the prosecutor has proven the existence of a reasonable suspicion, but not the existence of the risks and an inability to prevent them, the court may bind the suspect or the accused over to appear when summoned by the court or another authority. This binding over order is not considered a “preventive measure”.",
+            "uk": "Частиною третьою статті 194 передбачено, що якщо прокурор довів наявність обґрунтованої підозри, але не наявність ризиків і неможливість їхнього запобігання, суд може зобов’язати підозрюваного або обвинуваченого прибувати за кожною вимогою до суду або до іншого органу державної влади. Це зобов’язання не вважається «запобіжним заходом»."
+        }
+    },
+    {
+        "id": 106,
+        "translation": {
+            "en": "44.  Article 198 provides that the findings made in the order imposing a preventive measure concerning any circumstances regarding the substance of the suspicion or charges against the applicant are not binding (не мають преюдиціального значення) on the trial court, investigating authority and prosecutors in the course of the same and other criminal proceedings.",
+            "uk": "44.  Статтею 198 передбачено, що висловлені в ухвалі про застосування запобіжного заходу висновки щодо будь-яких обставин, які стосуються суті підозри або обвинувачення, не мають преюдиціального значення для суду першої інстанції, для слідчого чи прокурора під час цього або іншого кримінального провадження."
+        }
+    },
+    {
+        "id": 107,
+        "translation": {
+            "en": "45.  Article 208 authorises arrests without a court order in the following circumstances and subjects them to the following requirements:",
+            "uk": "45.  Стаття 208 санкціонує затримання без ухвали суду у таких випадках і передбачає такі вимоги:"
+        }
+    },
+    {
+        "id": 108,
+        "translation": {
+            "en": "“1. [In the absence of a court order a] competent official shall be entitled to arrest a person suspected of having committed a crime for which imprisonment may be imposed only in the following cases:",
+            "uk": "«1. [За відсутності ухвали суду] уповноважена службова особа має право затримати особу, підозрювану у вчиненні злочину, за який передбачене покарання у виді позбавлення волі, лише у випадках:"
+        }
+    },
+    {
+        "id": 109,
+        "translation": {
+            "en": "(1) if the person has been caught whilst committing a crime or attempting to commit one; or",
+            "uk": "(1) якщо цю особу застали під час вчинення злочину або замаху на його вчинення; або"
+        }
+    },
+    {
+        "id": 110,
+        "translation": {
+            "en": "(2) if immediately (безпосередньо) after a criminal offence the statements of an eyewitness, including the victim, or [a combination] of clear signs on the body, clothes or at the scene of the event indicate that the person has just committed an offence...",
+            "uk": "(2) якщо безпосередньо після вчинення злочину очевидець, в тому числі потерпілий, або [поєднання] очевидних ознак на тілі, одязі чи місці події вказують на те, що саме ця особа щойно вчинила злочин..."
+        }
+    },
+    {
+        "id": 111,
+        "translation": {
+            "en": "46.  Article 276 provides that when a person has been arrested, a formal notification of suspicion must be served on him or her. From that moment, the person acquires the procedural status of a suspect. On service of the formal notification, he or she must be informed of his or her procedural rights, including the right to remain silent and have legal assistance.",
+            "uk": "46.  Стаття 276 передбачає, що у випадку затримання особи їй необхідно офіційно повідомити про підозру. З цього моменту особа набуває процесуального статусу підозрюваного. Під час здійснення офіційного повідомлення особа має бути проінформована про свої процесуальні права, у тому числі право зберігати мовчання та право на правову допомогу."
+        }
+    },
+    {
+        "id": 112,
+        "translation": {
+            "en": "Code of Criminal Procedure 1960",
+            "uk": "Кримінально-процесуальний кодекс України 1960 року"
+        }
+    },
+    {
+        "id": 113,
+        "translation": {
+            "en": "47.  The relevant provisions of the Code, in effect until 18 November 2012, provided:",
+            "uk": "47.  Відповідні положення Кодексу, який був чинним до \n18 листопада 2012, передбачали:"
+        }
+    },
+    {
+        "id": 114,
+        "translation": {
+            "en": "Article 106. Arrest of a suspect by the body of inquiry",
+            "uk": "Стаття 106. Затримання органом дізнання підозрюваного у вчиненні злочину"
+        }
+    },
+    {
+        "id": 115,
+        "translation": {
+            "en": "“The body of inquiry shall only be entitled to arrest a person suspected of a criminal offence for which a penalty in the form of deprivation of liberty may be imposed on one of the following grounds:",
+            "uk": "«Орган дізнання вправі затримати особу, підозрювану у вчиненні злочину, за який може бути призначено покарання у вигляді позбавлення волі, лише при наявності однієї з таких підстав:"
+        }
+    },
+    {
+        "id": 116,
+        "translation": {
+            "en": "(1) if the person is discovered while or immediately after committing an offence;",
+            "uk": "(1) коли цю особу застали при вчиненні злочину або безпосередньо після його вчинення;"
+        }
+    },
+    {
+        "id": 117,
+        "translation": {
+            "en": "(2) if eyewitnesses, including victims, directly identify this person as the one who committed the offence;",
+            "uk": "(2) коли очевидці, в тому числі й потерпілі, прямо вкажуть на дану особу, що саме вона вчинила злочин;"
+        }
+    },
+    {
+        "id": 118,
+        "translation": {
+            "en": "(3) if clear traces of the offence are found either on the suspect’s person, or on his clothing, or with him, or in his home.",
+            "uk": "(3) коли на підозрюваному або на його одягу, при ньому або в його житлі буде виявлено явні сліди злочину."
+        }
+    },
+    {
+        "id": 119,
+        "translation": {
+            "en": "If there is other information giving rise to grounds for suspecting a person of a criminal offence, a body of inquiry may arrest that person if the latter attempts to flee, or does not have a permanent place of residence, or if the identity of that person has not been established. ...”",
+            "uk": "При наявності інших даних, що дають підстави підозрювати особу у вчиненні злочину, її може бути затримано лише в тому разі, коли ця особа намагалася втекти, або коли її місце проживання чи перебування не зареєстровано, або коли не встановлено особи підозрюваного. ...»"
+        }
+    },
+    {
+        "id": 120,
+        "translation": {
+            "en": "Article 115. Arrest of a suspect by an investigator",
+            "uk": "Стаття 115. Затримання слідчим підозрюваного у вчиненні злочину"
+        }
+    },
+    {
+        "id": 121,
+        "translation": {
+            "en": "“An investigator may arrest ... a person suspected of having committed a crime in accordance with the procedure provided for in [Article] 106 ... of the Code. ...”",
+            "uk": "«Слідчий вправі затримати ... особу, підозрювану у вчинені злочину, за підставами і в порядку, передбаченими [статтею] 106 ... цього Кодексу. ...»"
+        }
+    },
+    {
+        "id": 122,
+        "translation": {
+            "en": "Criminal Code 2001",
+            "uk": "Кримінальний кодекс України 2001 року"
+        }
+    },
+    {
+        "id": 123,
+        "translation": {
+            "en": "48.  Article 12 of the Code divides criminal offences into four categories, ranging from minor to particularly grave offences, based on the severity of the punishment imposed by the Code. A particularly grave offence is an offence punishable by more than ten years’ imprisonment.",
+            "uk": "48.  Стаття 12 Кодексу поділяє кримінальні правопорушення на чотири категорії від нетяжких до особливо тяжких злочинів з огляду на суворості покарання, передбаченого Кодексом. Особливо тяжким злочином є злочин, який карається позбавленням волі на строк більше десяти років."
+        }
+    },
+    {
+        "id": 124,
+        "translation": {
+            "en": "49.  Article 258 § 2 provides for imprisonment of between seven and twelve years for a terrorist act committed as part of a conspiracy or for a terrorist act which has caused substantial pecuniary damage or other serious consequences.",
+            "uk": "49.  Частина друга статті 258 передбачає позбавлення волі на строк від семи до дванадцяти років за вчинення терористичного акту за попередньою змовою або терористичного акту, який призвів до заподіяння значної майнової шкоди чи інших тяжких наслідків."
+        }
+    },
+    {
+        "id": 125,
+        "translation": {
+            "en": "Legislative history of the Bail Exclusion Clause",
+            "uk": "Історія прийняття положення про неможливість застосування інших запобіжних заходів, окрім тримання під вартою"
+        }
+    },
+    {
+        "id": 126,
+        "translation": {
+            "en": "The draft law primarily concerned introduction of a new system of in absentia proceedings for the national security and corruption-related offences. The explanatory note to the draft was mainly dedicated to that procedure. The only provision of the explanatory note concerning the Bail Exclusion Clause read:",
+            "uk": "Насамперед законопроєкт стосувався запровадження нової системи провадження in absentia щодо злочинів, пов’язаних із національною безпекою та корупцією. Пояснювальна записка до проєкту здебільшого була присвячена цій процедурі. Єдиний пункт пояснювальної записки щодо положення про неможливість застосування інших запобіжних заходів, окрім тримання під вартою, був таким:"
+        }
+    },
+    {
+        "id": 127,
+        "translation": {
+            "en": "“introduction of pre-trial detention as the only preventive measure for separatist and terrorist offences will increase the speediness of pre-trial investigations concerning them” (запровадження єдиного можливого запобіжного заходу у вигляді тримання під вартою за сепаратистські та терористичні злочини підвищить оперативність проведення їх досудового розслідування).",
+            "uk": "«запровадження єдиного можливого запобіжного заходу у вигляді тримання під вартою за сепаратистські та терористичні злочини підвищить оперативність проведення їх досудового розслідування»."
+        }
+    },
+    {
+        "id": 128,
+        "translation": {
+            "en": "Constitutional Court Act 2017",
+            "uk": "Закон України «Про Конституційний Суд України» 2017 року"
+        }
+    },
+    {
+        "id": 129,
+        "translation": {
+            "en": "51.  The Act, which came into force on 3 August 2017, introduced, for the first time in Ukrainian law, the right for individuals to apply directly to the Constitutional Court for review of constitutionality of legislative provisions applied by courts in their cases. This change was based on the constitutional amendments enacted in 2016.",
+            "uk": "51.  Закон України, який набрав чинності 03 серпня 2017 року, вперше в законодавстві України передбачив право фізичних осіб безпосередньо звертатися до Конституційного Суду України для перевірки конституційності положень законодавства, застосовних судами у їхніх справах. Він ґрунтувався на змінах, внесених до Конституції України у 2016 році."
+        }
+    },
+    {
+        "id": 130,
+        "translation": {
+            "en": "Section 55 of the Act provides that a person considering that a provision of an Act of Parliament applied in his or her case can lodge a constitutional complaint with the Constitutional Court. The complaint can be lodged once ordinary courts have delivered a final decision in the case.",
+            "uk": "Стаття 55 Закону України передбачає, що особа, яка вважає неконституційним положення Закону України, прийнятого Верховною Радою України і застосованого в її справі, може подати конституційну скаргу до Конституційного Суду України. Скарга може бути подана після винесення остаточного судового рішення у справі."
+        }
+    },
+    {
+        "id": 131,
+        "translation": {
+            "en": "52.  Section 91 of the Act provides that laws declared unconstitutional lose legal force from the day of delivery of the Constitutional Court’s decision declaring them unconstitutional, unless the Constitutional Court rules that they would lose legal force from a later date.",
+            "uk": "52.  Стаття 91 Закону передбачає, що закони, визнані неконституційними, втрачають чинність з дня ухвалення Конституційним Судом рішення про їхню неконституційність, якщо Конституційний Суд України не постановить, що вони втратять чинність пізніше."
+        }
+    },
+    {
+        "id": 132,
+        "translation": {
+            "en": "The Constitutional Court’s decision concerning the Bail Exclusion Clause",
+            "uk": "Рішення Конституційного Суду України щодо положення про неможливість застосування інших запобіжних заходів, окрім тримання під вартою"
+        }
+    },
+    {
+        "id": 133,
+        "translation": {
+            "en": "(iii)  Article 29 of the Constitution required a reasoned court decision as grounds for detention. Such a decision had to be fair and could not be merely formalistic. This reduced the risk of arbitrariness which would exist if detention was based merely on the gravity of the offence without an examination of the specific circumstances of the case and reasons for detention;",
+            "uk": "(iii)  стаття 29 Конституції вимагала винесення вмотивованого рішення суду як підстави для тримання під вартою. Таке рішення мало бути справедливим і не могло бути просто формальним. Це мінімізувало ризик допущення свавілля, яке існувало б, якби тримання під вартою ґрунтувалось лише на тяжкості злочину без оцінки конкретних обставин справи та підстав для тримання під вартою;"
+        }
+    },
+    {
+        "id": 134,
+        "translation": {
+            "en": "(iv)  the Bail Exclusion Clause allowed for detention on the basis of formalistic court decisions, based purely on a formal classification of the offence, which was contrary to the principles of the rule of law and did not provide for a correct balance between the public interests justifying detention and individual liberty, a requirement inherent in Article 29 and other provisions of the Constitution.",
+            "uk": "(iv)  положення про неможливість застосування інших запобіжних заходів, окрім тримання під вартою, дозволяло тримання під вартою на підставі формальних судових рішень, які ґрунтувалися виключно на офіційній кваліфікації злочину, що суперечило принципам верховенства права і не забезпечувало правильного балансу між суспільними інтересами, що виправдовують тримання під вартою, та особистою свободою, вимогою, передбаченою статтею 29 та іншими положеннями Конституції України."
+        }
+    },
+    {
+        "id": 135,
+        "translation": {
+            "en": "Domestic case-law concerning detention of defendants charged with terrorism and national security-related offences",
+            "uk": "Національна практика щодо затримання обвинувачених у тероризмі та вчиненні злочинів, пов’язаних з національною безпекою"
+        }
+    },
+    {
+        "id": 136,
+        "translation": {
+            "en": "RELEVANT INTERNATIONAL MATERIAL",
+            "uk": "Відповідні міжнародні матеріали"
+        }
+    },
+    {
+        "id": 137,
+        "translation": {
+            "en": "Office of the United Nations High Commissioner for Human Rights (OHCHR)",
+            "uk": "Управління Верховного комісара ООН з прав людини (далі – УВКПЛ)"
+        }
+    },
+    {
+        "id": 138,
+        "translation": {
+            "en": "57.  The report of the OHCHR on the human rights situation in Ukraine from 16 May to 15 August 2016 reads:",
+            "uk": "57.  У доповіді УВКПЛ щодо ситуації з правами людини в Україні за період з 16 травня до 15 серпня 2016 року зазначено:"
+        }
+    },
+    {
+        "id": 139,
+        "translation": {
+            "en": "83. Through trial monitoring, OHCHR has observed that neither the prosecution nor the judges address the grounds for continued detention at review hearings. Courts rarely examine alternatives to pre-trial detention, such as bail or other conditions to guarantee appearance for trial, which would render detention unnecessary in particular cases...",
+            "uk": "83. Під час моніторингу судових засідань УВКПЛ звернуло увагу, що ані сторона обвинувачення, ані судді не перевіряють підстави для продовження строку тримання підозрюваних під вартою. Суди рідко розглядають можливість застосування альтернативних запобіжних заходів, не пов’язаних із триманням під вартою, як-от внесення застави або інших вимог, які б гарантували прибуття у судове засідання та усунули необхідність тримання під вартою у конкретних випадках..."
+        }
+    },
+    {
+        "id": 140,
+        "translation": {
+            "en": "International Advisory Panel",
+            "uk": "Міжнародна дорадча група"
+        }
+    },
+    {
+        "id": 141,
+        "translation": {
+            "en": "THE LAW",
+            "uk": "ПРАВО"
+        }
+    },
+    {
+        "id": 142,
+        "translation": {
+            "en": "ALLEGED VIOLATIONS OF ARTICLE 5 § 1 OF THE CONVENTION",
+            "uk": "стверджувані порушення пункту 1 статті 5 конвенції"
+        }
+    },
+    {
+        "id": 143,
+        "translation": {
+            "en": "59.  The applicant complained that there had been violations of Article 5 § 1 of the Convention because he had been arrested without a court decision, the arrest report had only been drawn up the day after his arrest, and the arrest report had been worded in vague terms. The relevant parts of Article 5 § 1 read:",
+            "uk": "59.  Заявник скаржився на порушення пункту 1 статті 5 Конвенції, оскільки він був затриманий за відсутності ухвали суду, протокол про затримання був складений лише наступного дня після його затримання, а сам протокол про затримання було викладено у нечітких формулюваннях. Відповідні частини пункту 1 статті 5 Конвенції передбачають:"
+        }
+    },
+    {
+        "id": 144,
+        "translation": {
+            "en": "“1.  Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+            "uk": "«1.  Кожен має право на свободу та особисту недоторканність. Нікого не може бути позбавлено свободи, крім таких випадків і відповідно до процедури, встановленої законом:"
+        }
+    },
+    {
+        "id": 145,
+        "translation": {
+            "en": "(c)  the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;",
+            "uk": "(c)  законний арешт або затримання особи, здійснене з метою допровадження її до компетентного судового органу за наявності обґрунтованої підозри у вчиненні нею правопорушення або якщо обґрунтовано вважається необхідним запобігти вчиненню нею правопорушення чи її втечі після його вчинення;"
+        }
+    },
+    {
+        "id": 146,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 147,
+        "translation": {
+            "en": "60.  The Court notes that this part of the application is not manifestly illfounded within the meaning of Article 35 § 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+            "uk": "60.  Суд зазначає, що ця частина заяви не є явно необґрунтованою у розумінні підпункту «а» пункту 3 статті 35 Конвенції. Він також зазначає, що вона не є неприйнятною з будь-яких інших підстав. Тому вона має бути визнана прийнятною."
+        }
+    },
+    {
+        "id": 148,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 149,
+        "translation": {
+            "en": "The parties’ submissions",
+            "uk": "Доводи сторін"
+        }
+    },
+    {
+        "id": 150,
+        "translation": {
+            "en": "The applicant",
+            "uk": "Заявник"
+        }
+    },
+    {
+        "id": 151,
+        "translation": {
+            "en": "63.  The crime the applicant had been charged with had taken place weeks before his arrest. No arrest could therefore be made without a court order as the conditions for a “warrantless” arrest set out in Article 208 of the Code of Criminal Procedure had not been met. The report had not indicated exactly who had “identified” the applicant as the perpetrator or which clear “signs” had indicated that he had just committed the crime. There had been a breach of the domestic law in that respect.",
+            "uk": "63.  Злочин, в якому обвинувачувався заявник, був вчинений за декілька тижнів до його затримання. Тому затримання не могло здійснюватися за відсутності ухвали суду, оскільки не були дотримані умови для затримання «за відсутності ухвали», передбачені статтею 208 Кримінального процесуального кодексу України. У протоколі не вказувалося, хто саме «вказав на» заявника як на злочинця або які чіткі «ознаки» свідчили, що він щойно вчинив злочин. У зв’язку з цим було порушено національне законодавство."
+        }
+    },
+    {
+        "id": 152,
+        "translation": {
+            "en": "The Government",
+            "uk": "Уряд"
+        }
+    },
+    {
+        "id": 153,
+        "translation": {
+            "en": "65.  The Government pointed out that the situation in the present case was to be distinguished from cases where the Court had condemned the practice of unrecorded detention by the police. Notably, it had been recorded in the arrest report that the arrest had taken place at 10.30 a.m. on 19 October 2015 (see paragraph 22 above).",
+            "uk": "65.  Уряд вказав, що ситуацію у цій справі слід відрізняти від справ, коли Суд засуджував практику незадокументованого затримання працівниками міліції. Зокрема, у протоколі про затримання було задокументовано, що затримання відбулося 19 жовтня 2015 року \nо 10 год. 30 хв. (див. пункт 22)."
+        }
+    },
+    {
+        "id": 154,
+        "translation": {
+            "en": "66.  The authorities had had strong grounds to believe that the applicant was engaged in terrorist activity and had been under an obligation to act with the utmost urgency, most notably to extract the explosives from the block of flats where they were stored. After that had been done the applicant had been escorted to the office where the arrest report had been finalised.",
+            "uk": "66.  В органів державної влади були вагомі підстави вважати, що заявник займався терористичною діяльністю і вони були зобов’язані діяти невідкладно, зокрема вилучити вибухові речовини з житлового будинку, де вони зберігалися. Після цього заявника доставили до кабінету, де було складено протокол про затримання."
+        }
+    },
+    {
+        "id": 155,
+        "translation": {
+            "en": "67.  The delay in the finalisation of the report had not affected the applicant’s position: he had been provided with a defence counsel and brought before a court already on 20 October 2015. The court, in its order authorising the applicant’s detention, had noted that he had been taken into custody at 10.30 a.m. on 19 October, so his arrest had been subject to a judicial review and his complaints in that respect had been found to be unsubstantiated.",
+            "uk": "67.  Затримка у закінченні складання протоколу не вплинула на становище заявника: йому був наданий доступ до захисника і вже \n20 жовтня 2015 року його доставили до суду. У своїй ухвалі, якою було санкціоновано тримання заявника під вартою, суд зазначив, що заявник був узятий під варту 19 жовтня о 10 год. 30 хв., тому його затримання підлягало судовому перегляду, а його скарги у зв’язку з цим були визнані необґрунтованими."
+        }
+    },
+    {
+        "id": 156,
+        "translation": {
+            "en": "68.  The arrest report had contained specific information concerning the grounds for the applicant’s arrest, including the offence of which he had been suspected, the names of his suspected accomplices, and the time and place where the offence had been committed. This demonstrated that there had been a reasonable suspicion against him. The matter had been examined by two levels of domestic court, which had found that the arrest had been in compliance with domestic law.",
+            "uk": "68.  У протоколі про затримання містилася конкретна інформація про підстави затримання заявника, у тому числі злочин, у вчиненні якого він підозрювався, імена підозрюваних співучасників, час і місце вчинення злочину. Це доводило наявність обґрунтованої підозри щодо нього. Питання законності затримання розглянули національні суди двох інстанцій, які встановили відповідність затримання національному законодавству."
+        }
+    },
+    {
+        "id": 157,
+        "translation": {
+            "en": "The Court’s assessment",
+            "uk": "Оцінка Суду"
+        }
+    },
+    {
+        "id": 158,
+        "translation": {
+            "en": "Delay in the drawing up of the arrest report",
+            "uk": "Затримка у складанні протоколу про затримання"
+        }
+    },
+    {
+        "id": 159,
+        "translation": {
+            "en": "69.  It is not disputed that the applicant was first deprived of his liberty at 10.30 a.m. on 19 October 2015 (see paragraph 16 above) and that there was a delay of more than twenty-three hours between the actual time of arrest and drawing up of the arrest report the next day (see paragraph 22 above). While the applicant complained about the delay (see paragraph 28 above), no explanation was ever provided for it in the domestic proceedings.",
+            "uk": "69.  Не оскаржується, що вперше заявник був позбавлений свободи 19 жовтня 2015 року о 10 год. 30 хв. (див. пункт 16) і між фактичним часом затримання та складанням протоколу про затримання наступного дня існувала затримка у понад двадцять три години (див. пункт 22). Хоча заявник скаржився на затримку (див. пункт 28), під час провадження на національному рівні жодного пояснення такій затримці ніколи не надавалося."
+        }
+    },
+    {
+        "id": 160,
+        "translation": {
+            "en": "72.  The Court sees no reason to reach a different conclusion in the particular circumstances of the present case. As to the Government’s argument that the applicant was not affected, the Court notes that on account of the delay in drawing up of the arrest report, the applicant’s access to a lawyer and notification of his rights as a defendant were delayed (see paragraphs 22 and 24 above).",
+            "uk": "72.  Суд не вбачає жодних підстав для іншого висновку за конкретних обставин цієї справи. Стосовно аргументу Уряду про відсутність впливу затримки на заявника Суд зазначає, що через затримку у складанні протоколу про затримання доступ заявника до захисника та роз’яснення йому його прав як обвинуваченого були надані із затримкою (див. пункти 22 та 24)."
+        }
+    },
+    {
+        "id": 161,
+        "translation": {
+            "en": "73.  There has, accordingly, been a violation of Article 5 § 1 of the Convention on account of the delay in the drawing up of the arrest report.",
+            "uk": "73.  Отже, було порушено пункт 1 статті 5 Конвенції у зв’язку із затримкою у складанні протоколу про затримання."
+        }
+    },
+    {
+        "id": 162,
+        "translation": {
+            "en": "Arrest without a prior court decision",
+            "uk": "Затримання за відсутності попередньо постановленої ухвали суду"
+        }
+    },
+    {
+        "id": 163,
+        "translation": {
+            "en": "74.  Article 208 § 1 of the Code of Criminal Proceedings provides for only two situations where a person can be arrested without a prior court decision (see paragraph 45 above):",
+            "uk": "74.  Частина перша статті 208 Кримінального процесуального кодексу України передбачає лише два випадки, коли особа може бути затримана за відсутності попередньо постановленої ухвали суду (див. пункт 45):"
+        }
+    },
+    {
+        "id": 164,
+        "translation": {
+            "en": "(1)  if the person has been caught whilst committing a crime or attempting to commit one; or",
+            "uk": "(1) якщо цю особу застали під час вчинення злочину або замаху на його вчинення; або"
+        }
+    },
+    {
+        "id": 165,
+        "translation": {
+            "en": "(2)  if immediately after a criminal offence the statements of an eyewitness, including the victim, or a combination of clear signs on the body, clothes or at the scene of the event indicate that the person has just committed an offence.",
+            "uk": "(2) якщо безпосередньо після вчинення злочину очевидець, в тому числі потерпілий, або поєднання очевидних ознак на тілі, одязі чи місці події вказують на те, що саме ця особа щойно вчинила злочин."
+        }
+    },
+    {
+        "id": 166,
+        "translation": {
+            "en": "75.  It is the latter of the two grounds that was underlined in the arrest report (see paragraph 22 above). It has never been suggested by any domestic authority that the former of the two grounds was also applicable.",
+            "uk": "75.  Саме остання з двох підстав була підкреслена у протоколі про затримання (див. пункт 22). Жоден національний орган влади ніколи не припускав, що також була застосовною перша із двох підстав."
+        }
+    },
+    {
+        "id": 167,
+        "translation": {
+            "en": "76.  The applicant argued before this Court, as he had done at the domestic level, that the second sub-clause of Article 208 § 1 did not apply to him. Firstly, it was unclear from the arrest report who the “eyewitnesses” had been who implicated him in that alleged offence. Secondly, the requirement of “immediacy” was not met since several weeks passed between the terrorist act of which the applicant had been suspected at the time and his arrest (see paragraph 63 above).",
+            "uk": "76.  У цьому Суді, як і на національному рівні, заявник доводив, що другий пункт частини першої статті 208 не був до нього застосовний. По-перше, із протоколу про затримання було незрозуміло, ким були «очевидці», які звинуватили його у вчиненні стверджуваного злочину. По-друге, не була виконана вимога «безпосередності», оскільки між терористичним актом, у вчиненні якого на той момент підозрювався заявник, та його затриманням минуло декілька тижнів (див. пункт 63)."
+        }
+    },
+    {
+        "id": 168,
+        "translation": {
+            "en": "77.  The Court notes that the authorities did possess evidence of at least one eyewitness, the applicant’s co-conspirator G. (see paragraphs 25 and 32 above). The relevant domestic law provisions required, however, that such an eyewitness identification occur “immediately” after the offence. It remains to be seen whether this requirement of “immediacy” was met.",
+            "uk": "77.  Суд зазначає, що органи державної влади мали показання щонайменше від одного очевидця, спільника заявника Г. (див. пункти 25 і 32). Проте відповідні положення національного законодавства передбачали, щоб таке впізнання очевидцем відбувалося «безпосередньо» після вчинення злочину. Залишається з’ясувати, чи була дотримана ця вимога «безпосередності»."
+        }
+    },
+    {
+        "id": 169,
+        "translation": {
+            "en": "78.  The parties have not pointed to any domestic case-law which would define the exact meaning of the term “immediate” in that context.",
+            "uk": "78.  Сторони не вказали на жодну практику національних судів, в якій би було надано точне визначення поняття «безпосередній» у цьому контексті."
+        }
+    },
+    {
+        "id": 170,
+        "translation": {
+            "en": "80.  In the present case, the applicant was arrested about three weeks after the offence in question, the terrorist act at the SBU building (see paragraphs 11 and 16 above).",
+            "uk": "80.  У цій справі заявника було затримано приблизно через три тижні після вчинення відповідного злочину, терористичного акту біля будівлі СБУ (див. пункти 11 та 16)."
+        }
+    },
+    {
+        "id": 171,
+        "translation": {
+            "en": "81.  The applicant argued before the domestic courts that such a delay was incompatible with the requirement of “immediacy” under the relevant provision of the Code of Criminal Procedure. Given that the literal language of the Code tended to support the applicant’s interpretation, his argument does not appear frivolous and required a response. However, the domestic courts, in particular the Court of Appeal, did not address it (see paragraph 29 above).",
+            "uk": "81.  У національних судах заявник доводив, що така затримка була несумісною з вимогою «безпосередності» згідно з відповідними положеннями Кримінального процесуального кодексу України. Враховуючи, що буквальне формулювання підтверджує тлумачення заявника, його аргумент не вбачається нерозумними та таким, який не вимагає відповіді. Однак національні суди, зокрема апеляційний суд, його не розглянули (див. пункт 29)."
+        }
+    },
+    {
+        "id": 172,
+        "translation": {
+            "en": "82.  The Court does not exclude that there might have been other legal grounds under domestic law for the applicant’s arrest, but the Court is not in a position to speculate on that point since the domestic authorities did not refer to any such alternative grounds.",
+            "uk": "82.  Суд не виключає, що в національному законодавстві могли існувати інші правові підстави для затримання заявника, але Суд не може робити припущення щодо цього, оскільки національні органи влади не посилалися на жодну таку альтернативну підставу."
+        }
+    },
+    {
+        "id": 173,
+        "translation": {
+            "en": "83.  In summary, neither the domestic courts provided no explanation for why sub-paragraph 2 of Article 208 § 1 of the Code of Criminal Procedure could serve as the legal basis for the applicant’s warrantless arrest, despite the applicant’s argument, grounded in the language used in the relevant legislative provision itself, to the contrary. Nor did they point to any other provisions of domestic law which would provide a legal basis for the applicants’ detention.",
+            "uk": "83.  Загалом національні суди не надали пояснення, чому пункт 2 частини першої статті 208 Кримінального процесуального кодексу України міг бути підставою для затримання заявника без ухвали суду, незважаючи на аргументи заявника про протилежне, які ґрунтувалися на формулюваннях, використаних у відповідному положенні законодавства. Суди також не вказали на будь-які інші положення національного законодавства, які б передбачали правові підстави для тримання заявника під вартою."
+        }
+    },
+    {
+        "id": 174,
+        "translation": {
+            "en": "84.  In such circumstances, the Court is unable to find that the applicant’s arrest in the absence of a prior court decision was “in accordance with a procedure prescribed by law”.",
+            "uk": "84.  За таких обставин Суд не може встановити, що затримання заявника за відсутності попередньо постановленої ухвали суду було здійснено «відповідно до процедури, встановленої законом»."
+        }
+    },
+    {
+        "id": 175,
+        "translation": {
+            "en": "85.  There has, accordingly, been a violation of Article 5 § 1 of the Convention on account of the applicant’s arrest without a prior court decision.",
+            "uk": "85.  Отже, було порушено пункт 1 статті 5 Конвенції у зв’язку із затриманням заявника за відсутності попередньо постановленої ухвали суду."
+        }
+    },
+    {
+        "id": 176,
+        "translation": {
+            "en": "The wording of the arrest report",
+            "uk": "Формулювання протоколу про затримання"
+        }
+    },
+    {
+        "id": 177,
+        "translation": {
+            "en": "86.  In view of the findings above there is no need to examine the complaint under Article 5 § 1 of the Convention concerning the wording of the arrest report.",
+            "uk": "86.  З огляду на наведені висновки немає необхідності розглядати скаргу за пунктом 1 статті 5 Конвенції щодо формулювання протоколу про затримання."
+        }
+    },
+    {
+        "id": 178,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLE 5 § 2 OF THE CONVENTION",
+            "uk": "стверджуване порушення пункту 2 статті 5 конвенції"
+        }
+    },
+    {
+        "id": 179,
+        "translation": {
+            "en": "87.  The applicant complained of a violation of Article 5 § 2 of the Convention:",
+            "uk": "87.  Заявник скаржився на порушення пункту 2 статті 5 Конвенції:"
+        }
+    },
+    {
+        "id": 180,
+        "translation": {
+            "en": "“2.  Everyone who is arrested shall be informed promptly, in a language which he understands, of the reasons for his arrest and of any charge against him.”",
+            "uk": "«2.  Кожен, кого заарештовано, має бути негайно поінформований зрозумілою для нього мовою про підстави його арешту і про будь-яке обвинувачення, висунуте проти нього.»"
+        }
+    },
+    {
+        "id": 181,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 182,
+        "translation": {
+            "en": "88.  The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 § 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+            "uk": "88.  Суд зазначає, що ця скарга не є явно необґрунтованою у розумінні підпункту «а» пункту 3 статті 35 Конвенції. Він також зазначає, що вона не є неприйнятною з будь-яких інших підстав. Тому вона має бути визнана прийнятною."
+        }
+    },
+    {
+        "id": 183,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 184,
+        "translation": {
+            "en": "The parties’ submissions",
+            "uk": "Доводи сторін"
+        }
+    },
+    {
+        "id": 185,
+        "translation": {
+            "en": "The applicant",
+            "uk": "Заявник"
+        }
+    },
+    {
+        "id": 186,
+        "translation": {
+            "en": "91.  The applicant relied on the case of Zuyev v. Russia (no. 16262/05, §§ 84 and 85, 19 February 2013), where the Court found a fourteen-hour delay too long to satisfy the requirements of Article 5 § 2.",
+            "uk": "91.  Заявник посилався на рішення у справі «Зуєв проти Росії» (Zuyev v. Russia), заява № 16262/05, пункти 84 і 85, від 19 лютого \n2013 року), в якому Суд визнав затримку у чотирнадцять годин занадто довгою, щоб задовольнити вимоги пункту 2 статті 5 Конвенції."
+        }
+    },
+    {
+        "id": 187,
+        "translation": {
+            "en": "The Government",
+            "uk": "Уряд"
+        }
+    },
+    {
+        "id": 188,
+        "translation": {
+            "en": "92.  The applicant had been informed orally of the reasons for his arrest immediately after it had taken place, as required by law (see paragraph 45 above). Article 5 § 2 did not require the reasons to be given in writing or otherwise in a particular form (citing Kane v. Cyprus (dec.), no. 33655/06, 13 September 2011).",
+            "uk": "92.  Заявник був усно поінформований про підстави затримання одразу після його здійснення, як передбачено законодавством (див. пункт 45). Пункт 2 статті 5 Конвенції не вимагає наведення підстав у письмовій або в будь-якій іншій конкретній формі (посилання на ухвалу щодо прийнятності у справі «Кейн проти Кіпру» (Kane v. Cyprus), заява № 33655/06, від 13 вересня 2011 року)."
+        }
+    },
+    {
+        "id": 189,
+        "translation": {
+            "en": "The Court’s assessment",
+            "uk": "Оцінка Суду"
+        }
+    },
+    {
+        "id": 190,
+        "translation": {
+            "en": "96.  Moreover, the issue of whether any questioning in the course of the search led to a violation of the applicant’s right to legal assistance could be relevant in the context of Article 6 of the Convention. However, this matter is not part of the present application.",
+            "uk": "96.  Крім того, питання, чи призвів якийсь допит під час проведення обшуку до порушення права заявника на правову допомогу, може мати значення у контексті статті 6 Конвенції. Однак це питання не є частиною цієї заяви."
+        }
+    },
+    {
+        "id": 191,
+        "translation": {
+            "en": "99.  There is no indication that any possible delay in the formal explanation of the reasons for the applicant’s arrest was in any way prejudicial to him in terms of him being able to challenge the lawfulness of his detention: in fact, he appeared before the judge the day after his arrest and, at that time, he and his lawyer already had the formal notification of suspicion against him.",
+            "uk": "99.  Ніщо не свідчить, що будь-яка можлива затримка у наданні офіційного пояснення підстав затримання заявника яким-небудь чином зашкодила йому з точки зору його можливості оскаржити законність тримання його під вартою: насправді він постав перед суддею наступного дня після затримання, і на той момент заявник та його захисник вже отримали офіційне повідомлення про підозру щодо нього."
+        }
+    },
+    {
+        "id": 192,
+        "translation": {
+            "en": "100.  There has, accordingly, been no violation of Article 5 § 2 of the Convention.",
+            "uk": "100.  Отже, не було порушено пункт 2 статті 5 Конвенції."
+        }
+    },
+    {
+        "id": 193,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLE 5 § 3 OF THE CONVENTION",
+            "uk": "стверджуване порушення пункту 3 статті 5 Конвенції"
+        }
+    },
+    {
+        "id": 194,
+        "translation": {
+            "en": "101.  The applicant complained that the application in his case of Article 176 § 5 of the Code of the Criminal Procedure, which precluded the use of non-custodial preventive measures to terrorism suspects, had resulted in a violation of Article 5 § 3 of the Convention, which reads:",
+            "uk": "101.  Заявник скаржився, що у результаті застосування у його справі частини п’ятої статті 176 Кримінального процесуального кодексу України, яка виключала можливість застосування не пов’язаних з позбавленням волі запобіжних заходів до підозрюваних у тероризмі, було порушено пункт 3 статті 5 Конвенція, яка передбачає:"
+        }
+    },
+    {
+        "id": 195,
+        "translation": {
+            "en": "“Everyone arrested or detained in accordance with the provisions of paragraph 1 (c) of this Article shall be brought promptly before a judge or other officer authorised by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release pending trial. Release may be conditioned by guarantees to appear for trial.”",
+            "uk": "«Кожен, кого заарештовано або затримано згідно з положеннями підпункту «c» пункту 1 цієї статті, має негайно постати перед суддею чи іншою посадовою особою, якій закон надає право здійснювати судову владу, і йому має бути забезпечено розгляд справи судом упродовж розумного строку або звільнення під час провадження. Таке звільнення може бути обумовлене гарантіями з’явитися на судове засідання.»"
+        }
+    },
+    {
+        "id": 196,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 197,
+        "translation": {
+            "en": "102.  The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 § 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+            "uk": "102.  Суд зазначає, що ця скарга не є явно необґрунтованою у розумінні підпункту «а» пункту 3 статті 35 Конвенції. Він також зазначає, що вона не є неприйнятною з будь-яких інших підстав. Тому вона має бути визнана прийнятною."
+        }
+    },
+    {
+        "id": 198,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 199,
+        "translation": {
+            "en": "The parties’ submissions",
+            "uk": "Доводи сторін"
+        }
+    },
+    {
+        "id": 200,
+        "translation": {
+            "en": "The applicant",
+            "uk": "Заявник"
+        }
+    },
+    {
+        "id": 201,
+        "translation": {
+            "en": "The Government",
+            "uk": "Уряд"
+        }
+    },
+    {
+        "id": 202,
+        "translation": {
+            "en": "108.  For this reason, the speculative question of whether, in the absence of that legislative provision, the applicant would have been placed in detention, was irrelevant.",
+            "uk": "108.  З цієї причини гіпотетичне питання про те, чи помістили б заявника під варту за відсутності цього положення законодавства, було неактуальним."
+        }
+    },
+    {
+        "id": 203,
+        "translation": {
+            "en": "109.  In further observations submitted at the Chamber’s invitation (see paragraph 5 above), the Government reported that, after the period covered by their initial observations, the applicant’s detention continued to be extended (see paragraph 37 above).",
+            "uk": "109.  У подальших зауваженнях, наданих на пропозицію палати (див. пункт 5), Уряд повідомив, що після закінчення періоду, охопленого його первинними зауваженнями, строк тримання заявника під вартою було продовжено (див. пункт 37)."
+        }
+    },
+    {
+        "id": 204,
+        "translation": {
+            "en": "The Court’s assessment",
+            "uk": "Оцінка Суду"
+        }
+    },
+    {
+        "id": 205,
+        "translation": {
+            "en": "Relevant general principles",
+            "uk": "Відповідні загальні принципи"
+        }
+    },
+    {
+        "id": 206,
+        "translation": {
+            "en": "113.  That requirement on the judicial officer to give relevant and sufficient reasons for the detention – in addition to the persistence of reasonable suspicion – applies already at the time of the first decision ordering detention on remand (ibid., § 102).",
+            "uk": "113.  Обов’язок посадової особи, яка відправляє правосуддя, зазначати відповідні та достатні підстави тримання під вартою – на додаток до наявності обґрунтованої підозри – покладається на неї з моменту ухвалення першого рішення про застосування запобіжного заходу у вигляді тримання під вартою (там само, пункт 102)."
+        }
+    },
+    {
+        "id": 207,
+        "translation": {
+            "en": "114.  When deciding whether a person should be released or detained, the authorities are obliged to consider alternative means of ensuring his or her appearance at trial (ibid., § 87).",
+            "uk": "114.  Вирішуючи питання про звільнення або подальше тримання особи під вартою, органи державної влади зобов’язані розглянути альтернативні засоби забезпечення її явки до суду (там само, пункт 87)."
+        }
+    },
+    {
+        "id": 208,
+        "translation": {
+            "en": "115.  Justifications which have been deemed “relevant” and “sufficient” reasons (in addition to the existence of reasonable suspicion) in the Court’s case-law, have included grounds such as the danger of absconding, the risk of pressure being brought to bear on witnesses or of evidence being tampered with, the risk of collusion, the risk of reoffending, the risk of causing public disorder and the need to protect the detainee (ibid., § 88).",
+            "uk": "115.  До обґрунтувань, які згідно з практикою Суду вважаються «відповідними» та «достатніми» доводами (окрім наявності обґрунтованої підозри), належать такі підстави, як небезпека переховування від слідства, ризик чинення тиску на свідків або фальсифікації доказів, ризик змови, ризик повторного вчинення злочину, ризик спричинення порушення громадського порядку, а також необхідність захисту затриманого (там само, пункт 88)."
+        }
+    },
+    {
+        "id": 209,
+        "translation": {
+            "en": "Application of the relevant principles to the present case",
+            "uk": "Застосування відповідних принципів у цій справі"
+        }
+    },
+    {
+        "id": 210,
+        "translation": {
+            "en": "120.  The case material demonstrates that the domestic courts, which had before them considerable evidence in support of the suspicion against the applicant, did exercise this power of control in his case (see paragraphs 14, 15, 18, 19, 25 and 26 above), as they had done in some other terrorism and national security-related cases (see examples of the domestic courts’ decisions in paragraphs 54 to 56 above).",
+            "uk": "120.  Матеріали справи свідчать, що національні суди, які мали у своєму розпорядженні численні докази на підтвердження підозри щодо заявника, справді здійснили ці повноваження контролю в його справі (див. пункти 14, 15, 18, 19, 25 і 26), як вони зробили в деяких інших справах, пов’язаних з тероризмом і національною безпекою (див. приклади рішень національних судів у пунктах 54 – 56)."
+        }
+    },
+    {
+        "id": 211,
+        "translation": {
+            "en": "125.  Moreover, his case was examined against the background of great tensions in Odessa at the relevant time and the fleeing of defendants in other previous high-profile cases (see paragraphs 7 to 10 and 58 above).",
+            "uk": "125.  Крім того, його справу розглядали в умовах існування у відповідний момент часу великої напруженості у м. Одеса та втечі обвинувачених в інших попередніх резонансних справах (див. пункти 7 – 10 і 58)."
+        }
+    },
+    {
+        "id": 212,
+        "translation": {
+            "en": "128.  Lastly, and most importantly, the decision of 20 October 2015 was not based on the Bail Exclusion Clause, although it contained a reference to the latter, but as explained above was the result of a balanced assessment which took into account the seriousness of the crime of which the applicant was suspected and the risk posed by release.",
+            "uk": "128.  Насамкінець, найголовніше полягає у тому, що ухвала \nвід 20 жовтня 2015 року не ґрунтувалася на положенні про неможливість застосування певних запобіжних заходів, хоча й містила посилання на останнє, і, як уже пояснювалося, його наявність була результатом виваженої оцінки, під час якої було враховано тяжкість злочину, у вчиненні якого підозрювали заявника, та ризик, пов’язаний з його звільненням з-під варти."
+        }
+    },
+    {
+        "id": 213,
+        "translation": {
+            "en": "129.  In view of the above-mentioned circumstances, the Court considers that the domestic courts gave “relevant” reasons for his detention which were “sufficient” under the circumstances to meet the minimum standard of Article 5 § 3 of the Convention.",
+            "uk": "129.  З огляду на зазначені обставини Суд вважає, що національні суди надали «відповідні» підстави тримання його під вартою, які за цих обставин були «достатніми», щоб відповідати мінімальним стандартам пункту 3 статті 5 Конвенції."
+        }
+    },
+    {
+        "id": 214,
+        "translation": {
+            "en": "130.  The Court finds, therefore, that, in the particular circumstances of the present case, there has been no violation of Article 5 § 3 of the Convention.",
+            "uk": "130.  Отже, Суд приходить висновку, що за конкретних обставин цієї справи не було порушено пункт 3 статті 5 Конвенції."
+        }
+    },
+    {
+        "id": 215,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLE 6 § 2 OF THE CONVENTION",
+            "uk": "стверджуване порушення пункту 2 статті 6 Конвенції"
+        }
+    },
+    {
+        "id": 216,
+        "translation": {
+            "en": "131.  The applicant complained of a violation of Article 6 § 2 of the Convention on account of the language used by the District Court in its initial pre-trial detention order. Article 6 § 2 of the Convention reads:",
+            "uk": "131.  Заявник скаржився на порушення пункту 2 статті 6 Конвенції у зв’язку з формулюваннями, використаними районним судом у первинній ухвалі про обрання запобіжного заходу у вигляді тримання під вартою. Пункт 2 статті 6 Конвенції передбачає:"
+        }
+    },
+    {
+        "id": 217,
+        "translation": {
+            "en": "“2.  Everyone charged with a criminal offence shall be presumed innocent until proved guilty according to law.”",
+            "uk": "«2.  Кожен, кого обвинувачено у вчиненні кримінального правопорушення, вважається невинуватим доти, доки його вину не буде доведено в законному порядку.»"
+        }
+    },
+    {
+        "id": 218,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 219,
+        "translation": {
+            "en": "132.  The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 § 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+            "uk": "132.  Суд зазначає, що ця скарга не є явно необґрунтованою у розумінні підпункту «а» пункту 3 статті 35 Конвенції. Він також зазначає, що вона не є неприйнятною з будь-яких інших підстав. Тому вона має бути визнана прийнятною."
+        }
+    },
+    {
+        "id": 220,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 221,
+        "translation": {
+            "en": "The parties’ submissions",
+            "uk": "Доводи сторін"
+        }
+    },
+    {
+        "id": 222,
+        "translation": {
+            "en": "The applicant",
+            "uk": "Заявник"
+        }
+    },
+    {
+        "id": 223,
+        "translation": {
+            "en": "134.  That latter fact was of critical importance. The applicant considered that a similar situation had occurred in Fedorenko v. Russia, (no. 39602/05, §§ 89-93, 20 September 2011), where the Court of Appeal had failed to correct the first-instance court, which had stated in a detention order that the applicant “had committed a serious criminal offence”, dismissing it as a mere “technical error”. In that case the Court had found a violation of Article 6 § 2.",
+            "uk": "134.  Цей останній факт мав вирішальне значення. Заявник вважав, що подібна ситуація була в рішенні у справі «Федоренко проти Росії» (Fedorenko v. Russia), заява № 39602/05, пункти 89 – 93, від 20 вересня 2011 року), в якому апеляційний суд не виправив суд першої інстанції, який зазначив у рішенні про тримання під варту, що заявник «вчинив тяжке кримінальне правопорушення», а відхилив це твердження як «технічну помилку». У цій справі Суд встановив порушення пункту 2 статті 6 Конвенції."
+        }
+    },
+    {
+        "id": 224,
+        "translation": {
+            "en": "The Government",
+            "uk": "Уряд"
+        }
+    },
+    {
+        "id": 225,
+        "translation": {
+            "en": "The Court’s assessment",
+            "uk": "Оцінка Суду"
+        }
+    },
+    {
+        "id": 226,
+        "translation": {
+            "en": "Relevant general principles",
+            "uk": "Відповідні загальні принципи"
+        }
+    },
+    {
+        "id": 227,
+        "translation": {
+            "en": "Application of the above principles to the present case",
+            "uk": "Застосування зазначених принципів у цій справі"
+        }
+    },
+    {
+        "id": 228,
+        "translation": {
+            "en": "140.  Rather, the expression was used in the context of examining whether there were circumstances justifying the applicant’s detention: a risk of him absconding, interfering with the investigation or continuing criminal activities. By the time the District Court turned to those matters, it had already summarised the investigating authority’s submissions and had found it established that there was a reasonable suspicion against the applicant.",
+            "uk": "140.  Скоріше цей вираз був використаний у контексті перевірки наявності обставин, які виправдовували тримання заявника під вартою: ризик його переховування, перешкоджання слідству чи продовження злочинної діяльності. На момент розгляду районним судом цих питань він уже узагальнив доводи слідчого органу та визнав встановленим наявність обґрунтованої підозри щодо заявника."
+        }
+    },
+    {
+        "id": 229,
+        "translation": {
+            "en": "142.  The District Court appears to have used the expression not to proclaim the applicant guilty as such but to justify its decision to place him in pre-trial detention. However, as the above-mentioned case-law indicates, this alone does not rule out a finding of a violation since the Court has repeatedly found violations of Article 6 § 2 on account of an unqualified declaration of guilt in a pre-trial detention order.",
+            "uk": "142.  Як вбачається, районний суд використав цей вираз не для того, щоб оголосити заявника винним як таким, а для обґрунтування свого рішення про поміщення його під варту. Однак, як вказує зазначена практика, це саме собою не виключає встановлення порушення, оскільки Суд неодноразово встановлював порушення пункту 2 статті 6 Конвенції через категоричне визнання вини в рішенні про тримання під вартою."
+        }
+    },
+    {
+        "id": 230,
+        "translation": {
+            "en": "145.  In such circumstances, the Court is unable to read the statement in question other than as an expression of the District Court’s opinion that the applicant was indeed guilty of the particularly grave offence of which he had been merely suspected, and not convicted, at the time.",
+            "uk": "145.  За таких обставин Суд не може тлумачити відповідне твердження, інакше як висловлення думки районного суду, що заявник справді був винним у вчиненні особливо тяжкого злочину, в якому на той момент він лише підозрювався та не був визнаний винним в його вчиненні."
+        }
+    },
+    {
+        "id": 231,
+        "translation": {
+            "en": "147.  There has, accordingly, been a violation of Article 6 § 2 of the Convention.",
+            "uk": "147.  Отже, було порушено пункт 2 статті 6 Конвенції."
+        }
+    },
+    {
+        "id": 232,
+        "translation": {
+            "en": "APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+            "uk": "ЗАСТОСУВАННЯ СТАТТІ 41 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 233,
+        "translation": {
+            "en": "148.  Article 41 of the Convention provides:",
+            "uk": "148.  Стаття 41 Конвенції передбачає:"
+        }
+    },
+    {
+        "id": 234,
+        "translation": {
+            "en": "“If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”",
+            "uk": "«Якщо Суд визнає факт порушення Конвенції або протоколів до неї і якщо внутрішнє право відповідної Високої Договірної Сторони передбачає лише часткове відшкодування, Суд, у разі необхідності, надає потерпілій стороні справедливу сатисфакцію.»"
+        }
+    },
+    {
+        "id": 235,
+        "translation": {
+            "en": "Damage",
+            "uk": "Шкода"
+        }
+    },
+    {
+        "id": 236,
+        "translation": {
+            "en": "149.  The applicant claimed 10,000 euros (EUR) in respect of nonpecuniary damage.",
+            "uk": "149.  Заявник вимагав 10 000 євро в якості відшкодування моральної шкоди."
+        }
+    },
+    {
+        "id": 237,
+        "translation": {
+            "en": "150.  The Government, reiterating their submissions that there had been no violations of the applicant’s rights, considered the claim unjustified and, in any event, excessive.",
+            "uk": "150.  Уряд, повторивши свої доводи про відсутність порушень прав заявника, вважав вимогу необґрунтованою і у будь-якому випадку надмірною."
+        }
+    },
+    {
+        "id": 238,
+        "translation": {
+            "en": "151.  The Court considers that, in the circumstances of the present case, the finding of violations constitutes in itself sufficient just satisfaction for any nonpecuniary damage sustained by the applicant.",
+            "uk": "151.  Суд вважає, що за обставин цієї справи встановлення порушень само собою становить достатню справедливу сатисфакцію будь-якої моральної шкоди, якої зазнав заявник."
+        }
+    },
+    {
+        "id": 239,
+        "translation": {
+            "en": "Default interest",
+            "uk": "Пеня"
+        }
+    },
+    {
+        "id": 240,
+        "translation": {
+            "en": "152.  The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+            "uk": "152.  Суд вважає за належне призначити пеню на підставі граничної позичкової ставки Європейського центрального банку, до якої має бути додано три відсоткові пункти."
+        }
+    },
+    {
+        "id": 241,
+        "translation": {
+            "en": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+            "uk": "ЗА ЦИХ ПІДСТАВ СУД ОДНОГОЛОСНО"
+        }
+    },
+    {
+        "id": 242,
+        "translation": {
+            "en": "Declares the application admissible;",
+            "uk": "Оголошує заяву прийнятною;"
+        }
+    },
+    {
+        "id": 243,
+        "translation": {
+            "en": "Holds that there has been a violation of Article 5 § 1 of the Convention on account of the delay in the drawing up of the arrest report;",
+            "uk": "Постановляє, що було порушено пункт 1 статті 5 Конвенції у зв’язку із затримкою у складанні протоколу про затримання;"
+        }
+    },
+    {
+        "id": 244,
+        "translation": {
+            "en": "Holds that there has been a violation of Article 5 § 1 of the Convention on account of the applicant’s arrest without a prior court decision;",
+            "uk": "Постановляє, що було порушено пункт 1 статті 5 Конвенції у зв’язку затриманням заявника без попередньо постановленої ухвали суду;"
+        }
+    },
+    {
+        "id": 245,
+        "translation": {
+            "en": "Holds that there is no need to examine the complaint under Article 5 § 1 of the Convention concerning the wording of the arrest report;",
+            "uk": "Постановляє, що немає необхідності розглядати скаргу за \nпунктом 1 статті 5 Конвенції у зв’язку з формулюванням протоколу про затримання;"
+        }
+    },
+    {
+        "id": 246,
+        "translation": {
+            "en": "Holds that there has been no violation of Article 5 § 2 of the Convention;",
+            "uk": "Постановляє, що не було порушено пункт 2 статті 5 Конвенції;"
+        }
+    },
+    {
+        "id": 247,
+        "translation": {
+            "en": "Holds that there has been no violation of Article 5 § 3 of the Convention;",
+            "uk": "Постановляє, що не було порушено пункт 3 статті 5 Конвенції;;"
+        }
+    },
+    {
+        "id": 248,
+        "translation": {
+            "en": "Holds that there has been a violation of Article 6 § 2 of the Convention;",
+            "uk": "Постановляє, що було порушено пункт 2 статті 6 Конвенції;"
+        }
+    },
+    {
+        "id": 249,
+        "translation": {
+            "en": "Holds that the finding of violations constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant;",
+            "uk": "Постановляє, що встановлення порушень само собою становить достатню справедливу сатисфакцію будь-якої моральної шкоди, якої зазнав заявник;"
+        }
+    },
+    {
+        "id": 250,
+        "translation": {
+            "en": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+            "uk": "Відхиляє решту вимог заявника щодо справедливої сатисфакції."
+        }
+    },
+    {
+        "id": 251,
+        "translation": {
+            "en": "Done in English, and notified in writing on 17 September 2020, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+            "uk": "Учинено англійською мовою та повідомлено письмово 17 вересня 2020 року відповідно до пунктів 2 і 3 Правила 77 Регламенту Суду."
+        }
+    }
+]

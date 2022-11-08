@@ -1,0 +1,681 @@
+[
+    {
+        "id": 0,
+        "translation": {
+            "en": "FIFTH SECTION",
+            "uk": "П’ЯТА СЕКЦІЯ"
+        }
+    },
+    {
+        "id": 1,
+        "translation": {
+            "en": "CASE OF BERLIZEV v. UKRAINE",
+            "uk": "СПРАВА «БЕРЛІЗЕВ ПРОТИ УКРАЇНИ»"
+        }
+    },
+    {
+        "id": 2,
+        "translation": {
+            "en": "(Application no. 43571/12)",
+            "uk": "(Заява № 43571/12)"
+        }
+    },
+    {
+        "id": 3,
+        "translation": {
+            "en": "JUDGMENT",
+            "uk": "РІШЕННЯ"
+        }
+    },
+    {
+        "id": 4,
+        "translation": {
+            "en": "Art 8 • Private life • Unlawful covert video-recording of applicant in absence of judicial authorisation required under domestic law",
+            "uk": "Ст. 8 • Приватне життя • Незаконна негласна відеозйомка заявника за відсутності передбаченого національним законодавством дозволу суду"
+        }
+    },
+    {
+        "id": 5,
+        "translation": {
+            "en": "Art 6 (criminal) • Applicant’s denial of involvement in criminal endeavour precluded him from raising agent provocateur claim • Manifestly ill-founded",
+            "uk": "Ст. 6 (кримінальний аспект) • Заперечення заявником своєї причетності до вчинення злочину позбавило його можливості висунути скаргу на «таємного агента» (agent provocateur) • Явно необґрунтована скарга"
+        }
+    },
+    {
+        "id": 6,
+        "translation": {
+            "en": "STRASBOURG",
+            "uk": "СТРАСБУРГ"
+        }
+    },
+    {
+        "id": 7,
+        "translation": {
+            "en": "8 July 2021",
+            "uk": "08 липня 2021 року"
+        }
+    },
+    {
+        "id": 8,
+        "translation": {
+            "en": "FINAL",
+            "uk": "ОСТАТОЧНЕ"
+        }
+    },
+    {
+        "id": 9,
+        "translation": {
+            "en": "08/10/2021",
+            "uk": "08.10.2021"
+        }
+    },
+    {
+        "id": 10,
+        "translation": {
+            "en": "This judgment has become final under Article 44 § 2 of the Convention. It may be subject to editorial revision.",
+            "uk": "Це рішення набуло статусу остаточного відповідно до пункту 2 статті 44 Конвенції. Його текст може підлягати редакційним виправленням."
+        }
+    },
+    {
+        "id": 11,
+        "translation": {
+            "en": "In the case of Berlizev v. Ukraine,",
+            "uk": "У справі «Берлізев проти України»"
+        }
+    },
+    {
+        "id": 12,
+        "translation": {
+            "en": "The European Court of Human Rights (Fifth Section), sitting as a Chamber composed of:",
+            "uk": "Європейський суд з прав людини (П’ята секція), засідаючи палатою, до складу якої увійшли:"
+        }
+    },
+    {
+        "id": 13,
+        "translation": {
+            "en": "Síofra O’Leary, President,\n\tMārtiņš Mits,\n\tGanna Yudkivska,\n\tLətif Hüseynov,\n\tJovan Ilievski,\n\tArnfinn Bårdsen,\n\tMattias Guyomar, judges,\n\tand Martina Keller, Deputy Section Registrar,",
+            "uk": "Сіофра О’Лірі (Síofra O’Leary), Голова,\n\tМартіньш Мітс (Mārtiņš Mits),\n\tГанна Юдківська (Ganna Yudkivska),\n\tЛятіф Гусейнов (Lətif Hüseynov),\n\tЙован Ілієвський (Jovan Ilievski),\n\tАрнфінн Бордсен (Arnfinn Bårdsen),\n\tМаттіас Гуйомар (Mattias Guyomar), судді,\n\tта Мартіна Келлер (Martina Keller), заступник Секретаря секції,"
+        }
+    },
+    {
+        "id": 14,
+        "translation": {
+            "en": "Having regard to:",
+            "uk": "з огляду на:"
+        }
+    },
+    {
+        "id": 15,
+        "translation": {
+            "en": "the application (no. 43571/12) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Vadym Yaroslavovych Berlizev (“the applicant”), on 1 July 2012;",
+            "uk": "заяву (№ 43571/12), яку 01 липня 2012 року подав до Суду проти України на підставі статті 34 Конвенції про захист прав людини і основоположних свобод (далі – Конвенція) громадянин України, \nпан Вадим Ярославович Берлізев (далі – заявник);"
+        }
+    },
+    {
+        "id": 16,
+        "translation": {
+            "en": "the decision to give notice to the Ukrainian Government (“the Government”) of the application;",
+            "uk": "рішення повідомити Уряд України (далі – Уряд) про заяву;"
+        }
+    },
+    {
+        "id": 17,
+        "translation": {
+            "en": "the parties’ observations;",
+            "uk": "зауваження сторін;"
+        }
+    },
+    {
+        "id": 18,
+        "translation": {
+            "en": "Having deliberated in private on 15 June 2021,",
+            "uk": "після обговорення за зачиненими дверима 15 червня 2021 року"
+        }
+    },
+    {
+        "id": 19,
+        "translation": {
+            "en": "Delivers the following judgment, which was adopted on that date:",
+            "uk": "постановляє таке рішення, що було ухвалено у той день:"
+        }
+    },
+    {
+        "id": 20,
+        "translation": {
+            "en": "INTRODUCTION",
+            "uk": "ВСТУП"
+        }
+    },
+    {
+        "id": 21,
+        "translation": {
+            "en": "1.  The case principally concerns the applicant’s allegations under Article 8 of the Convention that the police had unlawfully recorded him and under Article 6 § 1 of the Convention that his conviction of the offence of taking a bribe had been based on unlawfully obtained evidence.",
+            "uk": "1.  Справа головним чином стосується скарг заявника за статтею 8 Конвенції на проведення працівниками міліції його незаконної відеозйомки та за пунктом 1 статті 6 Конвенції на визнання його винним в одержанні хабара на підставі незаконно отриманих доказів."
+        }
+    },
+    {
+        "id": 22,
+        "translation": {
+            "en": "THE FACTS",
+            "uk": "ФАКТИ"
+        }
+    },
+    {
+        "id": 23,
+        "translation": {
+            "en": "2.  The applicant was born in 1978 and lives in Zboriv, Ternopil region. He was initially represented by Mr V. Kasko, and later by Mr N. Kulchytskyy, both lawyers practising in Kyiv.",
+            "uk": "2.  Заявник народився в 1978 році і проживає у м. Зборів Тернопільської області. Спочатку його представляв пан В. Касько, а згодом пан Н. Кульчицький, обидва юристи, які практикують у м. Київ."
+        }
+    },
+    {
+        "id": 24,
+        "translation": {
+            "en": "3.  The Government were represented by their Agent, Mr I. Lishchyna.",
+            "uk": "3.  Уряд України представляв його Уповноважений, пан І. Ліщина."
+        }
+    },
+    {
+        "id": 25,
+        "translation": {
+            "en": "4.  The facts of the case, as submitted by the parties, may be summarised as follows.",
+            "uk": "4.  Факти справи, надані сторонами, можуть бути узагальнені таким чином."
+        }
+    },
+    {
+        "id": 26,
+        "translation": {
+            "en": "5.  At the material time the applicant held the position of Deputy Chief Labour Inspector, Ternopil Region.",
+            "uk": "5.  На момент подій заявник обіймав посаду заступника Головного державного інспектора праці у Тернопільській області."
+        }
+    },
+    {
+        "id": 27,
+        "translation": {
+            "en": "6.  Between 30 March and 7 April 2010 the applicant communicated several times with G., a director of a private company, concerning the latter’s noncompliance with labour law regulations. According to the applicant, G. repeatedly offered to settle the matter informally with him, hinting to him about a monetary reward. The applicant rejected these offers.",
+            "uk": "6.  У період з 30 березня до 07 квітня 2010 року заявник декілька разів спілкувався з директором приватного підприємства Г. щодо недотримання останнім норм трудового законодавства. Згідно з твердженнями заявника Г. неодноразово пропонував врегулювати питання з ним неофіційно, натякаючи на грошову винагороду. Заявник відхиляв ці пропозиції."
+        }
+    },
+    {
+        "id": 28,
+        "translation": {
+            "en": "7.  On 7 April 2010 G., who was a former police officer, submitted a written complaint to the police, alleging that the applicant had demanded 3,000 Ukrainian hryvnias from him in exchange for not disclosing violations of labour law committed by G. at his company.",
+            "uk": "7.  07 квітня 2010 року Г., який був колишнім працівником міліції, звернувся до міліції з письмовою скаргою, стверджуючи, що заявник вимагав у нього 3 000 українських гривень в обмін на приховування порушень трудового законодавства, вчинених Г. на його підприємстві."
+        }
+    },
+    {
+        "id": 29,
+        "translation": {
+            "en": "8.  On the same day the investigator of Ternopil city prosecutor’s office initiated criminal proceedings against the applicant for bribery. The police gave G. several banknotes marked with a luminescent substance only visible in special lighting, to be given to the applicant as a bribe.",
+            "uk": "8.  Того ж дня слідчий прокуратури міста Тернополя порушив щодо заявника кримінальну справу за фактом вимагання хабара. Працівники міліції надали Г. декілька банкнот, позначених люмінесцентною речовиною, видимою лише під спеціальним освітленням, для передачі заявнику як хабара."
+        }
+    },
+    {
+        "id": 30,
+        "translation": {
+            "en": "9.  Later that day G. went to the applicant’s office and when he came out he informed the police that he had delivered the money. A video-camera was used to record the operation.",
+            "uk": "9.  Пізніше того ж дня Г. пішов до кабінету заявника, і коли Г. вийшов, він повідомив працівникам міліції, що віддав гроші. Для запису заходу була використана відеокамера."
+        }
+    },
+    {
+        "id": 31,
+        "translation": {
+            "en": "10.  The police entered the applicant’s office with two attesting witnesses. One of the witnesses was a student at the Ternopil Department of the Police Academy. The marked banknotes were found in the applicant’s desk drawer. The luminescent substance was allegedly discovered on one of the applicant’s fingers. The officers then swabbed the applicant’s hands with a gauze swab to collect the luminescent residue.",
+            "uk": "10.  Працівники міліції увійшли до кабінету заявника з двома понятими. Однією з понятих була студентка Тернопільського відділення Національної академії внутрішніх справ України. Помічені банкноти були знайдені у шухляді письмового столу заявника. Як стверджувалося, на одному з пальців заявника була виявлена люмінесцентна речовина. Згодом працівники міліції зробили змиви з руки заявника марлевим тампоном, щоб зібрати залишки люмінесцентної речовини."
+        }
+    },
+    {
+        "id": 32,
+        "translation": {
+            "en": "11.  In May 2010 the police provided the investigator in charge of the criminal case with the video-recording of the covert operation of 7 April 2010 and informed the investigator that that video-recording had been carried out within the police operational-technical activities. They also provided a report which specified that the technical means of obtaining this information had been used based on section 8 of the Operational-Search Activities Act.",
+            "uk": "11.  У травні 2010 року працівники міліції надали слідчому, який розслідував кримінальну справу, відеозапис негласної слідчої дії від 07 квітня 2010 року та повідомили його, що цей відеозапис був зроблений у межах оперативно-технічного заходу працівників міліції. Вони також надали протокол, в якому зазначалося, що технічні засоби отримання цієї інформації використовувалися на підставі статті 8 Закону України «Про оперативно-розшукову діяльність»."
+        }
+    },
+    {
+        "id": 33,
+        "translation": {
+            "en": "12.  The applicant was charged with accepting a bribe.",
+            "uk": "12.  Заявнику пред’явили обвинувачення в одержанні хабара."
+        }
+    },
+    {
+        "id": 34,
+        "translation": {
+            "en": "13.  During the trial the applicant denied the charge. He submitted that he had never demanded a bribe and that he had rejected G.’s repeated proposals to that effect; he submitted that, during the meeting, G. had put the cash in the applicant’s desk drawer, when he had been in another room for a short time, using a photocopier. The applicant insisted therefore that the banknotes had been planted in his office.",
+            "uk": "13.  Під час судового розгляду заявник заперечував свою вину. Він доводив, що ніколи не вимагав хабара і відхиляв неодноразові пропозиції Г. стосовно цього; заявник стверджував, що під час зустрічі Г. поклав готівку до шухляди письмового столу заявника, коли він на короткий проміжок часу виходив до іншої кімнати, щоб скористатися ксероксом. Тому заявник наполягав, що банкноти були підкинуті в його кабінет."
+        }
+    },
+    {
+        "id": 35,
+        "translation": {
+            "en": "14.  On 27 December 2010 the Ternopil City Court found the applicant guilty of accepting a bribe from G. and sentenced him to five years’ imprisonment, suspended, with probation.",
+            "uk": "14.  27 грудня 2010 року Тернопільський міськрайонний суд визнав заявника винним в одержанні хабара від Г. і обрав йому покарання у виді позбавлення волі на строк п’ять років з випробуванням із встановленням іспитового строку."
+        }
+    },
+    {
+        "id": 36,
+        "translation": {
+            "en": "17.  On a subsequent appeal, on 9 March 2011 the Ternopil Regional Court of Appeal upheld the applicant’s conviction. It considered that the applicant’s guilt had been confirmed by the available evidence duly examined and assessed by the trial court. It referred to the video-recording of the conversation between G. and the applicant, concluding that the applicant had accepted the bribe.",
+            "uk": "17.  Під час подальшого розгляду справи в апеляційній інстанції \n09 березня 2011 року Апеляційний суд Тернопільської області залишив без змін вирок заявника. Суд вважав, що вина заявника була підтверджена наявними доказами, належним чином дослідженими та оціненими судом першої інстанції. Суд послався на відеозапис розмови Г. із заявником, дійшовши висновку про одержання заявником хабара."
+        }
+    },
+    {
+        "id": 37,
+        "translation": {
+            "en": "“No violations of the European Convention of Human Rights, as alleged in the supplement to the cassation appeal, have been established.",
+            "uk": "«Порушень норм Європейської Конвенції про захист прав людини при вирішенні справи, про що йдеться у доповненні до касаційної скарги засудженого, не встановлено."
+        }
+    },
+    {
+        "id": 38,
+        "translation": {
+            "en": "The panel of judges [of the court of cassation] has found no substantial breaches of criminal procedure law which could influence the correctness of the conclusions made by the trial and appeal courts.”",
+            "uk": "Істотних порушень кримінально-процесуального закону, які би могли вплинути на правильність висновків судів першої інстанції та апеляційної інстанції, колегія судів [касаційного суду] у справі не виявила.»"
+        }
+    },
+    {
+        "id": 39,
+        "translation": {
+            "en": "RELEVANT LEGAL FRAMEWORK",
+            "uk": "ВІДПОВІДНА НОРМАТИВНО-ПРАВОВА БАЗА"
+        }
+    },
+    {
+        "id": 40,
+        "translation": {
+            "en": "Constitution of Ukraine, 1996",
+            "uk": "Конституція України 1996 року"
+        }
+    },
+    {
+        "id": 41,
+        "translation": {
+            "en": "20.  Article 62 of the Constitution of Ukraine of 1996 provides that an accusation must not be based on illegally obtained evidence or on assumptions. All doubts with regard to the proof of a person’s guilt are to be interpreted in his or her favour.",
+            "uk": "20.  Стаття 62 Конституції України 1996 року передбачає, що обвинувачення не може ґрунтуватися на доказах, одержаних незаконним шляхом, а також на припущеннях. Усі сумніви щодо доведеності вини особи мають тлумачитися на її користь."
+        }
+    },
+    {
+        "id": 42,
+        "translation": {
+            "en": "The Code of Criminal Procedure, 1960 (in force at the material time)",
+            "uk": "Кримінально-процесуальний кодекс України 1960 року (чинний на момент подій)"
+        }
+    },
+    {
+        "id": 43,
+        "translation": {
+            "en": "21.  According to the Code of Criminal Procedure, the court, if there are grounds for that, shall issue a separate ruling (окрема ухвала), which draws the attention of state bodies, public organisations or officials to the facts of violation of the law established in the case, the reasons and conditions that contributed to the commission of the crime and request appropriate measures (Article 23-2).",
+            "uk": "21.  Згідно з Кримінально-процесуальним кодексом України суд за наявності на те підстав виносить окрему ухвалу, якою звертає увагу державних органів, громадських організацій або посадових осіб на встановлені по справі факти порушення закону, причини та умови, що сприяли вчиненню злочину і вимагають вжиття відповідних заходів (стаття 23-2)."
+        }
+    },
+    {
+        "id": 44,
+        "translation": {
+            "en": "23.  Physical evidence has to be examined by the court and shown to the parties and, if necessary, to the witnesses and experts. The persons to whom the physical evidence is shown can draw the court’s attention to their particularities which are of relevance for the case. This must be noted in the trial record. The examination of physical evidence which cannot be brought to the trial hearing can, if necessary, be conducted at the place where the evidence is found (Article 313).",
+            "uk": "23.  Речові докази повинні бути оглянуті судом і пред’явлені учасникам судового розгляду, а коли це необхідно, — свідкам і експертам. Особи, яким пред’явлені речові докази, можуть звертати увагу суду на ті або інші особливості, які мають значення для вирішення справи, про що відмічається в протоколі судового засідання. Огляд речових доказів, які не можна доставити в судове засідання, проводиться в разі необхідності на місці їх знаходження (стаття 313)."
+        }
+    },
+    {
+        "id": 45,
+        "translation": {
+            "en": "24.  The judgment convicting a person should be lawful and substantiated (Article 323 § 1). The court should evaluate the evidence, relying on its internal persuasion that is based on a comprehensive, complete and objective consideration of all the circumstances of the case in their entirety, and it should be governed by law (Article 323 § 3).",
+            "uk": "24.  Вирок суду повинен бути законним і обґрунтованим (частина перша статті 323). Суд оцінює докази за своїм внутрішнім переконанням, що ґрунтується на всебічному, повному і об’єктивному розгляді всіх обставин справи в їх сукупності, керуючись законом (частина третя статті 323)."
+        }
+    },
+    {
+        "id": 46,
+        "translation": {
+            "en": "Operational-Search Activities Act, 1992",
+            "uk": "Закон України «Про оперативно-розшукову діяльність» \n1992 року"
+        }
+    },
+    {
+        "id": 47,
+        "translation": {
+            "en": "27.  Section 8 of the Operational-Search Activities Act (as worded at the relevant time) provided that the use of technical means of obtaining information during operational-search activities had to be authorised by a court decision.",
+            "uk": "27.  Стаття 8 Закону України «Про оперативно-розшукову діяльність» (у редакції, чинній на момент подій) передбачала, що використання технічних засобів отримання інформації під час оперативно-розшукової діяльності мало проводитися за рішенням суду."
+        }
+    },
+    {
+        "id": 48,
+        "translation": {
+            "en": "THE LAW",
+            "uk": "ПРАВО"
+        }
+    },
+    {
+        "id": 49,
+        "translation": {
+            "en": "I. ALLEGED VIOLATION OF ARTICLE 8 OF THE CONVENTION",
+            "uk": "I. СТВЕРДЖУВАНЕ ПОРУШЕННЯ СТАТТІ 8 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 50,
+        "translation": {
+            "en": "28.  The applicant complained that the covert video-recording of his conversation with G. had violated his right to respect for his private life. He relied on Article 8 of the Convention, which reads as follows:",
+            "uk": "28.  Заявник скаржився, що негласна відеозйомка його розмови з Г. порушила його право на повагу до приватного життя. Він послався на статтю 8 Конвенції, яка передбачає:"
+        }
+    },
+    {
+        "id": 51,
+        "translation": {
+            "en": "“1.  Everyone has the right to respect for his private and family life, his home and his correspondence.",
+            "uk": "«1.  Кожен має право на повагу до свого приватного і сімейного життя, до свого житла і кореспонденції."
+        }
+    },
+    {
+        "id": 52,
+        "translation": {
+            "en": "2.  There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.”",
+            "uk": "2.  Органи державної влади не можуть втручатись у здійснення цього права, за винятком випадків, коли втручання здійснюється згідно із законом і є необхідним у демократичному суспільстві в інтересах національної та громадської безпеки чи економічного добробуту країни, для запобігання заворушенням чи злочинам, для захисту здоров’я чи моралі або для захисту прав і свобод інших осіб.»"
+        }
+    },
+    {
+        "id": 53,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 54,
+        "translation": {
+            "en": "29.  The Government submitted that the applicant had not exhausted domestic remedies in respect of the present complaint because he had not raised that issue before the trial court or the court of appeal. The matter had been properly raised only before the court of cassation, which had had limited powers in reviewing the case.",
+            "uk": "29.  Уряд стверджував, що заявник не вичерпав національні засоби юридичного захисту у зв’язку з цією скаргою, оскільки не порушував це питання у судах першої або апеляційної інстанцій. Питання було належним чином порушено лише у касаційному суді, який мав обмежені повноваження щодо розгляду справи."
+        }
+    },
+    {
+        "id": 55,
+        "translation": {
+            "en": "30.  The applicant disagreed and maintained that he had complied with the rule of exhaustion of domestic remedies because he had sufficiently raised the matter in his appeal on points of law.",
+            "uk": "30.  Заявник заперечив і доводив, що він дотримався правила вичерпання національних засобів юридичного захисту, оскільки достатньо порушив це питання у касаційній скарзі."
+        }
+    },
+    {
+        "id": 56,
+        "translation": {
+            "en": "31.  The Court reiterates that the rule of exhaustion of domestic remedies requires an applicant to have normal recourse to remedies within the national legal system which are available and sufficient to afford redress in respect of the breaches alleged (see Micallef v. Malta [GC], no. 17056/06, § 55, ECHR 2009).",
+            "uk": "31.  Суд повторює, що правило вичерпання національних засобів юридичного захисту вимагає лише, щоб заявник звертався до засобів юридичного захисту в межах національної правової системи, які є доступними та достатніми для надання відшкодування у зв’язку зі стверджуваними порушеннями (див. рішення у справі «Мікаллеф проти Мальти» [ВП] (Micallef v. Malta) [GC], заява № 17056/06, пункт 55, ЄСПЛ 2009)."
+        }
+    },
+    {
+        "id": 57,
+        "translation": {
+            "en": "35.  The Court therefore dismisses the Government’s objection. The Court further notes that this complaint is neither manifestly ill-founded nor inadmissible on any other grounds listed in Article 35 of the Convention. It must therefore be declared admissible.",
+            "uk": "35.  Тому Суд відхиляє заперечення Уряду. Суд також зазначає, що ця скарга не є ні явно необґрунтованою, ні неприйнятною з будь-яких інших підстав, перелічених у статті 35 Конвенції. Отже, вона має бути визнана прийнятною."
+        }
+    },
+    {
+        "id": 58,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 59,
+        "translation": {
+            "en": "36.  The applicant maintained that there had been a violation of Article 8 of the Convention in that the covert video-recording of his conversation had been unlawful.",
+            "uk": "36.  Заявник стверджував, що було порушено статтю 8 Конвенції, оскільки негласна відеозйомка його розмови була проведена незаконно."
+        }
+    },
+    {
+        "id": 60,
+        "translation": {
+            "en": "37.  The Government admitted that the video-recording in issue had constituted an interference with the applicant’s right to respect for his private life. They contended, however, that the police had had to pursue their investigation and secure the relevant evidence. In their opinion, there had been no violation of Article 8 of the Convention.",
+            "uk": "37.  Уряд визнав, що відповідна відеозйомка була втручанням у право заявника на повагу до його приватного життя. Проте Уряд стверджував, що працівники міліції мали провести розслідування та зібрати належні докази. На думку Уряду, порушення статті 8 Конвенції не було."
+        }
+    },
+    {
+        "id": 61,
+        "translation": {
+            "en": "41.  It follows that the interference in the present case cannot be considered as having been “in accordance with the law”, as required by Article 8 § 2 of the Convention. Having reached this conclusion, the Court is not required to determine whether the interference was “necessary in a democratic society” for one of the aims enumerated in paragraph 2 of Article 8.",
+            "uk": "41.  З цього випливає, що у цій справі втручання не можна вважати здійсненим «згідно із законом», як того вимагає пункт 2 статті 8 Конвенції. Дійшовши такого висновку, Суд не зобов’язаний визначати, чи було втручання «необхідним у демократичному суспільстві» для досягнення однієї з цілей, перелічених у пункті 2 статті 8 Конвенції."
+        }
+    },
+    {
+        "id": 62,
+        "translation": {
+            "en": "42.  There has accordingly been a violation of Article 8.",
+            "uk": "42.  Отже, було порушено статтю 8 Конвенції."
+        }
+    },
+    {
+        "id": 63,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLE 6 § 1 OF THE CONVENTION",
+            "uk": "СТВЕРДЖУВАНЕ ПОРУШЕННЯ ПУНКТУ 1 СТАТТІ 6 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 64,
+        "translation": {
+            "en": "43.  The applicant complained under Articles 6 and 13 of the Convention (a) that he had been convicted as a result of police entrapment; and (b) that his conviction had been based on evidence obtained unlawfully in the covert police operation and that his important and pertinent argument regarding the inadmissibility of such evidence had not been adequately addressed at the domestic level.",
+            "uk": "43.  Заявник скаржився за статтями 6 та 13 Конвенції, що (а) його визнали винним в результаті провокації працівників міліції; (b) його вирок ґрунтувався на незаконно отриманому доказі під час проведення негласної слідчої дії працівниками міліції, а його важливий та доречний аргумент стосовно недопустимості цього доказу не був належним чином розглянутий на національному рівні."
+        }
+    },
+    {
+        "id": 65,
+        "translation": {
+            "en": "44.  The Court, being master of the characterisation to be given in law to the facts of the case (see Radomilja and Others v. Croatia [GC], nos. 37685/10 and 22768/12, § 114, 20 March 2018), will examine these complaints from the standpoint of Article 6 § 1 of the Convention alone, which reads as follows:",
+            "uk": "44.  Суд, якому належить провідна роль щодо здійснення юридичної кваліфікації фактів справи (див. рішення у справі «Радомілья та інші проти Хорватії» [ВП] (Radomilja and Others v. Croatia) [GC], заяви № 37685/10 та № 22768/12, пункт 114, від 20 березня 2018 року), розгляне ці скарги виключно з точки зору пункту 1 статті 6 Конвенції, який передбачає:"
+        }
+    },
+    {
+        "id": 66,
+        "translation": {
+            "en": "“In the determination of ... any criminal charge against him, everyone is entitled to a fair ... hearing ... by [a] ... tribunal ...”",
+            "uk": "«Кожен має право на справедливий ... розгляд його справи ... судом, ... , який ... встановить обґрунтованість будь-якого висунутого проти нього кримінального обвинувачення.»"
+        }
+    },
+    {
+        "id": 67,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 68,
+        "translation": {
+            "en": "Allegation of police entrapment",
+            "uk": "Твердження щодо провокації працівників міліції"
+        }
+    },
+    {
+        "id": 69,
+        "translation": {
+            "en": "47.  The Court therefore rejects the applicant’s agent provocateur complaint as manifestly ill-founded in accordance with Article 35 §§ 3 (a) and 4 of the Convention.",
+            "uk": "47.  Тому Суд відхиляє скаргу заявника щодо «таємного агента» (agent provocateur) як явно необґрунтовану за підпунктом «а» пункту 3 та пунктом 4 статті 35 Конвенції."
+        }
+    },
+    {
+        "id": 70,
+        "translation": {
+            "en": "Complaint concerning the use of unlawful evidence",
+            "uk": "Скарга щодо використання незаконного доказу"
+        }
+    },
+    {
+        "id": 71,
+        "translation": {
+            "en": "48.  The Government submitted that the applicant had not exhausted domestic remedies in respect of his allegations about the unlawfulness of the video-recording. They submitted that he should have raised that complaint not only in his appeal on points of law, but also before the firstinstance court and the appellate court.",
+            "uk": "48.  Уряд стверджував, що заявник не вичерпав національні засоби юридичного захисту у зв’язку з його твердженнями про незаконність проведення відеозйомки. Уряд доводив, що заявник мав висунути таку скаргу не лише у касаційному суді, але і у судах першої та апеляційної інстанцій."
+        }
+    },
+    {
+        "id": 72,
+        "translation": {
+            "en": "49.  The applicant disagreed and maintained that he had complied with the rule of exhaustion of domestic remedies because he had sufficiently raised the matter in his appeal on points of law.",
+            "uk": "49.  Заявник заперечив і доводив, що він дотримався правила вичерпання національних засобів юридичного захисту, оскільки достатньо порушив це питання у касаційній скарзі."
+        }
+    },
+    {
+        "id": 73,
+        "translation": {
+            "en": "50.  The Court does not need to determine whether the applicant has complied with the rule of exhaustion of domestic remedies for the purpose of this complaint under Article 6 § 1 of the Convention, given that the specific circumstances of this case suggest that his complaint is manifestly ill-founded.",
+            "uk": "50.  Суд не має визначати, чи дотримався заявник правила вичерпання національних засобів юридичного захисту для цілі цієї скарги за пунктом 1 статті 6 Конвенції, оскільки конкретні обставини цієї справи свідчать, що скарга є явно необґрунтованою."
+        }
+    },
+    {
+        "id": 74,
+        "translation": {
+            "en": "55.  Having regard to the above considerations, in particular to the available procedural safeguards which the applicant failed to use in a consistent manner, the Court is unable to conclude that the global fairness of the criminal proceedings against him was compromised. The present complaint is therefore manifestly ill-founded and should be dismissed as inadmissible in accordance with Article 35 §§ 3 (a) and 4 of the Convention.",
+            "uk": "55.  З огляду на наведені міркування, зокрема доступні йому процесуальні гарантії, які заявник послідовно не використовував, Суд не може дійти висновку про порушення загальної справедливості кримінального провадження щодо нього. Отже, ця скарга є явно необґрунтованою і її слід відхилити як неприйнятну згідно з підпунктом «а» пункту 3 та пунктом 4 статті 35 Конвенції."
+        }
+    },
+    {
+        "id": 75,
+        "translation": {
+            "en": "APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+            "uk": "ЗАСТОСУВАННЯ СТАТТІ 41 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 76,
+        "translation": {
+            "en": "56.  Article 41 of the Convention provides:",
+            "uk": "56.  Стаття 41 Конвенції передбачає:"
+        }
+    },
+    {
+        "id": 77,
+        "translation": {
+            "en": "“If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”",
+            "uk": "«Якщо Суд визнає факт порушення Конвенції або протоколів до неї і якщо внутрішнє право відповідної Високої Договірної Сторони передбачає лише часткове відшкодування, Суд, у разі необхідності, надає потерпілій стороні справедливу сатисфакцію.»"
+        }
+    },
+    {
+        "id": 78,
+        "translation": {
+            "en": "Damage",
+            "uk": "Шкода"
+        }
+    },
+    {
+        "id": 79,
+        "translation": {
+            "en": "57.  The applicant claimed 6,500 euros (EUR) in respect of pecuniary damage on account of lost profit, and EUR 5,000 in respect of nonpecuniary damage.",
+            "uk": "57.  Заявник вимагав 6 500 євро в якості відшкодування матеріальної шкоди, якої він зазнав внаслідок втрати прибутку, та 5 000 євро в якості відшкодування моральної шкоди."
+        }
+    },
+    {
+        "id": 80,
+        "translation": {
+            "en": "58.  The Government considered the applicant’s claims unsubstantiated.",
+            "uk": "58.  Уряд вважав вимоги заявника необґрунтованими."
+        }
+    },
+    {
+        "id": 81,
+        "translation": {
+            "en": "Costs and expenses",
+            "uk": "Судові та інші витрати"
+        }
+    },
+    {
+        "id": 82,
+        "translation": {
+            "en": "60.  The applicant claimed EUR 16,716 in respect of the costs and expenses incurred before the Court.",
+            "uk": "60.  Заявник вимагав 16 716 євро в якості компенсації судових та інших витрат, понесених під час провадження у Суді."
+        }
+    },
+    {
+        "id": 83,
+        "translation": {
+            "en": "61.  The Government considered the applicant’s claim unsubstantiated.",
+            "uk": "61.  Уряд вважав вимогу заявника необґрунтованою."
+        }
+    },
+    {
+        "id": 84,
+        "translation": {
+            "en": "62.  According to the Court’s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the documents in its possession and the above criteria, the Court considers it reasonable to award the sum of EUR 1,500, plus any tax that may be chargeable to the applicant, to cover the costs of the proceedings before the Court.",
+            "uk": "62.  Відповідно до практики Суду заявник має право на компенсацію судових та інших витрат, лише якщо буде доведено, що такі витрати були фактичними і неминучими, а їхній розмір – обґрунтованим. У цій справі з огляду на наявні у нього документи та зазначені критерії Суд вважає за належне присудити заявнику 1 500 євро та додатково суму будь-якого податку, який може нараховуватися, що охоплює витрати, понесені під час провадження у Суді."
+        }
+    },
+    {
+        "id": 85,
+        "translation": {
+            "en": "Default interest",
+            "uk": "Пеня"
+        }
+    },
+    {
+        "id": 86,
+        "translation": {
+            "en": "63.  The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+            "uk": "63.  Суд вважає за належне призначити пеню на підставі граничної позичкової ставки Європейського центрального банку, до якої має бути додано три відсоткові пункти."
+        }
+    },
+    {
+        "id": 87,
+        "translation": {
+            "en": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+            "uk": "ЗА ЦИХ ПІДСТАВ СУД ОДНОГОЛОСНО"
+        }
+    },
+    {
+        "id": 88,
+        "translation": {
+            "en": "Declares the complaint under Article 8 of the Convention admissible and the remainder of the application inadmissible;",
+            "uk": "Оголошує скаргу за статтею 8 Конвенції прийнятною, а решту скарг у заяві – неприйнятними;"
+        }
+    },
+    {
+        "id": 89,
+        "translation": {
+            "en": "Holds that there has been a violation of Article 8 of the Convention;",
+            "uk": "Постановляє, що було порушено статтю 8 Конвенції;"
+        }
+    },
+    {
+        "id": 90,
+        "translation": {
+            "en": "Holds,",
+            "uk": "Постановляє, що:"
+        }
+    },
+    {
+        "id": 91,
+        "translation": {
+            "en": "that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+            "uk": "упродовж трьох місяців з дати, коли це рішення набуде статусу остаточного відповідно до пункту 2 статті 44 Конвенції держава-відповідач повинна сплатити заявнику такі суми, які мають бути конвертовані в національну валюту держави-відповідача за курсом на день здійснення платежу:"
+        }
+    },
+    {
+        "id": 92,
+        "translation": {
+            "en": "EUR 4,500 (four thousand five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;",
+            "uk": "4 500 (чотири тисячі п’ятсот) євро та додатково суму будь-якого податку, що може нараховуватися, в якості відшкодування моральної шкоди;"
+        }
+    },
+    {
+        "id": 93,
+        "translation": {
+            "en": "EUR 1,500 (one thousand five hundred euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+            "uk": "1 500 (одна тисяча п’ятсот) євро та додатково суму будь-якого податку, що може нараховуватися заявнику, в якості компенсації судових та інших витрат;"
+        }
+    },
+    {
+        "id": 94,
+        "translation": {
+            "en": "that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+            "uk": "із закінченням зазначеного тримісячного строку до остаточного розрахунку на зазначені суми нараховуватиметься простий відсоток (simple interest) у розмірі граничної позичкової ставки Європейського центрального банку, яка діятиме в період несплати, до якої має бути додано три відсоткові пункти;"
+        }
+    },
+    {
+        "id": 95,
+        "translation": {
+            "en": "Dismisses the remainder of the applicant’s claim for just satisfaction",
+            "uk": "Відхиляє решту вимог заявника щодо справедливої сатисфакції."
+        }
+    },
+    {
+        "id": 96,
+        "translation": {
+            "en": "Done in English, and notified in writing on 8 July 2021, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+            "uk": "Учинено англійською мовою та повідомлено письмово 08 липня 2021 року відповідно до пунктів 2 і 3 Правила 77 Регламенту Суду."
+        }
+    }
+]

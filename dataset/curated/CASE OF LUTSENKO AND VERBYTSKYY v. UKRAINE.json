@@ -1,0 +1,1290 @@
+[
+    {
+        "id": 0,
+        "translation": {
+            "en": "FIFTH SECTION",
+            "uk": "П’ЯТА СЕКЦІЯ"
+        }
+    },
+    {
+        "id": 1,
+        "translation": {
+            "en": "CASE OF LUTSENKO AND VERBYTSKYY v. UKRAINE",
+            "uk": "СПРАВА «ЛУЦЕНКО ТА ВЕРБИЦЬКИЙ ПРОТИ УКРАЇНИ»"
+        }
+    },
+    {
+        "id": 2,
+        "translation": {
+            "en": "(Applications nos. 12482/14 and 39800/14)",
+            "uk": "(Заяви № 12482/14 та № 39800/14)"
+        }
+    },
+    {
+        "id": 3,
+        "translation": {
+            "en": "JUDGMENT",
+            "uk": "РІШЕННЯ"
+        }
+    },
+    {
+        "id": 4,
+        "translation": {
+            "en": "Art 2 and Art 3 (procedural and substantive) • Art 5 § 1 • Art 11 • Deliberate strategy to stop initially peaceful Maidan protest through excessive force resulting in escalation of violence • Abductions, ill-treatment and torture to death of Maidan protestors at hands of non-State agents hired by police • Lack of effective and independent investigation",
+            "uk": "Ст. 2 та ст. 3 (процесуальний та матеріальний аспекти) • П. 1 ст. 5 • Ст. 11 • Цілеспрямована стратегія припинення спочатку мирної акції протесту на Майдані шляхом застосування надмірної сили, що призвела до ескалації насильства • Викрадення, жорстоке поводження та катування до смерті протестувальників, які брали участь у подіях на Майдані недержавними агентами, найманих міліцією • Непроведення ефективного та незалежного розслідування"
+        }
+    },
+    {
+        "id": 5,
+        "translation": {
+            "en": "STRASBOURG",
+            "uk": "СТРАСБУРГ"
+        }
+    },
+    {
+        "id": 6,
+        "translation": {
+            "en": "21 January 2021",
+            "uk": "21 січня 2021 року"
+        }
+    },
+    {
+        "id": 7,
+        "translation": {
+            "en": "FINAL",
+            "uk": "ОСТАТОЧНЕ"
+        }
+    },
+    {
+        "id": 8,
+        "translation": {
+            "en": "21/04/2021",
+            "uk": "21.04.2021"
+        }
+    },
+    {
+        "id": 9,
+        "translation": {
+            "en": "This judgment has become final under Article 44 § 2 of the Convention. It may be subject to editorial revision.",
+            "uk": "Це рішення набуло статусу остаточного відповідно до пункту 2 статті 44 Конвенції. Його текст може підлягати редакційним виправленням."
+        }
+    },
+    {
+        "id": 10,
+        "translation": {
+            "en": "In the case of Lutsenko and Verbytskyy v. Ukraine,",
+            "uk": "У справі «Луценко та Вербицький проти України»"
+        }
+    },
+    {
+        "id": 11,
+        "translation": {
+            "en": "The European Court of Human Rights (Former Fifth Section), sitting as a Chamber composed of:",
+            "uk": "Європейський суд з прав людини (колишня П’ята секція), засідаючи палатою, до складу якої увійшли:"
+        }
+    },
+    {
+        "id": 12,
+        "translation": {
+            "en": "Síofra O’Leary, President,\n\tYonko Grozev,\n\tGanna Yudkivska,\n\tMārtiņš Mits,\n\tGabriele Kucsko-Stadlmayer,\n\tLado Chanturia,\n\tAngelika Nußberger,",
+            "uk": "Сіофра О’Лірі (Síofra O’Leary), Голова,\n\tЙонко Грозєв (Yonko Grozev),\n\tГанна Юдківська (Ganna Yudkivska),\n\tМартіньш Мітс (Mārtiņš Mits),\n\tГабріеле Куцско-Штадльмайер (Gabriele Kucsko-Stadlmayer),\n\tЛадо Чантурія (Lado Chanturia),\n\tАнгеліка Нуссбергер (Angelika Nußberger), судді,"
+        }
+    },
+    {
+        "id": 13,
+        "translation": {
+            "en": "and Victor Soloveytchik, Section Registrar,",
+            "uk": "та Віктор Соловейчік (Victor Soloveytchik), Секретар секції,"
+        }
+    },
+    {
+        "id": 14,
+        "translation": {
+            "en": "Having regard to:",
+            "uk": "з огляду на:"
+        }
+    },
+    {
+        "id": 15,
+        "translation": {
+            "en": "the applications (nos. 12482/14 and 39800/14) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by two Ukrainian nationals, Mr Igor Viktorovych Lutsenko (“the first applicant”) and Mr Sergiy Tarasovych Verbytskyy (“the second applicant”), on 4 February and 8 April 2014 respectively;",
+            "uk": "заяви (№ 12482/14 та № 39800/14), які 04 лютого та 08 квітня \n2014 року відповідно подали до Суду проти України на підставі статті 34 Конвенції про захист прав людини і основоположних свобод (далі – Конвенція) двоє громадян України, пан Ігор Вікторович Луценко (далі – перший заявник) і пан Сергій Тарасович Вербицький (далі – другий заявник);"
+        }
+    },
+    {
+        "id": 16,
+        "translation": {
+            "en": "the decision to give notice of the applications to the Ukrainian Government (“the Government”);",
+            "uk": "рішення повідомити Уряд України (далі – Уряд) про заяви;"
+        }
+    },
+    {
+        "id": 17,
+        "translation": {
+            "en": "the decision to give priority to the applications (Rule 41 of the Rules of Court);",
+            "uk": "рішення надати заявам статус пріоритетних (Правило 41 Регламенту Суду);"
+        }
+    },
+    {
+        "id": 18,
+        "translation": {
+            "en": "the parties’ observations;",
+            "uk": "зауваження, подані Урядом держави-відповідача, та зауваження, подані заявниками у відповідь;"
+        }
+    },
+    {
+        "id": 19,
+        "translation": {
+            "en": "Having deliberated in private on 7 May 2019 and 9 December 2020,",
+            "uk": "після обговорення за зачиненими дверима 07 травня 2019 року та 09 грудня 2020 року"
+        }
+    },
+    {
+        "id": 20,
+        "translation": {
+            "en": "Delivers the following judgment, which was adopted on the latter date:",
+            "uk": "постановляє таке рішення, що було ухвалено у той день:"
+        }
+    },
+    {
+        "id": 21,
+        "translation": {
+            "en": "INTRODUCTION",
+            "uk": "ВСТУП"
+        }
+    },
+    {
+        "id": 22,
+        "translation": {
+            "en": "THE FACTS",
+            "uk": "ФАКТИ"
+        }
+    },
+    {
+        "id": 23,
+        "translation": {
+            "en": "2.  The applicants were born in 1978 and 1958 and live in Kyiv and Lviv respectively. The applicants were represented by Ms Y. Zakrevska, a lawyer practising in Kyiv.",
+            "uk": "2.  Заявники народилися у 1978 та 1958 роках і проживають у м. Київ і м. Львів відповідно. Заявників представляла пані \nЮ. Закревська, юрист, яка практикує у м. Київ."
+        }
+    },
+    {
+        "id": 24,
+        "translation": {
+            "en": "3.  The Government were represented by their Agent, most recently Mr I. Lishchyna, of the Ministry of Justice.",
+            "uk": "3.  Уряд України представляв його Уповноважений, на останніх етапах провадження пан І. Ліщина з Міністерства юстиції."
+        }
+    },
+    {
+        "id": 25,
+        "translation": {
+            "en": "4.  The facts of the case, as submitted by the parties, may be summarised as follows.",
+            "uk": "4.  Факти справи, надані сторонами, можуть бути узагальнені таким чином."
+        }
+    },
+    {
+        "id": 26,
+        "translation": {
+            "en": "Principle events at issue",
+            "uk": "Головні ВІДПОВІДНІ ПОДІЇ"
+        }
+    },
+    {
+        "id": 27,
+        "translation": {
+            "en": "6.  The second applicant’s brother, Mr Y. Verbytskyy, was originally from Lviv and worked as a seismologist at the Karpatske Department of the Institute of Geophysics in Lviv at the material time. In January 2014 he came to Kyiv and took part in the Maidan protests.",
+            "uk": "6.  Брат другого заявника, пан Ю. Вербицький, був родом з м. Львів і працював на той час сейсмологом у Карпатському відділенні Інституту геофізики ім. С.І. Субботіна НАН України у м. Львів. У січні 2014 року він приїхав до м. Київ і взяв участь в акціях протесту на Майдані."
+        }
+    },
+    {
+        "id": 28,
+        "translation": {
+            "en": "10.  In the meantime, at about 4.30 a.m. on 21 January 2014 a doctor from the hospital informed the police of the two men’s abduction. At about 9.30 a.m. Mr I. Lutsenko’s partner lodged a complaint with the police as regards his disappearance.",
+            "uk": "10.  Тим часом 21 січня 2014 року близько 04 год 30 хв лікар лікарні повідомив працівників міліції про викрадення двох чоловіків. Близько 09 год 30 хв колега пана І. Луценка звернувся до міліції із заявою про його зникнення."
+        }
+    },
+    {
+        "id": 29,
+        "translation": {
+            "en": "11.  At about 6 p.m. on the same day Mr I. Lutsenko was taken to a public road near a village in the Boryspil District, about 50 kilometres away from central Kyiv, and was left there. From there he managed to get help. Subsequently, he was questioned by a police officer concerning the events.",
+            "uk": "11.  Того ж дня близько 18 год 00 хв пана І. Луценка відвезли на трасу загального користування поблизу селища Бориспільського району, приблизно за 50 кілометрів від центральної частини м. Київ, і там залишили. Там йому вдалося отримати допомогу. Згодом працівник міліції допитав його щодо цих подій."
+        }
+    },
+    {
+        "id": 30,
+        "translation": {
+            "en": "12.  In the meantime, Mr Y. Verbytskyy’s wife lodged a complaint with the police as regards his abduction. On 21 January 2014 a criminal investigation was launched into that complaint.",
+            "uk": "12.  Тим часом дружина пана Ю. Вербицького звернулася до міліції із заявою про його викрадення. 21 січня 2014 року за цією заявою було порушено кримінальне провадження."
+        }
+    },
+    {
+        "id": 31,
+        "translation": {
+            "en": "13.  On 22 January 2014 Mr Y. Verbytskyy’s body was found in a forest in the Boryspil District. A preliminary medical report recorded that he had died of hypothermia. Multiple injuries were found on the trunk of his body, limbs, head and face.",
+            "uk": "13.  22 січня 2014 року тіло пана Ю. Вербицького було знайдено в лісі у Бориспільському районі. У попередніх медичних висновках було зазначено, що він помер від переохолодження. На його тулубі, кінцівках, голові та обличчі було виявлено численні тілесні ушкодження."
+        }
+    },
+    {
+        "id": 32,
+        "translation": {
+            "en": "14.  According to a forensic medical report of 12 March 2014, a copy of which was submitted to the Court, Mr Y. Verbytskyy’s injuries included numerous haematomas all over the trunk of his body, limbs, head and face, fractured bones and ribs, and internal bleeding. It was considered that he had been hit by “blunt objects” at least thirty times. It was confirmed that he had died of hypothermia.",
+            "uk": "14.  Згідно з висновком судово-медичної експертизи від 12 березня 2014 року, копія якого була надана Суду, у пана Ю. Вербицького були такі тілесні ушкодження: численні крововиливи по всьому тулубу, кінцівках, голові та обличчі, переломи кісток і ребер, а також внутрішня кровотеча. Вважалося, що йому щонайменше тридцять разів наносили удари «тупими предметами». Було підтверджено, що він помер від переохолодження."
+        }
+    },
+    {
+        "id": 33,
+        "translation": {
+            "en": "Official investigations and related proceedings",
+            "uk": "ОФІЦІЙНІ РОЗСЛІДУВАННЯ ТА ПОВ’ЯЗАНІ З НИМИ ПРОВАДЖЕННЯ"
+        }
+    },
+    {
+        "id": 34,
+        "translation": {
+            "en": "15.  On 22 January 2014 the police started a criminal investigation into the death of Mr Y. Verbytskyy which was classified as murder. The investigation into his abduction (see paragraph 12 above) was joined to that investigation. The second applicant took part in the proceedings as a victim. He was questioned as regards the relevant events and also took part in other investigative actions.",
+            "uk": "15.  22 січня 2014 року міліція розпочала кримінальне провадження за фактом смерті пана Ю. Вербицького, яку було кваліфіковано як вбивство. Цю справу було об’єднано зі справою щодо його викрадення (див. пункт 12). Другий заявник брав участь у провадженні як потерпілий. Його допитали щодо відповідних подій, а також він брав участь в інших слідчих діях."
+        }
+    },
+    {
+        "id": 35,
+        "translation": {
+            "en": "16.  On 22 January 2014 the police also started a criminal investigation into the first applicant’s abduction. Eventually, that investigation was merged with the investigation into the murder of Mr. Y. Verbytskyy.",
+            "uk": "16.  22 січня 2014 року міліція також розпочала кримінальне провадження за фактом викрадення першого заявника. Зрештою цю справу було об’єднано зі справою щодо вбивства пана Ю. Вербицького."
+        }
+    },
+    {
+        "id": 36,
+        "translation": {
+            "en": "17.  On 27 January 2014 Mr I. Lutsenko was questioned by the police about the events. He stated, inter alia, that while he had been in the hands of his abductors he had heard Mr Y. Verbytskyy being beaten more severely after the abductors had found out that he was originally from Lviv. Those beating Mr Y. Verbytskyy had repeatedly called him “banderovets” (бандеровець). Mr I. Lutsenko also heard the abductors discussing the possibility of taking him and Mr Y. Verbytskyy to a police station.",
+            "uk": "17.  27 січня 2014 року пан І. Луценко був допитаний працівниками міліції щодо подій. Він, inter alia, зазначив, що під час перебування під контролем викрадачів чув, як пана Ю. Вербицького почали більш жорстоко бити, коли викрадачі дізналися, що він був родом з м. Львів. Ті, хто бив пана Ю. Вербицького, неодноразово називали його «бандеровець». Пан І. Луценко також чув, як викрадачі обговорювали можливість перевезення його та пана Ю. Вербицького до відділу міліції."
+        }
+    },
+    {
+        "id": 37,
+        "translation": {
+            "en": "18.  According to the case material, including the PGO’s and the MoI’s letters of 4 February, 19 May, 15 June and 29 November 2016, between February and April 2014 thirteen individuals were identified as suspects in the investigation. Two of them, T. and M., were suspected of having taken part in the abduction of Mr I. Lutsenko and Mr Y. Verbytskyy. T. and M. were alleged to have been the drivers of the vehicles used.",
+            "uk": "18.  Згідно з матеріалами справи, у тому числі листами ГПУ та МВС України від 04 лютого, 19 травня, 15 червня та 29 листопада 2016 року, з лютого до квітня 2014 року тринадцять осіб були визнані підозрюваними у розслідуванні. Двох з них, Т. і М., підозрювали в участі у викраденні пана І. Луценка та пана Ю. Вербицького. Як стверджувалося, Т. та М. були водіями транспортних засобів, які використовувалися під час викрадення."
+        }
+    },
+    {
+        "id": 38,
+        "translation": {
+            "en": "25.  According to the information published PGO’s dedicated website, the relevant proceedings were ongoing at the time of the adoption of this judgment.",
+            "uk": "25.  Згідно з інформацією, опублікованою на спеціальному вебсайті ГПУ, на момент ухвалення цього рішення відповідні провадження тривали."
+        }
+    },
+    {
+        "id": 39,
+        "translation": {
+            "en": "Payments to the relatives of Mr Y. Verbytskyy",
+            "uk": "Виплати РОДИЧАМ ПАНА ю. вЕРБИЦЬКОГО"
+        }
+    },
+    {
+        "id": 40,
+        "translation": {
+            "en": "RELEVANT LEGAL FRAMEWORK",
+            "uk": "ВІДПОВІДНА НОРМАТИВНО-ПРАВОВА БАЗА"
+        }
+    },
+    {
+        "id": 41,
+        "translation": {
+            "en": "27.  Summaries of and extracts from the domestic legal framework and international reports of relevance for the examination of all applications lodged in relation to the Maidan protests and their aftermath, including the present two applications, are to be found in Shmorgunov and Others (cited above, §§ 194-269).",
+            "uk": "27.  Загальний огляд та витяги з національної нормативно-правової бази та міжнародних звітів і доповідей, які мають значення для розгляду всіх заяв, поданих у зв’язку з акціями протесту на Майдані та їхніми наслідками, у тому числі цих двох заяв, наведені у згаданому рішенні у справі «Шморгунов та інші проти України» (Shmorgunov and Others v. Ukraine), пункти 194 – 269)."
+        }
+    },
+    {
+        "id": 42,
+        "translation": {
+            "en": "28.  Some of those international reports also contain information relating specifically to the events at issue in the present case.",
+            "uk": "28.  Деякі з цих міжнародних звітів і доповідей також містять конкретну інформацію щодо подій, про які йдеться у цій справі."
+        }
+    },
+    {
+        "id": 43,
+        "translation": {
+            "en": "29.  In particular, in its 2015 report, which is summarised and partly reproduced in Shmorgunov and Others (cited above, §§ 237-49), the International Advisory Panel (IAP) made the following observations concerning the investigations relating to Mr I. Lutsenko and Mr Y. Verbytskyy (references omitted):",
+            "uk": "29.  Зокрема, у своєму звіті за 2015 рік, який узагальнено та частково наведено у згаданому рішенні у справі «Шморгунов та інші проти України» (Shmorgunov and Others v. Ukraine), пункти 237 – 249), Міжнародна дорадча група (далі – МДГ) зробила такі зауваження щодо розслідувань стосовно пана І. Луценка та пана Ю. Вербицького (посилання пропущені):"
+        }
+    },
+    {
+        "id": 44,
+        "translation": {
+            "en": "338. 13 suspects, most of them titushky, as well as Messrs Zubrytskyi and Chebotariov, have been served with notices of suspicion on various charges related to these incidents [involving Mr I. Lutsenko and Mr Y. Verbytskyy].",
+            "uk": "338. 13 підозрюваним, більшість з яких «тітушки», а також пану Зубрицькому та пану Чеботарьову було вручено повідомлення про підозру за різними обвинуваченнями, пов’язаними з цими подіями [у тому числі щодо \nпана І. Луценка та пана Ю. Вербицького]."
+        }
+    },
+    {
+        "id": 45,
+        "translation": {
+            "en": "339. Two suspects were arrested, notified of suspicion and detained. On 20 August 2014 the indictments were submitted to the court. However, on 16 October 2014 the trial court returned the indictments citing certain shortcomings in them. The prosecutor’s appeal was due to be heard on 12 December 2014. The Panel has not been informed of the outcome of the appeal.",
+            "uk": "339. Двох підозрюваних було затримано; їм було повідомлено про підозру і взято під варту. 20 серпня 2014 року обвинувальні акти були направлені до суду. Проте 16 жовтня 2014 року суд першої інстанції повернув обвинувальні акти, вказавши на певні недоліки в них. Розгляд апеляційної скарги прокурора було заплановано на 12 грудня 2014 року. МДГ не була поінформована про його результати."
+        }
+    },
+    {
+        "id": 46,
+        "translation": {
+            "en": "340. The proceedings concerning the remaining 11 suspects have been suspended: ten suspects are on the wanted list and the eleventh is being pursued through international co-operation arrangements.",
+            "uk": "340. Провадження щодо інших 11 підозрюваних були зупинені: десять підозрюваних були оголошені в розшук, а щодо одинадцятого було задіяно процедуру в межах угод про міжнародне співробітництво."
+        }
+    },
+    {
+        "id": 47,
+        "translation": {
+            "en": "“I. EXECUTIVE SUMMARY",
+            "uk": "«I. РЕЗЮМЕ"
+        }
+    },
+    {
+        "id": 48,
+        "translation": {
+            "en": "Prosecution for the killing of Yurii Verbytskyi",
+            "uk": "Притягнення до кримінальної відповідальності винних у вбивстві Юрія Вербицького"
+        }
+    },
+    {
+        "id": 49,
+        "translation": {
+            "en": "19. The SID identified 14 members of a ‘titushky’ group as being involved in the abduction, torture and killing of Yurii Verbytskyi. As of February 2019, 12 of them have absconded.",
+            "uk": "19. УСР встановило 14 членів групи «тітушок», ймовірно причетних до викрадення, катування і вбивства Юрія Вербицького. Станом на лютий \n2019 року 12 з них переховувалися від правосуддя."
+        }
+    },
+    {
+        "id": 50,
+        "translation": {
+            "en": "20. On 23 April 2014, police detained two male members of the ‘titushky’ group. The first man owned a garage in the outskirts of Kyiv where both abducted protestors were tortured and interrogated. He absconded shortly after being indicted on charges of abduction, torture and intentional killing.",
+            "uk": "20. 23 квітня 2014 року працівники міліції затримали двох чоловіків з групи «тітушок». Першому чоловіку належав гараж у передмісті м. Київ, де обох викрадених протестувальників допитували і катували. Невдовзі після висунення йому обвинувачень у викраденні, катуванні та умисному вбивстві, він втік."
+        }
+    },
+    {
+        "id": 51,
+        "translation": {
+            "en": "21. The second man who acted as a lookout is currently on trial facing abduction charges. On 17 July 2018, after almost three years of hearings on the merits of the case, the judge recused herself from the case. As of February 2019, the new judge has still to be appointed.",
+            "uk": "21. Справа другого чоловіка, який стояв на сторожі, за обвинуваченням у викраденні наразі розглядається судом. 17 липня 2018 року, після майже трьох років розгляду справи по суті, суддя у справі заявила про самовідвід. Станом на лютий 2019 року нового суддю ще не призначено."
+        }
+    },
+    {
+        "id": 52,
+        "translation": {
+            "en": "22. On 28 July 2017, SID investigators detained another member of the ‘titushky’ group on charges of the creation of a criminal organization, interference with public assemblies, abduction, torture and intentional killing of Yurii Verbytskyi. On 24 July 2018, he was indicted and his case was sent for trial. As of February 2019, the defendant remains in detention while the court hears testimonies of prosecution witnesses, including other members of ‘titushky’ groups.",
+            "uk": "22. 28 липня 2017 року слідчі УСР затримали ще одного члена групи «тітушок» за підозрою у створенні злочинної організації, перешкоджанні публічним зібранням, викраденні, катуванні та умисному вбивстві Юрія Вербицького. 24 липня 2018 року було складено обвинувальний акт щодо нього, а справу було направлено до суду. Станом на лютий 2019 року обвинувачений залишається під вартою, а суд заслуховує показання свідків сторони обвинувачення, зокрема, інших членів груп «тітушок»."
+        }
+    },
+    {
+        "id": 53,
+        "translation": {
+            "en": "24. The prosecution for the killing of Yurii Verbytskyi was marred by the failure of the Government to ensure the appearance at court of one of the key defendants. Failure to ensure the trial without undue delay of the second member of the group is also concerning.",
+            "uk": "24. Процес притягнення до кримінальної відповідальності винних у вбивстві Юрія Вербицького підірвало те, що Уряд не забезпечив явку до суду одного з ключових обвинувачених. Незабезпечення розгляду судом справ щодо інших членів групи без неналежної затримки викликає занепокоєння."
+        }
+    },
+    {
+        "id": 54,
+        "translation": {
+            "en": "THE LAW",
+            "uk": "ПРАВО"
+        }
+    },
+    {
+        "id": 55,
+        "translation": {
+            "en": "JOINDER OF THE APPLICATIONS",
+            "uk": "ОБ’ЄДНАННЯ ЗАЯВ"
+        }
+    },
+    {
+        "id": 56,
+        "translation": {
+            "en": "31.  Having regard to the common factual and legal background of the two applications under examination, the Court finds it appropriate to examine them jointly in a single judgment (Rule 42 § 1 of the Rules of Court).",
+            "uk": "31.  Беручи до уваги спільну фактологічну та правову основу двох розглянутих заяв, Суд вважає за доцільне розглянути їх спільно в одному рішенні (пункт 1 Правила 42 Регламенту Суду)."
+        }
+    },
+    {
+        "id": 57,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLES 2, 3 AND 14 OF THE CONVENTION",
+            "uk": "СТВЕРДЖУВАНЕ ПОРУШЕННЯ СТАТЕЙ 2, 3 ТА 14 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 58,
+        "translation": {
+            "en": "32.  The applicants complained of a violation of Article 3 of the Convention on account of Mr I. Lutsenko’s and Mr Y. Verbytskyy’s abduction and ill-treatment on 21 January 2014, which they alleged amounted to torture (see paragraphs 7-9 above). Relying on Article 2 of the Convention, Mr S. Verbytskyy further complained that his brother, Mr Y. Verbytskyy, had been murdered. The applicants also complained that no effective official investigation had been conducted into those events.",
+            "uk": "32.  Посилаючись на статтю 3 Конвенції заявники скаржились на викрадення та жорстоке поводження з паном І. Луценком і \nпаном Ю. Вербицьким 21 січня 2014 року, яке, як стверджувалося, становило катування (див. пункти 7 – 9). Посилаючись на статтю 2 Конвенції, пан С. Вербицький також скаржився на вбивство свого брата, пана Ю. Вербицького. Заявники також скаржились на непроведення ефективного офіційного розслідування цих подій."
+        }
+    },
+    {
+        "id": 59,
+        "translation": {
+            "en": "33.  Relying on Article 14 of the Convention taken in conjunction with Articles 2 and 3, Mr S. Verbytskyy complained that his brother, Mr Y. Verbytskyy, had been tortured and murdered because he was from Lviv and had spoken Ukrainian.",
+            "uk": "33.  Посилаючись на статтю 14 Конвенції у поєднанні зі статтями 2 та 3 Конвенції, пан С. Вербицький скаржився, що його брата, \nпана Ю. Вербицького, катували та вбили у зв’язку з тим, що він був родом з м. Львів і розмовляв українською мовою."
+        }
+    },
+    {
+        "id": 60,
+        "translation": {
+            "en": "34.  The applicants argued that the perpetrators had been either agents of the State or had acted on the instructions of the authorities, with a view to persecuting Mr I. Lutsenko and Mr Y. Verbytskyy on account of their involvement in the Maidan protests.",
+            "uk": "34.  Заявники стверджували, що викрадачі були або представниками держави, або діяли за вказівками органів державної влади з метою переслідування пана І. Луценка та пана Ю. Вербицького у зв’язку із їхньою участю в акціях протесту на Майдані."
+        }
+    },
+    {
+        "id": 61,
+        "translation": {
+            "en": "35.  Articles 2, 3 and 14 of the Convention read as follows:",
+            "uk": "35.  Статті 2, 3 та 14 Конвенції передбачають:"
+        }
+    },
+    {
+        "id": 62,
+        "translation": {
+            "en": "Article 2",
+            "uk": "Стаття 2 Конвенції"
+        }
+    },
+    {
+        "id": 63,
+        "translation": {
+            "en": "“1.  Everyone’s right to life shall be protected by law. No one shall be deprived of his life intentionally save in the execution of a sentence of a court following his conviction of a crime for which this penalty is provided by law.",
+            "uk": "«1.  Право кожного на життя охороняється законом. Нікого не може бути умисно позбавлено життя інакше ніж на виконання смертного вироку суду, винесеного після визнання його винним у вчиненні злочину, за який закон передбачає таке покарання."
+        }
+    },
+    {
+        "id": 64,
+        "translation": {
+            "en": "2.  Deprivation of life shall not be regarded as inflicted in contravention of this article when it results from the use of force which is no more than absolutely necessary:",
+            "uk": "2.  Позбавлення життя не розглядається як таке, що вчинене на порушення цієї статті, якщо воно є наслідком виключно необхідного застосування сили:"
+        }
+    },
+    {
+        "id": 65,
+        "translation": {
+            "en": "(a)  in defence of any person from unlawful violence;",
+            "uk": "(a)  для захисту будь-якої особи від незаконного насильства;"
+        }
+    },
+    {
+        "id": 66,
+        "translation": {
+            "en": "(b)  in order to effect a lawful arrest or to prevent the escape of a person lawfully detained;",
+            "uk": "(b)  для здійснення законного арешту або для запобігання втечі особи, яку законно тримають під вартою;"
+        }
+    },
+    {
+        "id": 67,
+        "translation": {
+            "en": "(c)  in action lawfully taken for the purpose of quelling a riot or insurrection.”",
+            "uk": "(c)  при вчиненні правомірних дій для придушення заворушення або повстання.»"
+        }
+    },
+    {
+        "id": 68,
+        "translation": {
+            "en": "Article 3",
+            "uk": "Стаття 3 Конвенції"
+        }
+    },
+    {
+        "id": 69,
+        "translation": {
+            "en": "“No one shall be subjected to torture or to inhuman or degrading treatment or punishment.”",
+            "uk": "«Нікого не може бути піддано катуванню або нелюдському чи такому, що принижує гідність, поводженню або покаранню.»"
+        }
+    },
+    {
+        "id": 70,
+        "translation": {
+            "en": "Article 14",
+            "uk": "Стаття 14 Конвенції"
+        }
+    },
+    {
+        "id": 71,
+        "translation": {
+            "en": "“The enjoyment of the rights and freedoms set forth in [the] Convention shall be secured without discrimination on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.”",
+            "uk": "«Користування правами та свободами, визнаними в цій Конвенції, має бути забезпечене без дискримінації за будь-якою ознакою – статі, раси, кольору шкіри, мови, релігії, політичних чи інших переконань, національного чи соціального походження, належності до національних меншин, майнового стану, народження, або за іншою ознакою.»"
+        }
+    },
+    {
+        "id": 72,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 73,
+        "translation": {
+            "en": "Exhaustion of domestic remedies",
+            "uk": "Вичерпання національних засобів юридичного захисту"
+        }
+    },
+    {
+        "id": 74,
+        "translation": {
+            "en": "The parties’ submissions",
+            "uk": "Доводи сторін"
+        }
+    },
+    {
+        "id": 75,
+        "translation": {
+            "en": "36.  The Government argued that the applicants’ complaints under Articles 3 of the Convention and Mr S. Verbytskyy’s related complaints under Article 2 were inadmissible for non-exhaustion of domestic remedies.",
+            "uk": "36.  Уряд стверджував, що скарги заявників за статтею 3 Конвенції та скарги пана С. Вербицького за статтею 2 Конвенції були неприйнятними у зв’язку з невичерпанням національних засобів юридичного захисту."
+        }
+    },
+    {
+        "id": 76,
+        "translation": {
+            "en": "38.  The Government further argued that the applicants had not raised their complaints of ineffective investigation at domestic level.",
+            "uk": "38.  Уряд також стверджував, що на національному рівні заявники не подавали скарг на неефективність розслідування."
+        }
+    },
+    {
+        "id": 77,
+        "translation": {
+            "en": "39.  The applicants disagreed.",
+            "uk": "39.  Заявники заперечили."
+        }
+    },
+    {
+        "id": 78,
+        "translation": {
+            "en": "40.  They argued that the investigations launched by the Ukrainian authorities into the relevant events had not been effective. According to them, the investigations and the court proceedings had been protracted, those who had ordered the crimes had not been identified, almost all suspects had left Ukraine, and the authorities had failed to establish their whereabouts and seek their extradition. According to Mr I. Lutsenko, eleven of those suspects had left Ukraine for Russia.",
+            "uk": "40.  Вони стверджували, що розслідування, розпочате українськими органами влади у зв’язку з відповідними подіями, було неефективним. Згідно з їхніми твердженнями розслідування та судовий розгляд затягувалися, замовники злочинів не були встановлені, майже всі підозрювані виїхали з України, а органи державної влади не змогли встановити їхнє місцезнаходження та звернутися із запитом про видачу. Згідно з твердженнями пана І. Луценка одинадцять із цих підозрюваних виїхали з України до Російської Федерації."
+        }
+    },
+    {
+        "id": 79,
+        "translation": {
+            "en": "The Court’s assessment",
+            "uk": "Оцінка Суду"
+        }
+    },
+    {
+        "id": 80,
+        "translation": {
+            "en": "42.  The Court notes that the Government raised objections as to the nonexhaustion of domestic remedies that were similar to those raised in other Maidan-related applications. The applicable general principles and a detailed assessment of the Government’s objections are to be found in Shmorgunov and Others (cited above, §§ 283-85 and 291-303).",
+            "uk": "42.  Суд зазначає, що Уряд висловив зауваження щодо невичерпання національних засобів юридичного захисту, подібні до висловлених щодо інших пов’язаних з Майданом заяв. Застосовні загальні принципи та детальна оцінка заперечень Уряду наведені в згаданому рішенні у справі «Шморгунов та інші проти України» (Shmorgunov and Others v. Ukraine), пункти 283 – 285 та 291 – 303)."
+        }
+    },
+    {
+        "id": 81,
+        "translation": {
+            "en": "44.  The Court considers that those findings are equally relevant for the complaints relating to Mr I. Lutsenko’s and Mr Y. Verbytskyy’s abduction and ill-treatment and Mr Y. Verbytskyy’s murder, having regard to the fact that the relevant domestic proceedings have been ongoing for more than six years and so far there has been no final and comprehensive domestic assessment of all the relevant circumstances (see paragraphs 15-25 above).",
+            "uk": "44.  Суд вважає, що ці висновки однаково застосовні до скарг на викрадення пана І. Луценка та пана Ю. Вербицького, а також жорстоке поводження і вбивство пана Ю. Вербицького, беручи до уваги той факт, що відповідні провадження на національному рівні тривають вже більше шести років, і дотепер на національному рівні не було здійснено остаточної та всеохоплюючої оцінки всіх відповідних обставин (див. пункти 15 – 25)."
+        }
+    },
+    {
+        "id": 82,
+        "translation": {
+            "en": "46.  Accordingly, the Court dismisses the Government’s objections as to non-exhaustion of domestic remedies as regards the applicants’ complaints under Articles 2 and 3 of the Convention.",
+            "uk": "46.  Отже, Суд відхиляє заперечення Уряду щодо невичерпання національних засобів юридичного захисту у зв’язку зі скаргами заявників за статтями 2 та 3 Конвенції."
+        }
+    },
+    {
+        "id": 83,
+        "translation": {
+            "en": "Victim status (Mr S. Verbytskyy)",
+            "uk": "Статус потерпілого (пан С. Вербицький)"
+        }
+    },
+    {
+        "id": 84,
+        "translation": {
+            "en": "The parties’ submissions",
+            "uk": "Доводи сторін"
+        }
+    },
+    {
+        "id": 85,
+        "translation": {
+            "en": "47.  The Government argued that Mr S. Verbytskyy had been paid compensation on account of the alleged violation of Articles 2 and 3 of the Convention (see paragraph 26 above) and that he had not challenged the amount of compensation. Thus, he could no longer be considered a victim in that regard.",
+            "uk": "47.  Уряд стверджував, що пану С. Вербицькому було сплачено відшкодування шкоди у зв’язку зі стверджуваним порушенням статей 2 та 3 Конвенції (див. пункт 26), і що він не оскаржував розмір відшкодування. Таким чином, він більше не міг вважатися потерпілим у зв’язку з цим."
+        }
+    },
+    {
+        "id": 86,
+        "translation": {
+            "en": "48.  The second applicant disagreed. In particular, he contended that neither he nor his brother’s other relatives had been paid the full amount of UAH 1,000,000 – the equivalent of about EUR 55,000 at the material time – to which they were entitled under the Civil Protest Victims Aid Act of 2014 (see the summary of the Act in Shmorgunov and Others, cited above, §§ 214-15). The Government did not contest this.",
+            "uk": "48.  Другий заявник не погодився. Зокрема, він стверджував, що ні йому, ні іншим родичам його брата не була сплачена повна сума в розмірі 1 000 000 грн – еквівалент близько 55 000 євро на той момент, на яку вони мали право згідно із Законом України «Про допомогу постраждалим учасникам громадського протесту» 2014 року (див. стислий виклад Закону у згаданому рішенні у справі «Шморгунов та інші проти України» (Shmorgunov and Others v. Ukraine), пункти 214 і 215). Уряд це не заперечив."
+        }
+    },
+    {
+        "id": 87,
+        "translation": {
+            "en": "The Court’s assessment",
+            "uk": "Оцінка Суду"
+        }
+    },
+    {
+        "id": 88,
+        "translation": {
+            "en": "51.  Accordingly, the Court rejects the Government’s objections as to Mr S. Verbytskyy’s victim status.",
+            "uk": "51.  Отже, Суд відхиляє заперечення Уряду щодо статусу потерпілого пана С. Вербицького."
+        }
+    },
+    {
+        "id": 89,
+        "translation": {
+            "en": "Submissions regarding the admissibility of Mr S. Verbytskyy’s complaint under Article 14 taken in conjunction with Articles 2 and 3",
+            "uk": "Доводи щодо прийнятності скарги пана С. Вербицького за статтею 14 у поєднанні зі статтями 2 та 3 Конвенції"
+        }
+    },
+    {
+        "id": 90,
+        "translation": {
+            "en": "The parties’ submissions",
+            "uk": "Доводи сторін"
+        }
+    },
+    {
+        "id": 91,
+        "translation": {
+            "en": "52.  The Government contended that Mr S. Verbytskyy had not raised that complaint at domestic level, and in any event the circumstances of his brother’s abduction, ill-treatment and murder were being investigated by the authorities. For those reasons, the Government stated that it should be rejected for non-exhaustion of domestic remedies.",
+            "uk": "52.  Уряд стверджував, що на національному рівні \nпан С. Вербицький не висував таку скаргу, і в будь-якому випадку органи державної влади проводили розслідування обставин викрадення, жорстокого поводження та вбивства. З цих причин Уряд зазначив, що скаргу слід відхилити у зв’язку з невичерпанням національних засобів юридичного захисту."
+        }
+    },
+    {
+        "id": 92,
+        "translation": {
+            "en": "53.  The Government further argued that there was little or no evidence demonstrating that his brother’s language or origins had had any bearing on his attackers’ perception of him. Even if Mr I. Lutsenko’s testimony in that regard was true, Mr Y. Verbytskyy’s abduction and ill-treatment was the subject of an ongoing investigation, and since the perpetrators were private individuals, Ukraine had discharged its obligations in that regard.",
+            "uk": "53.  Уряд також стверджував, що було небагато чи взагалі не було доказів, що мова спілкування чи походження його брата якось вплинули на ставлення до нього нападників. Навіть якщо показання пана І. Луценка щодо цього були правдивими, викрадення та жорстоке поводження з паном Ю. Вербицьким було предметом розслідування, яке тривало, і оскільки винними були приватні особи, Україна виконала свої зобов’язання у зв’язку з цим."
+        }
+    },
+    {
+        "id": 93,
+        "translation": {
+            "en": "54.  Mr S. Verbytskyy disagreed.",
+            "uk": "54.  Пан С. Вербицький заперечив."
+        }
+    },
+    {
+        "id": 94,
+        "translation": {
+            "en": "The Court’s assessment",
+            "uk": "Оцінка Суду"
+        }
+    },
+    {
+        "id": 95,
+        "translation": {
+            "en": "56.  Thus, the Government’s objections to the admissibility of this part of the case should be rejected.",
+            "uk": "56.  Отже, заперечення Уряду щодо прийнятності цієї частини справи слід відхилити."
+        }
+    },
+    {
+        "id": 96,
+        "translation": {
+            "en": "Conclusion as to the admissibility",
+            "uk": "Висновок щодо прийнятності"
+        }
+    },
+    {
+        "id": 97,
+        "translation": {
+            "en": "57.  In sum, the Court finds that this part of the applicants’ applications is not manifestly ill-founded within the meaning of Article 35 § 3 (a) of the Convention and is not inadmissible on any other grounds. It should therefore be declared admissible.",
+            "uk": "57.  Загалом Суд вважає, що ця частина заяв заявників не є явно необґрунтованою у розумінні підпункту «а» пункту 3 статті 35 Конвенції. Він також зазначає, що вона не є неприйнятною з будь-яких інших підстав. Отже, вона має бути визнана прийнятною."
+        }
+    },
+    {
+        "id": 98,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 99,
+        "translation": {
+            "en": "Alleged violation of the procedural limb of Articles 2 and 3 of the Convention",
+            "uk": "Стверджуване порушення процесуального аспекту статей 2 та 3 Конвенції"
+        }
+    },
+    {
+        "id": 100,
+        "translation": {
+            "en": "General principles",
+            "uk": "Загальні принципи"
+        }
+    },
+    {
+        "id": 101,
+        "translation": {
+            "en": "Application of those principles to the present case",
+            "uk": "Застосування зазначених принципів у цій справі"
+        }
+    },
+    {
+        "id": 102,
+        "translation": {
+            "en": "61.  The Court finds it justified to examine the applicants’ complaints under Article 3 of the Convention and Mr S. Verbytskyy’s complaint under Article 2 together, in so far as they concern the allegedly ineffective investigation.",
+            "uk": "61.  Суд вважає за належне розглянути разом у частині щодо стверджуваного неефективного розслідування скарги заявників за статтею 3 Конвенції та скаргу пана С. Вербицького за статтею 2 Конвенції."
+        }
+    },
+    {
+        "id": 103,
+        "translation": {
+            "en": "62.  The Court notes that the authorities launched several criminal investigations into Mr I. Lutsenko’s and Mr Y. Verbytskyy’s abduction and ill-treatment and the latter’s death straight after the incidents, on 22 January 2014 (see paragraphs 15-16 above).",
+            "uk": "62.  Суд зазначає, що органи державної влади порушили декілька кримінальних проваджень за фактом викрадення та жорстокого поводження з паном І. Луценком і паном Ю. Вербицьким та смертю останнього одразу після подій 22 січня 2014 року (див. пункти 15 і 16)."
+        }
+    },
+    {
+        "id": 104,
+        "translation": {
+            "en": "63.  Several important steps in the investigations in question, including the questioning of Mr I. Lutsenko and the securing of forensic medical evidence, took place within days of the incidents. By April 2014 thirteen individuals had been identified as suspects, and three months later two of them were officially notified that they were suspects (see paragraphs 9-20 above).",
+            "uk": "63.  Упродовж декількох днів після подій у відповідних розслідуваннях було проведено кілька важливих слідчих дій, у тому числі допит пана І. Луценка та отримання судово-медичних доказів. До квітня 2014 року тринадцять осіб були встановлені як підозрювані, а через три місяці двом з них було офіційно повідомлено про підозру (див. пункти 9 – 20)."
+        }
+    },
+    {
+        "id": 105,
+        "translation": {
+            "en": "64.  However, only one of those suspects has stood trial (from June 2015 onwards), while the other twelve absconded (see paragraph 21 above).",
+            "uk": "64.  Проте на розгляд до суду було направлено лише справу щодо одного із цих підозрюваних (у червні 2015 року), а інші дванадцять осіб переховувалися (див. пункт 21)."
+        }
+    },
+    {
+        "id": 106,
+        "translation": {
+            "en": "65.  This inevitably slowed down the pace of the investigations, which had initially been progressing relatively quickly.",
+            "uk": "65.  Це неминуче уповільнило темпи розслідувань, які спочатку проводилися доволі оперативно."
+        }
+    },
+    {
+        "id": 107,
+        "translation": {
+            "en": "66.  Although the material with which the Court has been provided indicates that the authorities found one of the suspects in Russia and tried, unsuccessfully, to have him extradited, it remains unclear whether they took any further steps to establish the whereabouts of all the other suspects who had absconded and ensure their availability for the investigations.",
+            "uk": "66.  Хоча надані Суду матеріали свідчать, що органи державної влади знайшли одного з підозрюваних у Російській Федерації і безуспішно звернулися із запитом про його видачу, залишається незрозумілим, чи вжили вони яких-небудь подальших заходів для встановлення місцезнаходження всіх інших підозрюваних, які переховувалися, та чи забезпечили їхню доступність для проведення розслідування."
+        }
+    },
+    {
+        "id": 108,
+        "translation": {
+            "en": "69.  On the whole, there is no information that any other substantial progress has been made in the investigations in order to shed light on all the circumstances of Mr I. Lutsenko’s and Mr Y. Verbytskyy’s abduction and ill-treatment and Mr Y. Verbytskyy’s death. The Government’s submissions regarding the investigative actions lack important details and are mostly couched in general terms (see paragraph 22 above).",
+            "uk": "69.  Загалом, немає жодної інформації, що в розслідуванні було досягнуто якогось іншого суттєвого прогресу у проясненні всіх обставин викрадення та жорстокого поводження з паном І. Луценком і паном Ю. Вербицьким та смерті пана Ю. Вербицького. Доводи Уряду щодо проведених слідчих дій не містять важливих деталей і здебільшого викладені у загальних формулюваннях (див. пункт 22)."
+        }
+    },
+    {
+        "id": 109,
+        "translation": {
+            "en": "70.  The Court also notes that the Government provided no sufficiently reasoned justification for withholding any information as regards the investigations in question (see paragraph 22 above, and, for instance, Amuyeva and Others v. Russia, no. 17321/06, §§ 81-82, 25 November 2010).",
+            "uk": "70.  Суд також зазначає, що Уряд надав не достатньє обґрунтування для ненадання будь-якої інформації стосовно відповідних розслідувань (див. пункт 22 і, наприклад, рішення у справі «Амуєва та інші проти Росії» (Amuyeva and Others v. Russia), \nзаява № 17321/06, пункти 81 – 82, від 25 листопада 2010 року)."
+        }
+    },
+    {
+        "id": 110,
+        "translation": {
+            "en": "74.  In the circumstances, the Court finds that it is not necessary to examine separately whether there has been also a violation of Article 14 of the Convention taken in conjunction with Articles 2 and 3 on account of the authorities’ failure to conduct an effective investigation into Mr Y. Verbytskyy’s abduction, ill-treatment and death (see Saribekyan and Balyan v. Azerbaijan, no. 35746/11, §§ 102-103, 30 January 2020).",
+            "uk": "74.  За цих обставин Суд вважає, що немає необхідності окремо розглядати, чи було порушено статтю 14 Конвенції у поєднанні зі статтями 2 та 3 Конвенції у зв’язку з непроведенням органами державної влади ефективного розслідування викрадення, жорстокого поводження та смерті пана Ю. Вербицького (див. рішення у справі «Сарібекян та Балян проти Азербайджану» (Saribekyan and Balyan v. Azerbaijan), заява № 35746/11, пункти 102 – 103, від 30 січня \n2020 року)."
+        }
+    },
+    {
+        "id": 111,
+        "translation": {
+            "en": "Alleged violation of the substantive limb of Articles 2 and 3 of the Convention",
+            "uk": "Стверджуване порушення матеріального аспекту статті 2 та 3 Конвенції"
+        }
+    },
+    {
+        "id": 112,
+        "translation": {
+            "en": "General principles",
+            "uk": "Загальні принципи"
+        }
+    },
+    {
+        "id": 113,
+        "translation": {
+            "en": "75.  In so far as this part of the case concerns the applicants’ complaints under the substantive limb of Article 3 of the Convention, the relevant principles are to be found in Shmorgunov and Others (cited above, §§ 35963).",
+            "uk": "75.  Оскільки ця частина справи стосується скарг заявників за матеріальним аспектом статті 3 Конвенції, відповідні принципи наведені у згаданому рішенні у справі «Шморгунов та інші проти України» (Shmorgunov and Others v. Ukraine), пункти 359 – 363)."
+        }
+    },
+    {
+        "id": 114,
+        "translation": {
+            "en": "Application of those principles to the present case",
+            "uk": "Застосування зазначених принципів у цій справі"
+        }
+    },
+    {
+        "id": 115,
+        "translation": {
+            "en": "81.  The Court further notes that there is no dispute between the parties that those suspected of being responsible for the ill-treatment at issue had been under the control of the authorities or had acted on the authorities’ instructions in relation to Mr I. Lutsenko and Mr Y. Verbytskyy in connection with their involvement in the Maidan protests. Furthermore, this version of events also has considerable basis in the relevant domestic and international material available to the Court.",
+            "uk": "81.  Суд також зазначає, що сторонами не оскаржується, що особи, які підозрюються у відповідному жорстокому поводженні, перебували під контролем органів державної влади або діяли щодо пана І. Луценка та пана Ю. Вербицького за вказівками представників органів державної влади у зв’язку з їхньою участю в акціях протесту на Майдані. Крім того, ця версія подій також значною мірою підтверджується наявними у Суду відповідними національними та міжнародними звітами і доповідями."
+        }
+    },
+    {
+        "id": 116,
+        "translation": {
+            "en": "86.  In a report to the Ukrainian Government on a visit to Ukraine carried out by the Committee for the Prevention of Torture and Inhuman or Degrading Treatment or Punishment (CPT) from 18 to 24 February 2014, published on 13 January 2015 (see paragraph 39 of the report partly reproduced in Shmorgunov and Others, cited above, § 250) it was stated that:",
+            "uk": "86.  У доповіді Європейського комітету з питань запобігання катуванням чи нелюдському або такому, що принижує гідність, поводженню чи покаранню (далі – КЗК) для Уряду України за результатами візиту до України з 18 до 24 лютого 2014 року, опублікованій 13 січня 2015 року (див. пункт 39 доповіді, яка частково наведена в згаданому рішенні у справі «Шморгунов та інші проти України» (Shmorgunov and Others v. Ukraine), пункт 250), було зазначено:"
+        }
+    },
+    {
+        "id": 117,
+        "translation": {
+            "en": "89.  Evidence of coordination between the authorities and titushky during the Maidan protests was also found by the OHCHR in its report of 19 March 2018 (see paragraph 51 and other parts of the report partly reproduced and summarised in Shmorgunov and Others, cited above, § 254).",
+            "uk": "89.  Докази координації між органами державної влади та тітушками під час акцій протесту на Майдані також були наведені УВКПЛ у звіті від 19 березня 2018 року (див. пункт 51 та інші частини доповіді, частково узагальненої та наведеної в згаданому рішенні у справі «Шморгунов та інші проти України» (Shmorgunov and Others v. Ukraine), пункт 254)."
+        }
+    },
+    {
+        "id": 118,
+        "translation": {
+            "en": "91.  In the light of the foregoing considerations, the Court finds that there has been a violation of Article 3 of the Convention in its substantive aspect on account of the ill-treatment of Mr I. Lutsenko and the torture of Mr Y. Verbytskyy on 21 January 2014, for which the State should be held responsible.",
+            "uk": "91.  З огляду на зазначені міркування Суд вважає, що було порушено матеріальний аспект статті 3 Конвенції у зв’язку із жорстоким поводженням з паном І. Луценком і катуванням пана Ю. Вербицького 21 січня 2014 року, за які повинна нести відповідальність держава."
+        }
+    },
+    {
+        "id": 119,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLE 5 OF THE CONVENTION",
+            "uk": "СТВЕРДЖУВАНЕ ПОРУШЕННЯ СТАТТІ 5 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 120,
+        "translation": {
+            "en": "94.  The applicants complained of a violation of Article 5 §§ 1 and 2 of the Convention on account of Mr I. Lutsenko’s and Mr Y. Verbytskyy’s abduction and detention on 21 January 2014 and of the authorities’ failure to conduct an effective investigation into that matter (see paragraphs 7-9 above). According to them, they were abducted and detained in connection with their involvement in the Maidan protests and no lawful grounds were put forward for their detention.",
+            "uk": "94.  Заявники скаржились за пунктами 1 та 2 статті 5 Конвенції у зв’язку з викраденням і триманням під вартою пана І. Луценка та \nпана Ю. Вербицького 21 січня 2014 року та непроведенням органами державної влади ефективного розслідування щодо цього (див. пункти 7 – 9). Згідно з їхніми твердженнями їх викрали та тримали під вартою у зв’язку з їхньою участю в акціях протесту на Майдані й законних підстав для тримання їх під вартою не було."
+        }
+    },
+    {
+        "id": 121,
+        "translation": {
+            "en": "95.  The Court considers that the applicants’ above complaints should be examined solely under Article 5 § 1 of the Convention, which reads, insofar as relevant, as follows:",
+            "uk": "95.  Суд вважає, що зазначені скарги заявників слід розглядати виключно за пунктом 1 статті 5 Конвенції, відповідна частина якого передбачає:"
+        }
+    },
+    {
+        "id": 122,
+        "translation": {
+            "en": "“1.  Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+            "uk": "«1.  Кожен має право на свободу та особисту недоторканність. Нікого не може бути позбавлено свободи, крім таких випадків і відповідно до процедури, встановленої законом:"
+        }
+    },
+    {
+        "id": 123,
+        "translation": {
+            "en": "(a)  the lawful detention of a person after conviction by a competent court;",
+            "uk": "(a)  законне ув’язнення особи після засудження її компетентним судом;"
+        }
+    },
+    {
+        "id": 124,
+        "translation": {
+            "en": "(b)  the lawful arrest or detention of a person for non- compliance with the lawful order of a court or in order to secure the fulfilment of any obligation prescribed by law;",
+            "uk": "(b) законний арешт або затримання особи за невиконання законного припису суду або для забезпечення виконання будь-якого обов’язку, встановленого законом;"
+        }
+    },
+    {
+        "id": 125,
+        "translation": {
+            "en": "(c)  the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;",
+            "uk": "(c)  законний арешт або затримання особи, здійснене з метою допровадження її до компетентного судового органу за наявності обґрунтованої підозри у вчиненні нею правопорушення або якщо обґрунтовано вважається необхідним запобігти вчиненню нею правопорушення чи її втечі після його вчинення;"
+        }
+    },
+    {
+        "id": 126,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 127,
+        "translation": {
+            "en": "96.  The Government argued that the applicants’ complaints under Article 5 § 1 of the Convention were premature, as the relevant investigations and related court proceedings were still ongoing.",
+            "uk": "96.  Уряд стверджував, що скарги заявників за пунктом 1 статті 5 Конвенції були передчасними, оскільки відповідні розслідування та судові провадження ще тривали."
+        }
+    },
+    {
+        "id": 128,
+        "translation": {
+            "en": "97.  The applicants stated that the investigations concerning Mr I. Lutsenko’s and Mr Y. Verbytskyy’s abduction and detention had been ineffective and that the related court proceedings had been protracted.",
+            "uk": "97.  Заявники зазначили, що розслідування викрадення та тримання під вартою пана І. Луценка і пана Ю. Вербицького були неефективними, а відповідні судові провадження затягувалися."
+        }
+    },
+    {
+        "id": 129,
+        "translation": {
+            "en": "98.  The Court reiterates its findings under the procedural limbs of Articles 2 and 3 of the Convention that the relevant investigations in the applicants’ cases were ineffective (see paragraph 73 above).",
+            "uk": "98.  Суд повторює свої висновки за процесуальним аспектом статей 2 та 3 Конвенції, що відповідні розслідування у справах заявників були неефективними (див. пункт 73)."
+        }
+    },
+    {
+        "id": 130,
+        "translation": {
+            "en": "100.  The Court further finds that the present complaints are not manifestly ill-founded within the meaning of Article 35 § 3 (a) of the Convention. Nor are they inadmissible on any other grounds. Therefore, the Court declares them admissible.",
+            "uk": "100.  Суд також вважає, що скарги заявників за пунктом 1 статті 5 Конвенції не є явно необґрунтованими у розумінні підпункту «а» пункту 3 статті 35 Конвенції. Він також зазначає, що вони не є неприйнятними з будь-яких інших підстав. Отже, Суд визнає їх прийнятними."
+        }
+    },
+    {
+        "id": 131,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 132,
+        "translation": {
+            "en": "103.  Accordingly, there has been a violation of Article 5 § 1 of the Convention regarding Mr I. Lutsenko’s and Mr Y. Verbytskyy’s abduction and detention on 21 January 2014.",
+            "uk": "103.  Отже, було порушено пункт 1 статті 5 Конвенції у зв’язку з викраденням і затриманням пана І. Луценка та пана Ю. Вербицького 21 січня 2014 року."
+        }
+    },
+    {
+        "id": 133,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLE 11 OF THE CONVENTION",
+            "uk": "СТВЕРДЖУВАНЕ ПОРУШЕННЯ СТАТТІ 11 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 134,
+        "translation": {
+            "en": "104.  The applicants complained of a violation of Articles 10, 11 and 14 of the Convention on the grounds that Mr I. Lutsenko and Mr Y. Verbytskyy had been abducted and ill-treated and that the latter had been murdered for exercising their right to freedom of peaceful assembly and expression (see paragraphs 7-9 above).",
+            "uk": "104.  Заявники скаржились на порушення статей 10, 11 та 14 Конвенції у зв’язку з тим, що пан І. Луценко та пан Ю. Вербицький були викрадені та підданні жорстокому поводженню, а останнього було вбито за здійснення ними свого права на свободу мирних зібрань та вираження поглядів (див. пункти 7 – 9)."
+        }
+    },
+    {
+        "id": 135,
+        "translation": {
+            "en": "105.  In the circumstances of the case, the Court considers that the applicants’ above complaints should be examined under Article 11 of the Convention (see Ezelin v. France, 26 April 1991, § 35, Series A no. 202; Kasparov and Others v. Russia, no. 21613/07, §§ 82-83, 3 October 2013; and Navalnyy and Yashin v. Russia, no. 76204/11, § 49, 4 December 2014), which reads as follows:",
+            "uk": "105.  За обставин справи Суд вважає, що зазначені скарги заявників слід розглядати за статтею 11 Конвенції (див. рішення у справах «Езелін проти Франції» (Ezelin v. France), від 26 квітня 1991 року, пункт 35, Серія A № 202; «Каспаров та інші проти Росії» (Kasparov and Others v. Russia), заява № 21613/07, пункти 82 і 83, від 03 жовтня \n2013 року та «Навальний та Яшин проти Росії» (Navalnyy and Yashin v. Russia) заява № 76204/11, пункт 49, від 04 грудня 2014 року), яка передбачає:"
+        }
+    },
+    {
+        "id": 136,
+        "translation": {
+            "en": "“1.  Everyone has the right to freedom of peaceful assembly and to freedom of association with others, including the right to form and to join trade unions for the protection of his interests.",
+            "uk": "«1.  Кожен має право на свободу мирних зібрань і свободу об’єднання з іншими особами, включаючи право створювати профспілки та вступати до них для захисту своїх інтересів.."
+        }
+    },
+    {
+        "id": 137,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 138,
+        "translation": {
+            "en": "106.  The Government contended that the applicants’ complaints under Article 11 of the Convention were premature, for the same reasons that their complaints under Article 2 and/or Article 3 of the Convention were to be regarded as premature (see paragraph 37 above).",
+            "uk": "106.  Уряд стверджував, що скарги заявників за статтею 11 Конвенції були передчасними з тих самих причин, з яких їхні скарги за статтями 2 та/або 3 Конвенції мали бути визнані передчасними (див. пункт 37)."
+        }
+    },
+    {
+        "id": 139,
+        "translation": {
+            "en": "107.  The applicants concerned disagreed, relying essentially on their arguments concerning the admissibility of their related complaints under Articles 2 and 3 of the Convention (see paragraphs 40-41 above).",
+            "uk": "107.  Заявники заперечили, посилаючись, по суті, на свої аргументи щодо прийнятності скарг за статтями 2 та 3 Конвенції (див. пункти 40 і 41)."
+        }
+    },
+    {
+        "id": 140,
+        "translation": {
+            "en": "108.  The Court notes that it has already dismissed the Government’s similar objection of non-exhaustion in the context of the admissibility of the applicants’ complaints under Articles 2 and 3 of the Convention (see paragraph 46 above). It finds no reason not to do so as regards the objection concerning the admissibility of the applicants’ complaints under Article 11. The Court therefore rejects the Government’s objection in this regard.",
+            "uk": "108.  Суд зазначає, що він уже відхилив аналогічне заперечення Уряду щодо невичерпання засобів юридичного захисту у контексті прийнятності скарг заявників за статтями 2 та 3 Конвенції (див. пункт 46). Він не вбачає підстав вирішувати інакше щодо заперечення стосовно прийнятності скарг заявників за статтею 11 Конвенції. Тому Суд відхиляє заперечення Уряду у зв’язку з цим."
+        }
+    },
+    {
+        "id": 141,
+        "translation": {
+            "en": "109.  The Court further finds that the present complaints are not manifestly ill-founded within the meaning of Article 35 § 3 (a) of the Convention. Nor are they inadmissible on any other grounds. Therefore, the Court declares them admissible.",
+            "uk": "109.  Суд вважає, що ці скарги заявників не є явно необґрунтованими у розумінні підпункту «а» пункту 3 статті 35 Конвенції. Вони також не є неприйнятними з будь-яких інших підстав. Отже, Суд визнає їх прийнятними."
+        }
+    },
+    {
+        "id": 142,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 143,
+        "translation": {
+            "en": "110.  The Court reiterates its findings that Mr I. Lutsenko and Mr Y. Verbytskyy were abducted, Mr I. Lutsenko was ill-treated and Mr Y. Verbytskyy was tortured and eventually murdered in connection with their participation in the Maidan protests and that the authorities were responsible for those abuses (see, notably, paragraphs 8193 above).",
+            "uk": "110.  Суд повторює свої висновки, що пан І. Луценко та пан Ю. Вербицький були викрадені, пан І. Луценко зазнав жорстокого поводження, а пан Ю. Вербицький зазнав катування та зрештою був убитий у зв’язку з їхньою участю в акціях протесту на Майдані і органи державної влади несли відповідальність за ці протиправні дії (див., зокрема, пункти 81 – 93)."
+        }
+    },
+    {
+        "id": 144,
+        "translation": {
+            "en": "111.  It is not disputed that Mr I. Lutsenko’s and Mr Y. Verbytskyy’s participation in the Maidan protests was protected under Article 11 of the Convention.",
+            "uk": "111.  Не оскаржується, що участь пана І. Луценка та пана Ю. Вербицького в акціях протесту на Майдані підпадала під дію статті 11 Конвенції."
+        }
+    },
+    {
+        "id": 145,
+        "translation": {
+            "en": "114.  In the present case, there is no evidence to suggest that during their participation in the protests Mr I. Lutsenko or Mr Y. Verbytskyy intended to commit or engaged in acts of violence. Thus, the Court considers that they enjoyed the protection of Article 11 of the Convention in that connection (see Primov and Others v. Russia, no. 17391/06, §§ 155-156, 12 June 2014 and Karpyuk and Others, cited above, § 211).",
+            "uk": "114.  У цій справі немає жодних доказів, що під час участі в акціях протесту пан І. Луценко або пан Ю. Вербицький мали намір вчинити акти насильства або їх вчинили. Отже, Суд вважає, що вони користувались захистом статті 11 Конвенції у зв’язку з цим (див. рішення у справі «Примов та інші проти Росії» (Primov and Others v. Russia), заява № 17391/06, пункти 155 – 156, від 12 червня 2014 року та згадане рішення у справі «Карпюк та інші проти України» (Karpyuk and Others v. Ukraine), пункт 211)."
+        }
+    },
+    {
+        "id": 146,
+        "translation": {
+            "en": "116.  Those findings suffice for the Court to conclude that there was an arbitrary interference with Mr I. Lutsenko’s and Mr Y. Verbytskyy’s right to freedom of peaceful assembly. There is nothing in the case file capable of demonstrating that the interference at issue, which consisted of the treatment examined under Articles 2 and 3 above (see paragraphs 90-93 above), was “prescribed by law” or pursued a “legitimate aim”. Nor is there any ground to suggest that it was “necessary in a democratic society”.",
+            "uk": "116.  Цих висновків достатньо для підсумку Суду, що було свавільне втручання у право пана І. Луценка та пана Ю. Вербицького на свободу мирних зібрань. У матеріалах справи ніщо не свідчить, що відповідне втручання, яке полягало в поводженні, розглянутому за статтями 2 та 3 Конвенції (див. пункти 90 – 93), було «передбачене законом» або переслідувало «законну мету». Також немає жодних підстав вважати, що воно було «необхідним у демократичному суспільстві»."
+        }
+    },
+    {
+        "id": 147,
+        "translation": {
+            "en": "117.  In the light of the foregoing considerations, the Court finds that there has been a breach of Article 11 of the Convention.",
+            "uk": "117.  З огляду на зазначені міркування Суд вважає, що було порушено статтю 11 Конвенції."
+        }
+    },
+    {
+        "id": 148,
+        "translation": {
+            "en": "OTHER ALLEGED VIOLATIONS OF THE CONVENTION",
+            "uk": "ІНШІ СТВЕРДЖУВАНІ ПОРУШЕННЯ КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 149,
+        "translation": {
+            "en": "118.  The applicants complained of a violation of Article 13 of the Convention on account of the lack of an effective and accessible remedy under domestic law for their complaints under Articles 2, 3, 5 § 1 and 11 of the Convention.",
+            "uk": "118.  Заявники скаржились на порушення статті 13 Конвенції у зв’язку з відсутністю в національному законодавстві ефективного та доступного засобу юридичного захисту щодо їхніх скарг за статтями 2, 3, пунктом 1 статті 5 та статтею 11 Конвенції."
+        }
+    },
+    {
+        "id": 150,
+        "translation": {
+            "en": "119.  Mr I. Lutsenko also complained that the measures the authorities had employed to hinder his and other protesters’ right to peacefully demonstrate had also been contrary to Article 8 and Article 34 of the Convention and Article 1 of Protocol No. 1.",
+            "uk": "119.  Пан І. Луценко також скаржився, що заходи, вжиті органами державної влади, щоб перешкодити йому та іншим протестувальникам реалізувати право на проведення мирної демонстрації, також суперечили статтям 8 та 34 Конвенції та статті 1 Першого протоколу до Конвенції."
+        }
+    },
+    {
+        "id": 151,
+        "translation": {
+            "en": "CONCLUDING REMARKS",
+            "uk": "ЗАКЛЮЧНІ ЗАУВАЖЕННЯ"
+        }
+    },
+    {
+        "id": 152,
+        "translation": {
+            "en": "APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+            "uk": "ЗАСТОСУВАННЯ СТАТТІ 41 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 153,
+        "translation": {
+            "en": "122.  Article 41 of the Convention provides:",
+            "uk": "122.  Стаття 41 Конвенції передбачає:"
+        }
+    },
+    {
+        "id": 154,
+        "translation": {
+            "en": "“If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”",
+            "uk": "«Якщо Суд визнає факт порушення Конвенції або протоколів до неї і якщо внутрішнє право відповідної Високої Договірної Сторони передбачає лише часткове відшкодування, Суд, у разі необхідності, надає потерпілій стороні справедливу сатисфакцію.»"
+        }
+    },
+    {
+        "id": 155,
+        "translation": {
+            "en": "Damage",
+            "uk": "Шкода"
+        }
+    },
+    {
+        "id": 156,
+        "translation": {
+            "en": "123.  Mr I. Lutsenko and Mr S. Verbytskyy claimed 40,000 and 100,000 euros (EUR) respectively for non-pecuniary damage.",
+            "uk": "123.  Пан І. Луценко та пан С. Вербицький вимагали 40 000 та \n100 000 євро відповідно в якості відшкодування моральної шкоди."
+        }
+    },
+    {
+        "id": 157,
+        "translation": {
+            "en": "124.  Mr I. Lutsenko also claimed UAH 32,992.65 – the equivalent of about EUR 3,000 at the material time – in respect of pecuniary damage, covering the cost of the medical treatment he had undergone in January 2014 because of the violation of Articles 3, 5 § 1 and 11 of the Convention in his case. He provided copies of medical documents and receipts in that regard.",
+            "uk": "124.  Пан І. Луценко також вимагав 32 992,65 гривень – еквівалент близько 3 000 євро на той момент – в якості відшкодування матеріальної шкоди, що покриває витрати на лікування, яке він отримав у січні 2014 року у зв’язку з порушенням статті 3, пункту 1 статті 5 та статті 11 Конвенції у його справі. Він надав копії медичних документів і квитанцій у зв’язку з цим."
+        }
+    },
+    {
+        "id": 158,
+        "translation": {
+            "en": "125.  The Government contested the applicants’ claims, which it argued were excessive and premature, as the related domestic proceedings were still ongoing.",
+            "uk": "125.  Уряд заперечив проти вимог заявників, які, на його думку, були надмірними та передчасними, оскільки відповідні провадження на національному рівні все ще тривали."
+        }
+    },
+    {
+        "id": 159,
+        "translation": {
+            "en": "126.  The Court considers that the Government did not demonstrate that the applicants were able in practice to obtain reparation for the consequences of the violation of those provisions found in this case in such a way as to restore as far as possible the situation existing before the breach.",
+            "uk": "126.  Суд вважає, що Уряд не довів наявності у заявників на практиці можливості отримати відшкодування у зв’язку з наслідками встановлених у цій справі порушень положень Конвенції, таким чином, аби, наскільки це можливо, відновити ситуацію, яка існувала до порушення."
+        }
+    },
+    {
+        "id": 160,
+        "translation": {
+            "en": "127.  The Court notes that Mr I. Lutsenko submitted sufficient documentary evidence demonstrating that the sum which he claimed in respect of pecuniary damage was the amount that he had paid for his medical treatment. Consequently, the Court awards him the amount claimed in full – EUR 3,000 in respect of pecuniary damage, plus any tax that may be chargeable.",
+            "uk": "127.  Суд зазначає, що пан І. Луценко подав достатньо документів для підтвердження того, що сума, яку він вимагав в якості відшкодування матеріальної шкоди, була дійсно сплачена ним за лікування. Отже, Суд присуджує йому суму, яка вимагалася, у розмірі 3 000 євро у повному обсязі в якості відшкодування матеріальної шкоди та додатково суму будь-якого податку, що може нараховуватися."
+        }
+    },
+    {
+        "id": 161,
+        "translation": {
+            "en": "128.  As to the applicants’ claims in respect of non-pecuniary damage, judging on an equitable basis, the Court awards Mr I. Lutsenko EUR 16,000 and Mr S. Verbytskyy EUR 25,000 in that regard, plus any tax that may be chargeable.",
+            "uk": "128.  Щодо вимог заявників стосовно відшкодування моральної шкоди, постановляючи рішення на засадах справедливості, Суд присуджує пану І. Луценку 16 000 євро, а пану С. Вербицькому \n25 000 євро у зв’язку з цим і додатково суму будь-якого податку, що може нараховуватися."
+        }
+    },
+    {
+        "id": 162,
+        "translation": {
+            "en": "Costs and expenses",
+            "uk": "Судові та інші витрати"
+        }
+    },
+    {
+        "id": 163,
+        "translation": {
+            "en": "129.  The applicants also claimed EUR 1,000 each for legal costs in the domestic proceedings and those before the Court, but provided no documents in that regard. Mr I. Lutsenko requested that the claimed amount be paid directly into his lawyer’s bank account.",
+            "uk": "129.  Заявники також вимагали по 1 000 євро в якості компенсації судових та інших витрат, понесених під час провадження як на національному рівні, так і у Суді, але не надали жодних документів у зв’язку з цим. Пан І. Луценко просив сплатити вказану суму безпосередньо на банківський рахунок його захисника."
+        }
+    },
+    {
+        "id": 164,
+        "translation": {
+            "en": "130.  The Government contested those claims, stating that they had not been duly substantiated.",
+            "uk": "130.  Уряд заперечив проти цих вимог, зазначивши, що вони не були належно обґрунтовані."
+        }
+    },
+    {
+        "id": 165,
+        "translation": {
+            "en": "132.  In the present case, regard being had to the insufficiency of the documents in its possession and the above criteria, the Court finds that the applicants’ claims for costs and expenses should be dismissed.",
+            "uk": "132.  У цій справі з огляду на недостатню кількість наявних у нього документів і зазначені критерії Суд вважає, що вимоги заявників щодо компенсації судових та інших витрат слід відхилити."
+        }
+    },
+    {
+        "id": 166,
+        "translation": {
+            "en": "Default interest",
+            "uk": "Пеня"
+        }
+    },
+    {
+        "id": 167,
+        "translation": {
+            "en": "133.  The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+            "uk": "133.  Суд вважає за належне призначити пеню на підставі граничної позичкової ставки Європейського центрального банку, до якої має бути додано три відсоткові пункти."
+        }
+    },
+    {
+        "id": 168,
+        "translation": {
+            "en": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+            "uk": "ЗА ЦИХ ПІДСТАВ СУД ОДНОГОЛОСНО"
+        }
+    },
+    {
+        "id": 169,
+        "translation": {
+            "en": "Decides to join the applications;",
+            "uk": "Вирішує об’єднати заяви;"
+        }
+    },
+    {
+        "id": 170,
+        "translation": {
+            "en": "Declares Mr S. Verbytskyy’s complaints under Articles 2, 3 and 14 of the Convention and both applicants’ complaints under Articles 3, 5 and 11 of the Convention admissible.",
+            "uk": "Оголошує прийнятними скарги пана С. Вербицького за статтями 2, 3 та 14 Конвенції, а також скарги обох заявників за статтями 3, 5 та 11 Конвенції."
+        }
+    },
+    {
+        "id": 171,
+        "translation": {
+            "en": "Holds that it is not necessary to examine the admissibility and merits of the applicants’ remaining complaints.",
+            "uk": "Постановляє, що немає необхідності розглядати питання щодо прийнятності та суті решти скарг заявників."
+        }
+    },
+    {
+        "id": 172,
+        "translation": {
+            "en": "Holds that there has been a violation of Article 3 of the Convention in that Mr I. Lutsenko was ill-treated and Mr Y. Verbytskyy was tortured and the authorities failed to conduct an effective official investigation into that matter;",
+            "uk": "Постановляє, що було порушено статтю 3 Конвенції у зв’язку із жорстоким поводженням з паном І. Луценком і катуванням \nпана Ю. Вербицького і непроведенням ефективного офіційного розслідування щодо цього;"
+        }
+    },
+    {
+        "id": 173,
+        "translation": {
+            "en": "Holds that there has been a violation of Article 2 of the Convention on account of Mr Y. Verbytskyy’s murder and the authorities’ failure to conduct an effective official investigation into that matter;",
+            "uk": "Постановляє, що було порушено статтю 2 Конвенції у зв’язку з убивством пана Ю. Вербицького та непроведенням органами державної влади ефективного офіційного розслідування щодо цього;"
+        }
+    },
+    {
+        "id": 174,
+        "translation": {
+            "en": "Holds that there has been a violation of Article 5 § 1 of the Convention in that Mr I. Lutsenko and Mr Y. Verbytskyy were arbitrarily abducted and deprived of their liberty on 21 January 2014;",
+            "uk": "Постановляє, що було порушено пункт 1 статті 5 Конвенції у зв’язку зі свавільним викраденням і позбавленням свободи \nпана І. Луценка та пана Ю. Вербицького 21 січня 2014 року;"
+        }
+    },
+    {
+        "id": 175,
+        "translation": {
+            "en": "Holds that there has been a violation of Article 11 of the Convention on account of the arbitrary interference with Mr I. Lutsenko’s and Mr Y. Verbytskyy’s right to freedom of peaceful assembly;",
+            "uk": "Постановляє, що було порушено статтю 11 Конвенції у зв’язку зі свавільним втручанням у право пана І. Луценка та \nпана Ю. Вербицького на свободу мирних зібрань;"
+        }
+    },
+    {
+        "id": 176,
+        "translation": {
+            "en": "Holds that there is no need to examine separately whether there has been also a violation of Article 14 of the Convention taken in conjunction with Articles 2 and 3 on account of the authorities’ failure to conduct an effective investigation into Mr Y. Verbytskyy’s abduction, ill-treatment and death;",
+            "uk": "Постановляє, що немає необхідності окремо розглядати, чи було порушено статтю 14 Конвенції у поєднанні зі статтями 2 та 3 Конвенції у зв’язку з непроведенням органами державної влади ефективного розслідування викрадення, жорстокого поводження та смерті пана Ю. Вербицького;"
+        }
+    },
+    {
+        "id": 177,
+        "translation": {
+            "en": "Holds",
+            "uk": "Постановляє, що:"
+        }
+    },
+    {
+        "id": 178,
+        "translation": {
+            "en": "that the respondent State is to pay the applicants, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, plus any tax that may be chargeable to the applicants, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+            "uk": "упродовж трьох місяців з дати, коли це рішення набуде статусу остаточного відповідно до пункту 2 статті 44 Конвенції держава-відповідач повинна сплатити заявникам такі суми та додатково суму будь-якого податку, що може нараховуватися, ця сума має бути конвертована в національну валюту держави-відповідача за курсом на день здійснення платежу;"
+        }
+    },
+    {
+        "id": 179,
+        "translation": {
+            "en": "EUR 3,000 (three thousand euros) to Mr I. Lutsenko in respect of pecuniary damage, in addition to EUR 16,000 (sixteen thousand euros) in respect of non-pecuniary damage;",
+            "uk": "3 000 (три тисячі) євро пану І. Луценку в якості відшкодування матеріальної шкоди, додатково до 16 000 (шістнадцяти тисяч) євро в якості відшкодування моральної шкоди;"
+        }
+    },
+    {
+        "id": 180,
+        "translation": {
+            "en": "EUR 25,000 (twenty-five thousand euros) to Mr S. Verbytskyy in respect of non-pecuniary damage;",
+            "uk": "25 000 (двадцять п’ять тисяч) євро пану С. Вербицькому в якості відшкодування моральної шкоди;"
+        }
+    },
+    {
+        "id": 181,
+        "translation": {
+            "en": "that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+            "uk": "із закінченням зазначеного тримісячного строку до остаточного розрахунку на зазначені суми нараховуватиметься простий відсоток (simple interest) у розмірі граничної позичкової ставки Європейського центрального банку, яка діятиме в період несплати, до якої має бути додано три відсоткові пункти;"
+        }
+    },
+    {
+        "id": 182,
+        "translation": {
+            "en": "Dismisses the remainder of the applicants’ claims for just satisfaction.",
+            "uk": "Відхиляє решту вимог заявників щодо справедливої сатисфакції."
+        }
+    },
+    {
+        "id": 183,
+        "translation": {
+            "en": "Done in English, and notified in writing on 21 January 2021, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court. _p_1} \t {signature_p_2}",
+            "uk": "Учинено англійською мовою та повідомлено письмово 21 січня 2021 року відповідно до пунктів 2 і 3 Правила 77 Регламенту Суду.2}"
+        }
+    }
+]

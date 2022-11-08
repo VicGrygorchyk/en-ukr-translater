@@ -1,0 +1,996 @@
+[
+    {
+        "id": 0,
+        "translation": {
+            "en": "FIFTH SECTION",
+            "uk": "П’ЯТА СЕКЦІЯ"
+        }
+    },
+    {
+        "id": 1,
+        "translation": {
+            "en": "CASE OF SILI v. UKRAINE",
+            "uk": "СПРАВА «СІЛІ ПРОТИ УКРАЇНИ»"
+        }
+    },
+    {
+        "id": 2,
+        "translation": {
+            "en": "(Application no.42903/14)",
+            "uk": "(Заява № 42903/14)"
+        }
+    },
+    {
+        "id": 3,
+        "translation": {
+            "en": "JUDGMENT",
+            "uk": "РІШЕННЯ"
+        }
+    },
+    {
+        "id": 4,
+        "translation": {
+            "en": "Art 3 (substantive) • Degrading treatment • Inadequate material conditions of detention in prison",
+            "uk": "Ст. 3 (матеріальний аспект) • Таке, що принижує гідність, поводження • Неналежні побутові умови тримання у виправній колонії"
+        }
+    },
+    {
+        "id": 5,
+        "translation": {
+            "en": "This version was rectified on 19 August 2021 under Rule 81 of the Rules of Court.",
+            "uk": "У текст рішення 19 серпня 2021 року було внесено \nзміни відповідно до Правила 81 Регламенту Суду"
+        }
+    },
+    {
+        "id": 6,
+        "translation": {
+            "en": "STRASBOURG",
+            "uk": "СТРАСБУРГ"
+        }
+    },
+    {
+        "id": 7,
+        "translation": {
+            "en": "8 July 2021",
+            "uk": "08 липня 2021 року"
+        }
+    },
+    {
+        "id": 8,
+        "translation": {
+            "en": "FINAL",
+            "uk": "ОСТАТОЧНЕ"
+        }
+    },
+    {
+        "id": 9,
+        "translation": {
+            "en": "08/10/2021",
+            "uk": "08.10.2021"
+        }
+    },
+    {
+        "id": 10,
+        "translation": {
+            "en": "This judgment has become final under Article 44 § 2 of the Convention. It may be subject to editorial revision.",
+            "uk": "Це рішення набуло статусу остаточного відповідно до пункту 2 статті 44 Конвенції. Його текст може підлягати редакційним виправленням."
+        }
+    },
+    {
+        "id": 11,
+        "translation": {
+            "en": "In the case of Sili v. Ukraine,",
+            "uk": "У справі «Сілі проти України»"
+        }
+    },
+    {
+        "id": 12,
+        "translation": {
+            "en": "The European Court of Human Rights (Fifth Section), sitting as a Chamber composed of:",
+            "uk": "Європейський суд з прав людини (П’ята секція), засідаючи палатою, до складу якої увійшли:"
+        }
+    },
+    {
+        "id": 13,
+        "translation": {
+            "en": "Síofra O’Leary, President,\n\tMārtiņš Mits,\n\tGanna Yudkivska,\n\tLətif Hüseynov,\n\tJovan Ilievski,\n\tLado Chanturia,\n\tArnfinn Bårdsen, judges,\nand Victor Soloveytchik, Section Registrar,",
+            "uk": "Сіофра О’Лірі (Síofra O’Leary), Голова,\n\tМартіньш Мітс (Mārtiņš Mits),\n\tГанна Юдківська (Ganna Yudkivska),\n\tЛятіф Гусейнов (Lətif Hüseynov),\n\tЙован Ілієвський (Jovan Ilievski),\n\tЛадо Чантурія (Lado Chanturia),\n\tАрнфінн Бордсен (Arnfinn Bårdsen), судді,\n та Віктор Соловейчік (Victor Soloveytchik), Секретар секції,"
+        }
+    },
+    {
+        "id": 14,
+        "translation": {
+            "en": "Having regard to:",
+            "uk": "З огляду на:"
+        }
+    },
+    {
+        "id": 15,
+        "translation": {
+            "en": "the application (no. 42903/14) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Nikolay Yevdokimovich Sili (“the applicant”), on 20 May 2014;",
+            "uk": "заяву (№ 42903/14), яку 20 травня 2014 року подав до Суду проти України на підставі статті 34 Конвенції про захист прав людини та основоположних свобод (далі – Конвенція) громадянин України, пан Микола Євдокимович Сілі (далі – заявник);"
+        }
+    },
+    {
+        "id": 16,
+        "translation": {
+            "en": "the decision to give notice to the Ukrainian Government (“the Government”) of the complaints concerning the conditions of the applicant’s detention in Romny Prison no. 56 and his inability to get a disability pension in detention and to declare the remainder of the application inadmissible;",
+            "uk": "рішення повідомити Уряд України (далі – Уряд) про скарги на умови тримання заявника у Роменській виправній колонії № 56 та відсутність у нього можливості отримати пенсію по інвалідності під час відбування покарання, а також визнати решту скарг у заяві неприйнятними;"
+        }
+    },
+    {
+        "id": 17,
+        "translation": {
+            "en": "the parties’ observations;",
+            "uk": "зауваження сторін;"
+        }
+    },
+    {
+        "id": 18,
+        "translation": {
+            "en": "Having deliberated in private on 8 June 2021,",
+            "uk": "після обговорення за зачиненими дверима 08 червня 2021 року"
+        }
+    },
+    {
+        "id": 19,
+        "translation": {
+            "en": "Delivers the following judgment, which was adopted on that date:",
+            "uk": "постановляє таке рішення, що було ухвалено у той день:"
+        }
+    },
+    {
+        "id": 20,
+        "translation": {
+            "en": "INTRODUCTION",
+            "uk": "ВСТУП"
+        }
+    },
+    {
+        "id": 21,
+        "translation": {
+            "en": "1.  The case concerns the material conditions of the applicant’s detention in Romny Prison no. 56 (Article 3 of the Convention) and his unsuccessful attempts to obtain a disability pension in detention (Article 1 of Protocol No. 1).",
+            "uk": "1.  Справа стосується побутових умов тримання заявника у Роменській виправній колонії № 56 (стаття 3 Конвенції) та його невдалих спроб отримати пенсію по інвалідності під час відбування покарання (стаття 1 Першого протоколу до Конвенції)."
+        }
+    },
+    {
+        "id": 22,
+        "translation": {
+            "en": "THE FACTS",
+            "uk": "ФАКТИ"
+        }
+    },
+    {
+        "id": 23,
+        "translation": {
+            "en": "2.  The applicant was born in 1958 and is serving a life sentence. Having been granted legal aid, he was represented by Mr M. Tarakhkalo and Ms A. Kozmenko, lawyers practising in Kyiv.",
+            "uk": "2.  Заявник народився в 1958 році і відбуває покарання у виді довічного позбавлення волі. Після отримання правової допомоги заявника представляли пан М. Тарахкало та пані А. Козьменко, юристи, які практикують у м. Київ."
+        }
+    },
+    {
+        "id": 24,
+        "translation": {
+            "en": "3.  The Government were represented by their Agent, Mr I. Lishchyna.",
+            "uk": "3.  Уряд представляв його Уповноважений, пан І. Ліщина."
+        }
+    },
+    {
+        "id": 25,
+        "translation": {
+            "en": "4.  The facts of the case, as submitted by the parties, may be summarised as follows.",
+            "uk": "4.  Факти справи, надані сторонами, можуть бути узагальнені таким чином."
+        }
+    },
+    {
+        "id": 26,
+        "translation": {
+            "en": "Conditions of detention in Romny Prison no. 56",
+            "uk": "УМОВИ ТРИМАННЯ під вартою У РОМЕНСЬКІЙ ВИПРАВНІЙ КОЛОНІЇ № 56"
+        }
+    },
+    {
+        "id": 27,
+        "translation": {
+            "en": "The applicant’s account",
+            "uk": "Версія заявника"
+        }
+    },
+    {
+        "id": 28,
+        "translation": {
+            "en": "8.  Following the applicant’s complaints to the prosecution authorities of poor conditions of detention, in January 2019 he was transferred from a smoking cell accommodating four inmates to a non-smoking cell shared by two inmates. He stayed in that cell until 14 September 2019 (see paragraph 5 above).",
+            "uk": "8.  Після скарг заявника до прокуратури на неналежні умови тримання під вартою у січні 2019 року його перевели з камери, в якій палять та в якій розміщувалося четверо ув’язнених, у камеру, де не палять та в якій розміщувалося двоє ув’язнених. Він залишався у цій камері до 14 вересня 2019 року (див. пункт 5)."
+        }
+    },
+    {
+        "id": 29,
+        "translation": {
+            "en": "10.  The applicant also submitted a copy of the ruling of the Romny City Court of 3 March 2020, by which the complaint in question had been allowed in part. The judge held that the prison administration had not refuted the claimant’s allegation of foul smell and obliged the former to install proper piping preventing emanation of sewage odours in the cells.",
+            "uk": "10.  Заявник також подав копію ухвали Роменського міськрайонного суду від 03 березня 2020 року, якою ця скарга була частково задоволена. Суддя постановив, що адміністрація виправної колонії не спростувала твердження заявника про неприємний запах, і зобов’язав її встановити належні сантехнічні коліна, аби запобігти поширенню запахів стічних вод у камерах."
+        }
+    },
+    {
+        "id": 30,
+        "translation": {
+            "en": "The Government’s account",
+            "uk": "Версія Уряду"
+        }
+    },
+    {
+        "id": 31,
+        "translation": {
+            "en": "11.  The applicant was detained in cell no. 1 of unit no. 2. It measured 8.2 sq. m and was designated for two inmates. The toilet was separated from the living area by a solid partition. The nutrition complied with the applicable legal standards. Notably, inmates received three meals daily and the food quality was checked before each meal. Furthermore, prisoners had access to shower and laundry facilities, had their bed linen changed and were provided with soap and detergent on a weekly basis.",
+            "uk": "11.  Заявник тримався у камері № 1 корпусу № 2. Її площа складала 8,2 кв. м і вона була розрахована на двох ув’язнених. Туалет був відокремлений від житлової зони суцільною перегородкою. Харчування відповідало чинним нормам законодавства. Зокрема, ув’язнені отримували триразове харчування, а якість їжі перевірялася перед кожним прийомом. Крім того, щотижня ув’язнені мали доступ до душових і пральних приміщень, їхня постільна білизна змінювалася, а ув’язнених забезпечували милом та миючими засобами."
+        }
+    },
+    {
+        "id": 32,
+        "translation": {
+            "en": "12.  The applicant did not raise any complaints before the prison administration. Although he did complain about the conditions of detention to the prosecution authorities on one occasion, he later withdrew that complaint.",
+            "uk": "12.  Заявник не подавав скарг до адміністрації виправної колонії. Хоча він дійсно один раз поскаржився на умови тримання до прокуратури, пізніше він відмовився від цієї скарги."
+        }
+    },
+    {
+        "id": 33,
+        "translation": {
+            "en": "Entitlement to a disability pension",
+            "uk": "ПРАВО НА ПРИЗНАЧЕННЯ ПЕНСІЇ ПО ІНВАЛІДНОСТІ"
+        }
+    },
+    {
+        "id": 34,
+        "translation": {
+            "en": "Background",
+            "uk": "Події, що передували справі"
+        }
+    },
+    {
+        "id": 35,
+        "translation": {
+            "en": "13.  In 1987 the applicant lost sight in his right eye as a result of an injury. Shortly thereafter a medical certificate was issued stating that his condition amounted to a third-degree disability (the mildest). That certificate was valid for a limited period of time and the applicant did not seek its renewal. Nor did he apply for a disability pension while not in detention (until 2004).",
+            "uk": "13.  У 1987 році внаслідок травми заявник втратив зір на праве око. Незабаром після цього йому було видано медичну довідку, що його захворювання зумовило інвалідність третьої групи (найлегшу). Ця довідка була дійсною протягом обмеженого періоду часу і заявник не звертався за продовженням строку її дії. Він також не подавав заяву про призначення пенсії по інвалідності до поміщення під варту (до 2004 року)."
+        }
+    },
+    {
+        "id": 36,
+        "translation": {
+            "en": "The applicant’s attempts to get a disability pension in prison",
+            "uk": "Спроби заявника отримати пенсію по інвалідності під час перебування у виправній колонії"
+        }
+    },
+    {
+        "id": 37,
+        "translation": {
+            "en": "15.  According to the Government, the applicant never sought to apply for a disability pension and requested an expert examination only in 2016.",
+            "uk": "15.  Уряд стверджував, що заявник не звертався стосовно подання заяви про призначення пенсії по інвалідності і клопотав про проведення огляду лише у 2016 році."
+        }
+    },
+    {
+        "id": 38,
+        "translation": {
+            "en": "16.  The Government submitted to the Court a copy of an information note issued by Romny Prison no. 56 in respect of all the requests and applications made by the applicant to the administration during the entire period of his detention in that prison. As indicated therein, on 28 November 2012 he had requested and received explanations concerning the procedure to follow for getting a disability pension under Article 122 of the Code on the Execution of Sentences.",
+            "uk": "16.  Уряд надав Суду копію довідки, виданої Роменською виправною колонією № 56, стосовно усіх звернень та клопотань, поданих заявником до адміністрації протягом усього періоду тримання його під вартою у цій установі. Як зазначається у цьому документі, \n28 листопада 2012 року він звернувся із заявою та отримав роз’яснення щодо порядку оформлення пенсії по інвалідності за статтею 122 Кримінально-виконавчого кодексу України."
+        }
+    },
+    {
+        "id": 39,
+        "translation": {
+            "en": "17.  On 13 June 2016 the applicant was examined, for the first time in detention, by the local medico-social expert commission. He was declared as having a thirddegree disability on account of his eye condition. The disability certificate was valid until 1 July 2018, after which a repeated examination was required.",
+            "uk": "17.  13 червня 2016 року місцева медико-соціальна експертна комісія вперше оглянула заявника у виправній колонії. Він був визнаний особою з інвалідністю третьої групи по зору. Довідка про інвалідність діяла до 01 липня 2018 року, після чого вимагалося проведення повторного огляду."
+        }
+    },
+    {
+        "id": 40,
+        "translation": {
+            "en": "18.  On 24 June 2016 the commission transmitted its report to the local office of the Pension Fund.",
+            "uk": "18.  24 червня 2016 року комісія направила виписку з акта до територіального управління Пенсійного фонду України."
+        }
+    },
+    {
+        "id": 41,
+        "translation": {
+            "en": "19.  According to the applicant, every month since then he submitted applications to the administration of Romny Prison no. 56 and later to the administration of the Sumy pre-trial detention centre (SIZO) for assistance in getting a disability pension. He also allegedly sent letters to the Pension Fund, which remained without reply.",
+            "uk": "19.  Згідно з твердженнями заявника з того моменту він щомісячно подавав заяви до адміністрації Роменської виправної колонії № 56, а згодом до адміністрації Сумського слідчого ізолятора (далі – СІЗО) щодо надання допомоги в оформленні пенсії по інвалідності. Як стверджувалося, він також надсилав листи до Пенсійного фонду України, які залишилися без відповіді."
+        }
+    },
+    {
+        "id": 42,
+        "translation": {
+            "en": "20.  The applicant’s next regular examination by the medico-social expert commission was scheduled for 13 June 2018 in Romny Prison no. 56. It was not carried out as planned, however, given that the applicant was detained in the Sumy SIZO at that time. According to the Government, the applicant did not request such examination until early 2019. According to the applicant, he did so whenever possible.",
+            "uk": "20.  Наступний повторний огляд заявника медико-соціальною експертною комісією був призначений на 13 червня 2018 року у Роменській виправній колонії № 56. Однак він не відбувся у зв’язку з триманням заявника на той момент у Сумському СІЗО. Згідно з твердженнями Уряду заявник не клопотав про проведення такого огляду до початку 2019 року. Згідно з твердженнями заявника він робив це, коли мав можливість."
+        }
+    },
+    {
+        "id": 43,
+        "translation": {
+            "en": "21.  On 5 May 2018 the applicant applied to the Sumy regional free secondary legal aid centre for assistance in preparing the procedural documents required for getting a disability pension. On 29 May 2018 a lawyer was appointed for him. On 21 September 2018 that lawyer was replaced by a different one. According to the applicant, he did not get any assistance from those lawyers.",
+            "uk": "21.  05 травня 2018 року заявник звернувся до Регіонального центру з надання безоплатної вторинної правової допомоги у Сумській області стосовно надання допомоги у складанні документів процесуального характеру, необхідних для оформлення пенсії по інвалідності. \n29 травня 2018 року йому призначили захисника. 21 вересня 2018 року цього захисника замінили на іншого. Згідно з твердженнями заявника він не отримав жодної допомоги від цих захисників."
+        }
+    },
+    {
+        "id": 44,
+        "translation": {
+            "en": "22.  On 4 January 2019 the applicant was examined by the medico-social expert commission, which decided that his third-degree disability was permanent and that no future reassessments were required.",
+            "uk": "22.  04 січня 2019 року заявника оглянула медико-соціальна експертна комісія, яка визнала його особою з інвалідністю третьої групи по зору безстроково і подальші повторні огляди не потребувалися."
+        }
+    },
+    {
+        "id": 45,
+        "translation": {
+            "en": "23.  On 16 January 2019 the commission informed the local office of the Pension Fund about its conclusion.",
+            "uk": "23.  16 січня 2019 року комісія направила виписку з акта до територіального управління Пенсійного фонду України."
+        }
+    },
+    {
+        "id": 46,
+        "translation": {
+            "en": "24.  On 26 February 2019 the Sumy regional department of the Pension Fund wrote to the governor of Romny Prison no. 56 that it had received the commission’s report of 4 January 2019 on the applicant’s disability and that “the issue of the pension of the prisoner [was] under consideration”.",
+            "uk": "24.  26 лютого 2019 року Головне управління Пенсійного фонду України в Сумській області повідомило начальника Роменської виправної колонії № 56 про отримання виписки з акта комісії від \n04 січня 2019 року стосовно інвалідності заявника та «вирішення питання щодо пенсійного забезпечення особи, яка відбуває покарання»."
+        }
+    },
+    {
+        "id": 47,
+        "translation": {
+            "en": "Other information",
+            "uk": "Інші відомості"
+        }
+    },
+    {
+        "id": 48,
+        "translation": {
+            "en": "26.  According to the information provided by the Government, six inmates of Romny Prison no. 56, four of whom are serving a life sentence, are in receipt of pensions of various types.",
+            "uk": "26.  Згідно з поданою Урядом інформацією шестеро ув’язнених Роменської виправної колонії № 56, четверо з яких відбувають покарання у виді довічного позбавлення волі, отримують пенсії різних видів."
+        }
+    },
+    {
+        "id": 49,
+        "translation": {
+            "en": "RELEVANT LEGAL FRAMEWORK AND PRACTICE",
+            "uk": "ВІДПОВІДНІ НОРМАТИВНО-ПРАВОВА БАЗА ТА ПРАКТИКА"
+        }
+    },
+    {
+        "id": 50,
+        "translation": {
+            "en": "Conditions of detention",
+            "uk": "УМОВИ ТРИМАННЯ ПІД ВАРТОЮ"
+        }
+    },
+    {
+        "id": 51,
+        "translation": {
+            "en": "27.  The Code on the Execution of Sentences (2003) provides that prisoners sentenced to life imprisonment are to serve their sentences in prisons of the highest level of security (Article 150). They are placed, as a rule, in two-person cells. They are allowed to have one hour’s exercise daily.",
+            "uk": "27.  Кримінально-виконавчий кодекс України (2003 року) передбачає, що засуджені до довічного позбавлення волі відбувають покарання у виправних колоніях максимального рівня безпеки (стаття 150). Як правило, їх розміщують у камерах по дві особи. Їм надається щоденна прогулянка тривалістю одна година."
+        }
+    },
+    {
+        "id": 52,
+        "translation": {
+            "en": "Entitlement to a disability pension",
+            "uk": "ПРАВО НА ОТРИМАННЯ ПЕНСІЇ ПО ІНВАЛІДНОСТІ"
+        }
+    },
+    {
+        "id": 53,
+        "translation": {
+            "en": "Code on the Execution of Sentences (2003)",
+            "uk": "Кримінально-виконавчий кодекс України (2003 року)"
+        }
+    },
+    {
+        "id": 54,
+        "translation": {
+            "en": "29.  Articles 60-1 and 122 concern “general obligatory state ... pension insurance for prisoners”. Both Articles contain the following identical provisions:",
+            "uk": "29.  Статті 60-1 та 122 стосуються «загальнообов’язкового державного... пенсійного забезпечення засуджених до обмеження волі». Обидві статті містять такі однакові положення:"
+        }
+    },
+    {
+        "id": 55,
+        "translation": {
+            "en": "“2. Prisoners are entitled to ... a disability pension ... under the same conditions as other citizens (на загальних підставах).",
+            "uk": "«2. Засуджені мають право на загальних підставах на призначення та отримання пенсії … по інвалідності."
+        }
+    },
+    {
+        "id": 56,
+        "translation": {
+            "en": "3. The territorial authorities of the Pension Fund located near the prison shall award a [disability] pension to eligible prisoners. ...",
+            "uk": "3. Пенсії [по інвалідності] засудженим за наявності відповідного права призначаються територіальними органами Пенсійного фонду України за місцем відбування покарання. …"
+        }
+    },
+    {
+        "id": 57,
+        "translation": {
+            "en": "4. The territorial authorities of the Pension Fund shall transfer the pensions awarded to prisoners at the prison’s bank account.",
+            "uk": "4. Виплата особам, засудженим до обмеження волі, призначених пенсій здійснюється територіальними органами Пенсійного фонду України на рахунок установи за місцем відбування покарання."
+        }
+    },
+    {
+        "id": 58,
+        "translation": {
+            "en": "A maintenance contribution shall be deducted from prisoners’ pensions in accordance with the rules established by the Cabinet of Ministers of Ukraine.",
+            "uk": "Із пенсій засуджених до обмеження волі відшкодовуються витрати на їх утримання в установах виконання покарань в порядку, встановленому Кабінетом Міністрів України."
+        }
+    },
+    {
+        "id": 59,
+        "translation": {
+            "en": "At the same time, at least fifty per cent of the pension amount shall be placed at the prisoner’s personal account.”",
+            "uk": "При цьому не менш як п’ятдесят відсотків пенсії зараховується установою за місцем відбування покарання на особовий рахунок засудженого.»"
+        }
+    },
+    {
+        "id": 60,
+        "translation": {
+            "en": "30.  Paragraph 3 of Article 122 additionally states:",
+            "uk": "30.  Частина третя статті 122 додатково передбачає:"
+        }
+    },
+    {
+        "id": 61,
+        "translation": {
+            "en": "The prison administration shall organise [the requested meeting] within thirty days of the application date and shall facilitate, in every possible way, the prisoner’s [or his/her representative’s] efforts in preparing and filing the required documents.”",
+            "uk": "Адміністрація виправного закладу не більш як протягом 30 днів з дня реєстрації клопотання забезпечує [відповідну зустріч] та всебічно сприяє належному оформленню і поданню ним відповідних документів або забезпечує умови для оформлення і подання необхідних документів через [представника особи], яка відбуває покарання.»"
+        }
+    },
+    {
+        "id": 62,
+        "translation": {
+            "en": "Law of Ukraine “On general obligatory state pension insurance” (2003)",
+            "uk": "Закон України «Про загальнообов’язкове державне пенсійне страхування» (2003 року)"
+        }
+    },
+    {
+        "id": 63,
+        "translation": {
+            "en": "31.  As stipulated in Article 30 § 1, disabled people, who have the required length of pensionable service (страховий стаж) under Article 32, are entitled to a disability pension.",
+            "uk": "31.  Як передбачено частиною першою статті 30, особи з інвалідністю за наявності страхового стажу, передбаченого статтею 32, мають право на пенсію по інвалідності."
+        }
+    },
+    {
+        "id": 64,
+        "translation": {
+            "en": "32.  Article 31 provides that there are three degrees of disability (групи інвалідності) depending on the working capacity loss.",
+            "uk": "32.  Стаття 31 передбачає, що залежно від ступеня втрати працездатності визначено три групи інвалідності."
+        }
+    },
+    {
+        "id": 65,
+        "translation": {
+            "en": "33.  Article 32 specifies the length of pensionable service required for entitlement to a disability pension. It states, in particular, that persons with a third-degree disability shall be entitled to a disability pension subject to having the following length of pensionable service on the date when they become disabled or when they apply for a disability pension:",
+            "uk": "33.  Статтею 32 визначено страховий стаж, необхідний для призначення пенсії по інвалідності. Зокрема, у ній зазначається, що особи з інвалідністю третьої групи мають право на пенсію по інвалідності за наявності такого страхового стажу на час настання інвалідності або на момент подання заяви про призначення пенсії по інвалідності:"
+        }
+    },
+    {
+        "id": 66,
+        "translation": {
+            "en": "- at the age of 46 to 48 years inclusive – eleven years;",
+            "uk": "- від 46 років до 48 років включно – одинадцять років;"
+        }
+    },
+    {
+        "id": 67,
+        "translation": {
+            "en": "- at the age of 49 to 51 years inclusive – twelve years;",
+            "uk": "- від 49 років до 51 року включно – дванадцять років;"
+        }
+    },
+    {
+        "id": 68,
+        "translation": {
+            "en": "- at the age of 52 to 55 years inclusive – thirteen years; and",
+            "uk": "- від 52 років до 55 років включно – тринадцять років; і"
+        }
+    },
+    {
+        "id": 69,
+        "translation": {
+            "en": "- at the age of 56 to 59 years inclusive – fourteen years.",
+            "uk": "- від 56 років до 59 років включно – чотирнадцять років."
+        }
+    },
+    {
+        "id": 70,
+        "translation": {
+            "en": "34.  As further stated in Article 32, persons who have been declared disabled after having reached the retirement age under Article 26 (60 years), are entitled to a disability pension subject to having the length of pensionable service stipulated by Article 26 § 1(1) (at least fifteen years).",
+            "uk": "34.  Як зазначено у наступній частині статті 32, особи, яким встановлено інвалідність після досягнення пенсійного віку, передбаченого статтею 26 (60 років), мають право на пенсію по інвалідності за наявності страхового стажу, зазначеного в абзаці першому частини першої статті 26 (не менше п’ятнадцяти років)."
+        }
+    },
+    {
+        "id": 71,
+        "translation": {
+            "en": "Resolution of the Pension Fund’s Board no. 22-1 of 25 November 2005 (with further amendments)",
+            "uk": "Постанова Правління Пенсійного фонду України від \n25 листопада 2005 року № 22-1 (з подальшими змінами)"
+        }
+    },
+    {
+        "id": 72,
+        "translation": {
+            "en": "35.  The relevant provisions of this Resolution, which sets out the procedure for preparation and submission of documents for a pension (recalculation) under the Law of Ukraine “On general obligatory state pension insurance”, read as follows:",
+            "uk": "35.  Відповідні положення цієї Постанови, якою визначається порядок подання та оформлення документів для призначення (перерахунку) пенсії відповідно до Закону України «Про загальнообов’язкове державне пенсійне страхування», передбачають:"
+        }
+    },
+    {
+        "id": 73,
+        "translation": {
+            "en": "I. Applications for a pension ...",
+            "uk": "I. Звернення за призначенням пенсії..."
+        }
+    },
+    {
+        "id": 74,
+        "translation": {
+            "en": "“1.4. Prisoners shall submit applications for a pension through their representatives acting on the basis of a notarised authority, to the pension authority located near the prison.",
+            "uk": "«1.4. Заява про призначення пенсії засудженим до позбавлення волі подається через представника, який діє на підставі виданої йому довіреності, посвідченої нотаріально, до органу, що призначає пенсію, за місцезнаходженням виправного закладу."
+        }
+    },
+    {
+        "id": 75,
+        "translation": {
+            "en": "Prisoners may submit the relevant documents for a pension in person, if they wish so, in compliance with Articles 60-1 and 122 of the Code on the Execution of Sentences.”",
+            "uk": "За бажанням зазначених осіб відповідні документи для призначення пенсії можуть подаватися ними безпосередньо відповідно до статей 60-1 та 122 Кримінально-виконавчого кодексу України.»"
+        }
+    },
+    {
+        "id": 76,
+        "translation": {
+            "en": "II. Documents required for a [pension]",
+            "uk": "II. Документи, необхідні для призначення [пенсії]"
+        }
+    },
+    {
+        "id": 77,
+        "translation": {
+            "en": "“2.1. The application for an old-age pension shall enclose the following documents:",
+            "uk": "«2.1. До заяви про призначення пенсії за віком додаються такі документи:"
+        }
+    },
+    {
+        "id": 78,
+        "translation": {
+            "en": "(1) the document on the attribution of an individual taxpayer identification number ... or a general obligatory state social insurance;",
+            "uk": "(1) документ про присвоєння реєстраційного номера облікової картки платника податків ... або свідоцтво про загальнообов’язкове державне соціальне страхування;"
+        }
+    },
+    {
+        "id": 79,
+        "translation": {
+            "en": "(2) documents on the length of pensionable service ...;",
+            "uk": "(2) документи про стаж ...;"
+        }
+    },
+    {
+        "id": 80,
+        "translation": {
+            "en": "(3) documents on [the salary amount];",
+            "uk": "(3) документи підтвердження [розміру заробітної плати];"
+        }
+    },
+    {
+        "id": 81,
+        "translation": {
+            "en": "(4) documents on the place of residence (domicile registration).",
+            "uk": "(4) документи про місце проживання (реєстрації) особи."
+        }
+    },
+    {
+        "id": 82,
+        "translation": {
+            "en": "2.2. The application for a disability pension shall enclose the documents listed in points 1-4 of paragraph 2.1 of this Section.",
+            "uk": "2.2. До заяви про призначання пенсії по інвалідності додаються документи, перелічені в підпунктах 1-4 пункту 2.1 цього розділу."
+        }
+    },
+    {
+        "id": 83,
+        "translation": {
+            "en": "The pension authority in charge shall enclose to the file the report transmitted to it by the medical-social expert commission following [the applicant’s] examination.”",
+            "uk": "Орган, що призначає пенсію, додає до заяви одержану ним від МСЕК виписку з акта огляду [заявника] МСЕК.»"
+        }
+    },
+    {
+        "id": 84,
+        "translation": {
+            "en": "36.  The application form to be filled by those applying for a pension is provided in Annex 1 to the above-mentioned document.",
+            "uk": "36.  Зразок заяви, що подається особами, які звертаються за призначенням пенсії, наведений у Додатку 1 вказаного документа."
+        }
+    },
+    {
+        "id": 85,
+        "translation": {
+            "en": "THE LAW",
+            "uk": "ПРАВО"
+        }
+    },
+    {
+        "id": 86,
+        "translation": {
+            "en": "SCOPE OF THE CASE",
+            "uk": "МЕЖІ РОЗГЛЯДУ СПРАВИ"
+        }
+    },
+    {
+        "id": 87,
+        "translation": {
+            "en": "37.  In his submissions of 12 November 2020 made in reply to the Government’s observations, the applicant complained for the first time about the conditions of his detention in Stryzhavska Prison no. 81 and the Sumy SIZO.",
+            "uk": "37.  У своїх доводах від 12 листопада 2020 року у відповідь на зауваження Уряду заявник вперше поскаржився на умови тримання під вартою у Стрижавській виправній колонії № 81 та Сумському СІЗО."
+        }
+    },
+    {
+        "id": 88,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION",
+            "uk": "СТВЕРДЖУВАНЕ ПОРУШЕННЯ СТАТТІ 3 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 89,
+        "translation": {
+            "en": "39.  The applicant complained that he had been detained in appalling conditions in Romny Prison no. 56, in particular owing to overcrowding. He relied on Article 3 of the Convention, which reads as follows:",
+            "uk": "39.  Заявник скаржився на тримання його під вартою в Роменській виправній колонії № 56 у жахливих умовах, зокрема у зв’язку з переповненістю. Він посилався на статтю 3 Конвенції, яка передбачає:"
+        }
+    },
+    {
+        "id": 90,
+        "translation": {
+            "en": "“No one shall be subjected to torture or to inhuman or degrading treatment or punishment.”",
+            "uk": "«Нікого не може бути піддано катуванню або нелюдському чи такому, що принижує гідність, поводженню або покаранню.»"
+        }
+    },
+    {
+        "id": 91,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 92,
+        "translation": {
+            "en": "40.  The Government did not invoke any admissibility objection. The Court notes that this complaint is neither manifestly ill-founded within the meaning of Article 35 § 3 (a) of the Convention nor inadmissible on any other grounds. It must therefore be declared admissible.",
+            "uk": "40.  Уряд не надав заперечень щодо прийнятності. Суд зазначає, що ця скарга не є ні явно необґрунтованою у розумінні підпункту «а» пункту 3 статті 35 Конвенції, ні неприйнятною з будь-яких інших підстав. Отже, вона має бути визнана прийнятною."
+        }
+    },
+    {
+        "id": 93,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 94,
+        "translation": {
+            "en": "41.  The parties relied on their accounts regarding the conditions of the applicant’s detention in Romny Prison no. 56 (see paragraphs 6-12 above).",
+            "uk": "41.  Сторони послалися на надані ними описи умов тримання заявника під вартою у Роменській виправній колонії № 56 (див. пункти 6 – 12)."
+        }
+    },
+    {
+        "id": 95,
+        "translation": {
+            "en": "44.  Turning to the present case, the Court notes that, although the applicant complained that he had been detained in overcrowded conditions and provided detailed information as regards the numbers of the cells in which he had been detained and the names of his cellmates (see paragraph 6 above), he failed to specify the most important detail – how many square metres of floor space each inmate had at his disposal.",
+            "uk": "44.  Повертаючись до обставин цієї справи, Суд зазначає, що хоча заявник скаржився на тримання його під вартою в умовах переповненості і навів детальну інформацію про номери камер, в яких він тримався, та імена своїх співкамерників (див. пункт 6), він не вказав найважливішу деталь – скільки квадратних метрів житлової площі було у розпорядженні кожного ув’язненого."
+        }
+    },
+    {
+        "id": 96,
+        "translation": {
+            "en": "45.  Nor did the Government provide any information to clarify that matter. Their reference to the applicant’s detention in a cell measuring 8.2 sq. m and being designated for two inmates is of little help, given that they neither specified the period during which the applicant had been detained in that cell, nor provided any information as to whether its actual occupancy corresponded to the designated one.",
+            "uk": "45.  Уряд також не надав інформацію для роз’яснення цього питання. Посилання Уряду на те, що заявник тримався у камері площею 8,2 кв. м, розрахованій на двох ув’язнених, малоінформативне, оскільки він не вказав строк, протягом якого заявник тримався у цій камері, і не надав інформацію, чи відповідала фактична наповненість камери передбаченій."
+        }
+    },
+    {
+        "id": 97,
+        "translation": {
+            "en": "47.  The Court has held that, in cases where a prison cell measuring in the range of 3 to 4 sq. m of personal space per inmate is at issue, this remains a weighty factor in the Court’s assessment of the adequacy of conditions of detention. In such instances, a violation of Article 3 will be found if the space factor is coupled with other aspects of inappropriate physical conditions of detention (see Muršić, cited above, § 139).",
+            "uk": "47.  Суд уже встановлював, що коли площа в’язничної камери становить від 3 до 4 кв. м особистого простору на кожного ув’язненого, вирішальним фактором при оцінці Судом належності умов тримання залишається фактор простору. У таких випадках порушення статті 3 Конвенції буде встановлено, якщо фактор простору поєднаний з іншими неналежними побутовими умовами тримання під вартою (див. згадане рішення у справі «Муршич проти Хорватії» (Muršić v. Croatia), пункт 139)."
+        }
+    },
+    {
+        "id": 98,
+        "translation": {
+            "en": "49.  The Court also takes note of the fact that, being assigned to the maximum-security sector, the applicant remained confined to his cell most of the time (see paragraph 27 above).",
+            "uk": "49.  Суд також бере до уваги, що, відбуваючи покарання у секторі максимального рівня безпеки, більшу частину часу заявник був замкнений у своїй камері (див. пункт 27)."
+        }
+    },
+    {
+        "id": 99,
+        "translation": {
+            "en": "51.  There has therefore been a violation of that provision.",
+            "uk": "51.  Отже, було порушено це положення."
+        }
+    },
+    {
+        "id": 100,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLE 1 OF PROTOCOL No. 1 TO THE CONVENTION",
+            "uk": "СТВЕРДЖУВАНЕ ПОРУШЕННЯ СТАТТІ 1 ПЕРШОГО ПРОТОКОЛУ ДО КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 101,
+        "translation": {
+            "en": "52.  The applicant complained that there had been a violation of his rights under Article 1 of Protocol No. 1 on account of his continued inability to obtain a disability pension. The provision relied on reads as follows:",
+            "uk": "52.  Заявник скаржився на порушення його прав за статтею 1 Першого протоколу до Конвенції у зв’язку з неможливістю отримувати пенсію по інвалідності. Положення, на яке він посилається, передбачає:"
+        }
+    },
+    {
+        "id": 102,
+        "translation": {
+            "en": "“Every natural or legal person is entitled to the peaceful enjoyment of his possessions. No one shall be deprived of his possessions except in the public interest and subject to the conditions provided for by law and by the general principles of international law.",
+            "uk": "«Кожна фізична або юридична особа має право мирно володіти своїм майном. Ніхто не може бути позбавлений своєї власності інакше як в інтересах суспільства і на умовах, передбачених законом і загальними принципами міжнародного права."
+        }
+    },
+    {
+        "id": 103,
+        "translation": {
+            "en": "The preceding provisions shall not, however, in any way impair the right of a State to enforce such laws as it deems necessary to control the use of property in accordance with the general interest or to secure the payment of taxes or other contributions or penalties.”",
+            "uk": "Проте попередні положення жодним чином не обмежують право держави вводити в дію такі закони, які вона вважає за необхідне, щоб здійснювати контроль за користуванням майном відповідно до загальних інтересів або для забезпечення сплати податків чи інших зборів або штрафів.»"
+        }
+    },
+    {
+        "id": 104,
+        "translation": {
+            "en": "54.  The Government contested the applicant’s arguments. They submitted that, as soon as he expressed his wish to be examined by a commission competent to issue a disability certificate, in 2016, such an examination was carried out.",
+            "uk": "54.  Уряд заперечив проти доводів заявника. Він стверджував, що щойно у 2016 році заявник висловив бажання пройти огляд комісії, компетентної видавати довідки про встановлення групи інвалідності, такий огляд був проведений."
+        }
+    },
+    {
+        "id": 105,
+        "translation": {
+            "en": "55.  The Government insisted that the applicant had neither requested the prison administration to arrange for his meeting with a representative of the Pension Fund nor asked for any other measures to be taken. They drew the Court’s attention to the fact that certain inmates of Romny Prison no. 56 were receiving pensions without any problems being reported (see paragraph 26 above).",
+            "uk": "55.  Уряд наполягав, що заявник не звертався до адміністрації виправної колонії стосовно організації його зустрічі з представником Пенсійного фонду України, а також не просив вжити інші заходи. Уряд звернув увагу Суду на той факт, що деякі ув’язнені Роменської виправної колонії № 56 отримували пенсії без жодних проблем (див. пункт 26)."
+        }
+    },
+    {
+        "id": 106,
+        "translation": {
+            "en": "56.  In sum, the Government argued that the applicant had failed to follow an overall simple procedure and that there were no reasons to blame the authorities for that.",
+            "uk": "56.  Загалом Уряд стверджував, що заявник не дотримався загального простого порядку звернення за призначенням пенсії і підстави обвинувачувати у цьому органи державної влади відсутні."
+        }
+    },
+    {
+        "id": 107,
+        "translation": {
+            "en": "57.  The applicant contested that last-mentioned argument as “absurd” and claimed to have made all possible efforts to get his entitlement to a disability pension recognised.",
+            "uk": "57.  Заявник заперечив проти останнього аргументу як «абсурдного» і стверджував, що доклав усіх можливих зусиль для визнання його права на пенсію по інвалідності."
+        }
+    },
+    {
+        "id": 108,
+        "translation": {
+            "en": "59.  The Court has also held that, where the person concerned does not satisfy the legal conditions laid down in domestic law for the grant of any particular form of benefits or pension, there is no interference with the rights under Article 1 of Protocol No. 1 (see, for example, Richardson v. the United Kingdom (dec.), no. 26252/08, § 17, 10 April 2012, and the case-law references therein).",
+            "uk": "59.  Суд також постановив, що якщо особа не відповідає правовим умовам, встановленим національним законодавством щодо надання будь-якої конкретної форми допомоги або пенсії, втручання у права за статтею 1 Першого протоколу до Конвенції не буде (див., наприклад, ухвалу щодо неприйнятності у справі «Річардсон проти Сполученого Королівства» (Richardson v. the United Kingdom), заява № 26252/08, пункт 17, від 10 квітня 2012 року та наведені в ній посилання на практику)."
+        }
+    },
+    {
+        "id": 109,
+        "translation": {
+            "en": "63.  Having regard to all the foregoing considerations, the Court concludes that it has no evidence before it showing the existence of the applicant’s proprietary interest under the Ukrainian law for Article 1 of Protocol No. 1 to come into play. In any event, even assuming its applicability, the applicant has failed to substantiate his allegation of a lack of assistance regarding the procedure to apply.",
+            "uk": "63.  Врахувавши усі наведені міркування, Суд доходить висновку про відсутність доказів, які б свідчили про наявність у заявника майнового права згідно із законодавством України для застосування статті 1 Першого протоколу до Конвенції. У будь-якому випадку, навіть вважаючи її застосовною, заявник не обґрунтував свої твердження про ненадання йому допомоги у зв’язку з процедурою оформлення пенсії."
+        }
+    },
+    {
+        "id": 110,
+        "translation": {
+            "en": "64.  This complaint must therefore be rejected as being manifestly illfounded, pursuant to Article 35 §§ 3 (a) and 4 of the Convention.",
+            "uk": "64.  Тому ця скарга має бути відхилена як явно необґрунтована на підставі підпункту «а» пункту 3 та пункту 4 статті 35 Конвенції."
+        }
+    },
+    {
+        "id": 111,
+        "translation": {
+            "en": "APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+            "uk": "ЗАСТОСУВАННЯ СТАТТІ 41 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 112,
+        "translation": {
+            "en": "65.  Article 41 of the Convention provides:",
+            "uk": "65.  Стаття 41 Конвенції передбачає:"
+        }
+    },
+    {
+        "id": 113,
+        "translation": {
+            "en": "“If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”",
+            "uk": "«Якщо Суд визнає факт порушення Конвенції або протоколів до неї і якщо внутрішнє право відповідної Високої Договірної Сторони передбачає лише часткове відшкодування, Суд, у разі необхідності, надає потерпілій стороні справедливу сатисфакцію.»"
+        }
+    },
+    {
+        "id": 114,
+        "translation": {
+            "en": "Damage",
+            "uk": "Шкода"
+        }
+    },
+    {
+        "id": 115,
+        "translation": {
+            "en": "66.  The applicant claimed 1,100,000 euros (EUR) in respect of non-pecuniary damage.",
+            "uk": "66.  Заявник вимагав 1 100 000 євро в якості відшкодування моральної шкоди."
+        }
+    },
+    {
+        "id": 116,
+        "translation": {
+            "en": "67.  The Government contested that claim as unsubstantiated and exorbitant.",
+            "uk": "67.  Уряд заперечив проти цієї вимоги як необґрунтованої і надмірної."
+        }
+    },
+    {
+        "id": 117,
+        "translation": {
+            "en": "68.  The Court has no doubt that the applicant suffered distress and frustration on account of the conditions of his detention in breach of Article 3 of the Convention. Making its assessment on an equitable basis, the Court awards the applicant EUR 10,000 in respect of non-pecuniary damage, plus any tax that may be chargeable on that amount.",
+            "uk": "68.  Суд не сумнівається, що заявник зазнав страждання та розчарування у зв’язку з умовами тримання його під вартою, які становили порушення статті 3 Конвенції. Здійснюючи оцінку на засадах справедливості, Суд присуджує заявнику 10 000 євро в якості відшкодування моральної шкоди та додатково суму будь-якого податку, що може нараховуватися на цю суму."
+        }
+    },
+    {
+        "id": 118,
+        "translation": {
+            "en": "Costs and expenses",
+            "uk": "Судові та інші витрати"
+        }
+    },
+    {
+        "id": 119,
+        "translation": {
+            "en": "70.  The Government considered the amount claimed excessive.",
+            "uk": "70.  Уряд вважав надмірною суму, яка вимагалася."
+        }
+    },
+    {
+        "id": 120,
+        "translation": {
+            "en": "Default interest",
+            "uk": "Пеня"
+        }
+    },
+    {
+        "id": 121,
+        "translation": {
+            "en": "72.  The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+            "uk": "72.  Суд вважає за належне призначити пеню на підставі граничної позичкової ставки Європейського центрального банку, до якої має бути додано три відсоткові пункти."
+        }
+    },
+    {
+        "id": 122,
+        "translation": {
+            "en": "FOR THESE REASONS, THE COURT",
+            "uk": "ЗА ЦИХ ПІДСТАВ СУД"
+        }
+    },
+    {
+        "id": 123,
+        "translation": {
+            "en": "Declares, by a majority, the complaint concerning the conditions of the applicant’s detention in Romny Prison no. 56 admissible and the remainder of the application inadmissible;",
+            "uk": "Оголошує прийнятною більшістю голосів скаргу на умови тримання заявника під вартою у Роменській виправній колонії № 56, а решту скарг у заяві – неприйнятними;"
+        }
+    },
+    {
+        "id": 124,
+        "translation": {
+            "en": "Holds, unanimously, that there has been a violation of Article 3 of the Convention;",
+            "uk": "Постановляє одноголосно, що було порушено статтю 3 Конвенції;"
+        }
+    },
+    {
+        "id": 125,
+        "translation": {
+            "en": "Holds, unanimously,",
+            "uk": "Постановляє одноголосно, що:"
+        }
+    },
+    {
+        "id": 126,
+        "translation": {
+            "en": "that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+            "uk": "упродовж трьох місяців з дати, коли це рішення набуде статусу остаточного відповідно до пункту 2 статті 44 Конвенції, держава-відповідач повинна сплатити заявнику такі суми та додатково суму будь-якого податку, що може нараховуватися заявнику; ці суми мають бути конвертовані в національну валюту держави-відповідача за курсом на день здійснення платежу:"
+        }
+    },
+    {
+        "id": 127,
+        "translation": {
+            "en": "EUR 10,000 (ten thousand euros) in respect of non-pecuniary damage;",
+            "uk": "10 000 (десять тисяч) євро в якості відшкодування моральної шкоди;"
+        }
+    },
+    {
+        "id": 128,
+        "translation": {
+            "en": "EUR 1,450 (one thousand four hundred fifty euros) in respect of legal costs before the Court (to be paid into the bank account of the applicant’s lawyer, Mr Tarakhkalo);",
+            "uk": "1 450 (одна тисяча чотириста п’ятдесят) євро в якості компенсації витрат на правову допомогу, понесених під час провадження у Суді (ця сума має бути сплачена на банківський рахунок представника заявника, пана Тарахкала);"
+        }
+    },
+    {
+        "id": 129,
+        "translation": {
+            "en": "that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period, plus three percentage points;",
+            "uk": "із закінченням зазначеного тримісячного строку до остаточного розрахунку на зазначені суми нараховуватиметься простий відсоток (simple interest) у розмірі граничної позичкової ставки Європейського центрального банку, яка діятиме в період несплати, до якої має бути додано три відсоткові пункти;"
+        }
+    },
+    {
+        "id": 130,
+        "translation": {
+            "en": "4.\tDismisses, by five votes to two, the remainder of the applicant’s claim for just satisfaction.",
+            "uk": "4. Відхиляє п’ятьма голосами проти двох решту вимог заявника щодо справедливої сатисфакції."
+        }
+    },
+    {
+        "id": 131,
+        "translation": {
+            "en": "Done in English, and notified in writing on 8 July 2021, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court. signature_p_2}",
+            "uk": "Учинено англійською мовою та повідомлено письмово 08 липня 2021 року відповідно до пунктів 2 і 3 Правила 77 Регламенту Суду."
+        }
+    },
+    {
+        "id": 132,
+        "translation": {
+            "en": "Victor Soloveytchik Registrar",
+            "uk": "Віктор Соловейчік   Секретар (Victor Soloveytchik)"
+        }
+    },
+    {
+        "id": 133,
+        "translation": {
+            "en": "Síofra O’Leary President",
+            "uk": "Сіофра О’Лірі (Síofra O’Leary) Голова"
+        }
+    },
+    {
+        "id": 134,
+        "translation": {
+            "en": "In accordance with Article 45 § 2 of the Convention and Rule 74 § 2 of the Rules of Court, the separate opinion of Judges Yudkivska and Hüseynov is annexed to this judgment.",
+            "uk": "Відповідно до пункту 2 статті 45 Конвенції та пункту 2 Правила 74 Регламенту Суду до цього рішення додається спільна окрема думка суддів Юдківської та Гусейнова."
+        }
+    },
+    {
+        "id": 135,
+        "translation": {
+            "en": "S.O.L.\nV.S.",
+            "uk": "С.О.Л.\nВ.С."
+        }
+    },
+    {
+        "id": 136,
+        "translation": {
+            "en": "JOINT PARTLY DISSENTING OPINION OF JUDGES YUDKIVSKA AND HÜSEYNOV",
+            "uk": "СПІЛЬНА ОКРЕМА ДУМКА СУДДІВ ЮДКІВСЬКОЇ ТА ГУСЕЙНОВА, ЯКА ЧАСТКОВО НЕ СПІВПАДАЄ З ПОЗИЦІЄЮ БІЛЬШОСТІ"
+        }
+    },
+    {
+        "id": 137,
+        "translation": {
+            "en": "0.  The present case raises an important issue about the scope of the State’s positive obligations towards a prisoner in a socio-economic sphere. Unlike the majority, we are of the opinion that in the present case the Ukrainian authorities violated not only Article 3, but also Article 1 of Protocol No. 1.",
+            "uk": "0.  У цій справі порушено важливе питання щодо обсягу позитивних зобов’язань держави стосовно ув’язнених у соціально-економічній сфері. На відміну від більшості, ми вважаємо, що у цій справі органи державної влади України порушили не лише статтю 3 Конвенції, а й статтю 1 Першого протоколу до Конвенції."
+        }
+    },
+    {
+        "id": 138,
+        "translation": {
+            "en": "1.  The applicant’s complaint under Article 1 of Protocol No. 1 concerned his unsuccessful attempts to obtain a disability pension while serving a sentence of life imprisonment. In the majority’s view, the applicant had “failed to substantiate his allegation of a lack of assistance regarding the procedure” to be followed for that purpose (paragraph 63), and on that basis the complaint was found to be manifestly ill-founded. We respectfully disagree.",
+            "uk": "1.  Скарга заявника за статтею 1 Першого протоколу до Конвенції стосувалася його безуспішних спроб отримати пенсію по інвалідності під час відбування покарання у виді довічного позбавлення волі. На думку більшості, заявник «не обґрунтував свої твердження про ненадання допомоги йому у зв’язку з процедурою оформлення пенсії», якої слід дотримуватися з цією метою (пункт 63), і на цій підставі скарга була визнана явно необґрунтованою. З усією повагою ми не погоджуємося."
+        }
+    },
+    {
+        "id": 139,
+        "translation": {
+            "en": "6.  It appears from the case file that the said positive obligation has not been complied with. We stress that, in view of his vulnerability at the hands of the authorities, who exercised complete control over him throughout his detention (see, mutatis mutandis, Y.F. v. Turkey, no. 24209/94, § 34, ECHR 2003IX), the applicant was not able to exercise his rights under Article 1 of Protocol No. 1 without their aid.",
+            "uk": "6.  З матеріалів справи вбачається, що зазначене позитивне зобов’язання виконано не було. Ми підкреслюємо, що з огляду на вразливість заявника перед органами державної влади, які здійснювали повний контроль над ним протягом усього часу тримання його під вартою (див., mutatis mutandis, рішення у справі «Ю.Ф. проти Туреччини» (Y.F. v. Turkey), заява № 24209/94, пункт 34, ЄСПЛ 2003-IX), заявник не міг реалізувати свої права за статтею 1 Першого протоколу до Конвенції без їхньої допомоги."
+        }
+    },
+    {
+        "id": 140,
+        "translation": {
+            "en": "7.  The parties are in disagreement as to whether the applicant requested any particular assistance from the prison administration other than an examination by a medico-social expert commission (an authority competent to issue disability certificates). In respect of this last-mentioned point, they are also in disagreement as to the date of the first such request.",
+            "uk": "7.  Сторони не дійшли згоди, чи звертався заявник до адміністрації виправної колонії за якоюсь конкретною допомогою, окрім організації огляду медико-соціальною експертною комісією (органом, компетентним видавати довідки про інвалідність). Стосовно цього останнього згаданого пункту сторони також не згодні щодо дати подання першого такого звернення."
+        }
+    },
+    {
+        "id": 141,
+        "translation": {
+            "en": "10.  Another undisputed fact of relevance is that the applicant repeatedly sought help from a legal aid centre in his efforts to obtain a disability pension and that his applications were either not acted upon or refused on what appeared to be formalistic grounds (see paragraphs 21 and 25 of the judgment).",
+            "uk": "10.  Інший безперечний факт, який має значення, полягає у тому, що заявник неодноразово звертався за допомогою до центру правової допомоги стосовно отримання пенсії по інвалідності і за його зверненнями або не було вжито жодних заходів, або вони були відхилені з формальних підстав (див. пункти 21 та 25 рішення)."
+        }
+    }
+]

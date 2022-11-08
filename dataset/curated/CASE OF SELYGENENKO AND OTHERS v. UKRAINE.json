@@ -1,0 +1,926 @@
+[
+    {
+        "id": 0,
+        "translation": {
+            "en": "FIFTH SECTION",
+            "uk": "П’ЯТА СЕКЦІЯ"
+        }
+    },
+    {
+        "id": 1,
+        "translation": {
+            "en": "CASE OF SELYGENENKO AND OTHERS v. UKRAINE",
+            "uk": "СПРАВА «СЕЛИГЕНЕНКО ТА ІНШІ ПРОТИ УКРАЇНИ»"
+        }
+    },
+    {
+        "id": 2,
+        "translation": {
+            "en": "(Applications nos. 24919/16 and 28658/16)",
+            "uk": "(Заяви № 24919/16 та № 28658/16)"
+        }
+    },
+    {
+        "id": 3,
+        "translation": {
+            "en": "JUDGMENT",
+            "uk": "РІШЕННЯ"
+        }
+    },
+    {
+        "id": 4,
+        "translation": {
+            "en": "STRASBOURG",
+            "uk": "СТРАСБУРГ"
+        }
+    },
+    {
+        "id": 5,
+        "translation": {
+            "en": "21 October 2021",
+            "uk": "21 жовтня 2021 року"
+        }
+    },
+    {
+        "id": 6,
+        "translation": {
+            "en": "FINAL",
+            "uk": "ОСТАТОЧНЕ"
+        }
+    },
+    {
+        "id": 7,
+        "translation": {
+            "en": "21/01/2022",
+            "uk": "21.01.2022"
+        }
+    },
+    {
+        "id": 8,
+        "translation": {
+            "en": "This judgment has become final under Article 44 § 2 of the Convention. It may be subject to editorial revision.",
+            "uk": "Це рішення набуло статусу остаточного відповідно до пункту 2 статті 44 Конвенції. Його текст може підлягати редакційним виправленням."
+        }
+    },
+    {
+        "id": 9,
+        "translation": {
+            "en": "In the case of Selygenenko and Others v. Ukraine,",
+            "uk": "У справі «Селигененко та інші проти України»"
+        }
+    },
+    {
+        "id": 10,
+        "translation": {
+            "en": "The European Court of Human Rights (Fifth Section), sitting as a Chamber composed of:",
+            "uk": "Європейський суд з прав людини (П’ята секція), засідаючи палатою, до складу якої увійшли:"
+        }
+    },
+    {
+        "id": 11,
+        "translation": {
+            "en": "Síofra O’Leary, President,\n\tMārtiņš Mits,\n\tGanna Yudkivska,\n\tStéphanie Mourou-Vikström,\n\tIvana Jelić,\n\tArnfinn Bårdsen,\n\tMattias Guyomar, judges,\nand Victor Soloveytchik, Section Registrar,",
+            "uk": "Сіофра О’Лірі (Síofra O’Leary), Голова,\n\tМартіньш Мітс (Mārtiņš Mits),\n\tГанна Юдківська (Ganna Yudkivska),\n\tСтефані Моро-Вікстром (Stéphanie Mourou-Vikström),\n\tІвана Джеліч (Ivana Jelić),\n\tАрнфінн Бордсен (Arnfinn Bårdsen),\n\tМаттіас Гуйомар (Mattias Guyomar), судді,\nта Віктор Соловейчік (Victor Soloveytchik), Секретар секції,"
+        }
+    },
+    {
+        "id": 12,
+        "translation": {
+            "en": "Having regard to:",
+            "uk": "З огляду на:"
+        }
+    },
+    {
+        "id": 13,
+        "translation": {
+            "en": "the applications (nos. 24919/16 and 28658/16) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by four Ukrainian nationals, Ms Oleksandra Vyacheslavivna Selygenenko, Ms Anastasiya Romanivna Martynovska, Ms Darya Oleksandrvna Svyrydova and Ms Yevgeniya Oleksandrivna Terekhova (“the applicants”), on 23 April 2016 (the first three applicants) and 14 May 2016 (Ms Terekhova), respectively;",
+            "uk": "заяви (№ 24919/16 і № 28658/16), які 23 квітня 2016 року (перші три заявниці) та 14 травня 2016 року (пані Терехова) відповідно, подали до Суду проти України на підставі статті 34 Конвенції про захист прав людини і основоположних свобод (далі – Конвенція) чотири громадянки України, пані Олександра В’ячеславівна Селигененко, пані Анастасія Романівна Мартиновська, пані Дар’я Олександрівна Свиридова та пані Євгенія Олександрівна Терехова (далі – заявниці);"
+        }
+    },
+    {
+        "id": 14,
+        "translation": {
+            "en": "the decision to give notice to the Ukrainian Government (“the Government”) of the applications;",
+            "uk": "рішення повідомити Уряд України (далі – Уряд) про заяви;"
+        }
+    },
+    {
+        "id": 15,
+        "translation": {
+            "en": "the parties’ observations;",
+            "uk": "зауваження сторін;"
+        }
+    },
+    {
+        "id": 16,
+        "translation": {
+            "en": "Having deliberated in private on 28 September 2021,",
+            "uk": "після обговорення за зачиненими дверима 28 вересня 2021 року"
+        }
+    },
+    {
+        "id": 17,
+        "translation": {
+            "en": "Delivers the following judgment, which was adopted on that date:",
+            "uk": "постановляє таке рішення, що було ухвалено у той день:"
+        }
+    },
+    {
+        "id": 18,
+        "translation": {
+            "en": "INTRODUCTION",
+            "uk": "ВСТУП"
+        }
+    },
+    {
+        "id": 19,
+        "translation": {
+            "en": "1. The applicants complained under Article 1 of Protocol No. 12 to the Convention that they had not been allowed to participate in local elections at the place of their actual residence, in which they were registered as internally displaced persons (IDPs).",
+            "uk": "1. Заявниці скаржилися за статтею 1 Протоколу № 12 до Конвенції на ненадання їм дозволу на участь у місцевих виборах за місцем їхнього фактичного проживання, де вони були зареєстровані як внутрішньо переміщені особи (далі – ВПО)."
+        }
+    },
+    {
+        "id": 20,
+        "translation": {
+            "en": "THE FACTS",
+            "uk": "ФАКТИ"
+        }
+    },
+    {
+        "id": 21,
+        "translation": {
+            "en": "2.  Details about the applicants are indicated in the appended table. They live in Kyiv. Ms Terekhova, who was granted legal aid, was represented by Ms V. P. Lebid and Mr M. O. Tarakhkalo, lawyers from the Ukrainian Helsinki Human Rights Union, Kyiv. The other three applicants were represented by Mr S.A. Zayets, a lawyer from the Regional Centre for Human Rights, Kyiv, and Mr. J. Evans and Mr K. Levine, lawyers from the European Human Rights Advocacy Centre, London.",
+            "uk": "2.  Відомості щодо заявниць наведені в таблиці у додатку. Вони проживають у м. Київ. Пані Терехову, якій була надана правова допомога, представляли пані В.П. Лебідь і пан М.О. Тарахкало, юристи Української Гельсінської спілки з прав людини, м. Київ. Інших трьох заявниць представляли пан С.А. Заєць, юрист Регіонального центру прав людини, м. Київ, та пан Дж. Еванс і пан К. Левайн, юристи Європейського центру захисту прав людини, м. Лондон."
+        }
+    },
+    {
+        "id": 22,
+        "translation": {
+            "en": "3.  The Government were represented by their Agent, Mr I. Lishchyna, from the Ministry of Justice.",
+            "uk": "3.  Уряд представляв його Уповноважений, пан І. Ліщина з Міністерства юстиції."
+        }
+    },
+    {
+        "id": 23,
+        "translation": {
+            "en": "4.  The facts of the case, as submitted by the parties, may be summarised as follows.",
+            "uk": "4.  Факти справи, надані сторонами, можуть бути узагальнені таким чином."
+        }
+    },
+    {
+        "id": 24,
+        "translation": {
+            "en": "6.  They all lodged applications to be included in the lists of voters who would participate in local elections in Kyiv scheduled to take place in October-November 2015, but their applications were dismissed on the grounds that their respective registered places of residence were not in Kyiv but elsewhere.",
+            "uk": "6.  Усі вони подали заяви про включення їх до списків виборців, які мали брати участь у місцевих виборах у м. Київ, призначених на жовтень-листопад 2015 року, проте у задоволенні їхніх заяв було відмовлено, оскільки їхнім зареєстрованим місцем проживання було не м. Київ, а інше місто."
+        }
+    },
+    {
+        "id": 25,
+        "translation": {
+            "en": "7.  On 25 October 2015 one of the applicants, Ms Terekhova, lodged a complaint with the Central Electoral Commission. She alleged, inter alia, that her right to vote had been violated, given the fact that, because she was an IDP, she had not been allowed to participate in local elections.",
+            "uk": "7.  25 жовтня 2015 року одна із заявниць, пані Терехова, подала заяву до Центральної виборчої комісії. Вона стверджувала, inter alia, про порушення її права голосу у зв’язку з тим, що їй як ВПО не дозволили взяти участь у місцевих виборах."
+        }
+    },
+    {
+        "id": 26,
+        "translation": {
+            "en": "9.  All four applicants lodged administrative claims with their respective local courts in Kyiv seeking to oblige the respective electoral commissions to include them in the voters’ lists for the local elections. On various dates the first-instance courts dismissed the applicants’ claims, and those decisions were upheld on appeal by the Kyiv City Court of Appeal (for all relevant dates and names of the relevant institutions see the appended table).",
+            "uk": "9.  Усі четверо заявниць звернулися до відповідних районних судів міста Києва з адміністративними позовами, вимагаючи зобов’язати відповідні виборчі комісії включити їх до списків виборців на місцевих виборах. У різні дати суди першої інстанції відмовили у задоволенні позовів заявниць, а Київський апеляційний адміністративний суд за результатами розгляду апеляційних скарг залишив ці постанови без змін (усі відповідні дати та назви відповідних установ див. у таблиці в додатку)."
+        }
+    },
+    {
+        "id": 27,
+        "translation": {
+            "en": "RELEVANT LEGAL FRAMEWORK AND PRACTICE",
+            "uk": "ВІДПОВІДНІ НОРМАТИВНО-ПРАВОВА БАЗА та ПРАКТИКА"
+        }
+    },
+    {
+        "id": 28,
+        "translation": {
+            "en": "Domestic law and practice",
+            "uk": "національне законодавство та практика"
+        }
+    },
+    {
+        "id": 29,
+        "translation": {
+            "en": "Constitution of Ukraine, 1996",
+            "uk": "Конституція України 1996 року"
+        }
+    },
+    {
+        "id": 30,
+        "translation": {
+            "en": "13.  Under Article 70 the right to vote is conferred on all citizens of Ukraine who have attained the age of eighteen, with the exception of those who have been declared legally incompetent by a court.",
+            "uk": "13.  Згідно зі статтею 70 право голосу мають всі громадяни України, які досягли вісімнадцяти років, за винятком визнаних судом недієздатними."
+        }
+    },
+    {
+        "id": 31,
+        "translation": {
+            "en": "Local Elections Act, 2015 (in force until 1 January 2020)",
+            "uk": "Закон України «Про місцеві вибори» (був чинним до 01 січня 2020 року)"
+        }
+    },
+    {
+        "id": 32,
+        "translation": {
+            "en": "14.  Section 3 of the Act provided that whether a citizen “belongs” to a particular territorial community and whether that citizen had his or her residence within that community was determined by whether or not he or she had his or her registered place of residence there. Under the same Article, the identity of a voter and his or her citizenship and registered place of residence were confirmed by information in his or her national passport.",
+            "uk": "14.  Стаття 3 Закону передбачала, що «належність» громадянина до конкретної територіальної громади та проживання його у межах цієї громади визначалися його зареєстрованим місцем проживання там. Згідно із цією ж статтею особу виборця, його громадянство та зареєстроване місце проживання підтверджували відомості, зазначені в його національному паспорті."
+        }
+    },
+    {
+        "id": 33,
+        "translation": {
+            "en": "15.  Paragraph 3 of Section 30 of the Act provided insofar as relevant as follows:",
+            "uk": "15.  Відповідні положення частини третьої статті 30 Закону передбачають:"
+        }
+    },
+    {
+        "id": 34,
+        "translation": {
+            "en": "“3. A voter who is outside the settlement in which he or she resides on the day of the election shall not participate in the local elections...",
+            "uk": "«3. Виборець, який на день виборів перебуває за межами населеного пункту, в якому він проживає, участі у місцевих виборах не бере..."
+        }
+    },
+    {
+        "id": 35,
+        "translation": {
+            "en": "The provisions of paragraph 3 of Section 7 of the On the State Register of Voters Act do not apply in local elections.”",
+            "uk": "Положення частини третьої статті 7 Закону України «Про Державний реєстр виборців» не застосовується на місцевих виборах»."
+        }
+    },
+    {
+        "id": 36,
+        "translation": {
+            "en": "State Register of Voters Act, 2007",
+            "uk": "Закон України «Про Державний реєстр виборців» 2007 року"
+        }
+    },
+    {
+        "id": 37,
+        "translation": {
+            "en": "16.  Under paragraph 3 of section 7 the place of voting of a voter can be temporarily changed without a change being made to his or her electoral address.",
+            "uk": "16.  Відповідно до частини третьої статті 7 місце голосування виборця може бути тимчасово змінено без зміни його виборчої адреси."
+        }
+    },
+    {
+        "id": 38,
+        "translation": {
+            "en": "17.  Under paragraph 2 of section 8 of the Act the electoral address of a voter is determined by his registered place of residence and the address of the voter’s home, in accordance with the Freedom of Movement and Free Choice of Residence in Ukraine Act.",
+            "uk": "17.  Згідно з частиною другою статті 8 Закону виборча адреса виборця визначається його зареєстрованим місцем проживання та адресою житла виборця відповідно до Закону України «Про свободу пересування та вільний вибір місця проживання в Україні»."
+        }
+    },
+    {
+        "id": 39,
+        "translation": {
+            "en": "18.  With adoption of the Electoral Code in 2019 (see paragraph  below) section 7 of the Act was supplemented by a new paragraph 4, similar to that which was previously contained in the Local Elections Act (see paragraph  above) which stipulates that a temporary change of the place of voting does not apply to local elections.",
+            "uk": "18.  Після прийняття Виборчого кодексу України у 2019 році (див. пункт 28) стаття 7 Закону була доповнена новою частиною четвертою, подібною тій, яка раніше містилася у Законі України «Про місцеві вибори» (див. пункт 15), і передбачає, що на місцевих виборах тимчасова зміна місця голосування не застосовується."
+        }
+    },
+    {
+        "id": 40,
+        "translation": {
+            "en": "19.  Furthermore, section 8 of the Act was supplemented by a new paragraph 3 which foresees:",
+            "uk": "19.  До того ж статтю 8 Закону доповнили новою частиною третьою, яка передбачає:"
+        }
+    },
+    {
+        "id": 41,
+        "translation": {
+            "en": "“At the request of a voter, the body which maintains the Register may determine a different electoral address than the one determined in accordance with paragraph 2 of this section.”",
+            "uk": "«За зверненням виборця орган ведення Реєстру може визначити іншу виборчу адресу виборця, ніж визначену відповідно до частини другої цієї статті.»"
+        }
+    },
+    {
+        "id": 42,
+        "translation": {
+            "en": "Freedom of Movement and Free Choice of Residence in Ukraine Act, 2004",
+            "uk": "Закон України «Про свободу пересування та вільний вибір місця проживання в Україні» 2004 року"
+        }
+    },
+    {
+        "id": 43,
+        "translation": {
+            "en": "20.  Under section 6 of the Act, any person who moves to a new place of residence must register it as such by submitting documents to the relevant registration authority. No one may have more than one official residence; if a person has several de facto places of residence, he or she must choose which of those he or she wishes to register as his or her official address.",
+            "uk": "20.  Відповідно до статті 6 Закону будь-яка особа, яка переїжджає на нове місце проживання, зобов’язана зареєструвати його шляхом подання документів до відповідного органу реєстрації. Ніхто не може мати більше одного офіційно зареєстрованого місця проживання. Якщо особа de facto проживає у декількох місцях, вона повинна зареєструвати своє місце проживання за однією з цих адрес за власним вибором."
+        }
+    },
+    {
+        "id": 44,
+        "translation": {
+            "en": "Local Self-Government Act, 1997",
+            "uk": "Закон України «Про місцеве самоврядування в України» \n1997 року"
+        }
+    },
+    {
+        "id": 45,
+        "translation": {
+            "en": "21.  Under section 1 of the Act a “territorial community” is defined as (i) inhabitants united by permanent residence within the boundaries of a village, settlement or city (which must be independent administrative-territorial units), or (ii) a voluntary association of inhabitants of several villages that share a single administrative centre.",
+            "uk": "21.  Відповідно до статті 1 Закону «територіальна громада» визначається як (i) жителі, об’єднані постійним проживанням у межах села, селища або міста, (які мають бути самостійними адміністративно-територіальними одиницями), або (ii) добровільне об’єднання жителів кількох сіл, що мають єдиний адміністративний центр."
+        }
+    },
+    {
+        "id": 46,
+        "translation": {
+            "en": "Ensuring the Rights and Freedoms of Internally Displaced Persons Act, 2014 (“the IDP Act”)",
+            "uk": "Закон України «Про забезпечення прав і свобод внутрішньо переміщених осіб» 2014 року (далі – Закон «Про ВПО»)"
+        }
+    },
+    {
+        "id": 47,
+        "translation": {
+            "en": "22.  Section 1 of the Act defines an “internally displaced person” as a person with permanent residence in Ukraine who has been expelled or forced to leave his or her place of residence as a result of – or in order to avoid the negative consequences of – armed conflict, temporary occupation, widespread violence, human rights violations or emergencies of a natural or man-made nature.",
+            "uk": "22.  Стаття 1 Закону визначає «внутрішньо переміщену особу» як особу з постійним місцем проживання в Україні, яку змусили залишити або покинути своє місце проживання у результаті або з метою уникнення негативних наслідків збройного конфлікту, тимчасової окупації, повсюдних проявів насильства, порушень прав людини та надзвичайних ситуацій природного чи техногенного характеру."
+        }
+    },
+    {
+        "id": 48,
+        "translation": {
+            "en": "23.  Under section 5 of the Act, an IDP certificate certifies the place of residence of its holder for the period of existence of the grounds specified in section 1 of the Act.",
+            "uk": "23.  Відповідно до статті 5 Закону довідка про взяття на облік ВПО засвідчує місце проживання її власника на період наявності підстав, зазначених у статті 1 Закону."
+        }
+    },
+    {
+        "id": 49,
+        "translation": {
+            "en": "24.  Section 8 of the Act guarantees to IDPs the right to vote. In its original wording of 2014, it read as follows:",
+            "uk": "24.  Стаття 8 Закону гарантує ВПО право голосу. У початковій редакції 2014 року вона передбачала:"
+        }
+    },
+    {
+        "id": 50,
+        "translation": {
+            "en": "“An internally displaced person shall exercise his or her right to vote in elections of the President of Ukraine, people’s deputies of Ukraine, local elections and referenda by changing the place of voting without changing the electoral address in accordance with paragraph 3 of section 7 of the State Register of Voters Act.”",
+            "uk": "«Внутрішньо переміщена особа реалізує своє право голосу на виборах Президента України, народних депутатів України, місцевих виборах та референдумах шляхом зміни місця голосування без зміни виборчої адреси згідно з частиною третьою статті 7 Закону України «Про Державний реєстр виборців»»."
+        }
+    },
+    {
+        "id": 51,
+        "translation": {
+            "en": "25.  With adoption of the Electoral Code in 2019 (see paragraph  below) the reference to paragraph 3 of section 7 of the State Register of Voters Act was replaced with the general reference “in accordance with the procedure established by law.”",
+            "uk": "25.  З прийняттям Виборчого кодексу України у 2019 році (див. пункт 28) посилання на частину третю статті 7 Закону України «Про Державний реєстр виборців» було замінено загальним формулюванням «у порядку, встановленому законом»."
+        }
+    },
+    {
+        "id": 52,
+        "translation": {
+            "en": "Ensuring the Rights and Freedoms of Citizens and the Legal Regime in respect of the Temporarily Occupied Territories within Ukraine Act, 2014",
+            "uk": "Закон України «Про забезпечення прав і свобод громадян та правовий режим на тимчасово окупованій території України» 2014 року"
+        }
+    },
+    {
+        "id": 53,
+        "translation": {
+            "en": "26.  Paragraph 5 of section 8 of this Act stipulates that no local or regional elections or referenda should be conducted within the temporarily occupied territories.",
+            "uk": "26.  Частиною п’ятою статті 8 цього Закону визначено, що на тимчасово окупованих територіях місцеві або регіональні вибори чи референдуми не проводяться."
+        }
+    },
+    {
+        "id": 54,
+        "translation": {
+            "en": "Decision of the Supreme Court of 25 July 2018 in case no. K/9901/17330/18",
+            "uk": "Постанова Верховного Суду від 25.07.2018 року у справі № K/9901/17330/18"
+        }
+    },
+    {
+        "id": 55,
+        "translation": {
+            "en": "Electoral Code of Ukraine, 2019",
+            "uk": "Виборчий кодекс України 2019 року"
+        }
+    },
+    {
+        "id": 56,
+        "translation": {
+            "en": "28.  On 19 December 2019 the Ukrainian Parliament adopted the Electoral Code (came into force on 1 January 2020), which introduced amendments to some of the legal instruments cited above (see paragraphs ,  and  above) and allowed IDPs to participate in local elections without changing their registered place of residence in their passports.",
+            "uk": "28.  19 грудня 2019 року Верховна Рада України прийняла Виборчий кодекс України (набрав чинності 01 січня 2020 року), яким було внесено зміни до певних згаданих законодавчих актів (див. пункти 17, 18 і 25) та дозволив ВПО брати участь у місцевих виборах без зміни зареєстрованого місця проживання в їхніх паспортах."
+        }
+    },
+    {
+        "id": 57,
+        "translation": {
+            "en": "International documents",
+            "uk": "міжнародні документи"
+        }
+    },
+    {
+        "id": 58,
+        "translation": {
+            "en": "Recommendation 419 (2018) by the Congress of Local and Regional Authorities of the Council of Europe, entitled “Voting rights at the local level as an element of the successful long-term integration of migrants and IDPs in Europe’s municipalities and regions”",
+            "uk": "Рекомендація 419 (2018) Конгресу місцевих і регіональних влад Ради Європи під назвою «Права голосу на місцевому рівні як елемент успішної довготермінової інтеграції мігрантів та внутрішньо переміщених осіб у муніципалітети та регіони Європи»"
+        }
+    },
+    {
+        "id": 59,
+        "translation": {
+            "en": "29.  The Recommendation reads, in so far as relevant, as follows:",
+            "uk": "29.  У відповідній частині Рекомендації зазначено:"
+        }
+    },
+    {
+        "id": 60,
+        "translation": {
+            "en": "2. Even though IDPs are frequently disenfranchised because they face legal and practical challenges with regard to voting rights, international standards and best practices promote the enforcement of their right to political participation. In particular, the existence of a “genuine link” between IDPs and the place where they cast a ballot at local level is of critical importance with respect to voting rights as a successful element of their integration.",
+            "uk": "2. Хоча ВПО часто позбавлені права голосу, оскільки стикаються з правовими та практичними проблемами з реалізацією виборчих прав, міжнародні стандарти та кращі практики сприяють забезпеченню їхніх прав на політичну участь. Зокрема, існування «справжнього зв’язку» між ВПО та місцем їхнього голосування на місцевому рівні має вирішальне значення для реалізації виборчих прав як успішного елемента їхньої інтеграції."
+        }
+    },
+    {
+        "id": 61,
+        "translation": {
+            "en": "4. The Congress recognises the responsibility municipalities and regions bear with regard to promoting the integration, participation and non-discrimination of IDPs and encouraging good relations between them and local residents.",
+            "uk": "4. Конгрес визнає, що муніципалітети та регіони несуть відповідальність за сприяння інтеграції, участі та недискримінації ВПО та заохочення добрих відносин між ними та місцевими жителями."
+        }
+    },
+    {
+        "id": 62,
+        "translation": {
+            "en": "6. Against this background, the Congress has specifically examined the international standards and best practices with regard to voting rights at local level of IDPs. As a consequence, it recommends that the Committee of Ministers invite the governments of member States to ensure that:",
+            "uk": "6. З огляду на це Конгрес спеціально дослідив міжнародні стандарти та кращі практики щодо виборчих прав ВПО на місцевому рівні. У зв’язку з цим він рекомендує Комітету міністрів запропонувати урядам держав-членів забезпечити, щоб:"
+        }
+    },
+    {
+        "id": 63,
+        "translation": {
+            "en": "- residence requirements do not prevent IDPs from exercising their voting rights, in particular that procedures for changing residence are appropriate so that IDPs can easily move their registration between their constituency of origin and their current constituency (and vice versa) without undue obstacles or delays;",
+            "uk": "- вимоги стосовно місця проживання не заважали ВПО реалізовувати їхні виборчі права, зокрема, щоб процедури зміни місця проживання підходили для того, аби ВПО могли легко змінити свою реєстрацію у виборчому окрузі їхнього місця походження на виборчий округ їхнього поточного місця проживання (і навпаки) без невиправданих перешкод або затримок;"
+        }
+    },
+    {
+        "id": 64,
+        "translation": {
+            "en": "- legal provisions do not require IDPs to choose between expressing their voting rights and being eligible for IDP status ...”",
+            "uk": "- норми законодавства не вимагали від ВПО вибирати між реалізацією їхніх виборчих прав і збереженням статусу ВПО...»"
+        }
+    },
+    {
+        "id": 65,
+        "translation": {
+            "en": "Recommendation Rec(2006)6 of the Committee of Ministers to member [S]tates on internally displaced persons",
+            "uk": "Рекомендація Rec(2006)6 Комітету міністрів державам-членам щодо внутрішньо переміщених осіб"
+        }
+    },
+    {
+        "id": 66,
+        "translation": {
+            "en": "30.  This recommendation, adopted by the Committee of Ministers on 5 April 2006, reads, in so far as relevant, as follows:",
+            "uk": "30.  У відповідних положеннях цієї рекомендації, ухваленої Комітетом міністрів 05 квітня 2006 року, зазначено:"
+        }
+    },
+    {
+        "id": 67,
+        "translation": {
+            "en": "“The Committee of Ministers ...",
+            "uk": "«Комітет міністрів ..."
+        }
+    },
+    {
+        "id": 68,
+        "translation": {
+            "en": "Considering that a large number of citizens of the Council of Europe member [S]tates cannot fully benefit from their human rights as a consequence of the fact that they have been forced or obliged to leave their homes or places of habitual residence, in particular as a result of or in order to avoid the effects of armed conflict, situations of generalised violence, violations of human rights or natural or man-made disasters, without crossing an internationally recognised state border;",
+            "uk": "Враховуючи, що велика кількість громадян держав-членів Ради Європи не може повною мірою скористатися своїми правами, оскільки вони були змушені залишити своє житло або місце постійного проживання, зокрема, у результаті або для уникнення наслідків збройного конфлікту, повсюдних проявів насильства, порушень прав людини чи природних або техногенних катастроф без перетину міжнародно визнаного державного кордону;"
+        }
+    },
+    {
+        "id": 69,
+        "translation": {
+            "en": "Recognising that internally displaced persons have specific needs by virtue of their displacement;",
+            "uk": "Визнаючи, що внутрішньо переміщені особи мають особливі потреби у зв’язку з їхнім переміщенням;"
+        }
+    },
+    {
+        "id": 70,
+        "translation": {
+            "en": "Recommends that governments of member [S]tates be guided, when formulating their internal legislation and practice, and when faced with internal displacement, by the following principles:",
+            "uk": "Рекомендує урядам держав-членів під час розробки їхнього національного законодавства та практики, а також у ситуаціях внутрішнього переміщення керуватися такими принципами:"
+        }
+    },
+    {
+        "id": 71,
+        "translation": {
+            "en": "2. Internally displaced persons shall not be discriminated against because of their displacement. Member states should take adequate and effective measures to ensure equal treatment among internally displaced persons and between them and other citizens. This may entail the obligation to consider specific treatment tailored to meet internally displaced persons’ needs;",
+            "uk": "2. Внутрішньо переміщені особи не повинні зазнавати дискримінації у зв’язку з їхнім переміщенням. Держави-члени повинні вжити належних і ефективних заходів для забезпечення рівного ставлення до всіх внутрішньо переміщених осіб, яке б не відрізнялося від ставлення до інших громадян. У результаті може виникнути зобов’язання розглянути питання особливого ставлення до внутрішньо переміщених осіб з огляду на їхні потреби;"
+        }
+    },
+    {
+        "id": 72,
+        "translation": {
+            "en": "9. Member states should take appropriate legal and practical measures to enable internally displaced persons to effectively exercise their right to vote in national, regional or local elections and to ensure that this right is not infringed by obstacles of a practical nature...”",
+            "uk": "9. Держави-члени повинні вжити належних правових і практичних заходів, щоб дати внутрішньо переміщеним особам можливість повноцінно реалізовувати своє право голосувати на національних, регіональних або місцевих виборах, а також гарантувати відсутність перешкод у реалізації цього права на практиці…»"
+        }
+    },
+    {
+        "id": 73,
+        "translation": {
+            "en": "Code of Good Practice in Electoral Matters",
+            "uk": "Кодекс належної практики у виборчих справах"
+        }
+    },
+    {
+        "id": 74,
+        "translation": {
+            "en": "31.  This document, adopted by the European Commission for Democracy through Law (Venice Commission) at its 51st Plenary Session (5-6 July 2002) and submitted to the Parliamentary Assembly of the Council of Europe on 6 November 2002, includes the Commission’s guidelines as to the residence requirement in respect of voting and standing in elections:",
+            "uk": "31.  Цей документ, затверджений Європейською комісією за демократію через право (Венеціанська комісія) на її 51-й пленарній сесії (05 – 06 липня 2002 року) і поданий на розгляд Парламентській асамблеї Ради Європи 06 листопада 2002 року, містить керівні принципи Комісії щодо вимоги про місце проживання у зв’язку з реалізацією права обирати і бути обраним:"
+        }
+    },
+    {
+        "id": 75,
+        "translation": {
+            "en": "“c. Residence:",
+            "uk": "«c. Місце проживання:"
+        }
+    },
+    {
+        "id": 76,
+        "translation": {
+            "en": "i. a residence requirement may be imposed;",
+            "uk": "i. може бути встановлена вимога щодо місця проживання;"
+        }
+    },
+    {
+        "id": 77,
+        "translation": {
+            "en": "ii. residence in this case means habitual residence;",
+            "uk": "ii. місце проживання у цьому випадку означає місце постійного проживання;"
+        }
+    },
+    {
+        "id": 78,
+        "translation": {
+            "en": "iii. a length of residence requirement may be imposed on nationals solely for local or regional elections;",
+            "uk": "iii. період проживання (ценз осілості) щодо громадян може встановлюватися виключно стосовно участі в місцевих або регіональних виборах;"
+        }
+    },
+    {
+        "id": 79,
+        "translation": {
+            "en": "iv. the requisite period of residence should not exceed six months; a longer period may be required only to protect national minorities; ...”",
+            "uk": "iv. необхідна тривалість проживання не має перевищувати шести місяців; більш тривалий термін може встановлюватися винятково з метою захисту національних меншин; ...»"
+        }
+    },
+    {
+        "id": 80,
+        "translation": {
+            "en": "32.  The explanatory report to the Code further elaborates:",
+            "uk": "32.  У пояснювальній доповіді до Кодексу додатково уточнюється:"
+        }
+    },
+    {
+        "id": 81,
+        "translation": {
+            "en": "The freedom of movement of citizens within the country, together with their right to return at any time is one of the fundamental rights necessary for truly democratic elections. If persons, in exceptional cases, have been displaced against their will, they should, provisionally, have the possibility of being considered as resident at their former place of residence.”",
+            "uk": "Свобода пересування громадян в межах усієї країни, а також їхнє право будь-коли до неї повернутися – одне з основоположних прав, необхідних для справді демократичних виборів. У виняткових випадках, коли особи були переміщені проти власної волі, вони повинні тимчасово мати можливість вважатися такими, що проживають за місцем свого попереднього проживання.»"
+        }
+    },
+    {
+        "id": 82,
+        "translation": {
+            "en": "THE LAW",
+            "uk": "Право"
+        }
+    },
+    {
+        "id": 83,
+        "translation": {
+            "en": "JOINDER OF THE APPLICATIONS",
+            "uk": "Об’єднання заяв"
+        }
+    },
+    {
+        "id": 84,
+        "translation": {
+            "en": "33.  Having regard to the similar subject matter of the applications, the Court finds it appropriate to examine them jointly in a single judgment.",
+            "uk": "33.  Беручи до уваги схожість предмету заяв, Суд вважає за доцільне розглянути їх спільно в одному рішенні."
+        }
+    },
+    {
+        "id": 85,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLE 1 OF protocol No. 12 to THE CONVENTION",
+            "uk": "стверджуване порушення статті 1 протоколу № 12 до конвенції"
+        }
+    },
+    {
+        "id": 86,
+        "translation": {
+            "en": "34.  The applicants complained under Article 1 of Protocol No. 12 to the Convention that they had not been allowed to participate in local elections in Kyiv, where they were registered as IDPs. That provision reads as follows:",
+            "uk": "34.  Заявниці скаржилися за статтею 1 Протоколу № 12 до Конвенції на ненадання їм дозволу на участь в місцевих виборах у м. Київ, де вони були зареєстровані як ВПО. Це положення передбачає:"
+        }
+    },
+    {
+        "id": 87,
+        "translation": {
+            "en": "“1.  The enjoyment of any right set forth by law shall be secured without discrimination on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.",
+            "uk": "«1.  Здійснення будь-якого передбаченого законом права забезпечується без дискримінації за будь-якою ознакою, наприклад за ознакою статі, раси, кольору шкіри, мови, релігії, політичних чи інших переконань, національного чи соціального походження, належності до національної меншини, майнового стану, народження або за іншою ознакою."
+        }
+    },
+    {
+        "id": 88,
+        "translation": {
+            "en": "2.  No one shall be discriminated against by any public authority on any ground such as those mentioned in paragraph 1.”",
+            "uk": "2.  Ніхто не може бути дискримінований будь-яким органом державної влади за будь-якою ознакою, наприклад за тими, які зазначено в пункті 1.»"
+        }
+    },
+    {
+        "id": 89,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 90,
+        "translation": {
+            "en": "35.  The Government did not object to the admissibility of the applications.",
+            "uk": "35.  Уряд не заперечив проти прийнятності заяв."
+        }
+    },
+    {
+        "id": 91,
+        "translation": {
+            "en": "36.  The Court notes that the applications are neither manifestly illfounded nor inadmissible on any other grounds listed in Article 35 of the Convention. They must therefore be declared admissible.",
+            "uk": "36.  Суд зазначає, що ці заяви не є ні явно необґрунтованими, ні неприйнятними з будь-яких інших підстав, перелічених у статті 35 Конвенції. Тому вони мають бути визнані прийнятними."
+        }
+    },
+    {
+        "id": 92,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 93,
+        "translation": {
+            "en": "The applicants’ submissions",
+            "uk": "Доводи заявниць"
+        }
+    },
+    {
+        "id": 94,
+        "translation": {
+            "en": "38.  The applicants submitted that they could not be compared to other people who did not reside at their own registered places of residence, as they had been forced to leave their homes and could not go back to them. As no elections were held at their registered places of residence, they could not participate in local elections at all, which also distinguished them from those who could return to their registered places of residence and vote in local elections.",
+            "uk": "38.  Заявниці доводили, що їх не можна було порівнювати з іншими громадянами, які не проживали за зареєстрованим місцем проживання, оскільки заявниці вимушено покинути своє житло і не могли туди повернутися. Оскільки вибори за їхнім зареєстрованим місцем проживання не проводилися, вони взагалі не змогли взяти участь у місцевих виборах, і це також відрізняло їх від тих, хто міг повернутися до зареєстрованого місця проживання та проголосувати на місцевих виборах."
+        }
+    },
+    {
+        "id": 95,
+        "translation": {
+            "en": "40.  The applicants considered that they belonged to a uniquely disadvantaged and vulnerable group that required the Government to take particular measures in order to ensure their equal participation in local elections. Therefore, they considered that the difference in treatment to which they were subjected had no reasonable and objective justification.",
+            "uk": "40.  Заявниці вважали, що вони належали до соціально незахищеної та вразливої групи, і це вимагало від Уряду вжиття конкретних заходів для забезпечення їхньої рівноправної участі у місцевих виборах. Тому вони вважали, що різниця у ставленні до них не мала розумного та об’єктивного обґрунтування."
+        }
+    },
+    {
+        "id": 96,
+        "translation": {
+            "en": "The Government’s submissions",
+            "uk": "Доводи Уряду"
+        }
+    },
+    {
+        "id": 97,
+        "translation": {
+            "en": "The Court’s assessment",
+            "uk": "Оцінка Суду"
+        }
+    },
+    {
+        "id": 98,
+        "translation": {
+            "en": "General principles",
+            "uk": "Загальні принципи"
+        }
+    },
+    {
+        "id": 99,
+        "translation": {
+            "en": "42.  The Court reiterates that whereas Article 14 of the Convention prohibits discrimination in the enjoyment of “the rights and freedoms set forth in [the] Convention”, Article 1 of Protocol No. 12 extends the scope of protection to “any right set forth by law”. It thus introduces a general prohibition on discrimination (see Sejdić and Finci v. Bosnia and Herzegovina [GC], nos. 27996/06 and 34836/06, § 53, ECHR 2009).",
+            "uk": "42.  Суд повторює, що тоді як стаття 14 Конвенції забороняє дискримінацію під час користування «правами і свободами, визнаними у [цій] Конвенції», стаття 1 Протоколу № 12 до Конвенції розширює сферу захисту на «будь-яке передбачене законом право». Отже, вона запроваджує загальну заборону дискримінації (див. рішення у справі «Сейдіч та Фінци проти Боснії і Герцеговини» [ВП] (Sejdić and Finci v. Bosnia and Herzegovina) [GC], заяви № 27996/06 та № 34836/06, пункт 53, ЄСПЛ 2009)."
+        }
+    },
+    {
+        "id": 100,
+        "translation": {
+            "en": "Application of those principles to the present case",
+            "uk": "Застосування зазначених принципів у цій справі"
+        }
+    },
+    {
+        "id": 101,
+        "translation": {
+            "en": "46.  The Court notes that it is not disputed that the applicants had a general right set forth by the Constitution (namely the right to vote), and that they met the general conditions for the exercise of that constitutional right (see paragraph  above). It sees no reason to hold otherwise.",
+            "uk": "46.  Суд вказує на відсутність заперечень, що заявниці мали загальне право, передбачене Конституцією України (а саме, право голосу), і відповідали загальним умовам для реалізації цього конституційного права (див. пункт 13). Суд не вбачає підстав вважати інакше."
+        }
+    },
+    {
+        "id": 102,
+        "translation": {
+            "en": "47.  It is not disputed, either, that the applicants were treated in the same way as any other person residing outside their registered place of residence, in so far as the right to vote in local elections was concerned.",
+            "uk": "47.  Крім того, не оскаржується, що під час вирішення питання наявності права голосу на місцевих виборах до заявниць ставилися так само, як і до будь-якої іншої особи, яка не проживала за зареєстрованим місцем проживання."
+        }
+    },
+    {
+        "id": 103,
+        "translation": {
+            "en": "50.  The question is therefore whether the applicants, as IDPs, were in a significantly different situation and therefore required treatment that would put them, de facto, on an equal footing with other citizens of Ukraine in respect of the enjoyment of their right to vote in local elections, as guaranteed by the national law.",
+            "uk": "50.  Отже, питання полягає в тому, чи перебували заявниці, як ВПО, в істотно іншій ситуації, а тому потребували ставлення, яке б de facto урівняло їх з іншими громадянами України у користуванні їхнім правом голосу на місцевих виборах, гарантованого національним законодавством."
+        }
+    },
+    {
+        "id": 104,
+        "translation": {
+            "en": "53.  The Court reiterates that there are numerous ways of organising and running electoral systems and a wealth of differences, inter alia, in historical development, cultural diversity and political thought within Europe which it is for each Contracting State to mould into their own democratic vision (see, Hirst v. the United Kingdom (no. 2) [GC], no. 74025/01, §.61, ECHR 2005IX). Therefore, the States are allowed a wide margin of appreciation in this area.",
+            "uk": "53.  Суд повторює, що існують численні способи організації та управління виборчими системами та безліч відмінностей, inter alia, в історичному розвитку, культурному різноманітті та політичних поглядах в Європі, які кожна Договірна держава має розвинути у своє власне демократичне бачення (див. рішення у справі «Херст проти Сполученого Королівства (№ 2)» [ВП] (Hirst v. the United Kingdom (no. 2)) [GC], заява № 74025/01, пункт 61, ЄСПЛ 2005-IX). Тому держави наділені широкою свободою розсуду у цій сфері."
+        }
+    },
+    {
+        "id": 105,
+        "translation": {
+            "en": "56.  The Court notes that the relevant legislation was later amended to unlink the electoral address from the registered place of residence upon request of a voter, which allowed IDPs to seek inclusion in the voters’ list for local elections (see paragraph  above). These amendments, however, took place more than four years after the impugned events and cannot affect the Court’s conclusions in the present case.",
+            "uk": "56.  Суд зазначає, що згодом до відповідного законодавства були внесені зміни, які дали можливість відокремити виборчу адресу від зареєстрованого місця проживання на вимогу виборця, що дозволило ВПО вимагати включення їх до списку виборців на місцевих виборах (див. пункт 28). Однак ці зміни відбулися більше ніж через чотири роки після оскаржуваних подій і не можуть вплинути на висновки Суду у цій справі."
+        }
+    },
+    {
+        "id": 106,
+        "translation": {
+            "en": "57.  In sum, the Court finds that at the material time, by failing to take into consideration their particular different situation, the authorities discriminated against them in the enjoyment of their right to vote in local elections, guaranteed under domestic law.",
+            "uk": "57.  Загалом Суд вважає, що на момент подій, не врахувавши особливу ситуацію заявниць, органи державної влади піддали їх дискримінації у користуванні ними правом голосу на місцевих виборах, гарантованим національним законодавством."
+        }
+    },
+    {
+        "id": 107,
+        "translation": {
+            "en": "58.  There has accordingly been a violation of Article 1 of Protocol No. 12 to the Convention.",
+            "uk": "58.  Отже, було порушено статтю 1 Протоколу № 12 до Конвенції."
+        }
+    },
+    {
+        "id": 108,
+        "translation": {
+            "en": "APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+            "uk": "ЗАСТОСУВАННЯ СТАТТІ 41 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 109,
+        "translation": {
+            "en": "59.  Article 41 of the Convention provides:",
+            "uk": "59.  Стаття 41 Конвенції передбачає:"
+        }
+    },
+    {
+        "id": 110,
+        "translation": {
+            "en": "“If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”",
+            "uk": "«Якщо Суд визнає факт порушення Конвенції або протоколів до неї і якщо внутрішнє право відповідної Високої Договірної Сторони передбачає лише часткове відшкодування, Суд, у разі необхідності, надає потерпілій стороні справедливу сатисфакцію.»"
+        }
+    },
+    {
+        "id": 111,
+        "translation": {
+            "en": "Damage",
+            "uk": "Шкода"
+        }
+    },
+    {
+        "id": 112,
+        "translation": {
+            "en": "60.  Ms Terekhova claimed 25,000 euros (EUR) in respect of nonpecuniary damage. The other three applicants asked to be awarded, in respect of non-pecuniary damage, whatever amounts that the Court saw fit.",
+            "uk": "60.  Пані Терехова вимагала 25 000 євро в якості відшкодування моральної шкоди. Інші троє заявниць просили присудити їм відшкодування моральної шкоди у сумі, яку Суд вважав би за належне."
+        }
+    },
+    {
+        "id": 113,
+        "translation": {
+            "en": "61.  The Government considered that there had been no violation of the Convention and that these claims had therefore to be rejected.",
+            "uk": "61.  Уряд вважав, що Конвенцію порушено не було, а тому ці вимоги слід було відхилити."
+        }
+    },
+    {
+        "id": 114,
+        "translation": {
+            "en": "62.  The Court considers it equitable to award EUR 4,500 to each of the applicants in respect of non-pecuniary damage, plus any tax that may be chargeable.",
+            "uk": "62.  Суд вважає справедливим присудити кожній заявниці по 4 500 євро в якості відшкодування моральної шкоди та додатково суму будь-якого податку, що може нараховуватися."
+        }
+    },
+    {
+        "id": 115,
+        "translation": {
+            "en": "Costs and expenses",
+            "uk": "Судові та інші витрати"
+        }
+    },
+    {
+        "id": 116,
+        "translation": {
+            "en": "63.  Ms Terekhova claimed EUR 8,700 for the costs and expenses incurred before the Court. She submitted a time sheet from her representatives.",
+            "uk": "63.  Пані Терехова вимагала 8 700 євро в якості компенсації судових та інших витрат, понесених під час провадження у Суді. Вона подала акт виконаний робіт від її представників."
+        }
+    },
+    {
+        "id": 117,
+        "translation": {
+            "en": "64.  The other three applicants claimed, jointly, 5,083.84 pounds sterling (GBP) as well as EUR 683.06 (the equivalent of GBP 590.17), and 75,750 Ukrainian hryvnias (UAH – the equivalent of GBP 2,041.76), related to their legal representation before the Court. They submitted several time sheets from their lawyers and several invoices for translation expenses.",
+            "uk": "64.  Інші троє заявниць вимагали разом 5 083,84 фунтів стерлінгів, а також 683,06 євро (еквівалентно 590,17 фунтів стерлінгів) та 75 750 українських гривень (еквівалентно 2041,76 фунтів стерлінгів) у зв’язку з представництвом їхніх інтересів у Суді. Вони подали декілька актів виконаних робіт від своїх захисників і декілька квитанцій про витрати на переклад."
+        }
+    },
+    {
+        "id": 118,
+        "translation": {
+            "en": "65.  The Government submitted that there was no proof that the amounts claimed had been actually paid to the applicants’ representatives. They also doubted the reasonableness of those expenses.",
+            "uk": "65.  Уряд стверджував про відсутність доказів, що відповідні суми були дійсно сплачені захисникам заявниць. Він також мав сумніви в обґрунтованості цих витрат."
+        }
+    },
+    {
+        "id": 119,
+        "translation": {
+            "en": "Default interest",
+            "uk": "Пеня"
+        }
+    },
+    {
+        "id": 120,
+        "translation": {
+            "en": "67.  The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+            "uk": "67.  Суд вважає за належне призначити пеню на підставі граничної позичкової ставки Європейського центрального банку, до якої має бути додано три відсоткові пункти."
+        }
+    },
+    {
+        "id": 121,
+        "translation": {
+            "en": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+            "uk": "ЗА ЦИХ ПІДСТАВ СУД ОДНОГОЛОСНО"
+        }
+    },
+    {
+        "id": 122,
+        "translation": {
+            "en": "Decides to join the applications;",
+            "uk": "Вирішує об’єднати заяви;"
+        }
+    },
+    {
+        "id": 123,
+        "translation": {
+            "en": "Declares the applications admissible;",
+            "uk": "Оголошує заяви прийнятними;"
+        }
+    },
+    {
+        "id": 124,
+        "translation": {
+            "en": "Holds that there has been a violation of Article 1 of Protocol No. 12 to the Convention;",
+            "uk": "Постановляє, що було порушено статтю 1 Протоколу № 12 до Конвенції;"
+        }
+    },
+    {
+        "id": 125,
+        "translation": {
+            "en": "Holds",
+            "uk": "Постановляє, що:"
+        }
+    },
+    {
+        "id": 126,
+        "translation": {
+            "en": "that the respondent State is to pay to each of the applicants, within three months from the date on which the judgment becomes final, in accordance with Article 44 § 2 of the Convention, EUR 4,500 (four thousand five hundred euros), which is in total EUR 18,000 (eighteen thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement;",
+            "uk": "упродовж трьох місяців з дати, коли це рішення набуде статусу остаточного відповідно до пункту 2 статті 44 Конвенції, держава-відповідач повинна сплатити кожній заявниці по 4 500 (чотири тисячі п’ятсот) євро, що загалом становить 18 000 (вісімнадцять тисяч) євро, та додатково суму будь-якого податку, що може нараховуватися, в якості відшкодування моральної шкоди; ці суми мають бути конвертовані в національну валюту держави-відповідача за курсом на день здійснення платежу;"
+        }
+    },
+    {
+        "id": 127,
+        "translation": {
+            "en": "that from the expiry of the above-mentioned three months until settlement, simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period, plus three percentage points;",
+            "uk": "із закінченням зазначеного тримісячного строку до остаточного розрахунку на зазначені суми нараховуватиметься простий відсоток (simple interest) у розмірі граничної позичкової ставки Європейського центрального банку, яка діятиме в період несплати, до якої має бути додано три відсоткові пункти;"
+        }
+    },
+    {
+        "id": 128,
+        "translation": {
+            "en": "Dismisses, the remainder of the applicants’ claim for just satisfaction.",
+            "uk": "Відхиляє решту вимог заявниць щодо справедливої сатисфакції."
+        }
+    },
+    {
+        "id": 129,
+        "translation": {
+            "en": "Done in English, and notified in writing on 21 October 2021, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+            "uk": "Учинено англійською мовою та повідомлено письмово 21 жовтня 2021 року відповідно до пунктів 2 і 3 Правила 77 Регламенту Суду."
+        }
+    },
+    {
+        "id": 130,
+        "translation": {
+            "en": "{signature_p_2}",
+            "uk": "{signature_p_2}"
+        }
+    },
+    {
+        "id": 131,
+        "translation": {
+            "en": "Victor Soloveytchik \tSíofra O’Leary\n\tRegistrar\tPresident",
+            "uk": "ДОДАТОК"
+        }
+    }
+]

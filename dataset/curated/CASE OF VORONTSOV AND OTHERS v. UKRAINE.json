@@ -1,0 +1,716 @@
+[
+    {
+        "id": 0,
+        "translation": {
+            "en": "FIFTH SECTION",
+            "uk": "П’ЯТА СЕКЦІЯ"
+        }
+    },
+    {
+        "id": 1,
+        "translation": {
+            "en": "CASE OF VORONTSOV AND OTHERS v. UKRAINE",
+            "uk": "СПРАВА «ВОРОНЦОВ ТА ІНШІ ПРОТИ УКРАЇНИ»"
+        }
+    },
+    {
+        "id": 2,
+        "translation": {
+            "en": "(Applications nos. 58925/14 and 4 others)",
+            "uk": "(Заява № 58925/14 та 4 інші заяви)"
+        }
+    },
+    {
+        "id": 3,
+        "translation": {
+            "en": "JUDGMENT",
+            "uk": "РІШЕННЯ"
+        }
+    },
+    {
+        "id": 4,
+        "translation": {
+            "en": "Art 5 § 1 • Lawful arrest or detention • Unjustified detention of Maidan protestors as part of the authorities’ deliberate strategy to put an end to protests",
+            "uk": "П. 1 ст. 5 • Законне затримання або тримання під вартою • Необґрунтоване затримання протестувальників на Майдані як частина цілеспрямованої стратегії органів державної влади щодо придушення акцій протесту"
+        }
+    },
+    {
+        "id": 5,
+        "translation": {
+            "en": "STRASBOURG",
+            "uk": "СТРАСБУРГ"
+        }
+    },
+    {
+        "id": 6,
+        "translation": {
+            "en": "21 January 2021",
+            "uk": "21 січня 2021 року"
+        }
+    },
+    {
+        "id": 7,
+        "translation": {
+            "en": "FINAL",
+            "uk": "ОСТАТОЧНЕ"
+        }
+    },
+    {
+        "id": 8,
+        "translation": {
+            "en": "21/04/2021",
+            "uk": "21.04.2021"
+        }
+    },
+    {
+        "id": 9,
+        "translation": {
+            "en": "This judgment has become final under Article 44 § 2 of the Convention. It may be subject to editorial revision.",
+            "uk": "Це рішення набуло статусу остаточного відповідно до пункту 2 статті 44 Конвенції. Його текст може підлягати редакційним виправленням."
+        }
+    },
+    {
+        "id": 10,
+        "translation": {
+            "en": "In the case of Vorontsov and Others v. Ukraine,",
+            "uk": "У справі «Воронцов та інші проти України»"
+        }
+    },
+    {
+        "id": 11,
+        "translation": {
+            "en": "The European Court of Human Rights (Former Fifth Section), sitting as a Chamber composed of:",
+            "uk": "Європейський суд з прав людини (колишня П’ята секція), засідаючи палатою, до складу якої увійшли:"
+        }
+    },
+    {
+        "id": 12,
+        "translation": {
+            "en": "Síofra O’Leary, President,",
+            "uk": "Сіофра О’Лірі (Síofra O’Leary), Голова,"
+        }
+    },
+    {
+        "id": 13,
+        "translation": {
+            "en": "Yonko Grozev,",
+            "uk": "Йонко Грозєв (Yonko Grozev),"
+        }
+    },
+    {
+        "id": 14,
+        "translation": {
+            "en": "Ganna Yudkivska,",
+            "uk": "Ганна Юдківська (Ganna Yudkivska),"
+        }
+    },
+    {
+        "id": 15,
+        "translation": {
+            "en": "Mārtiņš Mits,",
+            "uk": "Мартіньш Мітс (Mārtiņš Mits),"
+        }
+    },
+    {
+        "id": 16,
+        "translation": {
+            "en": "Gabriele Kucsko-Stadlmayer,",
+            "uk": "Габріеле Куцско-Штадльмайер (Gabriele Kucsko-Stadlmayer),"
+        }
+    },
+    {
+        "id": 17,
+        "translation": {
+            "en": "Lado Chanturia,",
+            "uk": "Ладо Чантурія (Lado Chanturia),"
+        }
+    },
+    {
+        "id": 18,
+        "translation": {
+            "en": "Angelika Nußberger, judges,",
+            "uk": "Ангеліка Нуссбергер (Angelika Nußberger), судді,"
+        }
+    },
+    {
+        "id": 19,
+        "translation": {
+            "en": "and Victor Soloveytchik, Section Registrar,",
+            "uk": "та Віктор Соловейчік (Victor Soloveytchik), Секретар секції,"
+        }
+    },
+    {
+        "id": 20,
+        "translation": {
+            "en": "Having regard to:",
+            "uk": "з огляду на:"
+        }
+    },
+    {
+        "id": 21,
+        "translation": {
+            "en": "the applications against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by five Ukrainian nationals (“the applicants”), whose personal information and other details are set out in the appended table;",
+            "uk": "заяви, подані до Суду проти України на підставі статті 34 Конвенції про захист прав людини і основоположних свобод (далі – Конвенція), п’ятьма громадянами України (далі – заявники), персональні дані та інші деталі щодо яких наведено в таблиці у додатку;"
+        }
+    },
+    {
+        "id": 22,
+        "translation": {
+            "en": "the decision to give notice to the Ukrainian Government (“the Government”) of the applications;",
+            "uk": "рішення повідомити Уряд України (далі – Уряд) про заяви;"
+        }
+    },
+    {
+        "id": 23,
+        "translation": {
+            "en": "the decision to give priority to the applications (Rule 41 of the Rules of Court);",
+            "uk": "рішення надати заявам статус пріоритетних (Правило 41 Регламенту Суду);"
+        }
+    },
+    {
+        "id": 24,
+        "translation": {
+            "en": "the parties’ observations;",
+            "uk": "зауваження, подані Урядом держави-відповідача, та зауваження, подані заявниками у відповідь;"
+        }
+    },
+    {
+        "id": 25,
+        "translation": {
+            "en": "Having deliberated in private on 7 May 2019 and 9 December 2020,",
+            "uk": "після обговорення за зачиненими дверима 07 травня 2019 року та \n09 грудня 2020 року,"
+        }
+    },
+    {
+        "id": 26,
+        "translation": {
+            "en": "Delivers the following judgment, which was adopted on the latter date:",
+            "uk": "постановляє таке рішення, що було ухвалено у той день:"
+        }
+    },
+    {
+        "id": 27,
+        "translation": {
+            "en": "INTRODUCTION",
+            "uk": "ВСТУП"
+        }
+    },
+    {
+        "id": 28,
+        "translation": {
+            "en": "THE FACTS",
+            "uk": "ФАКТИ"
+        }
+    },
+    {
+        "id": 29,
+        "translation": {
+            "en": "2.  The names of the applicants’ representatives are indicated in the appended table.",
+            "uk": "2.  Імена представників заявників наведені в таблиці у додатку."
+        }
+    },
+    {
+        "id": 30,
+        "translation": {
+            "en": "3.  The Government were represented by their Agent, most recently Mr I. Lishchyna, of the Ministry of Justice.",
+            "uk": "3.  Уряд України представляв його Уповноважений, на останніх етапах провадження пан І. Ліщина з Міністерства юстиції."
+        }
+    },
+    {
+        "id": 31,
+        "translation": {
+            "en": "4.  The facts of the case, as submitted by the parties, may be summarised as follows.",
+            "uk": "4.  Факти справи, надані сторонами, можуть бути узагальнені таким чином."
+        }
+    },
+    {
+        "id": 32,
+        "translation": {
+            "en": "THE APPLICANTS’ ARREST",
+            "uk": "ЗАТРИМАННЯ ЗАЯВНИКІВ"
+        }
+    },
+    {
+        "id": 33,
+        "translation": {
+            "en": "5.  On 19 February 2014 a demonstration in Kharkiv in support of the Euromaidan/Maidan protests in central Kyiv was held near a building which housed the MoI Academy for internal troops (“the Academy”). The demonstrators expressed their disagreement with the authorities’ decision to deploy servicemen from the Academy against the ongoing protests in Kyiv. According to the parties, the demonstration was peaceful.",
+            "uk": "5.  19 лютого 2014 року у м. Харків біля будівлі, в якій розміщувалася Академія внутрішніх військ МВС України (далі – Академія МВС України), відбулася демонстрація на підтримку акцій протесту Євромайдану/Майдану в центрі м. Київ. Протестувальники висловлювали свою незгоду з рішенням органів державної влади направити військовослужбовців Академії МВС України для придушення акцій протесту, що тривали у м. Київ. Згідно з твердженнями сторін демонстрація була мирною."
+        }
+    },
+    {
+        "id": 34,
+        "translation": {
+            "en": "6.  Except for Mr A. Romankov (application no. 58981/14), all the applicants took part in that demonstration; Mr D. Sinelnikov’s participation had been limited to filming the demonstration. Mr A. Romankov stated that he had not participated in the demonstration, and had merely been present nearby.",
+            "uk": "6.  За винятком пана А. Романькова (заява № 58981/14), усі заявники брали участь у цій демонстрації; участь пана Д. Сінельникова обмежувалася зйомкою демонстрації. Пан А. Романьков зазначив, що не брав участі в демонстрації, а просто знаходився неподалік."
+        }
+    },
+    {
+        "id": 35,
+        "translation": {
+            "en": "7.  At around 5 p.m. the police used force to disperse the protesters, and arrested a number of them, including the applicants. The applicants stated that a video-recording of some of the events at issue was publicly available.",
+            "uk": "7.  Близько 17 год. 00 хв. працівники міліції застосували силу для розгону протестувальників і затримали низку з них, у тому числі заявників. Заявники зазначили, що відеозапис деяких відповідних подій знаходився у відкритому доступі."
+        }
+    },
+    {
+        "id": 36,
+        "translation": {
+            "en": "10.  According to the applicants, while at the police station the police did not allow lawyers who were requested by their friends to contact them, even though they had the right to legal assistance, inter alia, under Article 268 of the Code of Administrative Offences (see Shmorgunov and Others, cited above, § 200, and paragraph 28 below).",
+            "uk": "10.  За твердженнями заявників під час перебування у відділі міліції працівники міліції не дозволяли захисникам, запрошеним друзями заявників, зв’язатися з ними, хоча вони мали право на правову допомогу, inter alia, відповідно до статті 268 Кодексу України про адміністративні правопорушення (див. згадане рішення у справі «Шморгунов та інші проти України» (Shmorgunov and Others v. Ukraine), пункт 200 та пункт 28 цього рішення)."
+        }
+    },
+    {
+        "id": 37,
+        "translation": {
+            "en": "11.  According to the relevant questioning records established in the context of the criminal proceedings, Mr M. Vorontsov and Mr A. Romankov stated that they had not taken part in the demonstration on 19 February 2014, and had merely been present nearby.",
+            "uk": "11.  Згідно з відповідними протоколами допитів, проведеними у контексті кримінального провадження, пан М. Воронцов і \nпан А. Романьков зазначили, що не брали участі в демонстрації \n19 лютого 2014 року, а просто перебували поблизу."
+        }
+    },
+    {
+        "id": 38,
+        "translation": {
+            "en": "Administrative-offence proceedings against the applicants",
+            "uk": "провадження у справах про адміністративне правопорушення ЩОДО ЗАЯВНИКІВ"
+        }
+    },
+    {
+        "id": 39,
+        "translation": {
+            "en": "13.  The applicants submitted that during those hearings they had found out that they had been accused of having committed an administrative offence (see paragraph 8 above). Most of the applicants denied having committed any offence during the events at issue.",
+            "uk": "13. Заявники стверджували, що лише під час цих засідань вони дізналися про пред’явлення їм обвинувачення у вчиненні адміністративного правопорушення (див. пункт 8). Більшість заявників заперечили вчинення будь-якого правопорушення під час відповідних подій."
+        }
+    },
+    {
+        "id": 40,
+        "translation": {
+            "en": "14.  According to the Government, Mr M. Vorontsov handed Judge V. a written statement, a copy of which reads as follows:",
+            "uk": "14.  Згідно з твердженнями Уряду пан М. Воронцов передав судді В. письмову заяву, в копії якої зазначено:"
+        }
+    },
+    {
+        "id": 41,
+        "translation": {
+            "en": "“For my part, [I] acknowledge the fact that there was disobedience towards police officers, as [I] could not run away from them. [I] acknowledge being guilty of having committed an administrative offence. [I] repent of having committed an administrative offence.”",
+            "uk": "«Зі свого боку, [я] визнаю факт непокори працівникам міліції, оскільки [я] не зміг втекти від них. [Я] визнаю свою вину у вчиненні адміністративного правопорушення. [Я] каюсь у вчиненні адміністративного правопорушення»."
+        }
+    },
+    {
+        "id": 42,
+        "translation": {
+            "en": "15.  In his submissions before the Court, Mr M. Vorontsov, while not contesting presenting the above statement, indicated that, when questioned by Judge V., he had denied committing the administrative offence which he had been charged with.",
+            "uk": "15.  У своїх доводах до Суду пан М. Воронцов, не оскаржуючи подання вказаної заяви, зазначив, що під час допиту суддею В. він заперечив вчинення інкримінованого йому адміністративного правопорушення."
+        }
+    },
+    {
+        "id": 43,
+        "translation": {
+            "en": "16.  The Government stated that on 20 February 2014 lawyers were appointed to represent Mr M. Vorontsov, Mr A. Savchenko, Mr V. Strukov and Mr D. Sinelnikov pro bono under the legal aid scheme, which was available in administrative-offence cases pursuant to, mainly, Section 14 of the Free Legal Assistance Act of 2 June 2011 (see paragraph 28 below). No further details were provided in that regard.",
+            "uk": "16.  Уряд зазначив, що 20 лютого 2014 року для представництва інтересів пана М. Воронцова, пана А. Савченка, пана В. Струкова та пана Д. Сінельникова були призначені захисники у межах надання безоплатної правової допомоги, яка доступна у справах про адміністративні правопорушення головним чином на підставі статті 14 Закону України «Про безоплатну правову допомогу» від 02 червня 2011 року (див. пункт 28). Жодних додаткових відомостей щодо цього наведено не було."
+        }
+    },
+    {
+        "id": 44,
+        "translation": {
+            "en": "17.  In their submissions before the Court, the applicants stated that they had not been able to contact a lawyer of their choice either before or during the hearings and that therefore they had not been assisted by a lawyer during those hearings. Mr M. Vorontsov also stated that he had handed Judge V. a written statement indicating that he had not required legal assistance because he had not been given an opportunity to contact a lawyer of his choice.",
+            "uk": "17.  У своїх доводах до Суду заявники зазначили, що ні до, ні під час засідань не змогли зв’язатися із обраними ними на власний розсуд захисниками, і тому під час цих засідань їм не надавалася допомога захисника. Пан М. Воронцов також зазначив про передання судді В. письмової заяви, в якій він вказав, що не потребував правової допомоги, оскільки йому не була надана можливість зв’язатися із захисником, обраним на власний розсуд."
+        }
+    },
+    {
+        "id": 45,
+        "translation": {
+            "en": "18.  Judges Ch., M., O. and V., by separate decisions dated 20 February 2014, found the applicants and several other individuals guilty of having committed the administrative offence under Article 185 of the Code of Administrative Offences (see paragraph 8 above) and sentenced them to fifteen days of administrative detention.",
+            "uk": "18.  Судді Ч., М., О. та В. окремими постановами від 20 лютого \n2014 року визнали заявників та декількох інших осіб винними у вчиненні адміністративного правопорушення, передбаченого статтею 185 Кодексу України про адміністративні правопорушення (див. пункт 8) і наклали на них стягнення у вигляді адміністративного арешту на строк п’ятнадцять діб."
+        }
+    },
+    {
+        "id": 46,
+        "translation": {
+            "en": "19.  In particular, the judges found that during the demonstration on 19 February 2014 the applicants had been near the Academy and had disobeyed the lawful orders of the police to stop blocking its exit gates. When they had been approached by police officers, some of the applicants “had used obscene language”. The judges stated that the applicants’ guilt was evidenced by the records and reports drawn up by the police (see paragraph 12 above).",
+            "uk": "19.  Зокрема, судді встановили, що під час демонстрації 19 лютого 2014 року заявники знаходилися біля Академії МВС України і не підкорились законним вимогам працівників міліції припинити блокування виїзних воріт. Коли до них звернулися працівники міліції, деякі із заявників «висловлювалися нецензурною лайкою». Судді зазначили, що вина заявників підтверджувалася рапортами та протоколами, складеними працівниками міліції (див. пункт 12)."
+        }
+    },
+    {
+        "id": 47,
+        "translation": {
+            "en": "20.  With regard to Mr M. Vorontsov, it was also noted that he “had used obscene language”, “had tried to run away [from the police]” and “had acknowledged his guilt”.",
+            "uk": "20.  Стосовно пана М. Воронцова було також зазначено, що він «виловлювався нецензурною лайкою», «намагався втекти [від працівників міліції]» і «визнав свою вину»."
+        }
+    },
+    {
+        "id": 48,
+        "translation": {
+            "en": "21.  In the decisions concerning Mr A. Savchenko and Mr V. Strukov, it was stated that lawyers had intervened on their behalf at the hearings.",
+            "uk": "21.  У постановах щодо пана А. Савченка та В. Струкова було зазначено, що у засіданнях від їхнього імені брали участь захисники."
+        }
+    },
+    {
+        "id": 49,
+        "translation": {
+            "en": "Criminal proceedings against police officers",
+            "uk": "КРИМІНАЛЬНі провадження щодо ПРАЦІВНИКІВ міліції"
+        }
+    },
+    {
+        "id": 50,
+        "translation": {
+            "en": "24.  Between 19 February and 6 March 2014 the Kharkiv regional prosecutor’s office initiated several sets of criminal proceedings against police officers in relation to allegations of various abuses against those who had taken part or had been suspected of having taken part in the demonstration on 19 February 2014, including in relation to the alleged obstruction of lawyers’ access to Mr A. Savchenko, Mr V. Strukov and Mr O. Romankov (applications nos. 58969/14, 58976/14 and 58981/14).",
+            "uk": "24.  У період з 19 лютого до 06 березня 2014 року Харківська обласна прокуратура порушила декілька кримінальних проваджень щодо працівників міліції у зв’язку з твердженнями про вчинення ними різних неправомірних дій стосовно осіб, які брали участь або підозрювалися в участі в демонстрації 19 лютого 2014 року, у тому числі стосовно стверджуваного перешкоджання доступу захисників до пана А. Савченка, пана В. Струкова та пана О. Романькова \n(заяви № 58969/14, № 58976/14 та № 58981/14)."
+        }
+    },
+    {
+        "id": 51,
+        "translation": {
+            "en": "25.  The parties provided no further information regarding those proceedings.",
+            "uk": "25.  Сторони не надали додаткових відомостей щодо цих проваджень."
+        }
+    },
+    {
+        "id": 52,
+        "translation": {
+            "en": "Disciplinary proceedings against judges",
+            "uk": "ДИСЦИПЛІНАРНІ ПРОВАДЖЕННЯ ЩОДО СУДДІВ"
+        }
+    },
+    {
+        "id": 53,
+        "translation": {
+            "en": "28.  The relevant disciplinary decisions also contain the following findings:",
+            "uk": "28.  Відповідні рішення про притягнення до дисциплінарної відповідальності також містять такі висновки:"
+        }
+    },
+    {
+        "id": 54,
+        "translation": {
+            "en": "(i)  In violation of the applicable regulations, hearings had been conducted outside of official working hours and during the night, and no transcripts of the hearings had been drawn up.",
+            "uk": "(i)  Всупереч чинним нормам засідання проводились у неробочий час і вночі, а також не вівся протокол судового засідання."
+        }
+    },
+    {
+        "id": 55,
+        "translation": {
+            "en": "(ii)  The judges had failed to ensure that the applicants and other defendants in the administrative-offence cases had been provided with legal assistance, to which they had been entitled pursuant to Article 268 of the Code of Administrative Offences and Section 14 of the Free Legal Assistance Act of 2 June 2011.",
+            "uk": "(ii)  Судді не забезпечили надання заявникам та іншим обвинуваченим у провадженнях у справах про адміністративні правопорушення правової допомоги, на яку вони мали право відповідно до статті 268 Кодексу України про адміністративні правопорушення та статті 14 Закону України «Про безоплатну правову допомогу» від 02 червня 2011 року."
+        }
+    },
+    {
+        "id": 56,
+        "translation": {
+            "en": "(iii)  The judges had failed to establish the circumstances of the cases – it was wholly unclear why they had concluded that the applicants and the other defendants concerned had committed an offence under Article 185 of the Code of Administrative Offences. The following matters had not been sufficiently specified: what the police orders had been, and what aspects of the applicants’ behaviour could be considered “malicious disobedience” within the meaning of that provision.",
+            "uk": "(iii)  Судді не встановили обставини справ – було цілком незрозуміло, чому вони дійшли висновку, що заявники та інші відповідні обвинувачені вчинили правопорушення, передбачене статтею 185 Кодексу України про адміністративні правопорушення. Було недостатньо з’ясовано такі питання: якими були вимоги працівників міліції та які аспекти поведінки заявників могли розглядатися як «злісна непокора» у розумінні цього положення."
+        }
+    },
+    {
+        "id": 57,
+        "translation": {
+            "en": "(iv)  The judges had merely relied on vague and unspecified statements contained in the police reports, and had not assessed the reliability of those statements.",
+            "uk": "(iv)  Судді просто послалися на узагальнені та невизначені твердження з рапортів працівників міліції, і не оцінили достовірність цих тверджень."
+        }
+    },
+    {
+        "id": 58,
+        "translation": {
+            "en": "(v)  Although one of the applicants, Mr M. Vorontsov (application no. 58925/14), had stated that he acknowledged his guilt and that he had tried to run away from the police, Judge V. had failed to examine why he had done so, what the police had ordered him to do, and why his behaviour had been considered “malicious disobedience” under Article 185 of the Code of Administrative Offences.",
+            "uk": "(v)  Хоча один із заявників, пан М. Воронцов (заява № 58925/14), зазначив, що визнав свою вину і намагався втекти від працівників міліції, суддя В. не розглянула, чому він це зробив, що працівники міліції наказали йому зробити, і чому його поведінка вважалася «злісною непокорою» відповідно до статті 185 Кодексу України про адміністративні правопорушення."
+        }
+    },
+    {
+        "id": 59,
+        "translation": {
+            "en": "29.  In so far as the disciplinary proceedings concerned Judge Ch., the HCJ also found that he had failed to address the fact that, prior to being taken to the Chervonozavodskyy District Court, Mr O. Romankov (application no. 58981/14) had been detained by the police for more than three hours in violation of Article 263 of the Code of Administrative Offences.",
+            "uk": "29.  Стосовно дисциплінарного провадження щодо судді Ч. ВРЮ також встановила, що він не розглянув, що перед доставленням до Червонозаводського районного суду пан О. Романьков \n(заява № 58981/14) тримався під вартою працівниками міліції більше трьох годин всупереч статті 263 Кодексу України про адміністративні правопорушення."
+        }
+    },
+    {
+        "id": 60,
+        "translation": {
+            "en": "31.  By various decisions taken between November 2016 and March 2019, the Supreme Court dismissed appeals by the judges concerned against the disciplinary decisions, having upheld the HCJ’s findings in their relevant parts. The disciplinary proceedings against some of the judges in this context are the subject of several applications currently pending before the Court (application no. 40221/18 and several others).",
+            "uk": "31.  У різних постановах, ухвалених в період з листопада 2016 року до березня 2019 року, Верховний Суд України залишив без задоволення апеляційні скарги відповідних суддів на рішення про притягнення їх до дисциплінарної відповідальності, підтвердивши висновки ВРП у відповідних частинах. Дисциплінарні провадження щодо деяких суддів у цьому контексті є предметом декількох заяв, які наразі перебувають на розгляді Суду (заява № 40221/18 та декілька інших заяв)."
+        }
+    },
+    {
+        "id": 61,
+        "translation": {
+            "en": "RELEVANT LEGAL FRAMEWORK AND OTHER MATERIAL",
+            "uk": "ВІДПОВІДНі нормативно-правова база ТА ІНШІ документи"
+        }
+    },
+    {
+        "id": 62,
+        "translation": {
+            "en": "32.  Summaries of and extracts from the domestic legal framework and international reports of relevance for the examination of all applications lodged in relation to the Maidan protests and their aftermath, including the present two applications, are to be found in Shmorgunov and Others (cited above, §§ 194-269).",
+            "uk": "32.  Узагальнення та витяги з національної нормативно-правової бази та міжнародних звітів, що мають значення для розгляду всіх заяв, поданих у зв’язку з акціями протесту на Майдані та їхніми наслідками, у тому числі цих заяв, наведені в згаданому рішенні у справі «Шморгунов та інші проти України» (Shmorgunov and Others v. Ukraine) (пункти 194 – 269)."
+        }
+    },
+    {
+        "id": 63,
+        "translation": {
+            "en": "THE LAW",
+            "uk": "ПРАВО"
+        }
+    },
+    {
+        "id": 64,
+        "translation": {
+            "en": "JOINDER OF THE APPLICATIONS",
+            "uk": "ОБ’ЄДНАННЯ ЗАЯВ"
+        }
+    },
+    {
+        "id": 65,
+        "translation": {
+            "en": "33.  Having regard to the common factual and legal background of the five applications under examination, the Court finds it appropriate to examine them jointly in a single judgment (Rule 42 § 1 of the Rules of Court).",
+            "uk": "33.  Беручи до уваги спільну фактологічну та правову основу п’яти розглянутих заяв, Суд вважає за доцільне розглянути їх спільно в одному рішенні (пункт 1 Правила 42 Регламенту Суду)."
+        }
+    },
+    {
+        "id": 66,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLE 5 OF THE CONVENTION",
+            "uk": "СТВЕРДЖУВАНЕ ПОРУШЕННЯ СТАТТІ 5 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 67,
+        "translation": {
+            "en": "34.  Relying on Article 5 § 1 of the Convention, the applicants complained that their detention for four days between 19 and 22 February 2014 had been arbitrary and unlawful. They also complained, relying on Article 5 § 3 of the Convention, that they had had no opportunity to prepare and challenge arguments against their detention at the hearing of 20 February 2014.",
+            "uk": "34.  Посилаючись на пункт 1 статті 5 Конвенції, заявники скаржились, що тримання їх під вартою протягом чотирьох днів у період з 19 до 22 лютого 2014 року було свавільним і незаконним. Вони також скаржились, посилаючись на пункт 3 статті 5 Конвенції, що вони не мали можливості підготувати та оскаржити аргументи щодо накладення на них адміністративного арешту під час засідання 20 лютого 2014 року."
+        }
+    },
+    {
+        "id": 68,
+        "translation": {
+            "en": "35.  The Court considers that these complaints fall to be examined solely under Article 5§ 1 of the Convention, which reads, insofar as relevant, as follows:",
+            "uk": "35.  Суд вважає, що ці скарги мають розглядатися виключно за пунктом 1 статті 5 Конвенції, відповідна частина якої передбачає:"
+        }
+    },
+    {
+        "id": 69,
+        "translation": {
+            "en": "“1.  Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+            "uk": "«1.  Кожен має право на свободу та особисту недоторканність. Нікого не може бути позбавлено свободи, крім таких випадків і відповідно до процедури, встановленої законом:"
+        }
+    },
+    {
+        "id": 70,
+        "translation": {
+            "en": "(a)  the lawful detention of a person after conviction by a competent court;",
+            "uk": "(a)  законне ув’язнення особи після засудження її компетентним судом;"
+        }
+    },
+    {
+        "id": 71,
+        "translation": {
+            "en": "(b)  the lawful arrest or detention of a person for non- compliance with the lawful order of a court or in order to secure the fulfilment of any obligation prescribed by law;",
+            "uk": "(b)  законний арешт або затримання особи за невиконання законного припису суду або для забезпечення виконання будь-якого обов’язку, встановленого законом;"
+        }
+    },
+    {
+        "id": 72,
+        "translation": {
+            "en": "(c)  the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;",
+            "uk": "(c)  законний арешт або затримання особи, здійснене з метою допровадження її до компетентного судового органу за наявності обґрунтованої підозри у вчиненні нею правопорушення або якщо обґрунтовано вважається необхідним запобігти вчиненню нею правопорушення чи її втечі після його вчинення;"
+        }
+    },
+    {
+        "id": 73,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 74,
+        "translation": {
+            "en": "40.  Therefore, the Court finds that, in the particular circumstances of the present case, the applicants cannot be reproached for not challenging their conviction on appeal (paragraph 38 above) or for not lodging compensation claims under the procedure referred to by the Government (paragraph 39 above).",
+            "uk": "40.  Отже, Суд доходить висновку, що за конкретних обставин цієї справи заявникам не можна дорікати неподанням апеляційних скарг на постанови про притягнення їх до адміністративної відповідальності (пункт 38) або що вони не подали позовів про відшкодування шкоди відповідно до зазначеної Урядом процедури (пункт 39)."
+        }
+    },
+    {
+        "id": 75,
+        "translation": {
+            "en": "41.  The Court finds that the applicants’ complaints under Article 5 § 1 of the Convention, are not manifestly ill-founded within the meaning of Article 35 § 3 (a) of the Convention. Nor are they inadmissible on any other grounds. Therefore, the Court declares them admissible.",
+            "uk": "41.  Суд вважає, що скарги заявників за пунктом 1 статті 5 Конвенції не є явно необґрунтованими у розумінні підпункту «а» пункту 3 статті 35 Конвенції. Він також зазначає, що вони не є неприйнятними з будь-яких інших підстав. Отже, Суд визнає їх прийнятними."
+        }
+    },
+    {
+        "id": 76,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 77,
+        "translation": {
+            "en": "47.  The Court also notes that the decision closing the criminal case concerning the demonstration of 19 February 2014, and the decisions taken in the course of the disciplinary proceedings against the judges concerned, point to the fact that the charges against the applicants were not based on sufficient or reliable evidence (see paragraphs 11 and 28 above).",
+            "uk": "47.  Суд також зазначає, що постанови про закриття кримінальної справи стосовно демонстрації від 19 лютого 2014 року та рішення, ухвалені під час дисциплінарних проваджень щодо відповідних суддів, вказують, що пред’явлені заявникам обвинувачення не ґрунтувалися на достатніх або достовірних доказах (див. пункти 11 та 28)."
+        }
+    },
+    {
+        "id": 78,
+        "translation": {
+            "en": "49.  The Court thus finds that the applicants’ detention during the period they served the administrative-offence sentences initially imposed on them (between 20 and 22 February 2014) was in breach of Article 5 § 1 of the Convention.",
+            "uk": "49.  Отже, Суд вважає, що тримання заявників під вартою протягом періоду, коли вони відбували застосований до них адміністративний арешту період з 20 до 22 лютого 2014 року), було порушенням пункту 1 статті 5 Конвенції."
+        }
+    },
+    {
+        "id": 79,
+        "translation": {
+            "en": "50.  In the circumstances, the Court finds it unnecessary to examine whether the applicants’ detention prior to their conviction on 20 February 2014 was compatible with that provision.",
+            "uk": "50.  За цих обставин Суд не вбачає за необхідне розглядати, чи було тримання заявників під вартою до визнання їх винними 20 лютого \n2014 року сумісним із цим положенням."
+        }
+    },
+    {
+        "id": 80,
+        "translation": {
+            "en": "CONCLUDING REMARKS",
+            "uk": "ЗАКЛЮЧНІ ЗАУВАЖЕННЯ"
+        }
+    },
+    {
+        "id": 81,
+        "translation": {
+            "en": "APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+            "uk": "ЗАСТОСУВАННЯ СТАТТІ 41 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 82,
+        "translation": {
+            "en": "52.  Article 41 of the Convention provides:",
+            "uk": "52.  Стаття 41 Конвенції передбачає:"
+        }
+    },
+    {
+        "id": 83,
+        "translation": {
+            "en": "“If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”",
+            "uk": "«Якщо Суд визнає факт порушення Конвенції або протоколів до неї і якщо внутрішнє право відповідної Високої Договірної Сторони передбачає лише часткове відшкодування, Суд, у разі необхідності, надає потерпілій стороні справедливу сатисфакцію»."
+        }
+    },
+    {
+        "id": 84,
+        "translation": {
+            "en": "Damage",
+            "uk": "Шкода"
+        }
+    },
+    {
+        "id": 85,
+        "translation": {
+            "en": "53.  The applicants claimed 10,000 euros (EUR) each as regards non-pecuniary damage.",
+            "uk": "53.  Заявники вимагали по 10 000 євро кожен в якості відшкодування моральної шкоди."
+        }
+    },
+    {
+        "id": 86,
+        "translation": {
+            "en": "54.  The Government argued that the claims in respect of non-pecuniary damage were excessive and that the applicants had failed to seek compensation for non-pecuniary damage at domestic level, even though such compensation had been available to them.",
+            "uk": "54.  Уряд стверджував, що вимоги у зв’язку з відшкодуванням моральної шкоди були надмірними і заявники не вимагали відшкодування моральної шкоди на національному рівні, хоча отримання такого відшкодування було їм доступно."
+        }
+    },
+    {
+        "id": 87,
+        "translation": {
+            "en": "55.  Having regard to its findings concerning the admissibility of the applicants’ complaints under Article 5 (see, notably, paragraphs 39-40 above), the Court considers that the Government did not demonstrate that the applicants were able in practice to obtain reparation for the consequences of the violation of their Convention rights found in this case.",
+            "uk": "55.  З огляду на свої висновки щодо прийнятності скарг заявників за статтею 5 Конвенції (див., зокрема, пункти 39 – 40) Суд вважає, що Уряд не довів наявності у заявників можливості на практиці отримати відшкодування шкоди у зв’язку з наслідками встановленого у цій справі порушення їхніх конвенційних прав."
+        }
+    },
+    {
+        "id": 88,
+        "translation": {
+            "en": "56.  Judging on an equitable basis, the Court awards each of the applicants EUR 1,200, plus any tax that may be chargeable, in respect of non-pecuniary damage.",
+            "uk": "56.  Постановляючи рішення на засадах справедливості, Суд присуджує кожному заявнику по 1 200 євро та додатково суму будь-якого податку, що може нараховуватися, в якості відшкодування моральної шкоди."
+        }
+    },
+    {
+        "id": 89,
+        "translation": {
+            "en": "Costs and expenses",
+            "uk": "Судові та інші витрати"
+        }
+    },
+    {
+        "id": 90,
+        "translation": {
+            "en": "57.  The applicants did not submit claims for costs and expenses. Accordingly, the Court considers that there is no call to award them any sum on that account.",
+            "uk": "57.  Заявники не подали жодних вимог щодо компенсації судових та інших витрат. Отже, Суд вважає, що у зв’язку з цим немає підстав присуджувати їм якусь суму."
+        }
+    },
+    {
+        "id": 91,
+        "translation": {
+            "en": "Default interest",
+            "uk": "Пеня"
+        }
+    },
+    {
+        "id": 92,
+        "translation": {
+            "en": "58.  The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+            "uk": "58.  Суд вважає за належне призначити пеню на підставі граничної позичкової ставки Європейського центрального банку, до якої має бути додано три відсоткові пункти."
+        }
+    },
+    {
+        "id": 93,
+        "translation": {
+            "en": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+            "uk": "ЗА ЦИХ ПІДСТАВ СУД ОДНОГОЛОСНО"
+        }
+    },
+    {
+        "id": 94,
+        "translation": {
+            "en": "Decides to join the applications;",
+            "uk": "Вирішує об’єднати заяви;"
+        }
+    },
+    {
+        "id": 95,
+        "translation": {
+            "en": "Declares the applications admissible;",
+            "uk": "Оголошує заяви прийнятними;"
+        }
+    },
+    {
+        "id": 96,
+        "translation": {
+            "en": "Holds that there has been a violation of Article 5 § 1 of the Convention on account of the applicants’ detention during the period set out in paragraph 49 above;",
+            "uk": "Постановляє, що було порушено пункт 1 статті 5 Конвенції у зв’язку із триманням заявників під вартою протягом періоду, зазначеного у пункті 49;"
+        }
+    },
+    {
+        "id": 97,
+        "translation": {
+            "en": "Holds",
+            "uk": "Постановляє, що:"
+        }
+    },
+    {
+        "id": 98,
+        "translation": {
+            "en": "that the respondent State is to pay, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, EUR 1,200 (one thousand two hundred euros), plus any tax that may be chargeable, each to Mr M. Vorontsov, Mr A. Savchenko, Mr V. Strukov, Mr O. Romankov and Mr D. Sinelnikov in respect of non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement;",
+            "uk": "упродовж трьох місяців з дати, коли це рішення набуде статусу остаточного відповідно до пункту 2 статті 44 Конвенції держава-відповідач повинна сплатити пану М. Воронцову, пану А. Савченку, пану В. Струкову, пану О. Романькову та \nпану Д. Сінельникову по 1 200 (одна тисяча двісті) євро та додатково суму будь-якого податку, що може нараховуватися, в якості відшкодування моральної шкоди, ця сума має бути конвертована в національну валюту держави-відповідача за курсом на день здійснення платежу;"
+        }
+    },
+    {
+        "id": 99,
+        "translation": {
+            "en": "that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points.",
+            "uk": "із закінченням зазначеного тримісячного строку до остаточного розрахунку на зазначені суми нараховуватиметься простий відсоток (simple interest) у розмірі граничної позичкової ставки Європейського центрального банку, яка діятиме в період несплати, до якої має бути додано три відсоткові пункти;"
+        }
+    },
+    {
+        "id": 100,
+        "translation": {
+            "en": "Dismisses the remainder of the applicants’ claims for just satisfaction.",
+            "uk": "Відхиляє решту вимог заявників щодо справедливої сатисфакції."
+        }
+    },
+    {
+        "id": 101,
+        "translation": {
+            "en": "Done in English, and notified in writing on 21 January 2021, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+            "uk": "Учинено англійською мовою та повідомлено письмово 21 січня 2021 року відповідно до пунктів 2 і 3 Правила 77 Регламенту Суду."
+        }
+    }
+]

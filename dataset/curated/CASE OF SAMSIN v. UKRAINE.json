@@ -1,0 +1,1178 @@
+[
+    {
+        "id": 0,
+        "translation": {
+            "en": "FIFTH SECTION",
+            "uk": "П’ЯТА СЕКЦІЯ"
+        }
+    },
+    {
+        "id": 1,
+        "translation": {
+            "en": "CASE OF SAMSIN v. UKRAINE",
+            "uk": "СПРАВА «САМСІН ПРОТИ УКРАЇНИ»"
+        }
+    },
+    {
+        "id": 2,
+        "translation": {
+            "en": "(Application no. 38977/19)",
+            "uk": "(Заява № 38977/19)"
+        }
+    },
+    {
+        "id": 3,
+        "translation": {
+            "en": "JUDGMENT",
+            "uk": "РІШЕННЯ"
+        }
+    },
+    {
+        "id": 4,
+        "translation": {
+            "en": "(Merits)",
+            "uk": "(по суті)"
+        }
+    },
+    {
+        "id": 5,
+        "translation": {
+            "en": "Art 8 • Private life • Unjustified dismissal and application of legislative lustration measures to former Supreme Court judge, in the absence of an individualised assessment of conduct and despite failure to submit lustration declaration • Legitimate aim achievable in circumstances of the case by accepting applicant’s resignation",
+            "uk": "Ст. 8 • Приватне життя • Необґрунтоване звільнення та застосування до колишнього судді Верховного Суду України законодавчих люстраційних заходів за відсутності індивідуальної оцінки його поведінки та незважаючи на неподання ним заяви про незастосування до нього положень Закону України «Про очищення влади» • За обставин справи законна мета могла бути досягнута шляхом задоволення заяви заявника про відставку"
+        }
+    },
+    {
+        "id": 6,
+        "translation": {
+            "en": "STRASBOURG",
+            "uk": "СТРАСБУРГ"
+        }
+    },
+    {
+        "id": 7,
+        "translation": {
+            "en": "14 October 2021",
+            "uk": "14 жовтня 2021 року"
+        }
+    },
+    {
+        "id": 8,
+        "translation": {
+            "en": "FINAL",
+            "uk": "ОСТАТОЧНЕ"
+        }
+    },
+    {
+        "id": 9,
+        "translation": {
+            "en": "28/02/2022",
+            "uk": "14.01.2022"
+        }
+    },
+    {
+        "id": 10,
+        "translation": {
+            "en": "This judgment has become final under Article 44 § 2 of the Convention. It may be subject to editorial revision.",
+            "uk": "Це рішення набуло статусу остаточного відповідно до пункту 2 статті 44 Конвенції. Його текст може підлягати редакційним виправленням."
+        }
+    },
+    {
+        "id": 11,
+        "translation": {
+            "en": "In the case of Samsin v. Ukraine,",
+            "uk": "У справі «Самсін проти України»"
+        }
+    },
+    {
+        "id": 12,
+        "translation": {
+            "en": "The European Court of Human Rights (Fifth Section), sitting as a Chamber composed of:",
+            "uk": "Європейський суд з прав людини (П’ята секція), засідаючи палатою, до складу якої увійшли:"
+        }
+    },
+    {
+        "id": 13,
+        "translation": {
+            "en": "Síofra O’Leary, President,",
+            "uk": "Сіофра О’Лірі (Síofra O’Leary), Голова,"
+        }
+    },
+    {
+        "id": 14,
+        "translation": {
+            "en": "Mārtiņš Mits,",
+            "uk": "Мартіньш Мітс (Mārtiņš Mits),"
+        }
+    },
+    {
+        "id": 15,
+        "translation": {
+            "en": "Ganna Yudkivska,",
+            "uk": "Ганна Юдківська (Ganna Yudkivska),"
+        }
+    },
+    {
+        "id": 16,
+        "translation": {
+            "en": "Stéphanie Mourou-Vikström,",
+            "uk": "Стефані Моро-Вікстром (Stéphanie Mourou-Vikström),"
+        }
+    },
+    {
+        "id": 17,
+        "translation": {
+            "en": "Jovan Ilievski,",
+            "uk": "Йован Ілієвський (Jovan Ilievski),"
+        }
+    },
+    {
+        "id": 18,
+        "translation": {
+            "en": "Lado Chanturia,",
+            "uk": "Ладо Чантурія (Lado Chanturia),"
+        }
+    },
+    {
+        "id": 19,
+        "translation": {
+            "en": "Ivana Jelić, judges,",
+            "uk": "Івана Джеліч (Ivana Jelić), судді,"
+        }
+    },
+    {
+        "id": 20,
+        "translation": {
+            "en": "and Martina Keller, Deputy Section Registrar,",
+            "uk": "та Мартіна Келлер (Martina Keller), заступник Секретаря секції,"
+        }
+    },
+    {
+        "id": 21,
+        "translation": {
+            "en": "Having regard to:",
+            "uk": "З огляду на:"
+        }
+    },
+    {
+        "id": 22,
+        "translation": {
+            "en": "the application (no. 38977/19) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Igor Leonovych Samsin (“the applicant”), on 18 July 2019;",
+            "uk": "заяву (№ 38977/19), яку 18 липня 2019 року подав до Суду проти України на підставі статті 34 Конвенції про захист прав людини і основоположних свобод (далі – Конвенція) громадянин України, пан Ігор Леонович Самсін (далі – заявник);"
+        }
+    },
+    {
+        "id": 23,
+        "translation": {
+            "en": "the decision to give notice to the Ukrainian Government (“the Government”) of the complaints under Articles 8 and 14 of the Convention and to declare the remainder of the application inadmissible;",
+            "uk": "рішення повідомити Уряд України (далі – Уряд) про скарги за статтями 8 і 14 Конвенції та визнати решту скарг у заяві неприйнятними;"
+        }
+    },
+    {
+        "id": 24,
+        "translation": {
+            "en": "the parties’ observations;",
+            "uk": "зауваження сторін;"
+        }
+    },
+    {
+        "id": 25,
+        "translation": {
+            "en": "Having deliberated in private on 21 September 2021,",
+            "uk": "після обговорення за зачиненими дверима 21 вересня 2021 року"
+        }
+    },
+    {
+        "id": 26,
+        "translation": {
+            "en": "Delivers the following judgment, which was adopted on that date:",
+            "uk": "постановляє таке рішення, що було ухвалено у той день:"
+        }
+    },
+    {
+        "id": 27,
+        "translation": {
+            "en": "INTRODUCTION",
+            "uk": "ВСТУП"
+        }
+    },
+    {
+        "id": 28,
+        "translation": {
+            "en": "1.  The applicant complained, in particular, that his dismissal from the position of Supreme Court judge and the measures applied to him under the Government Cleansing (Lustration) Act had breached his rights under Article 8 of the Convention.",
+            "uk": "1.  Заявник скаржився, зокрема, що його звільнення з посади судді Верховного Суду України та заходи, застосовані до нього відповідно до Закону України «Про очищення влади» (люстрацію), порушили його права за статтею 8 Конвенції."
+        }
+    },
+    {
+        "id": 29,
+        "translation": {
+            "en": "THE FACTS",
+            "uk": "ФАКТИ"
+        }
+    },
+    {
+        "id": 30,
+        "translation": {
+            "en": "2.  The applicant was born on 30 November 1957 and lives in Kyiv. The applicant was represented by Mr I.V. Boychenyuk, a lawyer practising in Kyiv.",
+            "uk": "2.  Заявник народився 30 листопада 1957 року і проживає у м. Київ. Заявника представляв пан І.В. Бойченюк, юрист, який практикує у м. Київ."
+        }
+    },
+    {
+        "id": 31,
+        "translation": {
+            "en": "3.  The Government were represented by their Agent, Mr I. Lishchyna.",
+            "uk": "3.  Уряд представляв його Уповноважений, пан І. Ліщина."
+        }
+    },
+    {
+        "id": 32,
+        "translation": {
+            "en": "4.  Information on the background to the events leading to the adoption of the Lustration Act can be found in Polyakh and Others v. Ukraine (nos. 58812/15 and 4 others, 17 October 2019).",
+            "uk": "4.  Загальна інформація стосовно подій, що призвели до прийняття Закону України «Про очищення влади», наведена в рішенні у справі «Полях та інші проти України» (Polyakh and Others v. Ukraine), заява № 58812/15 та 4 інші, від 17 жовтня 2019 року)."
+        }
+    },
+    {
+        "id": 33,
+        "translation": {
+            "en": "5.  The facts of the case, as submitted by the parties, may be summarised as follows.",
+            "uk": "5.  Факти справи, надані сторонами, можуть бути узагальнені таким чином."
+        }
+    },
+    {
+        "id": 34,
+        "translation": {
+            "en": "6.  The applicant was first appointed as a judge in 1987. In 1995 he was appointed to the Supreme Court, and in 2003 that appointment was confirmed for an indefinite period (until retirement).",
+            "uk": "6.  Заявника вперше обрали суддею у 1987 році. У 1995 році його обрали до Верховного Суду України, а у 2003 році було прийнято рішення про обрання його суддею безстроково (до виходу на пенсію)."
+        }
+    },
+    {
+        "id": 35,
+        "translation": {
+            "en": "7.  In 2005 the Assembly of Judges of Ukraine elected him to the High Judicial Qualifications Commission (“the Commission”). The Commission’s primary role is the selection of candidates for judicial posts, and disciplinary proceedings against judges. The applicant was the Commission’s chairman from 2006 to 2009. In September 2010 the applicant was again appointed to the Commission by the head of the State Judicial Administration and elected its chairman.",
+            "uk": "7.  У 2005 році з’їзд суддів України обрав його до складу Вищої кваліфікаційної комісії суддів України (далі – Комісія). Основна роль Комісії полягає у відборі кандидатів на посади суддів та здійсненні дисциплінарних проваджень щодо суддів. Заявник був головою Комісії у 2006 – 2009 роках. У вересні 2010 року голова Державної судової адміністрації знову призначив заявника до складу Комісії і заявник був обраний її головою."
+        }
+    },
+    {
+        "id": 36,
+        "translation": {
+            "en": "8.  On 11 April 2014 the applicant’s tenure on the Commission was terminated on the coming into force of the Restoration of Trust in the Judiciary Act (see paragraph 33 below).",
+            "uk": "8.  11 квітня 2014 року повноваження заявника в Комісії було припинено у зв’язку з набранням чинності Закону України «Про відновлення довіри до судової влади в Україні» (див. пункт 33)."
+        }
+    },
+    {
+        "id": 37,
+        "translation": {
+            "en": "9.  On 16 October 2014 the Government Cleansing (Lustration) Act (“the GCA”) came into force (see the relevant provisions of the Act in paragraph 32 below).",
+            "uk": "9.  16 жовтня 2014 року набрав чинності Закон України «Про очищення влади» (люстрацію) (далі – Закон України «Про очищення влади») (див. відповідні положення Закону України у пункті 32)."
+        }
+    },
+    {
+        "id": 38,
+        "translation": {
+            "en": "10.  The President of the Supreme Court determined that the court’s judges had to submit the declarations required by the GCA between 1 and 11 December 2014. On 11 December 2014 the Acting President of the Supreme Court informed the Ministry of Justice (“the Ministry”) that the applicant had failed to submit that declaration.",
+            "uk": "10.  Голова Верховного Суду України видав розпорядження про подання суддями суду заяв, які вимагалися згідно із Законом України «Про очищення влади», у період з 01 до 11 грудня 2014 року. \n11 грудня 2014 року виконуючий обов’язки Голови Верховного Суду України повідомив Міністерство юстиції України (далі – Міністерство) про неподання заявником цієї заяви."
+        }
+    },
+    {
+        "id": 39,
+        "translation": {
+            "en": "11.  On 13 March 2015 the Ministry requested from the Commission information about individuals who were members of the Commission in 2010-2014 (the GCA’s “one-year rule”). The Commission provided the relevant information on 26 March 2015, confirming that the applicant had been a Commission member from 2010 to 2014, that is for more than a year in the relevant period.",
+            "uk": "11.  13 березня 2015 року Міністерство звернулося до Комісії за інформацією про осіб, які були її членами упродовж 2010 – 2014 років (далі – «правило одного року» відповідно до Закону України «Про очищення влади»). Комісія надала відповідну інформацію 26 березня 2015 року, підтвердивши, що заявник був її членом упродовж 2010 – 2014 років, тобто більше ніж одного року у відповідний період."
+        }
+    },
+    {
+        "id": 40,
+        "translation": {
+            "en": "12.  On 3 and 9 September 2015 the Ministry submitted to the High Council of Justice (“the HCJ’) applications seeking the applicant’s dismissal from his judicial post under the GCA on the grounds that he had not submitted his declaration, and because the GCA’s one-year rule applied to him.",
+            "uk": "12.  03 та 09 вересня 2015 року Міністерство зверталося до Вищої ради юстиції (далі – ВРЮ, згодом Вища рада правосуддя, далі – ВРП) стосовно звільнення заявника з посади судді згідно із Законом України «Про очищення влади» у зв’язку з неподанням ним заяви, а також застосуванням до нього правила одного року."
+        }
+    },
+    {
+        "id": 41,
+        "translation": {
+            "en": "13.  On 19 November 2015 the HCJ’s disciplinary section recommended to the HCJ that it open proceedings in relation to the Ministry’s applications. That recommendation was based on a report prepared by a member of the HCJ. Both documents stated that the GCA’s one-year rule applied to the applicant and that he had failed to submit the required declaration.",
+            "uk": "13.  19 листопада 2015 року дисциплінарна секція ВРЮ рекомендувала ВРЮ відкрити провадження у зв’язку зі зверненнями Міністерства. Ця рекомендація ґрунтувалася на доповіді, підготовленій членом ВРЮ. В обох документах зазначалося про застосування до заявника правила одного року відповідно до Закону України «Про очищення влади» і неподання ним заяви, яка вимагалася згідно з цим Законом."
+        }
+    },
+    {
+        "id": 42,
+        "translation": {
+            "en": "14.  On 11 July 2016 the applicant attempted to resign from the Supreme Court and submitted an application to that effect for examination by the HCJ (see the relevant provisions of the domestic law on judicial resignations in paragraph 29 below).",
+            "uk": "14.  11 липня 2016 року заявник спробував звільнитися з посади судді Верховного Суду України у відставку та подав відповідну заяву на розгляд ВРЮ (див. відповідні положення національного законодавства щодо звільнення суддів у відставку в пункті 29)."
+        }
+    },
+    {
+        "id": 43,
+        "translation": {
+            "en": "15.  On 9 September 2016 the HCJ decided to postpone its examination of the applicant’s resignation application until it had examined the Ministry’s applications.",
+            "uk": "15.  09 вересня 2016 року ВРЮ вирішила відкласти розгляд заяви заявника про відставку до розгляду звернення Міністерства."
+        }
+    },
+    {
+        "id": 44,
+        "translation": {
+            "en": "18.  The applicant appealed against the decision, reiterating the same arguments he had raised before the HCJ. The case was examined by the Administrative Court of Cassation (“the ACC”), sitting as a first-instance court.",
+            "uk": "18.  Заявник оскаржив це рішення, повторивши ті самі аргументи, які були наведені ним у заяві до ВРП. Справу розглянув Касаційний адміністративний суд у складі Верховного Суду (далі – КАС), який діяв як суд першої інстанції."
+        }
+    },
+    {
+        "id": 45,
+        "translation": {
+            "en": "19.  On 22 March 2018 the ACС suspended the proceedings concerning the applicant’s appeal until the Constitutional Court had ruled on the constitutionality of the GCA (for more detail on those proceedings see Polyakh, cited above, §§ 60-70) but on 17 May 2018 the Grand Chamber of the Supreme Court quashed that decision and held that the examination of the case had to proceed.",
+            "uk": "19.  22 березня 2018 року КАС зупинив провадження за скаргою заявника до винесення Конституційним Судом України рішення щодо відповідності Конституції України положень Закону України «Про очищення влади» (докладніше про це провадження див. згадане рішення у справі «Полях та інші проти України» (Polyakh and Others v. Ukraine), пункти 60 – 70), однак 17 травня 2018 року Велика Палата Верховного Суду скасувала цю ухвалу та постановила, що розгляд справи мав бути продовжений."
+        }
+    },
+    {
+        "id": 46,
+        "translation": {
+            "en": "21.  The Ministry and the HCJ appealed.",
+            "uk": "21.  Міністерство та ВРП подали апеляційні скарги."
+        }
+    },
+    {
+        "id": 47,
+        "translation": {
+            "en": "22.  On 31 January 2019 the Grand Chamber of the Supreme Court quashed the ACC’s ruling and upheld the HCJ’s decision. The Grand Chamber agreed with the ACC’s assessment that the GCA applied to the applicant under the Act’s one-year rule and because the applicant had failed to submit a lustration declaration but considered that the proportionality principle had not been breached. The relevant parts of the Grand Chamber’s decision read, insofar as relevant:",
+            "uk": "22.  31 січня 2019 року Велика Палата Верховного Суду скасувала рішення КАС і залишала рішення ВРП без змін. Велика Палата погодилася з оцінкою КАС про застосовність Закону України «Про очищення влади» до заявника відповідно до правила одного року Закону, а також у зв’язку з неподанням заявником заяви про незастосування до нього Закону України «Про очищення влади», але вважала, що принцип пропорційності порушений не був. У відповідних частинах постанови Великої Палати зазначено:"
+        }
+    },
+    {
+        "id": 48,
+        "translation": {
+            "en": "By contrast [the appellants] argued that the court’s conclusion concerning the violation of the constitutional right of the plaintiff to retire had not corresponded to the circumstances of the case because the HCJ had complied with the requirements of legislation in that respect.",
+            "uk": "На противагу цьому, [скаржники] у своїх апеляційних скаргах зазначають, що твердження суду щодо порушення конституційного права позивача на відставку не відповідає обставинам справи, оскільки ВРП дотримала вимоги законодавства в цій частині."
+        }
+    },
+    {
+        "id": 49,
+        "translation": {
+            "en": "The Grand Chamber accepts this position of the appellants and considers it necessary to point out the following.",
+            "uk": "Велика Палата Верховного Суду приймає таку позицію скаржників та вважає за доцільне зазначити наступне."
+        }
+    },
+    {
+        "id": 50,
+        "translation": {
+            "en": "The GCA establishes one procedure for voluntary removal of the subject of lustration from State power, that is for him to inform the competent authorities in his statement that restrictions under the GCA apply to him...",
+            "uk": "Законом «Про очищення влади» установлено єдиний порядок самоусунення суб’єкта люстрації – повідомити компетентні органи у заяві про те, що до нього застосовуються заборони, визначені Законом «Про очищення влади»..."
+        }
+    },
+    {
+        "id": 51,
+        "translation": {
+            "en": "The Grand Chamber specifies that the plaintiff did not lodge the statement envisaged by the Act.. within the time-limit set by the order of the president of the Supreme Court... This statement was not lodged later either.",
+            "uk": "Велика Палата Верховного Суду звертає увагу, що позивач не подав у встановленому Законом порядку заяву ... у строк, визначений розпорядженням Голови Верховного Суду України ... У подальшому така заява також не була ним подана."
+        }
+    },
+    {
+        "id": 52,
+        "translation": {
+            "en": "The plaintiff’s failure to submit the statement is grounds for the [imposition of restrictions under the Act] because this provision of the legislation is obligatory.",
+            "uk": "Неподання позивачем заяви... є підставою для [застосування до нього заборони згідно із Законом], оскільки така законодавча норма є імперативною."
+        }
+    },
+    {
+        "id": 53,
+        "translation": {
+            "en": "The case-file material shows that on 11 July 2016 the plaintiff lodged the application for resignation from the position of the judge of the Supreme Court of Ukraine. In other words, the application was submitted after the HCJ had received applications from the Ministry... and started considering them according to the procedure established by law.",
+            "uk": "При цьому, з матеріалів справи вбачається, що 11 липня 2016 року позивач подав до ВРЮ заяву про звільнення його з посади судді Верховного Суду України у відставку, тобто цю заяву подано вже після надходження до ВРЮ звернень Міністерства ... і початку їх розгляду в установленому законом порядку."
+        }
+    },
+    {
+        "id": 54,
+        "translation": {
+            "en": "Therefore the [grounds for the plaintiff’s dismissal] had arisen before he had expressed his willingness to resign. And that is why the HCJ had lawfully postponed the examination of his resignation application of 11 July 2016 until examination of the above-mentioned applications from the Ministry of Justice. This did not contradict the Rules of the HCJ.",
+            "uk": "Отже, [підстави для звільнення позивача] виникли раніше, ніж позивач виявив бажання звільнитись у відставку. Тому ВРЮ правомірно відклала розгляд його заяви від 11 липня 2016 року до розгляду зазначених вище звернень Міністерства, що узгоджується з Регламентом ВРЮ..."
+        }
+    },
+    {
+        "id": 55,
+        "translation": {
+            "en": "The Grand Chamber also considers it necessary to point out that the right to resign can be used by the judge if before the lodging of the application for resignation he had not committed any actions which may justify his dismissal by the competent authorities on other grounds.",
+            "uk": "Велика Палата Верховного Суду також вважає за необхідне зазначити, що право на відставку може бути використане суддею, якщо до подання такої заяви ним не допущено дій, які зумовлюють прийняття компетентними органами рішення про його звільнення з посади судді з інших підстав."
+        }
+    },
+    {
+        "id": 56,
+        "translation": {
+            "en": "The reason for this is that the judge dismissed based on his resignation application retains the title of the judge... The title is not retained in case of dismissal on other grounds.",
+            "uk": "Це зумовлено тим, що за суддею, звільненим за його заявою про відставку, зберігається звання судді ... та не зберігається у разі звільнення з інших підстав."
+        }
+    },
+    {
+        "id": 57,
+        "translation": {
+            "en": "According to section 120 of the Judiciary and the Status of Judges Act as worded at the relevant time the resignation application shall be launched by the judge directly with the HCJ which, within a month of receipt of that application, had to make an application for dismissal due to resignation to the authority who had appointed the judge. However this provision does not deprive the HCJ of the possibility to exercise other powers envisaged by the Constitution and the laws.",
+            "uk": "Відповідно до статті 120 Закону України «Про судоустрій і статус суддів» у редакції, чинній на той момент, заява про відставку подається суддею безпосередньо до ВРЮ, яка протягом одного місяця з дня надходження відповідної заяви вносить до органу, який обрав або призначив суддю, подання про звільнення судді з посади. Однак така норма не позбавляє ВРЮ (або її правонаступника – ВРП) можливості реалізовувати інші повноваження, передбачені Конституцією і законами України."
+        }
+    },
+    {
+        "id": 58,
+        "translation": {
+            "en": "Accordingly, the first-instance court’s conclusion that the HCJ breached the plaintiff’s constitutional right to resignation does not correspond to the circumstances of the case and is not in accordance with the provisions of the Constitution and the laws of Ukraine.",
+            "uk": "Ураховуючи викладене, твердження суду першої інстанції щодо порушення ВРП конституційного права позивача на відставку не відповідає обставинам справи та не узгоджується із положеннями Конституції та законів України."
+        }
+    },
+    {
+        "id": 59,
+        "translation": {
+            "en": "The Grand Chamber also agrees with the appellants’ arguments concerning the absence of the breach of the principle of proportionality by the HCJ in dismissing the plaintiff under the GCA and concerning the legitimacy of the aim pursued by the limitation of the plaintiff’s rights in view of the following.",
+            "uk": "Велика Палата Верховного Суду погоджується і з твердженнями скаржників стосовно відсутності порушень ВРП принципу пропорційності під час звільнення позивача за Законом України «Про очищення влади», і щодо легітимності мети обмеження прав позивача з огляду на таке."
+        }
+    },
+    {
+        "id": 60,
+        "translation": {
+            "en": "It can be seen from analysing the provisions of the GCA and of the Restoration of Trust in the Judiciary Act that their main goal is the implementation in Ukraine of the Government cleansing procedure, most importantly to restore the citizens’ trust in the authorities, including the authority of the judiciary. The legislator designated termination of the powers of the members of the HCJ and the High Judicial Qualifications Commission as one of such measures.",
+            "uk": "З аналізу змісту Законів «Про очищення влади» та «Про відновлення довіри до судової влади в Україні» вбачається, що їх основною метою є проведення в Україні процедури очищення влади, у першу чергу задля відновлення довіри громадян до влади, у тому числі і підвищення авторитету судової влади. Одним із заходів відновлення довіри законодавець визначив припинення повноважень членів ВРЮ (крім тих, які перебувають у цьому органі за посадою) та Вищої кваліфікаційної комісії суддів України."
+        }
+    },
+    {
+        "id": 61,
+        "translation": {
+            "en": "In view of the above-mentioned circumstances the plaintiff, as the member of the Commission, was subject to those measures due to his membership in that body during the period determined in the GCA.",
+            "uk": "З огляду на викладене, позивач як член Комісії підпадав під зазначені заходи в силу членства в такому органі у визначений Законом «Про очищення влади» проміжок часу."
+        }
+    },
+    {
+        "id": 62,
+        "translation": {
+            "en": "The Government-cleansing measures (lustration) are an expression of the concept of democracy capable of defending itself. The Parliament is responsible vis-à-vis the people for the creation of an effective State apparatus which is capable of defending democracy, the rule of law and guaranteeing human rights. However, the principle of democracy capable of defending itself; considering the principles of morality in law, does not give the State any authority to violate human rights.",
+            "uk": "Заходи з очищення влади (люстрація) є проявом концепції демократії, здатної захистити себе. Парламент несе відповідальність перед народом щодо створення ефективного державного апарату, який може захистити демократію, верховенство права та гарантувати права людини. Проте концепція демократії, здатної захистити себе, у світлі питань моралі права не дає державі повноважень ігнорувати права людини."
+        }
+    },
+    {
+        "id": 63,
+        "translation": {
+            "en": "To comply with the principle of proportionality the limitation on the rights must be provided by a legislative act, pursue a legitimate aim and must be commensurate to that aim, that is there must be a relationship between the result which is being attained by the limitation and the harm which can be inflicted.",
+            "uk": "Для дотримання принципу пропорційності застосоване обмеження прав, що передбачене нормативно-правовим актом і переслідує легітимну мету, має бути співрозмірним з такою метою, що виражається у співвідношенні між результатом, який досягається за допомогою відповідного обмеження права, та шкодою, яка може бути завдана."
+        }
+    },
+    {
+        "id": 64,
+        "translation": {
+            "en": "According to the preamble of the GCA that Act determines legal and organisational measures concerning implementation of Government cleansing (lustration) and consolidation of democratic values, rule of law and human rights in Ukraine.",
+            "uk": "Згідно з преамбулою до Закону «Про очищення влади» цей Закон визначає правові та організаційні засади проведення очищення влади (люстрації) для захисту та утвердження демократичних цінностей, верховенства права та прав людини в Україні."
+        }
+    },
+    {
+        "id": 65,
+        "translation": {
+            "en": "To achieve that aim the Act implements the procedure for verification of people who are subject to that verification to check their compliance with the criteria established by the law, to determine whether they can remain in the respective positions.",
+            "uk": "Для досягнення зазначеної мети Законом запроваджується проведення процедури перевірки осіб, які є суб’єктами перевірки на відповідність визначеним законопроектом критеріям, з метою вирішення питання щодо можливості їх подальшого перебування на відповідній посаді."
+        }
+    },
+    {
+        "id": 66,
+        "translation": {
+            "en": "Therefore the aim of the implementation of the Act is to protect the rights and freedoms of others, it is legitimate and this implementation must be beneficial to ensuring the balance between the needs of a democratic State and defence of democracy and human rights.",
+            "uk": "Відтак, мета застосування Закону для захисту прав і свобод інших людей є легітимною, а таке застосування має сприяти дотриманню балансу між потребами демократичної держави та захисту демократії і правами людини."
+        }
+    },
+    {
+        "id": 67,
+        "translation": {
+            "en": "In the context of the present case the Grand Chamber also notes the following.",
+            "uk": "В аспекті цієї справи Велика Палата Верховного Суду також звертає увагу на таке."
+        }
+    },
+    {
+        "id": 68,
+        "translation": {
+            "en": "A judge must maintain high standards of conduct in any activity in order to ensure public trust in the judiciary [citing the Judiciary and the Status of Judges Act 2016 – see paragraph 31 below].",
+            "uk": "Суддя зобов’язаний виявляти та підтримувати високі стандарти поведінки у будь-якій діяльності з метою укріплення суспільної довіри до суду [цитата із Закону України «Про судоустрій та статус суддів» 2016 року – див. пункт Error! Reference source not found.]."
+        }
+    },
+    {
+        "id": 69,
+        "translation": {
+            "en": "As a subject of constant public scrutiny, a judge must accept personal restrictions that might be viewed as burdensome by the ordinary citizen and should do so freely and willingly. In particular, a judge shall conduct himself or herself in a way that is consistent with the dignity of the judicial office [citing the Bangalore Principles – see paragraph 35 below].",
+            "uk": "Постійна увага з боку суспільства покладає на суддю обов’язок прийняти ряд обмежень, і, незважаючи на те, що пересічному громадянину ці обов’язки могли б здатися обтяжливими, суддя приймає їх добровільно та охоче. Поведінка судді має відповідати високому статусу його посади [цитата із Бангалорських принципів поведінки суддів – див. пункт 35]."
+        }
+    },
+    {
+        "id": 70,
+        "translation": {
+            "en": "According to the [Code of Judicial Ethics – see paragraph 34 below] judges must be examples of observance of the law. Judges must endeavor to conduct themselves in such a manner that their conduct would be considered irreproachable by a reasonable, law-abiding and well-informed person.",
+            "uk": "Згідно з [Кодексом суддівської етики – див. пункт 34] суддя повинен бути, зокрема, прикладом неухильного додержання вимог закону. Суддя має докладати всіх зусиль для того, щоб на думку розсудливої, законослухняної та поінформованої людини його поведінка була бездоганною."
+        }
+    },
+    {
+        "id": 71,
+        "translation": {
+            "en": "Therefore a person who has its status of a judge must ensure high standards of conduct in all of their activities. The first expression of this is unwavering compliance with the requirements of the legislation, including duties and limitations imposed on a judge.",
+            "uk": "Відтак, особа, яка має статус судді, повинна підтримувати високі стандарти поведінки у будь-якій діяльності. Передусім, це виявляється у неухильному дотриманні вимог законодавства, зокрема, тих обов’язків та обмежень, які покладаються на суддю."
+        }
+    },
+    {
+        "id": 72,
+        "translation": {
+            "en": "In consequence, the plaintiff’s failure to submit a lustration declaration was contrary to [the Bangalore Principles and the Code of Judicial Ethics].",
+            "uk": "Відтак, неподання позивачем заяви, визначеної Законом «Про очищення влади», суперечило [Бангалорським принципам поведінки суддів і Кодексу суддівської етики]."
+        }
+    },
+    {
+        "id": 73,
+        "translation": {
+            "en": "The Grand Chamber, taking into account the above-mentioned, having examined the body of the evidence assessed in the course of judicial examination, and having examined all the arguments of the parties, considers that [the HCJ, in its decision to dismiss the applicant on 25 April 2017 and not to examine his resignation application], acted within the limits of its powers and in a manner envisaged by the Constitution and the laws of Ukraine, in compliance with the principle of proportionality.”",
+            "uk": "Таким чином, з урахуванням викладеного, оцінивши в сукупності отримані в судовому засіданні докази, зваживши на всі аргументи та доводи сторін, Велика Палата Верховного Суду встановила, що [ВРП, приймаючи рішення від \n25 квітня 2017 року про звільнення заявника та залишення без розгляду його заяви про звільнення з посади судді у відставку], діяла в межах повноважень та у спосіб, що передбачені Конституцією та законами України, з дотриманням принципу пропорційності.»"
+        }
+    },
+    {
+        "id": 74,
+        "translation": {
+            "en": "23.  The applicant lodged a complaint with the Constitutional Court, alleging that the GCA provisions applied in his case were unconstitutional. The Constitutional Court started the proceedings concerning the complaint on 22 April 2019. As of the time of the parties’ latest communication with the Court (21 May 2021), those proceedings remained pending.",
+            "uk": "23.  Заявник звернувся до Конституційного Суду України зі скаргою, стверджуючи, що положення Закону України «Про очищення влади», застосовані у його справі, не відповідали Конституції України. \n22 квітня 2019 року Конституційний Суд України розпочав розгляд справи у зв’язку зі скаргою. На момент надіслання останнього листа сторонами до Суду (21 травня 2021 року) це провадження ще тривало."
+        }
+    },
+    {
+        "id": 75,
+        "translation": {
+            "en": "As indicated in Polyakh and Others (cited above, §§ 60-70) the proceedings concerning the constitutionality of the GCA have been pending before the Constitutional Court since 2014.",
+            "uk": "Як зазначено в згаданому рішенні у справі «Полях та інші проти України» (Polyakh and Others v. Ukraine), пункти 60 – 70), провадження щодо відповідності Конституції України положень Закону України «Про очищення влади» триває у Конституційному Суді України з \n2014 року."
+        }
+    },
+    {
+        "id": 76,
+        "translation": {
+            "en": "24.  According to the publicly accessible Lustration Register, the applicant is subject to the ten-year prohibition under the GCA’s one-year rule (see paragraph 32 below).",
+            "uk": "24.  Згідно із загальнодоступним Єдиним державним реєстром осіб, щодо яких застосовано положення Закону України «Про очищення влади», на заявника поширюється десятирічна заборона згідно з правилом одного року Закону України «Про очищення влади» (див. пункт 32)."
+        }
+    },
+    {
+        "id": 77,
+        "translation": {
+            "en": "26.  In fact, in December 2017, on reaching sixty (the general retirement age for men), the applicant obtained an ordinary old-age pension of UAH 10,740 (about 320 EUR). This was subsequently raised, apparently in line with legislative raises in the minimum pension, to reach UAH 14,809 in February 2021.",
+            "uk": "26.  Фактично, у грудні 2017 року, досягши шістдесятирічного віку (загальний пенсійний вік для чоловіків), заявник отримав звичайну пенсію за віком у розмірі 10 740 грн (близько 320 євро). Згодом вона зросла, вочевидь, відповідно до законодавчого підвищення розміру мінімальної пенсії, й у лютому 2021 року досягла 14 809 грн."
+        }
+    },
+    {
+        "id": 78,
+        "translation": {
+            "en": "RELEVANT LEGAL FRAMEWORK AND PRACTICE",
+            "uk": "ВІДПОВІДНі НОРМАТИВНО-ПРАВОВА БАЗА та практика"
+        }
+    },
+    {
+        "id": 79,
+        "translation": {
+            "en": "Domestic material",
+            "uk": "Національні документи"
+        }
+    },
+    {
+        "id": 80,
+        "translation": {
+            "en": "Constitution",
+            "uk": "Конституція України"
+        }
+    },
+    {
+        "id": 81,
+        "translation": {
+            "en": "27.  Article 126 of the Constitution provides for the mandatory retirement age of sixty-five for judges.",
+            "uk": "27.  Стаття 126 Конституції України передбачає, що обов’язковий пенсійний вік для суддів становить шістдесят п’ять років."
+        }
+    },
+    {
+        "id": 82,
+        "translation": {
+            "en": "Code of Administrative Justice 2005 (2017 restatement)",
+            "uk": "Кодекс адміністративного судочинства України 2005 року (у редакції 2017 року)"
+        }
+    },
+    {
+        "id": 83,
+        "translation": {
+            "en": "28.  Article 361 § 5 (3) of the Code provides that the finding of a violation of Ukraine’s international obligations by an international judicial institution is grounds for requesting the reopening of proceedings in an administrative case.",
+            "uk": "28.  Пункт 3 частини п’ятої статті 361 Кодексу передбачає, що встановлення міжнародною судовою установою порушення Україною міжнародних зобов’язань є підставою для подання заяви про поновлення провадження в адміністративній справі."
+        }
+    },
+    {
+        "id": 84,
+        "translation": {
+            "en": "Judiciary and the Status of Judges Act 2010 (as in force at the relevant time)",
+            "uk": "Закон України «Про судоустрій та статус суддів» 2010 року (у редакції, чинній на момент подій)"
+        }
+    },
+    {
+        "id": 85,
+        "translation": {
+            "en": "29.  Section 120 of the Act provided that judges who had served for at least twenty years could resign, preserving their judicial status and related immunities. Applications had to be submitted to the HCJ which, within a month of receipt of that application, had to make an application for dismissal due to resignation to the authority who had appointed the judge (constitutional changes of September 2016 conferred on the HCJ itself the power to dismiss judges).",
+            "uk": "29.  Стаття 120 Закону передбачала, що судді, які пропрацювали щонайменше двадцять років, могли подати заяву про відставку, зберігши своє звання судді та пов’язані з цим гарантії недоторканності. Заяви потрібно було подавати до ВРЮ, яка протягом одного місяця з дня надходження відповідної заяви вносила до органу, який обрав або призначив суддю, подання про звільнення судді з посади (зміни, внесені до Конституції України у вересні 2016 року, надали ВРЮ повноваження самій звільняти суддів)."
+        }
+    },
+    {
+        "id": 86,
+        "translation": {
+            "en": "Judiciary and the Status of Judges Act 2016",
+            "uk": "Закон України «Про судоустрій та статус суддів» 2016 року"
+        }
+    },
+    {
+        "id": 87,
+        "translation": {
+            "en": "31. Section 56(7)(2) of the Judiciary and the Status of Judges Act 2016 provides that judges, among their other duties, must maintain high standards of conduct in any activity in order to ensure public trust in the judiciary.",
+            "uk": "31.  Пункт 2 частини сьомої статті 56 Закону України «Про судоустрій та статус суддів» 2016 року передбачає, що судді, окрім інших своїх обов’язків, мають підтримувати високі стандарти поведінки у будь-якій діяльності з метою укріплення суспільної довіри до суду."
+        }
+    },
+    {
+        "id": 88,
+        "translation": {
+            "en": "Government Cleansing (Lustration) Act 2014",
+            "uk": "Закон України «Про очищення влади» (люстрацію) 2014 року"
+        }
+    },
+    {
+        "id": 89,
+        "translation": {
+            "en": "32.  The relevant provisions of the GCA are summarised in Polyakh (cited above, §§ 73, 74 and 77) as follows:",
+            "uk": "32.  Відповідні положення Закону України «Про очищення влади» узагальнено в згаданому рішенні у справі «Полях та інші проти України» (Polyakh and Others v. Ukraine), пункти 73, 74 і 77) так:"
+        }
+    },
+    {
+        "id": 90,
+        "translation": {
+            "en": "“2.  Categories of individuals subject to restrictive measures: the one-year rule and the “EuroMaidan” period rule",
+            "uk": "«2.  Категорії осіб, до яких застосовуються обмежувальні заходи: правило одного року та правило періоду «Євромайдану»"
+        }
+    },
+    {
+        "id": 91,
+        "translation": {
+            "en": "73.  The Act provides for the dismissal of certain categories of individuals from their positions in the civil service. These include individuals who (a) for at least a year in the period from 25 February 2010 to 22 February 2014 (“the one-year period”) or (b) for any period of time from 21 November 2013 to 22 February 2014 (the “EuroMaidan period”) occupied the following positions:",
+            "uk": "73.  Закон передбачає звільнення певних категорій осіб з їхніх посад державної служби. До них відносяться особи, які (а) не менше одного року у період з \n25 лютого 2010 року до 22 лютого 2014 року (далі – однорічний період) або (b) у будь-який період часу з 21 листопада 2013 року до 22 лютого 2014 року (далі – період «Євромайдану») обіймали такі посади:"
+        }
+    },
+    {
+        "id": 92,
+        "translation": {
+            "en": "(iii) members of the High Council of Justice, the High Judicial Qualifications Commission, the head and deputy heads of the State Judicial Administration;",
+            "uk": "(iii) членів Вищої ради юстиції, членів Вищої кваліфікаційної комісії суддів України, Голови Державної судової адміністрації України та його заступників;"
+        }
+    },
+    {
+        "id": 93,
+        "translation": {
+            "en": "3.  Ten-year and five-year bans",
+            "uk": "3.  Десятирічна та п’ятирічна заборони"
+        }
+    },
+    {
+        "id": 94,
+        "translation": {
+            "en": "4.  Procedure",
+            "uk": "4.  Процедура"
+        }
+    },
+    {
+        "id": 95,
+        "translation": {
+            "en": "Restoration of Trust in the Judiciary Act 2014",
+            "uk": "Закон України «Про відновлення довіри до судової влади в Україні» 2014 року"
+        }
+    },
+    {
+        "id": 96,
+        "translation": {
+            "en": "33.  The Act came into force on 11 April 2014. It provided that from the date of the Act’s entry into force, the powers of the members of the High Council of Justice, the High Judicial Qualifications Commission and presidents of the higher courts would come to an end and that new elections would be held for those positions.",
+            "uk": "33.  11 квітня 2014 року цей Закон набрав чинності. Він передбачав, що з дати набрання чинності Законом припиняються повноваження всіх членів Вищої ради юстиції, Вищої кваліфікаційної комісії суддів України, голів усіх судів вищих інстанцій і проводяться нові вибори на зазначені посади."
+        }
+    },
+    {
+        "id": 97,
+        "translation": {
+            "en": "Code of Judicial Ethics approved by the Assembly of Judges of Ukraine on 22 February 2013",
+            "uk": "Кодекс суддівської етики, затверджений з’їздом суддів України 22 лютого 2013 року"
+        }
+    },
+    {
+        "id": 98,
+        "translation": {
+            "en": "34.  Article 1 of the Code provides that judges must be examples of observance of the law, of the principle of the rule of law, and of their judicial oath, and must maintain high standards of conduct to strengthen public confidence in the judiciary. Article 3 provides that judges must endeavor to conduct themselves in such a manner that their conduct would be considered irreproachable by a reasonable, law-abiding and wellinformed person.",
+            "uk": "34.  Стаття 1 Кодексу передбачає, що судді повинні бути прикладами додержання вимог Закону, принципу верховенства права та їхньої присяги судді, а також дотримання високих стандартів поведінки з метою зміцнення довіри громадян до суду. Стаття 3 передбачає, що судді мають докладати всіх зусиль для того, щоб на думку розсудливої, законослухняної та поінформованої людини його поведінка була бездоганною."
+        }
+    },
+    {
+        "id": 99,
+        "translation": {
+            "en": "International material",
+            "uk": "Міжнародні документи"
+        }
+    },
+    {
+        "id": 100,
+        "translation": {
+            "en": "Bangalore Principles",
+            "uk": "Бангалорські принципи поведінки суддів"
+        }
+    },
+    {
+        "id": 101,
+        "translation": {
+            "en": "35.  The Bangalore Draft Code of Judicial Conduct 2001 was adopted by the Judicial Group on Strengthening Judicial Integrity, and it was revised at the Round Table Meeting of Chief Justices held in The Hague in November 2002. The relevant principle contained therein reads as follows:",
+            "uk": "35.  Проєкт Бангалорських принципів поведінки суддів 2001 року був схвалений Суддівською групою з питання зміцнення чесності і непідкупності судових органів, і переглянутий на засіданні круглого столу головних суддів, проведеного у м. Гаага у листопаді 2002 року. У ньому зазначений такий відповідний принцип:"
+        }
+    },
+    {
+        "id": 102,
+        "translation": {
+            "en": "“4.2  As a subject of constant public scrutiny, a judge must accept personal restrictions that might be viewed as burdensome by the ordinary citizen and should do so freely and willingly. In particular, a judge shall conduct himself or herself in a way that is consistent with the dignity of the judicial office.”",
+            "uk": "«4.2 Постійна увага з боку суспільства покладає на суддю обов’язок прийняти ряд обмежень, і, незважаючи на те, що пересічному громадянину ці обов’язки могли б здатися обтяжливими, суддя приймає їх добровільно та охоче. Поведінка судді має відповідати високому статусу його посади»."
+        }
+    },
+    {
+        "id": 103,
+        "translation": {
+            "en": "Venice Commission’s opinions on the GCA",
+            "uk": "Висновки Венеціанської комісії щодо Закону України «Про очищення влади»"
+        }
+    },
+    {
+        "id": 104,
+        "translation": {
+            "en": "36.  The relevant parts of the interim and final opinions of the Venice Commission on the GCA, adopted at 101st and 103rd (12-13 December 2014 and 19-20 June 2015) plenary sessions respectively, read as follows:",
+            "uk": "36.  У відповідних частинах проміжного та остаточного висновків Венеціанської комісії щодо Закону України «Про очищення влади», схвалених на 101-ій та 103-ій (12 – 13 грудня 2014 року та 19 – 20 червня 2015 року) Пленарних сесіях відповідно, зазначено:"
+        }
+    },
+    {
+        "id": 105,
+        "translation": {
+            "en": "Interim opinion",
+            "uk": "Проміжний висновок"
+        }
+    },
+    {
+        "id": 106,
+        "translation": {
+            "en": "Final opinion",
+            "uk": "Остаточний висновок"
+        }
+    },
+    {
+        "id": 107,
+        "translation": {
+            "en": "“64.  In its Interim Opinion, the Venice Commission noted that “even a voluntary resignation from the position prior to 22 February 2014 would not be sufficient to be excluded from lustration” (para. 65). The 1996 Guidelines explicitly state that “lustration shall not be imposed on a person who /.../ in good faith voluntarily repudiated and/or abandoned membership, employment or agency with the relevant organisation before the transition to a democratic régime” (para. l).",
+            "uk": "«64.  У своєму Проміжному висновку Венеційська комісія зазначила, що «звільнення з посади навіть за власним бажанням до 22 лютого 2014 року не є достатнім для уникнення люстрації» (пункт 65). У Керівних принципах щодо люстрації 1996 року чітко вказано, що «люстрація не повинна застосовуватися до особи, яка /.../ добросовісно і добровільно відмовилася від членства, займаної посади або співробітництва з відповідною організацією до моменту переходу до демократичного режиму» (пункт I)."
+        }
+    },
+    {
+        "id": 108,
+        "translation": {
+            "en": "111.  The Venice Commission would particularly like to draw attention to the following main points:",
+            "uk": "111.  Венеціанська комісія хотіла би особливо звернути увагу на такі основні моменти:"
+        }
+    },
+    {
+        "id": 109,
+        "translation": {
+            "en": "b)  Ordinary judges should be excluded from Article 2(4) and subject solely to the regime of the Law on the restoration of trust in the judiciary of Ukraine. ”",
+            "uk": "b)  Звичайні судді повинні бути виключені з частини четвертої статті 2 і підпадати виключно під дію Закону України «Про відновлення довіри до судової системи в Україні».»"
+        }
+    },
+    {
+        "id": 110,
+        "translation": {
+            "en": "THE LAW",
+            "uk": "ПРАВО"
+        }
+    },
+    {
+        "id": 111,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLE 8 OF THE CONVENTION",
+            "uk": "стверджуване порушення статті 8 Конвенції"
+        }
+    },
+    {
+        "id": 112,
+        "translation": {
+            "en": "37.  The applicant complained of a violation of his rights under Article 8 of the Convention following his dismissal from the position of Supreme Court judge. Article 8 reads as follows:",
+            "uk": "37.  Заявник скаржився на порушення його прав за статтею 8 Конвенції внаслідок його звільнення з посади судді Верховного Суду України. Стаття 8 Конвенції передбачає:"
+        }
+    },
+    {
+        "id": 113,
+        "translation": {
+            "en": "“1.  Everyone has the right to respect for his private and family life, his home and his correspondence.",
+            "uk": "«1.  Кожен має право на повагу до свого приватного і сімейного життя, до свого житла і кореспонденції."
+        }
+    },
+    {
+        "id": 114,
+        "translation": {
+            "en": "2.  There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.”",
+            "uk": "2.  Органи державної влади не можуть втручатись у здійснення цього права, за винятком випадків, коли втручання здійснюється згідно із законом і є необхідним у демократичному суспільстві в інтересах національної та громадської безпеки чи економічного добробуту країни, для запобігання заворушенням чи злочинам, для захисту здоров’я чи моралі або для захисту прав і свобод інших осіб.»"
+        }
+    },
+    {
+        "id": 115,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 116,
+        "translation": {
+            "en": "39.  As to applicability of Article 8, the Court already held in Polyakh and Others (cited above, §§ 208-11) that application of measures under the Government Cleansing Act constituted an interference with the right to respect for private life, on account of the combination of the following factors:",
+            "uk": "39.  Щодо застосовності статті 8 Конвенції Суд вже встановив в згаданому рішенні у справі «Полях та інші проти України» (Polyakh and Others v. Ukraine), пункти 208 – 211), що застосування заходів, передбачених Законом України «Про очищення влади», становило втручання у право на повагу до приватного життя у зв’язку з поєднанням таких факторів:"
+        }
+    },
+    {
+        "id": 117,
+        "translation": {
+            "en": "(i)\tthe applicants were dismissed from the civil service losing all their remuneration with immediate effect;",
+            "uk": "(i)\tзаявників звільнили з державної служби і вони одразу втратили всі свої винагороди;"
+        }
+    },
+    {
+        "id": 118,
+        "translation": {
+            "en": "(ii)\tthey were banned from occupying positions in the civil service for ten years, and",
+            "uk": "(ii)\tдо них було застосовано заборону обіймати посади державної служби на строк десять років, та"
+        }
+    },
+    {
+        "id": 119,
+        "translation": {
+            "en": "(iii)\tthe applicants’ names were entered into the publicly accessible online Lustration Register. which was very likely to be associated with social and professional stigma.",
+            "uk": "(iii)\tімена заявників було внесено до загальнодоступного в мережі Інтернет Єдиного державного реєстру осіб, щодо яких застосовано положення Закону України «Про очищення влади», що ймовірно було тісно пов’язано із соціальною та професійною стигматизацією."
+        }
+    },
+    {
+        "id": 120,
+        "translation": {
+            "en": "40.  In Oleksandr Volkov v. Ukraine (no. 21722/11, §§ 165-67, ECHR 2013), the Court also found that dismissal of a Supreme Court judge due to a “breach of judicial oath” had constituted an interference with his right to respect for private life because it had involved loss of job with consequences for his material well-being and had affected his reputation.",
+            "uk": "40.  В рішенні у справі «Олександр Волков проти України» (Oleksandr Volkov v. Ukraine), заява № 21722/11, пункти 165 – 167, ЄСПЛ 2013) Суд також встановив, що звільнення судді Верховного Суду України у зв’язку з «порушенням присяги судді» було втручанням у його право на повагу до приватного життя, оскільки призвело до втрати роботи, що мало наслідки для його матеріального добробуту та вплинуло на його репутацію."
+        }
+    },
+    {
+        "id": 121,
+        "translation": {
+            "en": "41.  All those considerations are equally applicable in the present case. The fact that the applicant was only about five years away from mandatory retirement age at the time he was effectively dismissed is not sufficient to change that conclusion.",
+            "uk": "41.  Усі ці міркування також застосовні у цій справі. Те, що на момент фактичного звільнення заявнику залишалося лише близько п’яти років до виходу на пенсію, недостатньо для зміни цього висновку."
+        }
+    },
+    {
+        "id": 122,
+        "translation": {
+            "en": "42.  Firstly, the applicant suffered considerable prejudice in terms of retirement payments to which he was entitled (see paragraphs 25 and 26 above).",
+            "uk": "42.  По-перше, заявник зазнав значної шкоди з огляду на пенсійні виплати, на які він мав право (див. пункти 25 і 26)."
+        }
+    },
+    {
+        "id": 123,
+        "translation": {
+            "en": "44.  The Court concludes that Article 8 of the Convention is applicable in the present case.",
+            "uk": "44.  Суд доходить висновку про застосовність статті 8 Конвенції у цій справі."
+        }
+    },
+    {
+        "id": 124,
+        "translation": {
+            "en": "45.  The Court notes that this complaint is neither manifestly ill-founded nor inadmissible on any other grounds listed in Article 35 of the Convention. It must therefore be declared admissible.",
+            "uk": "45.  Суд зазначає, що ця скарга не є ні явно необґрунтованою, ні неприйнятною з будь-яких інших підстав, перелічених у статті 35 Конвенції. Отже, вона має бути визнана прийнятною."
+        }
+    },
+    {
+        "id": 125,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 126,
+        "translation": {
+            "en": "The parties’ submissions",
+            "uk": "Доводи сторін"
+        }
+    },
+    {
+        "id": 127,
+        "translation": {
+            "en": "46.  The applicant argued that the High Council of Justice (“the HCJ”) had unlawfully postponed the examination of his resignation application, and had had to examine it within thirty days after it had been lodged, regardless of the application under the Government Cleansing Act (“the GCA”). He relied on the legislative provision set out in paragraph 29 above.",
+            "uk": "46.  Заявник стверджував, що Вища рада юстиції (далі – ВРЮ, згодом Вища рада правосуддя, далі – ВРП) незаконно відклала розгляд його заяви про відставку, хоча мала розглянути її протягом тридцяти днів з дати надходження, незалежно від наявності звернення за Законом України «Про очищення влади». Він посилався на положення законодавства, наведене у пункті 29."
+        }
+    },
+    {
+        "id": 128,
+        "translation": {
+            "en": "The Court’s assessment",
+            "uk": "Оцінка Суду"
+        }
+    },
+    {
+        "id": 129,
+        "translation": {
+            "en": "50.  In Polyakh (cited above, §§ 267-82) the Court held that application of the measures under the GCA constituted an interference with the applicants’ right to respect for their private life, that it was “in accordance with the law”, and presumably pursued the legitimate aims of the protection of national security and public safety, the prevention of disorder, and the protection of the rights and freedoms of others.",
+            "uk": "50.  В згаданому рішенні у справі «Полях та інші проти України» (Polyakh and Others v. Ukraine), пункти 267 – 282) Суд встановив, що застосування заходів, передбачених Законом України «Про очищення влади», становило втручання у право заявників на повагу до їхнього приватного життя, воно здійснювалося «згідно із законом» і передбачувано переслідувало законні цілі захисту національної та громадської безпеки, запобігання заворушенням, а також захисту прав і свобод інших."
+        }
+    },
+    {
+        "id": 130,
+        "translation": {
+            "en": "53.  The Government argued that the applicant’s case had to be distinguished from Polyakh (cited above) in that an individualised assessment of his role and conduct had been prevented by his failure to submit a lustration declaration (see paragraph 49 above). In the assessment of the Grand Chamber of the Supreme Court, such a failure amounted to a serious breach of the applicant’s duties as a Supreme Court judge, justifying his dismissal.",
+            "uk": "53.  Уряд стверджував, що справу заявника слід відрізняти від згаданої справи «Полях та інші проти України» (Polyakh and Others v. Ukraine), оскільки здійсненню індивідуальної оцінки ролі та поведінки заявника перешкодило неподання ним заяви про незастосування до нього Закону України «Про очищення влади» (див. пункт 49). Згідно з оцінкою Великої Палати Верховного Суду таке неподання становило серйозне порушення обов’язків заявника як судді Верховного Суду України і виправдовувало його звільнення."
+        }
+    },
+    {
+        "id": 131,
+        "translation": {
+            "en": "54.  The Court is not persuaded by this argument. In Polyakh (cited above, §§ 309-15) the Court has already dealt with the case of an applicant who had been dismissed for filing his lustration declaration with a four-day delay. It noted:",
+            "uk": "54.  Суд не переконаний цим аргументом. В згаданому рішенні у справі «Полях та інші проти України» (Polyakh and Others v. Ukraine), пункти 309 – 315) Суд уже розглядав справу заявника, якого звільнили у зв’язку з поданням ним заяви про незастосування до нього Закону України «Про очищення влади» із чотириденним запізненням. У ньому було зазначено:"
+        }
+    },
+    {
+        "id": 132,
+        "translation": {
+            "en": "58.  These considerations are sufficient for the Court to conclude, in the particular circumstances of the present case, that the imposition on the applicant of the measures envisaged by the GCA had not been necessary in a democratic society.",
+            "uk": "58.  Цих міркувань достатньо для висновку Суду, що за конкретних обставин цієї справи застосування до заявника заходів, передбачених Законом України «Про очищення влади», не було необхідним у демократичному суспільстві."
+        }
+    },
+    {
+        "id": 133,
+        "translation": {
+            "en": "59.  There has, therefore, been a violation of Article 8 of the Convention.",
+            "uk": "59.  Отже, було порушено статтю 8 Конвенції."
+        }
+    },
+    {
+        "id": 134,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLE 14 TAKEN IN CONJUNCTION WITH ARTICLE 8 OF THE CONVENTION",
+            "uk": "СТВЕРДЖУВАНЕ ПОРУШЕННЯ СТАТТІ 14 КОНВЕНЦІЇ У ПОЄДНАННІ ЗІ СТАТТЕЮ 8 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 135,
+        "translation": {
+            "en": "60.  The applicant complained, under Article 14 taken in conjunction with Article 8 of the Convention, that he had been discriminated against visà-vis persons who had not occupied high-ranking positions during the presidency of Mr Yanukovych and vis-à-vis another judge (S.) who had been in a similar situation to the applicant but had been allowed to resign. Article 14 of the Convention reads:",
+            "uk": "60.  Заявник скаржився за статтею 14 Конвенції у поєднанні зі статтею 8 Конвенції на піддання його дискримінації visà-vis осіб, які не обіймали високі посади під час президентства пана В. Януковича, та visà-vis іншого судді (С.), який перебував в аналогічній із заявником ситуації, але його заяву про відставку задовольнили. Стаття 14 Конвенції передбачає:"
+        }
+    },
+    {
+        "id": 136,
+        "translation": {
+            "en": "“The enjoyment of the rights and freedoms set forth in [the] Convention shall be secured without discrimination on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.”",
+            "uk": "«Користування правами та свободами, визнаними в [цій] Конвенції, має бути забезпечене без дискримінації за будь-якою ознакою – статі, раси, кольору шкіри, мови, релігії, політичних чи інших переконань, національного чи соціального походження, належності до національних меншин, майнового стану, народження, або за іншою ознакою.»"
+        }
+    },
+    {
+        "id": 137,
+        "translation": {
+            "en": "61.  The Government submitted that there were no grounds for considering that the applicant had suffered any discrimination.",
+            "uk": "61.  Уряд стверджував про відсутність підстав вважати, що заявника було піддано дискримінації."
+        }
+    },
+    {
+        "id": 138,
+        "translation": {
+            "en": "62.  The Court notes that this part of the application is essentially linked to the applicant’s complaint under Article 8 of the Convention. This part of the application must therefore likewise be declared admissible.",
+            "uk": "62.  Суд зазначає, що ця частина заяви по суті пов’язана зі скаргою заявника за статтею 8 Конвенції. Тому ця частина заяви також має бути визнана прийнятною."
+        }
+    },
+    {
+        "id": 139,
+        "translation": {
+            "en": "63.  However, in the circumstances of the present case and having regard to its findings above under Article 8, the Court considers that it is not necessary to examine the applicant’s complaints under Article 14 taken in conjunction with Article 8 of the Convention.",
+            "uk": "63.  Однак за обставин цієї справи та з огляду на свої висновки, наведені за статтею 8 Конвенції, Суд вважає, що немає необхідності розглядати скарги заявника за статтею 14 Конвенції у поєднанні зі статтею 8 Конвенції."
+        }
+    },
+    {
+        "id": 140,
+        "translation": {
+            "en": "APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+            "uk": "ЗАСТОСУВАННЯ СТАТТІ 41 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 141,
+        "translation": {
+            "en": "64.  Article 41 of the Convention provides:",
+            "uk": "64.  Стаття 41 Конвенції передбачає:"
+        }
+    },
+    {
+        "id": 142,
+        "translation": {
+            "en": "“If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”",
+            "uk": "«Якщо Суд визнає факт порушення Конвенції або протоколів до неї і якщо внутрішнє право відповідної Високої Договірної Сторони передбачає лише часткове відшкодування, Суд, у разі необхідності, надає потерпілій стороні справедливу сатисфакцію.»"
+        }
+    },
+    {
+        "id": 143,
+        "translation": {
+            "en": "Damage",
+            "uk": "Шкода"
+        }
+    },
+    {
+        "id": 144,
+        "translation": {
+            "en": "66.  The applicant also claimed EUR 10,000 in respect of non-pecuniary damage.",
+            "uk": "66.  Заявник також вимагав 10 000 євро в якості відшкодування моральної шкоди."
+        }
+    },
+    {
+        "id": 145,
+        "translation": {
+            "en": "68.  The Court considers that the question of compensation for pecuniary damage is not ready for decision. That question must accordingly be reserved and the subsequent procedure fixed, having due regard to any agreement which might be reached between the Government and the applicant (Rule 75 §§ 1 and 4 of the Rules of Court).",
+            "uk": "68.  Суд вважає, що питання про відшкодування матеріальної шкоди не готове до вирішення. Отже, вирішення цього питання має бути відкладене, має бути призначено додатковий розгляд і належним чином враховано будь-яку угоду, якої можуть досягти Уряд та заявник (пункти 1 і 4 Правила 75 Регламенту Суду)."
+        }
+    },
+    {
+        "id": 146,
+        "translation": {
+            "en": "69.  The Court awards the applicant EUR 5,000 in respect of non-pecuniary damage, plus any tax that may be chargeable.",
+            "uk": "69.  Суд присуджує заявнику 5 000 євро в якості відшкодування моральної шкоди та додатково суму будь-якого податку, що може нараховуватися."
+        }
+    },
+    {
+        "id": 147,
+        "translation": {
+            "en": "Costs and expenses",
+            "uk": "Судові та інші витрати"
+        }
+    },
+    {
+        "id": 148,
+        "translation": {
+            "en": "71.  The Government contested that claim, considering it unjustified and excessive. In particular, they argued that the applicant’s translation and postal expenses had been incurred unnecessarily.",
+            "uk": "71.  Уряд заперечив проти цієї вимоги, вважаючи її необґрунтованою та надмірною. Зокрема, він стверджував, що витрати заявника на оплату послуг з перекладу та поштові витрати не були неминучими."
+        }
+    },
+    {
+        "id": 149,
+        "translation": {
+            "en": "72.  According to the Court’s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these were actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the documents in its possession and the above criteria, the Court considers it reasonable to award the sum of EUR 1,500 covering the costs of the proceedings before the Court, plus any tax that may be chargeable to the applicant.",
+            "uk": "72.  Відповідно до практики Суду заявник має право на компенсацію судових та інших витрат, лише якщо буде доведено, що такі витрати були фактичними і неминучими, а їхній розмір – обґрунтованим. У цій справі з огляду на наявні у нього документи та зазначені критерії Суд вважає за розумне присудити суму у розмірі 1 500 євро, що охоплює витрати, понесені під час провадження у Суді, та додатково суму будь-якого податку, що може нараховуватися заявнику."
+        }
+    },
+    {
+        "id": 150,
+        "translation": {
+            "en": "Default interest",
+            "uk": "Пеня"
+        }
+    },
+    {
+        "id": 151,
+        "translation": {
+            "en": "73.  The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+            "uk": "73.  Суд вважає за належне призначити пеню на підставі граничної позичкової ставки Європейського центрального банку, до якої має бути додано три відсоткові пункти."
+        }
+    },
+    {
+        "id": 152,
+        "translation": {
+            "en": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+            "uk": "ЗА ЦИХ ПІДСТАВ СУД ОДНОГОЛОСНО"
+        }
+    },
+    {
+        "id": 153,
+        "translation": {
+            "en": "Declares the application admissible;",
+            "uk": "Оголошує заяву прийнятною;"
+        }
+    },
+    {
+        "id": 154,
+        "translation": {
+            "en": "Holds that there has been a violation of Article 8 of the Convention;",
+            "uk": "Постановляє, що було порушено статтю 8 Конвенції;"
+        }
+    },
+    {
+        "id": 155,
+        "translation": {
+            "en": "Holds that there is no need to examine the complaint under Article 14 taken in conjunction with Article 8 of the Convention;",
+            "uk": "Постановляє, що немає необхідності розглядати скаргу за статтею 14 Конвенції у поєднанні зі статтею 8 Конвенції;"
+        }
+    },
+    {
+        "id": 156,
+        "translation": {
+            "en": "Holds that, as regards pecuniary damage resulting from the violations found, the question of just satisfaction is not ready for decision and accordingly,",
+            "uk": "Постановляє, що в частині стосовно відшкодування матеріальної шкоди внаслідок встановленого порушення питання справедливої сатисфакції не готове до вирішення, а тому"
+        }
+    },
+    {
+        "id": 157,
+        "translation": {
+            "en": "reserves this question;",
+            "uk": "відкладає розгляд цього питання;"
+        }
+    },
+    {
+        "id": 158,
+        "translation": {
+            "en": "invites the Government and the applicant to submit, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, their written observations on this question and, in particular, to notify the Court of any agreement that they may reach;",
+            "uk": "закликає Уряд і заявника упродовж трьох місяців з дати, коли це рішення набуде статусу остаточного відповідно до пункту 2 статті 44 Конвенції, надати свої письмові зауваження з цього питання та, зокрема, повідомити Суд про будь-яку угоду, якої вони можуть досягти;"
+        }
+    },
+    {
+        "id": 159,
+        "translation": {
+            "en": "reserves the further procedure and delegates to the President of the Chamber the power to fix the same if need be;",
+            "uk": "відкладає подальший розгляд цього питання та делегує Голові палати повноваження вирішити його за необхідності;"
+        }
+    },
+    {
+        "id": 160,
+        "translation": {
+            "en": "Holds",
+            "uk": "Постановляє, що:"
+        }
+    },
+    {
+        "id": 161,
+        "translation": {
+            "en": "that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+            "uk": "упродовж трьох місяців з дати, коли це рішення набуде статусу остаточного відповідно до пункту 2 статті 44 Конвенції, держава-відповідач повинна сплатити заявнику такі суми, які мають бути конвертовані в національну валюту держави-відповідача за курсом на день здійснення платежу:"
+        }
+    },
+    {
+        "id": 162,
+        "translation": {
+            "en": "EUR 5,000 (five thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;",
+            "uk": "5 000 (п’ять тисяч), євро та додатково суму будь-якого податку, що може нараховуватися, в якості відшкодування моральної шкоди;"
+        }
+    },
+    {
+        "id": 163,
+        "translation": {
+            "en": "EUR 1,500 (one thousand five hundred euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+            "uk": "1 500 (одна тисяча п’ятсот) євро та додатково суму будь-якого податку, що може нараховуватися заявнику, в якості компенсації судових та інших витрат;"
+        }
+    },
+    {
+        "id": 164,
+        "translation": {
+            "en": "that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+            "uk": "із закінченням зазначеного тримісячного строку до остаточного розрахунку на зазначені суми нараховуватиметься простий відсоток (simple interest) у розмірі граничної позичкової ставки Європейського центрального банку, яка діятиме в період несплати, до якої має бути додано три відсоткові пункти;"
+        }
+    },
+    {
+        "id": 165,
+        "translation": {
+            "en": "Dismisses the remainder of the applicant’s claim for just satisfaction in respect of non-pecuniary damage and costs and expenses.",
+            "uk": "Відхиляє решту вимог заявника щодо справедливої сатисфакції у зв’язку з моральною шкодою, а також судовими та іншими витратами."
+        }
+    },
+    {
+        "id": 166,
+        "translation": {
+            "en": "Done in English, and notified in writing on 14 October 2021, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+            "uk": "Учинено англійською мовою та повідомлено письмово 14 жовтня 2021 року відповідно до пунктів 2 та 3 Правила 77 Регламенту Суду"
+        }
+    },
+    {
+        "id": 167,
+        "translation": {
+            "en": "{signature_p_2}",
+            "uk": "_p_2}"
+        }
+    }
+]

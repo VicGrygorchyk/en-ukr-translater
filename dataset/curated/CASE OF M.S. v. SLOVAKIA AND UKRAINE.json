@@ -1,0 +1,1577 @@
+[
+    {
+        "id": 0,
+        "translation": {
+            "en": "FIFTH SECTION",
+            "uk": "П’ЯТА СЕКЦІЯ"
+        }
+    },
+    {
+        "id": 1,
+        "translation": {
+            "en": "CASE OF M.S. v. SLOVAKIA AND UKRAINE",
+            "uk": "СПРАВА «М.С. ПРОТИ СЛОВАЧЧИНИ ТА УКРАЇНИ»"
+        }
+    },
+    {
+        "id": 2,
+        "translation": {
+            "en": "(Application no. 17189/11)",
+            "uk": "(Заява № 17189/11)"
+        }
+    },
+    {
+        "id": 3,
+        "translation": {
+            "en": "JUDGMENT",
+            "uk": "РІШЕННЯ"
+        }
+    },
+    {
+        "id": 4,
+        "translation": {
+            "en": "Art 5 §§ 2 and 4 (Ukraine) • Applicant not informed, in a language he understood, of the legal reasons for his detention and of the proceedings concerning his detention • Absence of an interpreter or lawyer in the proceedings",
+            "uk": "Пп. 2 та 4 Ст. 5 (Україна) • Заявник не був поінформований зрозумілою для нього мовою про правові підстави його затримання та про провадження щодо його затримання • Відсутність перекладача чи захисника під час судового розгляду"
+        }
+    },
+    {
+        "id": 5,
+        "translation": {
+            "en": "Art 34 (Ukraine) • Authorities complied with the obligation not to hinder exercise of the right of application",
+            "uk": "Ст. 34 (Україна) • Органи державної влади дотрималися зобов’язання не перешкоджати здійсненню права на подання заяви"
+        }
+    },
+    {
+        "id": 6,
+        "translation": {
+            "en": "STRASBOURG",
+            "uk": "СТРАСБУРГ"
+        }
+    },
+    {
+        "id": 7,
+        "translation": {
+            "en": "11 June 2020",
+            "uk": "11 червня 2020 року"
+        }
+    },
+    {
+        "id": 8,
+        "translation": {
+            "en": "FINAL",
+            "uk": "ОСТАТОЧНЕ"
+        }
+    },
+    {
+        "id": 9,
+        "translation": {
+            "en": "11/09/2020",
+            "uk": "11.09.2020"
+        }
+    },
+    {
+        "id": 10,
+        "translation": {
+            "en": "This judgment has become final under Article 44 § 2 of the Convention. It may be subject to editorial revision.",
+            "uk": "Це рішення набуло статусу остаточного відповідно до пункту 2 статті 44 Конвенції. Його текст може підлягати редакційним виправленням."
+        }
+    },
+    {
+        "id": 11,
+        "translation": {
+            "en": "In the case of M.S. v. Slovakia and Ukraine,",
+            "uk": "У справі «М.С. проти Словаччини та України»"
+        }
+    },
+    {
+        "id": 12,
+        "translation": {
+            "en": "The European Court of Human Rights (Fifth Section), sitting as a Chamber composed of:",
+            "uk": "Європейський суд з прав людини (П’ята секція), засідаючи палатою, до складу якої увійшли:"
+        }
+    },
+    {
+        "id": 13,
+        "translation": {
+            "en": "Síofra O’Leary, President,\n\tGanna Yudkivska,\n\tYonko Grozev,\n\tAlena Poláčková,\n\tLәtif Hüseynov,\n\tLado Chanturia,\n\tAnja Seibert-Fohr, judges,\nand Claudia Westerdiek, Section Registrar,",
+            "uk": "Сіофра О’Лірі (Síofra O’Leary), Голова,\n\tГанна Юдківська (Ganna Yudkivska),\n\tЙонко Грозєв (Yonko Grozev),\n\tОлена Полачкова (Alena Poláčková),\n\tЛятіф Гусейнов (Lәtif Hüseynov),\n\tЛадо Чантурія (Lado Chanturia),\n\tАня Сайбер-Фор (Anja Seibert-Fohr), судді,\nта Клаудія Вестердік (Claudia Westerdiek), Секретар секції,"
+        }
+    },
+    {
+        "id": 14,
+        "translation": {
+            "en": "Having regard to:",
+            "uk": "З огляду на:"
+        }
+    },
+    {
+        "id": 15,
+        "translation": {
+            "en": "the application against Slovakia and Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by an Afghan national, Mr M.S. (“the applicant”), on 16 March 2011;",
+            "uk": "заяву, яку 16 березня 2011 року подав до Суду проти України на підставі статті 34 Конвенції про захист прав людини і основоположних свобод (далі – Конвенція) громадянин Афганістану, пан М.С. (далі – заявник);"
+        }
+    },
+    {
+        "id": 16,
+        "translation": {
+            "en": "the decision to give notice of the complaints set out in paragraph 1 below to the Governments of the Slovak Republic and Ukraine and to strike out of the list and declare inadmissible the remainder of the application;",
+            "uk": "рішення повідомити Уряди Словацької Республіки та України про скарги, наведені у пункті 1, та вилучити з реєстру справ і визнати решту скарг у заяві неприйнятними;"
+        }
+    },
+    {
+        "id": 17,
+        "translation": {
+            "en": "the decision of the Section President to grant leave to intervene in written procedure (Article 36 § 2 of the Convention and Rule 44 § 2) to the Office of the United Nations High Commissioner for Refugees and the Human Rights League, a Slovakian NGO;",
+            "uk": "рішення Голови секції дозволити Управлінню Верховного комісара Організації Об’єднаних Націй у справах біженців і словацькій НУО «Ліга прав людини» взяти участь у письмовому провадженні (пункт 2 статті 36 Конвенції та пункт 2 Правила 44 Регламенту Суду);"
+        }
+    },
+    {
+        "id": 18,
+        "translation": {
+            "en": "the decision not to have the applicant’s name disclosed;",
+            "uk": "рішення про нерозголошення відомостей про особу заявника;"
+        }
+    },
+    {
+        "id": 19,
+        "translation": {
+            "en": "Having deliberated in private on 17 March 2020,",
+            "uk": "після обговорення за зачиненими дверима 17 березня 2020 року"
+        }
+    },
+    {
+        "id": 20,
+        "translation": {
+            "en": "Delivers the following judgment, which was adopted on that date:",
+            "uk": "постановляє таке рішення, що було ухвалено у той день:"
+        }
+    },
+    {
+        "id": 21,
+        "translation": {
+            "en": "INTRODUCTION",
+            "uk": "ВСТУП"
+        }
+    },
+    {
+        "id": 22,
+        "translation": {
+            "en": "THE FACTS",
+            "uk": "ФАКТИ"
+        }
+    },
+    {
+        "id": 23,
+        "translation": {
+            "en": "2.  The applicant lives in Afghanistan. He was represented by Mr A. Maksymov, a lawyer practising in Kyiv who, at the time the application was lodged, was employed by the Hebrew Immigrant Aid Society (“the HIAS”) Representative Office in Ukraine.",
+            "uk": "2.  Заявник проживає в Афганістані. Його представляв \nпан А Максимов, юрист, який практикує у м. Київ і на момент подання заяви працював в офісі Товариства допомоги єврейським іммігрантам (далі – ХІАС) в Україні."
+        }
+    },
+    {
+        "id": 24,
+        "translation": {
+            "en": "3.  The Government of the Slovak Republic were represented by their Agent, Ms M. Pirošíková. The Government of Ukraine were represented by their Agent, most recently Mr I. Lishchyna.",
+            "uk": "3.  Уряд Словацької Республіки представляв його Урядовий агент, пані М. Пірошикова. Уряд України представляв його Уповноважений, на останніх етапах провадження пан І. Ліщина."
+        }
+    },
+    {
+        "id": 25,
+        "translation": {
+            "en": "The events in Afghanistan and the applicant’s journey to Slovakia",
+            "uk": "ПОДІЇ в Афганістані та поїздка заявника до Словаччини"
+        }
+    },
+    {
+        "id": 26,
+        "translation": {
+            "en": "5.  Prior to leaving Afghanistan the applicant lived in the Kunduz province, in the north of the country.",
+            "uk": "5.  До виїзду з Афганістану заявник проживав у провінції Кундуз на півночі країни."
+        }
+    },
+    {
+        "id": 27,
+        "translation": {
+            "en": "6.  According to the applicant, his father used to work with the National Security Department of Afghanistan. Having arrested some drug smugglers, he was killed in about 2005 by unknown people, possibly associated with the Taliban. In 2010 the applicant’s maternal uncle received a threatening letter. The applicant was unaware of its precise contents, but his uncle deduced that the applicant “also faced a risk related to the killing of his father” and arranged for him to leave the country.",
+            "uk": "6.  Згідно з твердженнями заявника його батько співпрацював з Управлінням національної безпеки Афганістану. Приблизно в \n2005 році після затримання наркоторговців батька вбили невідомі люди, можливо пов’язані з талібами. У 2010 році дядько заявника по материнській лінії отримав лист з погрозами. Заявник не знав точний зміст листа, але його дядько стверджував, що заявнику «також загрожувала небезпека, пов’язана з убивством його батька», та організував його виїзд з країни."
+        }
+    },
+    {
+        "id": 28,
+        "translation": {
+            "en": "8.  At 4.10 p.m. on 23 September 2010 the applicant was arrested by the Slovakian border police while crossing into Slovakia illegally with three other Afghan nationals. He had no identity papers.",
+            "uk": "8.  23 вересня 2010 року о 16 год. 10 хв. словацька прикордонна поліція затримала заявника разом із трьома іншими громадянами Афганістану під час незаконного перетину кордону Словаччини. Він не мав жодних документів, що посвідчували особу."
+        }
+    },
+    {
+        "id": 29,
+        "translation": {
+            "en": "10.  The record of the interview was signed by a police officer and the interpreter from Slovak into English, but not by the applicant or Mr Zazai. The Government of Slovakia submitted that the applicant had been asked to sign the record but had refused without providing a reason. By contrast, two other members of his group did sign similar records.",
+            "uk": "10.  Документ з опитуванням був підписаний працівником поліції та перекладачем зі словацької на англійську мову, але не заявником чи паном Зазаєм. Уряд Словаччини стверджував, що заявника просили підписати протокол, але він відмовився без будь-яких пояснень. На противагу два інші члени групи заявника аналогічні документи підписали."
+        }
+    },
+    {
+        "id": 30,
+        "translation": {
+            "en": "12.  At 2 p.m. on 24 September 2010 the applicant was handed over to the Ukrainian authorities.",
+            "uk": "12.  24 вересня 2010 року о 14 год. 00 хв. заявника передали українським органам влади."
+        }
+    },
+    {
+        "id": 31,
+        "translation": {
+            "en": "Return to Ukraine and detention there",
+            "uk": "Повернення ДО УКРАЇНИ ТА затримання ТАМ"
+        }
+    },
+    {
+        "id": 32,
+        "translation": {
+            "en": "15.  According to the applicant, his conditions of detention in the Chop facility were unsatisfactory. The cells were overcrowded. Sometimes the detainees were not guaranteed daily exercise, and “had to make noise in order to be allowed their one-hour walk”.",
+            "uk": "15.  Згідно з твердженнями заявника умови тримання його під вартою у пункті тимчасового тримання у м. Чоп були незадовільними. Камери були переповнені. Іноді затриманим не забезпечувалися щоденні прогулянки і «доводилося шуміти, щоб їм дозволили одногодинну прогулянку»."
+        }
+    },
+    {
+        "id": 33,
+        "translation": {
+            "en": "16.  On an unspecified date the Chop unit of the State Border Control Service of Ukraine (“the SBCS”) issued an order directing the applicant to leave Ukraine voluntarily.",
+            "uk": "16.  У незазначену дату Чопський прикордонний загін Державної прикордонної служби України (далі – ДПСУ) ухвалив рішення про добровільне видворення заявника за межі України."
+        }
+    },
+    {
+        "id": 34,
+        "translation": {
+            "en": "17.  On an unspecified date the SBCS applied to the Zakarpattya Circuit Administrative Court, seeking the applicant’s forcible expulsion from Ukraine and his placement in detention pending expulsion. According to the court decision (see paragraph 18 below), the applicant agreed with the SBCS’s application. Also according to the court decision, on 1 October 2010 the SBCS and the applicant had asked the court to examine the case in their absence by way of a written procedure.",
+            "uk": "17.  У незазначену дату ДПСУ звернулася до Закарпатського окружного адміністративного суду з позовом про примусове видворення заявника за межі України та його затримання до видворення. Відповідно до постанови суду (див. пункт 18) заявник погодився із позовними вимогами ДПСУ. Також згідно з постановою суду 01 жовтня 2010 року ДПСУ та заявник звернулися до суду з проханням про розгляд справи без їхньої участі в порядку письмового провадження."
+        }
+    },
+    {
+        "id": 35,
+        "translation": {
+            "en": "18.  On 13 October 2010 the court allowed the application and ordered the applicant’s expulsion from Ukraine and his detention pending expulsion. The court stated that the applicant had been born on 14 January 1992. It held that he had entered the territory of Ukraine illegally, had no means to return voluntarily and no relatives in Ukraine, and had crossed the border (with Slovakia) illegally. For the court, this showed that he was unlikely to comply with the order to leave the territory voluntarily.",
+            "uk": "18.  13 жовтня 2010 року суд задовольнив позов і постановив видворити заявника за межі України та затримати його до видворення. Суд зазначив, що заявник народився 14 січня 1992 року. Він встановив, що заявник незаконно в’їхав на територію України, не мав коштів для добровільного виїзду та родичів на території України, а також незаконно перетнув кордон (зі Словаччиною). На думку суду, це доводило, що він навряд чи виконав би рішення про добровільний виїзд з країни."
+        }
+    },
+    {
+        "id": 36,
+        "translation": {
+            "en": "20.  According to the applicant, he was not aware of the proceedings, he did not have legal representation and did not understand his rights in the proceedings before the court. He had signed a document waiving his right to appear in court without understanding its contents. The court’s decision was not served on him and no information was provided to him on how to appeal. He therefore missed the ten-day time-limit for appeal (see the relevant provision of the domestic law in paragraph 37 below).",
+            "uk": "20.  Згідно з твердженнями заявника йому не було відомо про розгляд справи, він не мав захисника і не розумів своїх прав під час провадження у суді. Заявник підписав документ про відмову від права бути присутнім у суді, не розуміючи його змісту. Заявнику не було вручено постанову суду та не роз’яснено порядок її оскарження. Тому він пропустив десятиденний строк для оскарження (див. відповідне положення національного законодавства в пункті 37)."
+        }
+    },
+    {
+        "id": 37,
+        "translation": {
+            "en": "21.  On 14 October 2010 the applicant was transferred from the Border Guard temporary holding facility to temporary accommodation for foreign nationals and stateless persons in the Volyn Region, under the authority of the Ministry of the Interior at the time. He alleged that on arrival there, he had told the duty officer that he was fourteen years old. The officer allegedly informed the management of the facility but no action was taken.",
+            "uk": "21.  14 жовтня 2010 року заявника перевели з пункту тимчасового тримання прикордонної служби до пункту тимчасового перебування іноземців та осіб без громадянства у Волинській області, який на той момент підпорядковувався Міністерству внутрішніх справ України. Заявник стверджував, що після приїзду туди він сказав черговому працівнику, що йому було чотирнадцять років. Працівник нібито повідомив про це керівництво установи, але жодних дій вжито не було."
+        }
+    },
+    {
+        "id": 38,
+        "translation": {
+            "en": "22.  On 20 February 2011 the Embassy of Afghanistan in Kyiv conducted a telephone interview with the applicant and on 22 February 2011 issued a travel document for him, indicating his date of birth as 14 January 1992.",
+            "uk": "22.  20 лютого 2011 року Посольство Афганістану у м. Київ провело телефонну розмову із заявником і 22 лютого 2011 року видало йому проїзний документ, в якому дата його народження була вказана як \n14 січня 1992 року."
+        }
+    },
+    {
+        "id": 39,
+        "translation": {
+            "en": "Asylum application in Ukraine",
+            "uk": "Звернення із заявою про надання статусу біженця В УКРАЇНІ"
+        }
+    },
+    {
+        "id": 40,
+        "translation": {
+            "en": "23.  On 19 October 2010 the applicant, along with three other Afghans, attended a counselling session with a lawyer from an NGO, a local partner of the International Organization for Migration. One of the Afghans provided interpretation. Information on how to apply for refugee status was provided. The applicant did not contest that the session had been held, but stated that he had no recollection of it.",
+            "uk": "23.  19 жовтня 2010 року заявник разом із трьома іншими афганцями взяв участь у консультації з юристом НУО, місцевим партнером Міжнародної організації з міграції. Один з афганців здійснював переклад. Було надано інформацію про те, як звернутися із заявою про надання статусу біженця. Заявник не заперечував проведення цієї консультації, але стверджував, що не пам’ятав її."
+        }
+    },
+    {
+        "id": 41,
+        "translation": {
+            "en": "24.  On 23 February 2011 the applicant lodged an application for asylum in Ukraine. By way of reasoning he stated that he would be “immediately killed” if he were returned to Afghanistan.",
+            "uk": "24.  23 лютого 2011 року заявник звернувся із заявою про надання йому статусу біженця в Україні. Обґрунтовуючи свою заяву, він стверджував, що у випадку повернення до Афганістану його «одразу вб’ють»."
+        }
+    },
+    {
+        "id": 42,
+        "translation": {
+            "en": "26.  A questionnaire based on the same interview recorded the applicant’s answers to a number of standardised questions concerning his identity, history and background. It stated, in particular, that the applicant had been born on 14 January 1992, that his mother tongue was Dari and that he also spoke Pashto.",
+            "uk": "26.  В анкету на підставі тієї самої співбесіди було внесено відповіді заявника на низку стандартних запитань щодо відомостей про його особу, попередні події та походження. Зокрема у ній було вказано, що заявник народився 14 січня 1992 року, а його рідною мовою була мова дарі, і він також розмовляв мовою пушту."
+        }
+    },
+    {
+        "id": 43,
+        "translation": {
+            "en": "27.  On 9 March 2011 the Regional Migration Service rejected the applicant’s asylum application as inadmissible (see paragraphs 34 and 35 below for the description of the two stages of the asylum procedure in Ukraine). The Regional Migration Service found that",
+            "uk": "27.  09 березня 2011 р. обласний орган міграційної служби підготував наказ про відмову у наданні заявнику статусу біженця (див. пункти 34 та 35 щодо опису двох етапів процедури надання притулку в Україні). Обласний орган міграційної служби встановив, що:"
+        }
+    },
+    {
+        "id": 44,
+        "translation": {
+            "en": "(i)  the facts on which his application was based were manifestly unfounded, as he could not be defined as a “refugee” under section 1 of the Refugees Act (see paragraph 33 below);",
+            "uk": "(i)  факти, на яких ґрунтувалася його заява, були явно необґрунтованими, оскільки він не підпадав під визначення «біженець», передбачене статтею 1 Закону України «Про біженців» (див. пункт 33);"
+        }
+    },
+    {
+        "id": 45,
+        "translation": {
+            "en": "(ii)  since the applicant was not a member of any political, social or military organisation and had not been connected with any violent incidents associated with race, ethnicity, religion or political views, he did not qualify as a refugee under the Refugee Convention;",
+            "uk": "(ii)  оскільки заявник не був членом жодної політичної, громадської чи військової організації і не був причетний до будь-яких інцидентів із застосуванням фізичного насильства, пов’язаних з расовою, національною, релігійною приналежністю чи політичними поглядами, він не міг вважатися біженцем відповідно до Конвенції «Про статус біженців»;"
+        }
+    },
+    {
+        "id": 46,
+        "translation": {
+            "en": "(iii)  the fact that the country of origin had issued the applicant with a travel document demonstrated that he had benefited from protection in his country of origin, which, pursuant to Article 1.E of the Refugee Convention, meant that the Refugee Convention did not apply to him;",
+            "uk": "(iii)  надання заявнику країною походження проїзного документа, свідчило, що він користувався захистом у своїй країні походження, і це означало, що відповідно до пункту E статті 1 Конвенції «Про статус біженців» ця Конвенція до нього не застосовувалася;"
+        }
+    },
+    {
+        "id": 47,
+        "translation": {
+            "en": "(iv)  the applicant had not applied for asylum while travelling through Tajikistan, Russia or Ukraine but had done so only after being returned from Slovakia to Ukraine. This showed that he had not intended to seek asylum in Ukraine but had meant to reach the United Kingdom, where his sister resided;",
+            "uk": "(iv)  заявник не звертався із заявами про надання статусу біженця під час поїздки через Таджикистан, Росію чи Україну, а зробив це лише після передачі його зі Словаччини до України. Це свідчило, що він не мав наміру отримати притулок в Україні, а бажав потрапити до Сполученого Королівства, де проживала його сестра;"
+        }
+    },
+    {
+        "id": 48,
+        "translation": {
+            "en": "(v)  since the applicant had no identity documents, it was not possible to identify him or his country of origin.",
+            "uk": "(v)  оскільки заявник не мав жодних документів, що посвідчують особу, ідентифікувати його особу чи країну походження було неможливо."
+        }
+    },
+    {
+        "id": 49,
+        "translation": {
+            "en": "Expulsion to Afghanistan",
+            "uk": "Видворення до Афганістану"
+        }
+    },
+    {
+        "id": 50,
+        "translation": {
+            "en": "28.  According to the applicant, on 11 March 2011 in preparation for his expulsion to Afghanistan, he was transferred to Mukacheve, Ukraine, where the Migration Service’s decision of 9 March 2011 was notified to him.",
+            "uk": "28.  Згідно з твердженнями заявника 11 березня 2011 року під час підготовки його видворення до Афганістану його перевели до м. Мукачево, Україна, де заявнику повідомили про наказ Міграційної служби України від 09 березня 2011 року."
+        }
+    },
+    {
+        "id": 51,
+        "translation": {
+            "en": "29.  According to the applicant, on 12 March 2011, a Saturday, an NGO partner of the UNHCR attempted to contact him and other Afghan nationals facing expulsion to provide them with legal advice. However, it was denied access to them, preventing the applicant from applying for an interim measure with the Court under Rule 39 of the Rules of Court.",
+            "uk": "29.  Згідно з твердженнями заявника у суботу, 12 березня \n2011 року, НУО-партнер УВКБ ООН намагалася зв’язатися з ним та іншими громадянами Афганістану, яких мали видворити, для надання їм правової допомоги. Однак у доступі до них було відмовлено, що перешкодило заявнику подати до Суду заяву про застосування тимчасового заходу відповідно до Правила 39 Регламенту Суду."
+        }
+    },
+    {
+        "id": 52,
+        "translation": {
+            "en": "30.  On the same day the applicant was put on a train to Kyiv.",
+            "uk": "30.  Того ж дня заявника посадили на поїзд до м. Київ."
+        }
+    },
+    {
+        "id": 53,
+        "translation": {
+            "en": "31.  On 14 March 2011 the applicant was expelled to Kabul.",
+            "uk": "31.  14 березня 2011 року заявника було видворено до м. Кабул."
+        }
+    },
+    {
+        "id": 54,
+        "translation": {
+            "en": "32.  The applicant alleged that approximately three weeks after his expulsion to Afghanistan, some unknown people had looked for him at his home and left a threatening letter for him. His mother had arranged for him to leave Kunduz for Mazar-e Sharif and Kabul. Since that time, he had been forced to change his place of residence frequently for fear of the people who had killed his father, and had been travelling frequently between Mazar-e Sharif and Kabul.",
+            "uk": "32.  Заявник стверджував, що приблизно через три тижні після видворення до Афганістану невідомі люди шукали його в його будинку і залишили йому лист з погрозами. Його мати організувала його виїзд із м. Кундуз до м. Мазарі-Шаріф і м. Кабул. З того часу він змушений часто змінювати своє місце проживання, остерігаючись людей, які вбили його батька, та постійно їздити між м. Мазарі-Шаріф і м. Кабул."
+        }
+    },
+    {
+        "id": 55,
+        "translation": {
+            "en": "RELEVANT LEGAL FRAMEWORK AND PRACTICE",
+            "uk": "ВІДПОВІДНІ НОРМАТИВНО-ПРАВОВА БАЗА та практика"
+        }
+    },
+    {
+        "id": 56,
+        "translation": {
+            "en": "Relevant domestic law in Ukraine",
+            "uk": "Відповідне національне законодавство україни"
+        }
+    },
+    {
+        "id": 57,
+        "translation": {
+            "en": "Refugees Act of 21 June 2001 (in force at the material time)",
+            "uk": "Закон України «Про біженців» від 21 червня 2001 року (чинний на момент подій)"
+        }
+    },
+    {
+        "id": 58,
+        "translation": {
+            "en": "33.  Under section 1 a refugee was defined as follows:",
+            "uk": "33.  Стаття 1 визначала «біженця» як:"
+        }
+    },
+    {
+        "id": 59,
+        "translation": {
+            "en": "Legal Status of Foreign Nationals and Stateless Persons Act of 4 February 1994 (in force at the relevant time)",
+            "uk": "Закон України «Про правовий статус іноземців та осіб без громадянства» від 04 лютого 1994 року (чинний на момент подій)"
+        }
+    },
+    {
+        "id": 60,
+        "translation": {
+            "en": "36.  Section 32 of the Act laid down the procedure for expulsion of foreign nationals and stateless persons from Ukraine. It listed the grounds for compulsory expulsion, which included a serious breach of the legislation concerning foreign nationals and stateless persons, and provided that foreign nationals and stateless persons could be detained at temporary accommodation facilities for the period needed to organise their removal, which was not to exceed six months.",
+            "uk": "36.  Стаття 32 Закону України встановлювала порядок видворення іноземців та осіб без громадянства з України. У ній було перераховано підстави для примусового видворення, у тому числі серйозне порушення законодавства щодо іноземців та осіб без громадянства, а також передбачено можливість тримання іноземців та осіб без громадянства у пунктах тимчасового перебування на період, необхідний для підготовки їх видворення, і строк такого тримання не мав перевищувати шість місяців."
+        }
+    },
+    {
+        "id": 61,
+        "translation": {
+            "en": "Code of Administrative Justice of 6 July 2005 (as worded at the relevant time)",
+            "uk": "Кодекс адміністративного судочинства України від 06 липня \n2005 року (у редакції, чинній на момент подій)"
+        }
+    },
+    {
+        "id": 62,
+        "translation": {
+            "en": "37.  Under Article 186 of the Code an appeal had to be lodged within ten days of the pronouncement of a judgment. If the judgment was delivered in writing, an appeal had to be lodged within ten days of receipt by the applicant of a copy of the judgment.",
+            "uk": "37.  Відповідно до статті 186 Кодексу апеляційна скарга мала бути подана протягом десяти днів з дня проголошення постанови. Якщо постанова приймалася у письмовому провадженні, то апеляційну скаргу необхідно було подати протягом десяти днів з моменту отримання заявником копії постанови."
+        }
+    },
+    {
+        "id": 63,
+        "translation": {
+            "en": "International law",
+            "uk": "Міжнародне право"
+        }
+    },
+    {
+        "id": 64,
+        "translation": {
+            "en": "Agreement between the European Community and Ukraine on the Readmission of Persons",
+            "uk": "Угода між Україною та Європейським Співтовариством про реадмісію осіб"
+        }
+    },
+    {
+        "id": 65,
+        "translation": {
+            "en": "38.  The Agreement, which entered into force on 1 January 2010, reads in the relevant parts as follows:",
+            "uk": "38.  Відповідні частини Угоди, яка набрала чинності 01 січня \n2010 року, передбачають:"
+        }
+    },
+    {
+        "id": 66,
+        "translation": {
+            "en": "Article 3",
+            "uk": "Стаття 3"
+        }
+    },
+    {
+        "id": 67,
+        "translation": {
+            "en": "Readmission of third-country nationals and stateless persons",
+            "uk": "Реадмісія громадян третіх країн та осіб без громадянства"
+        }
+    },
+    {
+        "id": 68,
+        "translation": {
+            "en": "“1.  The requested State, upon application by the requesting State and without further formalities other than those provided for by this Agreement, shall readmit to its territory third-country nationals or stateless persons which do not, or no longer, fulfill the conditions in force for entry to or stay on the territory of the requesting State provided that ... such persons:",
+            "uk": "«1.  Запитувана держава на запит Запитуючої держави та без будь-яких інших формальностей, крім тих, що передбачені цією Угодою, приймає на свою територію громадян третіх країн чи осіб без громадянства, які не виконують чинних умов стосовно в’їзду на територію Запитуючої держави або перебування на ній або припинили виконувати такі умови, якщо надано докази …, що такі особи:"
+        }
+    },
+    {
+        "id": 69,
+        "translation": {
+            "en": "(a)  illegally entered the territory of the Member States coming directly from the territory of Ukraine or illegally entered the territory of Ukraine coming directly from the territory of the Member States;”",
+            "uk": "(a)  незаконно в’їхали на територію держав-членів безпосередньо з території України або на територію України безпосередньо з території держав-членів;»"
+        }
+    },
+    {
+        "id": 70,
+        "translation": {
+            "en": "Relevant international material concerning the situation in Slovakia and Ukraine",
+            "uk": "міжнародні матеріали щодо ситуації у словаччині та україні"
+        }
+    },
+    {
+        "id": 71,
+        "translation": {
+            "en": "European Committee for the Prevention of Torture and Inhuman or Degrading Treatment or Punishment (“the CPT”)",
+            "uk": "Європейський Комітет з питань запобігання катуванням чи нелюдському або такому, що принижує гідність, поводженню чи покаранню (далі – КЗК)"
+        }
+    },
+    {
+        "id": 72,
+        "translation": {
+            "en": "39.  The report on the 2007 CPT visit to Ukraine (CPT/Inf (2009) 15), published on 19 May 2009, reads in the relevant parts as follows:",
+            "uk": "39.  У відповідних частинах доповіді КЗК від 2007 року \n(CPT/Inf (2009) 15), опублікованій 19 травня 2009 року, зазначено:"
+        }
+    },
+    {
+        "id": 73,
+        "translation": {
+            "en": "“A.  Establishments under the authority of the State Border Service",
+            "uk": "«A.  Установи, що перебувають у підпорядкуванні Державної прикордонної служби України"
+        }
+    },
+    {
+        "id": 74,
+        "translation": {
+            "en": "The major complaint of foreign nationals detained was the lack of knowledge of what was happening in their case and how long they would spend in custody. This uncertainty greatly exacerbated the experience of confinement and led to tensions. The observations made during the visit suggest that Border Guard staff need to be more attentive to these problems.",
+            "uk": "Основна скарга затриманих іноземців полягала у відсутності інформації щодо ходу розгляду їхніх справ і тривалості перебування їх під вартою. Ця невизначеність суттєво погіршувала умови тримання під вартою і призводила до напруженості. Зроблені під час візиту спостереження свідчать, що працівники Державної прикордонної служби України мають приділяти більше уваги цим проблемам."
+        }
+    },
+    {
+        "id": 75,
+        "translation": {
+            "en": "Office of the United Nations High Commissioner for Refugees (“UNHCR”)",
+            "uk": "Управління Верховного комісара ООН у справах біженців \n(далі – УВКБ ООН)"
+        }
+    },
+    {
+        "id": 76,
+        "translation": {
+            "en": "40.  The UNHCR Position on the Situation of Asylum in Ukraine in the Context of Return of Asylum-Seekers, dated October 2007, reads, in so far as relevant:",
+            "uk": "40.  У відповідних частинах позиції УВКБ ООН щодо ситуації з притулком в Україні у контексті повернення шукачів притулку від жовтня 2007 року зазначено:"
+        }
+    },
+    {
+        "id": 77,
+        "translation": {
+            "en": "52.  ... UNHCR advises States, to refrain from returning third country asylumseekers to Ukraine as at present no assurances can be given that the persons in question: a) would be readmitted, b) would have access to a fair and efficient refugee status determination procedure, c) would be treated in accordance with international refugee standards or d) that there would be effective protection against refoulement.”",
+            "uk": "52.  ... УВКБ ООН радить державам утримуватися від повернення громадян третіх країн, які шукають притулку, до України, оскільки наразі не можна гарантувати, що відповідним особам: а) буде дозволений повторний в’їзд до країни, б) вони матимуть доступ до справедливої та ефективної процедури надання статусу біженця; в) що поводження з ними відповідатиме міжнародним стандартам стосовно біженців, або d) що вони матимуть ефективний захист від видворення.»"
+        }
+    },
+    {
+        "id": 78,
+        "translation": {
+            "en": "Human Rights Watch",
+            "uk": "Організація «Х’юман Райтс Вотч»"
+        }
+    },
+    {
+        "id": 79,
+        "translation": {
+            "en": "41.  In a 124-page report published in December 2010 and entitled “Buffeted in the Borderland: The Treatment of Migrants and Asylum Seekers in Ukraine”, Human Rights Watch (“HRW”) described the results of their research on the experience of migrants and asylum-seekers returned to Ukraine from Hungary and Slovakia.",
+            "uk": "41.  У звіті на 124 сторінках, опублікованому в грудні 2010 року під назвою «Пастка на прикордонні: Поводження з мігрантами та шукачами притулку в Україні», організація «Х’юман Райтс Вотч» (далі – ХРВ) виклала результати своїх досліджень досвіду мігрантів та осіб, що шукають притулку, після їхнього повернення до України з Угорщини та Словаччини."
+        }
+    },
+    {
+        "id": 80,
+        "translation": {
+            "en": "42.  According to the report, most of the fifty people who were interviewed and who had been returned to Ukraine from Slovakia or Hungary said they had asked for asylum upon arrival in Slovakia or Hungary, but that their requests had been ignored and they had been swiftly expelled back to Ukraine.",
+            "uk": "42.  Згідно зі звітом більшість із п’ятдесяти опитаних осіб, яких повернули в Україну зі Словаччини чи Угорщини, сказали, що після прибуття до Словаччини чи Угорщини вони просили про надання притулку, але їхні прохання були проігноровані, а їх самих було швидко вислано назад до України."
+        }
+    },
+    {
+        "id": 81,
+        "translation": {
+            "en": "43.  The report deplores the fact that in December 2009 the Slovakian Ministry of the Interior abrogated an agreement with UNHCR and the Human Rights League which since 2007 had permitted NGO lawyers to monitor return procedures at the border.",
+            "uk": "43.  У звіті висловлено жаль у зв’язку з тим, що у грудні 2009 року Міністерство внутрішніх справ Словаччини скасувало угоду з УВКБ ООН і організацією «Ліга з прав людини», на підставі якої з 2007 року юристам НУО дозволялося слідкувати за процедурою повернення на кордоні."
+        }
+    },
+    {
+        "id": 82,
+        "translation": {
+            "en": "45.  According to the report, migration detainees in Ukraine had no consistent, predictable access to a judge or other authority. Nor did they have access to legal representation to enable them to challenge their detention. Furthermore, there was generally no individualised assessment of the necessity of detaining migrants or asylum-seekers.",
+            "uk": "45.  Згідно зі звітом затримані в Україні мігранти не мали послідовного, гарантованого доступу до судді чи іншого органу державної влади. Також у них не було доступу до юриста для оскарження тримання їх під вартою. Крім того, здебільшого не проводилася індивідуальна оцінка необхідності тримання мігрантів чи осіб, які шукають притулку, під вартою."
+        }
+    },
+    {
+        "id": 83,
+        "translation": {
+            "en": "Relevant international materials concerning the situation in Afghanistan",
+            "uk": "ВІДПОВІДНІ МіЖДУНАРОДНІ МАТЕРІАЛИ ЩОДО ситуації В АФГАНІСТАНІ"
+        }
+    },
+    {
+        "id": 84,
+        "translation": {
+            "en": "46.  The UNHCR’s Eligibility Guidelines for Assessing the International Protection Needs of Asylum-Seekers from Afghanistan published on 17 December 2010, read, insofar as relevant:",
+            "uk": "46.  У відповідних частинах Методичних рекомендацій УВКБ ООН з оцінювання потреб у міжнародному захисті осіб, які шукають притулку, з Афганістану, опублікованих 17 грудня 2010 року зазначено:"
+        }
+    },
+    {
+        "id": 85,
+        "translation": {
+            "en": "“I.  Introduction",
+            "uk": "«I.  Вступ"
+        }
+    },
+    {
+        "id": 86,
+        "translation": {
+            "en": "UNHCR considers that individuals with the profiles outlined below require a particularly careful examination of possible risks. These risk profiles, while not necessarily exhaustive, include (i) individuals associated with, or perceived as supportive of, the Afghan Government...",
+            "uk": "УВКБ ООН вважає, що стосовно осіб, які входять до зазначених далі груп, необхідний особливо ретельний розгляд можливих загроз. До переліку груп ризику, який не обов’язково є вичерпним, входять: (i) особи, пов’язані з Урядом Афганістану, або ті, хто надають їм підтримку, чи вважаються такими, що надають її..."
+        }
+    },
+    {
+        "id": 87,
+        "translation": {
+            "en": "III.  Eligibility for International Protection",
+            "uk": "III.  Відповідність критеріям міжнародного захисту"
+        }
+    },
+    {
+        "id": 88,
+        "translation": {
+            "en": "A.  Potential Risk Profiles",
+            "uk": "A.  Потенційні групи ризику"
+        }
+    },
+    {
+        "id": 89,
+        "translation": {
+            "en": "1.  Individuals Associated with, or Perceived as Supportive of, the Government and the International Community, Including the International Security Assistance Force (ISAF)",
+            "uk": "1.  Особи, пов’язані з урядом, або які вважаться такими, що надають підтримку уряду й міжнародному співтовариству, зокрема Міжнародним силам сприяння безпеці (ISAF)"
+        }
+    },
+    {
+        "id": 90,
+        "translation": {
+            "en": "There is a systematic and sustained campaign by armed anti-Government groups to target civilians associated with, or perceived as supporting, the Afghan Government or the international community, particularly in areas where such groups are active.",
+            "uk": "Збройні антиурядові формування ведуть безперервну систематичну кампанію проти цивільних осіб, пов’язаних з Урядом Афганістану або міжнародним співтовариством, або тих, хто вважаються такими, що надають їм підтримку, особливо в зонах активних дій повстанських угруповань."
+        }
+    },
+    {
+        "id": 91,
+        "translation": {
+            "en": "UNHCR considers that persons associated with, or perceived as supportive of, the Government and the international community and forces, including Government officials, Government-aligned tribal and religious leaders, judges, teachers and workers on reconstruction/development projects, may, depending on the individual circumstances of the case, be at risk on account of their (imputed) political opinion, particularly in areas where armed anti-Government groups are operating or have control.",
+            "uk": "УВКБ ООН вважає, що особи, пов’язані з Урядом Афганістану або міжнародним співтовариством, або ті, хто надають їм підтримку, чи вважаються такими, зокрема посадові особи Уряду, прихильні до Уряду племінні й релігійні лідери, судді, вчителі та робітники, зайняті на об’єктах будівництва/реконструкції, можуть, залежно від індивідуальних обставин справи, перебувати у небезпеці через їхні (приписувані їм) політичні погляди, особливо у зонах, в яких діють або які контролюють збройні антиурядові формування."
+        }
+    },
+    {
+        "id": 92,
+        "translation": {
+            "en": "B.  Eligibility Under Broader International Protection Criteria, Including Complementary Forms of Protection",
+            "uk": "B.  Відповідність критеріям розширеного міжнародного захисту, у тому числі додаткових форм захисту"
+        }
+    },
+    {
+        "id": 93,
+        "translation": {
+            "en": "1.  Civilian casualties",
+            "uk": "1.  Потерпілі серед цивільного населення"
+        }
+    },
+    {
+        "id": 94,
+        "translation": {
+            "en": "In the first half of 2010, suicide attacks caused 183 civilian deaths, more than half of which occurred in the southern region; this represents a 20 percent increase compared to the same period in 2009.",
+            "uk": "У першому півріччі 2010 року від атак терористів-смертників померли 183 цивільні особи, з них більше половини – у південному регіоні; що на 20 відсотків більше у порівнянні з аналогічним періодом 2009 року."
+        }
+    },
+    {
+        "id": 95,
+        "translation": {
+            "en": "Although during the first half of 2010 armed anti-Government groups predominantly targeted military objectives, IEDs and suicide attacks tactics were also used in civilian areas, including along roads used by civilians, around government buildings, outside hotels, in busy markets and in commercial areas.",
+            "uk": "Хоча в першому півріччі 2010 року озброєні антиурядові угруповання нападали, здебільшого, на військові об’єкти, проте в місцях проживання цивільного населення, у тому числі на дорогах, якими користуються мирні жителі, поблизу урядових будівель, готелів, на багатолюдних ринках і в торгових кварталах, – вони також використовували підриви СВУ та атаки терористів-смертників."
+        }
+    },
+    {
+        "id": 96,
+        "translation": {
+            "en": "Notwithstanding sustained efforts to clear mines and UXOs in the last decade and a steady decrease in the number of Afghan victims, mines and explosive remnants cause, on average, 42 casualties per month, a large majority of who are children. In addition to causing loss of life and serious injury, mine contamination has prevented livelihood activities, including by blocking access to agricultural land, water, health and education.256",
+            "uk": "Незважаючи на роботи з розмінування та знищення боєприпасів, які ведуться постійно протягом останнього десятиліття, та на неухильне зниження кількості загиблих через них афганців, у середньому за місяць від вибуху мін і кинутих боєприпасів помирають та отримують поранення 42 особи, переважна більшість з яких – діти. Окрім того, мінні поля, на яких гинуть і калічаться люди, заважають вести нормальний спосіб життя, перегороджуючи їм доступ до орних земель, води, медичної допомоги та освіти.256"
+        }
+    },
+    {
+        "id": 97,
+        "translation": {
+            "en": "A further analysis by UNHCR of reported incidents of civilian casualties during the period from 1 July 2010 to 8 October 2010 reveals that the provinces most affected by indiscriminate conflict- related violence are Helmand and Kandahar in the southern region and Kunduz in the north-eastern region.",
+            "uk": "Проведений УВКБ ООН детальний аналіз зафіксованих випадків втрат серед цивільного населення за період з 01 липня 2010 року до 08 жовтня 2010 року свідчить, що провінції Гільменд і Кандагар у південному регіоні і Кундуз – в північно-східному регіоні найбільше страждають від хаотичного насилля, пов’язаного з конфліктом."
+        }
+    },
+    {
+        "id": 98,
+        "translation": {
+            "en": "3.  Conflict-Induced Displacements and Voluntary Returns",
+            "uk": "3.  Переміщення, спричинені конфліктом, і добровільні повернення"
+        }
+    },
+    {
+        "id": 99,
+        "translation": {
+            "en": "Increasing insecurity and violence in certain parts of Afghanistan, resulting from the fighting between anti-Government groups and pro-Government forces, continue to cause significant population displacements. The number of conflict-induced IDPs continues to rise and displacement is largely taking place in the southern and western regions of Afghanistan...",
+            "uk": "Зростання насилля і погіршення ситуації у сфері безпеки в деяких районах Афганістану внаслідок бойових дій між антиурядовими угрупованнями і проурядовими військами, як і раніше є причиною масових переміщень населення. Кількість внутрішньо переміщених осіб через конфлікт продовжує зростати, і подібні переміщення головним чином відбуваються у південному і західному регіонах Афганістану..."
+        }
+    },
+    {
+        "id": 100,
+        "translation": {
+            "en": "THE LAW",
+            "uk": "ПРАВО"
+        }
+    },
+    {
+        "id": 101,
+        "translation": {
+            "en": "ALLEGED VIOLATIONS OF ARTICLES 3 AND 13 OF THE CONVENTION BY SLOVAKIA",
+            "uk": "СТВЕРДЖУВАНІ ПОРУШЕННЯ статтей 3 ТА 13 Конвенції словаччиною"
+        }
+    },
+    {
+        "id": 102,
+        "translation": {
+            "en": "47.  The applicant complained that by failing to provide him with adequate interpretation and legal assistance, the Slovakian authorities had denied him an opportunity to ask for asylum and had returned him to Ukraine where he had faced the risk of refoulement to Afghanistan and had indeed been returned there. He invoked Articles 3 and 13 of the Convention, which read as follows:",
+            "uk": "47.  Заявник скаржився, що не забезпечивши йому належний переклад і правову допомогу, словацькі органи влади позбавили його можливості просити про притулок, вони повернули його до України, де йому загрожувало примусове видворення до Афганістану, і дійсно його туди видворили. Він посилався на статті 3 та 13 Конвенції, які передбачають:"
+        }
+    },
+    {
+        "id": 103,
+        "translation": {
+            "en": "Article 3",
+            "uk": "Стаття 3"
+        }
+    },
+    {
+        "id": 104,
+        "translation": {
+            "en": "“No one shall be subjected to torture or to inhuman or degrading treatment or punishment.”",
+            "uk": "«Нікого не може бути піддано катуванню або нелюдському чи такому, що принижує гідність, поводженню або покаранню.»"
+        }
+    },
+    {
+        "id": 105,
+        "translation": {
+            "en": "Article 13",
+            "uk": "Стаття 13"
+        }
+    },
+    {
+        "id": 106,
+        "translation": {
+            "en": "“Everyone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.”",
+            "uk": "«Кожен, чиї права та свободи, визнані в цій Конвенції, було порушено, має право на ефективний засіб юридичного захисту в національному органі, навіть якщо таке порушення було вчинене особами, які здійснювали свої офіційні повноваження.»"
+        }
+    },
+    {
+        "id": 107,
+        "translation": {
+            "en": "The parties’ submissions",
+            "uk": "Доводи сторін"
+        }
+    },
+    {
+        "id": 108,
+        "translation": {
+            "en": "Government of Slovakia",
+            "uk": "Уряд Словаччини"
+        }
+    },
+    {
+        "id": 109,
+        "translation": {
+            "en": "49.  In the Government’s view, the applicant was required to support his allegations with regard to his age with convincing evidence, which he had failed to do. His date of birth was unclear from his submissions.",
+            "uk": "49.  На думку Уряду, від заявника вимагалося обґрунтувати свої твердження щодо віку переконливими доказами, чого він не зробив. З його доводів незрозуміло, якою була дата його народження."
+        }
+    },
+    {
+        "id": 110,
+        "translation": {
+            "en": "50.  The applicant had declared to the border police in Slovakia that he had been born on 14 January 1992. Therefore, there had been no indication that he was an unaccompanied minor and no need for further verification. Had he declared himself to be a minor, he would have been dealt with in accordance with the established procedure for such minors.",
+            "uk": "50.  Заявник заявив працівникам прикордонної поліції Словаччини, що народився 14 січня 1992 року. Тому ніщо не свідчило, що він був неповнолітнім без супроводу, і потреби у подальшій перевірці не було. Якби він стверджував, що був неповнолітнім, його ситуація розглядалася б відповідно до усталеної процедури стостовно таких неповнолітніх."
+        }
+    },
+    {
+        "id": 111,
+        "translation": {
+            "en": "51.  Under the established procedure, unaccompanied migrant children were to be immediately transferred by the police to the care of childprotection services. At the relevant time, declarations of their age as minors had been taken on faith, since there had been no system in place for medical age verification. The latter had been put in place only later, to prevent abuse of the system by human smugglers.",
+            "uk": "51.  Відповідно до усталеної процедури працівники поліції мали негайно передати дітей-мігрантів без супроводу до служби захисту дітей. На момент подій їхні твердження про те, що вони були неповнолітніми, приймалися на віру, оскільки не існувало системи медичної перевірки віку. Остання була введена в дію лише згодом, для запобігання зловживанню системою торговцями людьми."
+        }
+    },
+    {
+        "id": 112,
+        "translation": {
+            "en": "53.  In any event, an effective remedy was required only in the event that the applicant had an arguable claim of a violation of his Convention rights, which he did not have as his complaint under Article 3 was manifestly illfounded.",
+            "uk": "53.  У будь-якому випадку наявність ефективного засобу юридичного захисту вимагалася лише у випадку подання заявником небезпідставної скарги на порушення його конвенційних прав, якої він не подав, оскільки його скарга за статтею 3 Конвенції була явно необґрунтованою."
+        }
+    },
+    {
+        "id": 113,
+        "translation": {
+            "en": "54.  The applicant’s allegations as to the lack of interpretation were untrue as in fact interpretation from Slovak to English and from English into Pashto had been provided.",
+            "uk": "54.  Твердження заявника про відсутність перекладу були неправдиві, оскільки насправді йому було забезпечено переклад зі словацької на англійську мову та з англійської на мову пушту."
+        }
+    },
+    {
+        "id": 114,
+        "translation": {
+            "en": "55.  The applicant had failed to present to the Slovakian authorities any allegations of risk of ill-treatment in Afghanistan. In support of his allegations before the Court, he had only referred to publications on the general situation in Afghanistan and the situation concerning children, whereas he had never alleged before the Slovakian authorities that he had been a minor at the time.",
+            "uk": "55.  У словацьких органах влади заявник не висував жодних тверджень, що йому загрожувало жорстоке поводження в Афганістані. На підтримку цих тверджень у Суді він посилався лише на публікації про загальну ситуацію в Афганістані та ситуацію стосовно дітей, хоча у словацьких органах влади він ніколи не стверджував, що був неповнолітнім."
+        }
+    },
+    {
+        "id": 115,
+        "translation": {
+            "en": "56.  The reports cited by the applicant either pre-dated his return by three years or post-dated it (see paragraphs 40 and 41 above). Therefore, the Slovakian authorities could not be considered to have been on notice of any deficiencies. Moreover, even if there were certain deficiencies in Ukraine, they were not comparable to the situation in Greece and Hungary previously criticised by the UNHCR and the Court.",
+            "uk": "56.  Звіти, на які посилався заявник, або були датовані трьома роками до його повернення або періодом після нього (див. пункти 40 і 41). Таким чином, словацькі органи влади не могли вважатися обізнаними про які-небудь проблеми. До того ж навіть у випадку існування в Україні певних проблем, їх не можна було порівняти з ситуацією у Греції та Угорщині, які раніше критикувалася УВКБ ООН і Судом."
+        }
+    },
+    {
+        "id": 116,
+        "translation": {
+            "en": "57.  The facility in Chop had been regularly visited by bodies such as the International Organization for Migration, the UNHCR.",
+            "uk": "57.  Установу у м. Чоп регулярно відвідували такі органи, як Міжнародна організація з міграції, УВКБ ООН."
+        }
+    },
+    {
+        "id": 117,
+        "translation": {
+            "en": "58.  Contrary to cases examined previously by the Court, the applicant had not been expelled within the Dublin system. Nor had he manifested any intention to seek asylum in Slovakia, and the authorities could not have predicted that he would apply for asylum in Ukraine. Indeed, after having been transferred there he had waited five months before doing so.",
+            "uk": "58.  На відміну від розглянутих раніше Судом справ, заявника не видворили за Дублінською системою. Він також не висловлював наміру шукати притулку в Словаччині, а органи державної влади не могли передбачити, що він звернеться із заявою про надання статусу біженця в Україні. Фактично, перш ніж це зробити він чекав п’ять місяців після перевезення його до України."
+        }
+    },
+    {
+        "id": 118,
+        "translation": {
+            "en": "59.  Had the applicant actually applied for asylum in Slovakia as he alleged, his application would have been recorded. The Government cited statistics in that respect: in 2010, 495 people had crossed the border illegally, of whom 100 were Afghan citizens. Sixty-seven people had requested asylum, ten of whom were Afghan citizens.",
+            "uk": "59.  Якби заявник дійсно звернувся з клопотанням про надання притулку у Словаччині, як він стверджував, його клопотання було б задокументовано. Уряд навів статистику щодо цього: у 2010 році \n495 осіб незаконно перетнули кордон, з них 100 – громадяни Афганістану. Шістдесят сім людей просили притулку, десять з них були громадянами Афганістану."
+        }
+    },
+    {
+        "id": 119,
+        "translation": {
+            "en": "60.  In addition, Ukraine was a member State of the Council of Europe and the Court and the Court’s case-law recognised the presumption that member States would respect their international obligations.",
+            "uk": "60.  Крім того, Україна була державою-членом Ради Європи, і як Судом, так і в його практиці визнавалася презумпція, що держави-члени дотримуватимуться своїх міжнародних зобов’язань."
+        }
+    },
+    {
+        "id": 120,
+        "translation": {
+            "en": "The applicant",
+            "uk": "Заявник"
+        }
+    },
+    {
+        "id": 121,
+        "translation": {
+            "en": "62.  In responding to the Slovakian Government’s reservations concerning the Afghan document attesting to his age, the applicant stated that he had not been obliged to support his allegations about his age with convincing evidence. He could have informed the Slovakian authorities about his age orally if he had been given access to an interpreter.",
+            "uk": "62.  У відповідь на зауваження Уряду Словаччини щодо афганського документа, який підтверджував його вік, заявник зазначив, що не був зобов’язаний обґрунтовувати свої твердження про вік переконливими доказами. Він міг усно повідомити словацьким органам влади про свій вік, якби йому було надано доступ до перекладача."
+        }
+    },
+    {
+        "id": 122,
+        "translation": {
+            "en": "63.  Despite the fact that he had looked like a teenager, he had not been provided with an interpreter by the Slovakian border police. He repeated his allegations as summarised in paragraph 13 above. He considered that the Government had been required to conduct an age assessment with the participation of a lawyer and an interpreter.",
+            "uk": "63.  Хоча він виглядав як підліток, словацька прикордонна поліція не надала йому перекладача. Він повторив свої твердження, викладені у пункті 13. Він вважав, що Уряд мусив провести оцінку віку за участю захисника та перекладача."
+        }
+    },
+    {
+        "id": 123,
+        "translation": {
+            "en": "64.  The Slovakian authorities’ actions had thus made possible the applicant’s refoulement to Afghanistan.",
+            "uk": "64.  Таким чином, дії словацьких органів влади уможливили видворенням заявника до Афганістану."
+        }
+    },
+    {
+        "id": 124,
+        "translation": {
+            "en": "Third-party interveners",
+            "uk": "Треті сторони, які вступили у справу"
+        }
+    },
+    {
+        "id": 125,
+        "translation": {
+            "en": "UNHCR",
+            "uk": "УВКБ ООН"
+        }
+    },
+    {
+        "id": 126,
+        "translation": {
+            "en": "Human Rights League",
+            "uk": "Організація «Ліга прав людини»"
+        }
+    },
+    {
+        "id": 127,
+        "translation": {
+            "en": "68.  The monitoring had revealed a number of cases where a member of the group of intercepted foreign nationals translated for members of the group in their language, after the police had translated from Slovak into English or Russian. The intervener expressed reservations about the independence and competence of such interpreters and the adequacy of the procedure used to appoint them.",
+            "uk": "68.  Під час моніторингу було виявлено низку випадків, коли член групи затриманих іноземних громадян здійснював переклад для інших членів групи їхньою мовою після того, як працівники поліції перекладали зі словацької на англійську або російську мови. Третя сторона, яка вступила у справу, висловила застереження щодо незалежності та компетентності таких перекладачів і належності процедури, використаної для їхнього призначення."
+        }
+    },
+    {
+        "id": 128,
+        "translation": {
+            "en": "69.  The intervener made essentially the same submissions as the Government in respect of the procedure established at the time for the treatment of unaccompanied migrant children (see paragraph 51 above).",
+            "uk": "69.  Третя сторона, яка вступила у справу, по суті, подала ті самі доводи щодо процедури, застосовної на той момент до дітей-мігрантів без супроводу, що й Уряд (див. пункт 51)."
+        }
+    },
+    {
+        "id": 129,
+        "translation": {
+            "en": "The Court’s assessment",
+            "uk": "Оцінка Суду"
+        }
+    },
+    {
+        "id": 130,
+        "translation": {
+            "en": "Establishment of facts concerning the applicant’s age",
+            "uk": "Встановлення фактів щодо віку заявника"
+        }
+    },
+    {
+        "id": 131,
+        "translation": {
+            "en": "70.  The parties disagreed on the applicant’s age. The applicant alleged that he had been born in 1993 or 1994 and so had been, at most, seventeen years of age in September 2010 when he had been detained in Slovakia and returned to Ukraine (see paragraph 4 above). The Government, by contrast, insisted on the correctness of their records, based according to them on the applicant’s own statement to the effect that he had been born on 14 January 1992 and had, therefore, been eighteen at the relevant time.",
+            "uk": "70.  Сторони не дійшли згоди щодо віку заявника. Заявник стверджував, що він народився у 1993 або 1994 році, і тому у вересні 2010 року, коли його затримали у Словаччині та повернули до України, йому було щонайбільше сімнадцять років (див. пункт 4). На противагу, Уряд наполягав на правильності своїх записів, які згідно з його твердженнями ґрунтувалися на заявах самого заявника, що він народився 14 січня 1992 року і, таким чином, на момент подій йому було вісімнадцять років."
+        }
+    },
+    {
+        "id": 132,
+        "translation": {
+            "en": "71.  The Court notes that the domestic authorities in both Slovakia and Ukraine, and well as the Embassy of Afghanistan in Kyiv, consistently recorded the applicant’s date of birth as 14 January 1992 (see paragraphs 9, 22 and 26 above).",
+            "uk": "71.  Суд зазначає, що національні органи влади Словаччини та України, а також Посольство Афганістану у м. Київ послідовно документували дату народження заявника як 14 січня 1992 року (див. пункти 9, 22 та 26)."
+        }
+    },
+    {
+        "id": 133,
+        "translation": {
+            "en": "72.  The only elements in the file which, according to the applicant, contradict those records are the applicant’s photograph allegedly showing that he looked like a teenager in 2011, and his Afghan identity document.",
+            "uk": "72.  Єдиними елементами у матеріалах, які згідно з твердженнями заявника суперечать цим записам, є фотографія заявника, яка нібито доводить, що у 2011 році він виглядав як підліток, та його афганський документ, що посвідчує особу."
+        }
+    },
+    {
+        "id": 134,
+        "translation": {
+            "en": "73.  However, there is no indication as to when and where the photograph was taken.",
+            "uk": "73.  Однак вказівки, коли і де була зроблена ця фотографія, відсутні."
+        }
+    },
+    {
+        "id": 135,
+        "translation": {
+            "en": "75.  The applicant did not explain this or attempt to dispel the Government’s doubts. Nor did he allege that any specific circumstances prevented him from providing a more legible copy of that or another document attesting to his age. This is particularly striking given the fact that, by the time he responded to the Slovakian Government’s observations (4 July 2017), he had been back in Afghanistan for more than six years, by which time he had definitely reached the age of majority.",
+            "uk": "75.  Заявник не пояснив це і не спробував розвіяти сумніви Уряду. Він також не стверджував, що надати більш розбірливу копію того чи іншого документа, який підтвердив би його вік, йому заважали які-небудь конкретні обставини. Це особливо дивно, враховуючи, що до подання ним відповіді на зауваження Уряду Словаччини (04 липня 2017 року) минуло більше ніж шість років після його видворення до Афганістану, і на той момент він точно досяг повноліття."
+        }
+    },
+    {
+        "id": 136,
+        "translation": {
+            "en": "76.  Given that the copy of what the applicant claimed was his identity document was the only official record allegedly confirming the applicant’s age as a minor at the time, and that it contradicted all other documents in the file, issued by three different States, including his State of origin, a response from the applicant to the Slovakian Government’s concerns was required.",
+            "uk": "76.  Оскільки копія, яка згідно з твердженнями заявника була копією документу, що посвідчував його особу, становила єдиний офіційний документ, який нібито підтверджував вік заявника як неповнолітнього на момент подій та суперечив усім іншим документам у справі, складеним трьома різними державами, у тому числі країною його походження, від заявника вимагалася відповідь на висловлене Урядом Словаччини застереження."
+        }
+    },
+    {
+        "id": 137,
+        "translation": {
+            "en": "77.  Even if the Court were to accept the applicant’s allegation that he had not informed the Slovakian authorities of his age due to interpretation difficulties, he did not allege that there were any such difficulties during his interview with the Embassy of Afghanistan or his asylum interview in Ukraine, both of which resulted in his birth date being recorded as 14 January 1992 (see paragraphs 22 and 26 above).",
+            "uk": "77.  Навіть якби Суд погодився із твердженнями заявника, що він не повідомив словацьким органам влади свій вік через труднощі з перекладом, заявник не вказав на наявність таких труднощів під час його розмови з представниками Посольства Афганістану чи під час його співбесіди у зв’язку з наданням притулку в Україні, після яких дата його народження була задокументована як 14 січня 1992 року (див. пункти 22 та 26)."
+        }
+    },
+    {
+        "id": 138,
+        "translation": {
+            "en": "78.  Finally, there is a contradiction in the applicant’s own submissions: according to his own account, he told the Ukrainian authorities that he was fourteen, but before this Court he alleged that he had been sixteen or seventeen at the time (contrast paragraphs 4, 14 and 21 above). He has not explained that contradiction.",
+            "uk": "78.  Насамкінець, існує суперечність у власних доводах заявника: згідно з його версією він сказав українським органам влади, що йому було чотирнадцять років, тоді як у Суді він стверджував, що на момент подій йому виповнилося шістнадцять чи сімнадцять років (див. для порівняння пункти 4, 14 і 21). Він не пояснив цю суперечність."
+        }
+    },
+    {
+        "id": 139,
+        "translation": {
+            "en": "79.  In such circumstances, the Court concludes that the applicant has not provided the Court with cogent elements which would lead it to depart from the findings of fact reached by the domestic authorities in respect of his age (see, for the relevant principles, S., V. and A. v. Denmark [GC], nos. 35553/12 and 2 others, § 154, 22 October 2018).",
+            "uk": "79.  За таких обставин Суд доходить висновку, що заявник не надав йому переконливих доказів, які б змусили Суд відійти від фактологічних висновків, зроблених національними органами влади щодо його віку (див. відповідні принципи у рішенні у справі «С., В. та А. проти Данії» [ВП] (S., V. and A. v. Denmark) [GC], заява № 35553/12 та 2 інші заяви, пункт 154, від 22 жовтня 2018 року)."
+        }
+    },
+    {
+        "id": 140,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 141,
+        "translation": {
+            "en": "80.  The Court notes at the outset that the Government could be seen as attempting to argue that the applicant had failed to exhaust certain domestic remedies available to him (see paragraph 52 above). The Court, however, does not consider it necessary to address those arguments, since the applicant’s complaints are in any case inadmissible for the following reasons.",
+            "uk": "80.  Насамперед Суд зазначає, що Уряд можна розуміти як такий, що намагається довести невичерпання заявником певних доступних йому національних засобів юридичного захисту (див. пункт 52). Однак Суд не вважає за необхідне розглядати ці аргументи, оскільки скарги заявника у будь-якому випадку є неприйнятними з таких підстав."
+        }
+    },
+    {
+        "id": 142,
+        "translation": {
+            "en": "86.  Moreover, there was no reason for the Slovakian authorities to be on alert concerning any situation of systematic violation of migrants’ rights to which the applicant could fall victim in Ukraine (contrast Hirsi Jamaa and Others v. Italy [GC], no. 27765/09, §§ 131-33, ECHR 2012, and M.A. and Others v. Lithuania, cited above, § 113).",
+            "uk": "86.  До того ж у словацьких органів влади не було підстав проявляти пильність щодо будь-якої ситуації систематичного порушення прав мігрантів, з якою в Україні міг зіткнутися заявник (див. в якості протилежного прикладу рішення у справі «Хірсі Джамаа та інші проти Італії» [ВП] (Hirsi Jamaa and Others v. Italy) [GC], заява № 27765/09, пукти 131 – 133, ЄСПЛ 2012 та згадане рішення у справі «М.А. та інші проти Литви» (M.A. and Others v. Lithuania), пункт 113)."
+        }
+    },
+    {
+        "id": 143,
+        "translation": {
+            "en": "88.  Finally, the Slovakian authorities did not expose the applicant to any heightened risk by inducing him to return to Ukraine illegally (compare and contrast Ilias and Ahmed, cited above, §§ 161 and 163), but rather handed him over to the Ukrainian authorities within the framework of an orderly readmission process.",
+            "uk": "88.  Насамкінець, словацькі органи влади не піддали заявника жодному підвищеному ризику, спонукаючи його незаконно повернутися до України (див. для порівняння та в якості протилежного прикладу згадане рішення у справі «Іліас та Ахмед проти Угорщина» (Ilias and Ahmed v. Hungary), пункти 161 і 163), а передали його українським органам влади в рамках усталеного процесу реадмісії."
+        }
+    },
+    {
+        "id": 144,
+        "translation": {
+            "en": "91.  Therefore, this part of the application is manifestly ill-founded and must be rejected pursuant to Article 35 §§ 3 (a) and 4 of the Convention.",
+            "uk": "91.  Отже, ця частина заяви є явно необґрунтованою та має бути відхилена на підставі підпункту «а» пункту 3 та пункту 4 статті 35 Конвенції."
+        }
+    },
+    {
+        "id": 145,
+        "translation": {
+            "en": "92.  In the absence of an arguable complaint under Article 3, the applicant’s complaint under Article 13 must be rejected as being incompatible ratione materiae with the provisions of the Convention, pursuant to Article 35 §§ 3 (a) and 4.",
+            "uk": "92.  За відсутності небезпідставної скарги за статтею 3 Конвенції скарга заявника за статтею 13 Конвенції має бути відхилена як несумісна з положеннями Конвенції за критерієм ratione materiae відповідно до підпункту «а» пункту 3 та пункту 4 статті 35 Конвенції."
+        }
+    },
+    {
+        "id": 146,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLE 5 § 2 OF THE CONVENTION BY SLOVAKIA",
+            "uk": "СТВЕРДЖУВАНЕ ПОРУШЕННЯ Словаччиною пункту 2 СТАТТІ 5 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 147,
+        "translation": {
+            "en": "93.  The applicant complained that he had not been informed of the reasons for his arrest in Slovakia. He relied on Article 5 § 2 of the Convention, which reads:",
+            "uk": "93.  Заявник скаржився, що у Словаччині його не поінформували про підстави його затримання. Він посилався на пункт 2 статті 5 Конвенції, яка передбачає:"
+        }
+    },
+    {
+        "id": 148,
+        "translation": {
+            "en": "“2.  Everyone who is arrested shall be informed promptly, in a language which he understands, of the reasons for his arrest and of any charge against him.”",
+            "uk": "«2.  Кожен, кого заарештовано, має бути негайно поінформований зрозумілою для нього мовою про підстави його арешту і про будь-яке обвинувачення, висунуте проти нього.»"
+        }
+    },
+    {
+        "id": 149,
+        "translation": {
+            "en": "The parties’ submissions",
+            "uk": "Доводи сторін"
+        }
+    },
+    {
+        "id": 150,
+        "translation": {
+            "en": "94.  The applicant submitted that the Slovakian authorities had ignored the fact that he had been a minor and had failed to provide him with access to an interpreter and a lawyer.",
+            "uk": "94.  Заявник стверджував, що словацькі органи влади проігнорували той факт, що він був неповнолітнім, і не забезпечили йому доступ до перекладача та захисника."
+        }
+    },
+    {
+        "id": 151,
+        "translation": {
+            "en": "96.  The applicant had been with the Slovakian authorities from 7.25 p.m. on 23 September 2010 to 2 p.m. the following day. During that period he had been interviewed and the reasons for his retention had been explained. He had been heard and it had been decided to expel him. He had been informed of the reasons and the available remedies had been explained to him.",
+            "uk": "96.  Заявник перебував під юрисдикцією Словаччини з 19 год. 25 хв. 23 вересня 2010 року до 14 год. 00 хв. наступного дня. Протягом цього періоду його опитали та пояснили йому причини тримання під вартою. Заявника вислухали і вирішили його видворити. Його поінформували про підстави затримання та надали роз’яснення щодо доступних йому засобів юридичного захисту."
+        }
+    },
+    {
+        "id": 152,
+        "translation": {
+            "en": "The Court’s assessment",
+            "uk": "Оцінка Суду"
+        }
+    },
+    {
+        "id": 153,
+        "translation": {
+            "en": "97.  The principles of the Court’s case-law concerning the applicability of Article 5 to the retention of foreign nationals in border zones are set out in Ilias and Ahmed (cited above, §§ 211-17).",
+            "uk": "97.  Принципи практики Суду щодо застосування статті 5 Конвенції стосовно тримання іноземних громадян у прикордонних зонах викладені у згаданому рішенні у справі «Іліас та Ахмед проти Угорщини» (Ilias and Ahmed v. Hungary), пункти 211 – 217)."
+        }
+    },
+    {
+        "id": 154,
+        "translation": {
+            "en": "99.  In view of its conclusion below concerning the applicant’s complaint under Article 5 § 2, the Court will proceed on the presumption that the applicant was deprived of his liberty in Slovakia and that, therefore, Article 5 of the Convention was applicable.",
+            "uk": "99.  З огляду на зазначений висновок щодо скарги заявника за пунктом 2 статті 5 Конвенції Суд продовжить розгляд, презумуючи, що у Словаччині заявника було позбавлено свободи, і таким чином стаття 5 Конвенції була застосовною."
+        }
+    },
+    {
+        "id": 155,
+        "translation": {
+            "en": "100.  The Court sees no reason to doubt that the applicant was aware that he had entered Slovakia unlawfully and, therefore, that he was also aware of the factual grounds for his detention in Slovakia.",
+            "uk": "100.  Суд не вбачає жодних підстав сумніватися, що заявник знав, що в’їхав на територію Словаччини незаконно, і тому йому також було відомо про фактичні підстави для його затримання у Словаччині."
+        }
+    },
+    {
+        "id": 156,
+        "translation": {
+            "en": "103.  Therefore, this part of the application is manifestly ill-founded and must be rejected pursuant to Article 35 §§ 3 (a) and 4 of the Convention.",
+            "uk": "103.  Отже, ця частина заяви є явно необґрунтованою та має бути відхилена на підставі підпункту «а» пункту 3 та пункту 4 статті 35 Конвенції."
+        }
+    },
+    {
+        "id": 157,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLE 3 OF THE CONVENTION IN RESPECT OF CONDITIONS OF DETENTION IN UKRAINE",
+            "uk": "СТВЕРДЖУВАНЕ ПОРУШЕННЯ СТАТТІ 3 КОНВЕНЦІЇ у зв’язку з умовами тримання в україні"
+        }
+    },
+    {
+        "id": 158,
+        "translation": {
+            "en": "104.  In his application form the applicant complained that the conditions of his detention in Ukraine had been inadequate, in breach of Article 3 of the Convention. He described the conditions of his detention in the terms set out in paragraph 15 above.",
+            "uk": "104.  У своєму формулярі заяви заявник скаржився, що умови тримання його під вартою в Україні були неналежними, і це було порушенням статті 3 Конвенції. Він описав умови тримання під вартою у формулюваннях, наведених у пункті 15."
+        }
+    },
+    {
+        "id": 159,
+        "translation": {
+            "en": "105.  The Government of Ukraine failed to submit any observations concerning this complaint.",
+            "uk": "105.  Уряд України не надав жодних зауважень щодо цієї скарги."
+        }
+    },
+    {
+        "id": 160,
+        "translation": {
+            "en": "108.  Therefore, this part of the application is manifestly ill-founded and must be rejected pursuant to Article 35 §§ 3 (a) and 4 of the Convention.",
+            "uk": "108.  Отже, ця частина заяви є явно необґрунтованою та має бути відхилена на підставі підпункту «а» пункту 3 та пункту 4 статті 35 Конвенції."
+        }
+    },
+    {
+        "id": 161,
+        "translation": {
+            "en": "ALLEGED VIOLATIONS OF ARTICLES 3 AND 13 OF THE CONVENTION BY UKRAINE IN RESPECT OF THE ASSESSMENT OF THE RISK OF THE APPLICANT’S RETURN TO AFGHANISTAN",
+            "uk": "СТВЕРДЖУВАНі ПОРУШЕННЯ Україною СТАТТей 3 та 13 КОНВЕНЦІЇ у зв’язку з оцінкою загрози, пов’язаної з поверненням заявника до афганістану"
+        }
+    },
+    {
+        "id": 162,
+        "translation": {
+            "en": "109.  The applicant complained that, by failing adequately to assess the risk that he might be exposed to ill-treatment in Afghanistan and by expelling him there, Ukraine had breached Articles 3 and 13 of the Convention. The latter provision reads:",
+            "uk": "109.  Заявник скаржився, що належним чином не оцінивши загрозу можливого жорстокого поводження із ним в Афганістані та видворивши його туди, Україна порушила статті 3 та 13 Конвенції. Останнє положення передбачає:"
+        }
+    },
+    {
+        "id": 163,
+        "translation": {
+            "en": "“Everyone whose rights and freedoms as set forth in [the] Convention are violated shall have an effective remedy before a national authority notwithstanding that the violation has been committed by persons acting in an official capacity.”",
+            "uk": "«Кожен, чиї права та свободи, визнані в [цій] Конвенції, було порушено, має право на ефективний засіб юридичного захисту в національному органі, навіть якщо таке порушення було вчинене особами, які здійснювали свої офіційні повноваження.»"
+        }
+    },
+    {
+        "id": 164,
+        "translation": {
+            "en": "The parties’ submissions",
+            "uk": "Доводи сторін"
+        }
+    },
+    {
+        "id": 165,
+        "translation": {
+            "en": "110.  The applicant submitted that the Ukrainian authorities had failed properly to consider the risk of his return to Afghanistan, including in the context of his asylum application, and had done everything in their power to remove him to Afghanistan as soon as possible. They had ignored his claim that he would be in danger in Afghanistan.",
+            "uk": "110.  Заявник стверджував, що українські органи влади належним чином не розглянули загрозу, пов’язану з його повернення до Афганістану, у тому числі в контексті розгляду його заяви про надання статусу біженця, і зробили все можливе у межах своїх повноважень для якнайшвидшого видворення його до Афганістану. Вони проігнорували твердження заявника, що в Афганістані він опиниться у небезпеці."
+        }
+    },
+    {
+        "id": 166,
+        "translation": {
+            "en": "111.  The Government of Ukraine did not submit any observations.",
+            "uk": "111.  Уряд України не надав жодних зауважень."
+        }
+    },
+    {
+        "id": 167,
+        "translation": {
+            "en": "The Court’s assessment",
+            "uk": "Оцінка Уряду"
+        }
+    },
+    {
+        "id": 168,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 169,
+        "translation": {
+            "en": "112.  The Court notes that this part of the application is not manifestly ill-founded within the meaning of Article 35 § 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+            "uk": "112.  Суд зазначає, що ця частина заяви не є явно необґрунтованою у розумінні підпункту «а» пункту 3 статті 35 Конвенції. Він також зазначає, що вона не є неприйнятною з будь-яких інших підстав. Тому вона має бути визнана прийнятною."
+        }
+    },
+    {
+        "id": 170,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 171,
+        "translation": {
+            "en": "Relevant general principles",
+            "uk": "Відповідні загальні принципи"
+        }
+    },
+    {
+        "id": 172,
+        "translation": {
+            "en": "119.  The possibility for the applicant to obtain protection or to relocate in the State of origin is also of relevance. Article 3 does not, as such, preclude Contracting States from placing reliance on the existence of an “internal flight alternative” in their assessment of an individual’s claim that a return to his country of origin would expose him to a real risk of being subjected to treatment proscribed by that provision (ibid., § 81).",
+            "uk": "119.  Також має значення можливість отримання заявником захисту або його переселення всередині країни походження. Стаття 3 Конвенції не перешкоджає Договірним державам враховувати існування «альтернативи пошуку притулку всередині країни» під час своєї оцінки твердження особи, що повернення до країни походження реально загрожуватиме їй тим, що її буде піддано поводженню, забороненому цим положенням (там само, пункт 81)."
+        }
+    },
+    {
+        "id": 173,
+        "translation": {
+            "en": "Application of the above principles to the present case",
+            "uk": "Застосування зазначених принципів у цій справі"
+        }
+    },
+    {
+        "id": 174,
+        "translation": {
+            "en": "122.  The applicant claimed that he belonged to a group, namely family members of government officials who, according to the relevant country information (see paragraph 46 above), could be at risk in Afghanistan. Accordingly, the Ukrainian authorities were under an obligation to examine his allegations and ascertain whether his expulsion to Afghanistan would expose him to a serious risk.",
+            "uk": "122.  Заявник стверджував, що належав до групи, а саме до членів сім’ї представників органів влади, яким згідно з відповідною інформацією про країну (див. пункт 46) в Афганістані могла загрожувати небезпека. Отже, українські органи влади були зобов’язані розглянути його твердження та з’ясувати, чи буде заявник підданий серйозній загрозі у випадку видворення до Афганістану."
+        }
+    },
+    {
+        "id": 175,
+        "translation": {
+            "en": "124.  In any event, the Regional Migration Service did not explicitly discuss the question whether the applicant would face a risk of treatment contrary to Articles 2 and 3 if returned to Afghanistan, which is the only pertinent question the authorities were expected to ask under the Convention (see A.D. and Others v. Turkey, no. 22681/09, § 99, 22 July 2014).",
+            "uk": "124.  У будь-якому випадку обласний орган міграційної служби прямо не розглянув, чи загрожувало заявнику поводження, заборонене статтями 2 та 3 Конвенції у випадку повернення до Афганістану, що було єдиним важливим запитанням, яке мали поставити органи державної влади відповідно до Конвенції (див. рішення у справі «A.Д. та інші проти Туреччини» (A.D. and Others v. Turkey), \nзаява № 22681/09, пункт 99, від 22 липня 2014 року)."
+        }
+    },
+    {
+        "id": 176,
+        "translation": {
+            "en": "126.  Moreover, it has not been contested that the Migration Service notified the applicant of its decision only after the applicant’s transportation to the airport with a view to expulsion started, three days before he was actually expelled to Afghanistan, all three of those days spent in transit (see paragraphs 28 and 31 above). Since he was not represented, this meant that he had no practical opportunity to challenge that decision before domestic courts.",
+            "uk": "126.  До того ж не оскаржується, що Міграційна служба України повідомила заявнику про свій наказ лише після початку підготовки до перевезення заявника до аеропорту з метою його видворення, за три дні до фактичного вислання до Афганістану, усі ці три дні він провів у дорозі (див. пункти 28 та 31). Оскільки у заявника не було захисника, це означало, що він не мав практичної можливості оскаржити цей наказ у національних судах."
+        }
+    },
+    {
+        "id": 177,
+        "translation": {
+            "en": "129.  However, it was in the first place for the domestic authorities to examine the arguability of the applicant’s claim (see Jabari v. Turkey, no. 40035/98, § 40, ECHR 2000VIII).",
+            "uk": "129.  Проте саме національні органи влади мали перевірити обґрунтованість тверджень заявника (див. рішення заявника «Джабарі проти Туреччини» (Jabari v. Turkey), заява № 40035/98, пункт 40, ЄСПЛ 2000VIII)."
+        }
+    },
+    {
+        "id": 178,
+        "translation": {
+            "en": "130.  There has, therefore, been a procedural violation of Article 3 of the Convention by Ukraine on account of the Ukrainian authorities’ failure to examine, in a manner compatible with the requirements of the Court’s caselaw, the applicant’s claim of fear of persecution in Afghanistan before returning him there.",
+            "uk": "130.  Отже, Україна порушила процесуальний аспект статті 3 Конвенції у зв’язку з тим, що перед поверненням заявника українські органи влади не розглянули у спосіб, сумісний з вимогами практики Суду, твердження заявника про страх стати в Афганістані жертвою переслідування."
+        }
+    },
+    {
+        "id": 179,
+        "translation": {
+            "en": "131.  Having regard to the reasoning which has led it to conclude that Article 3 of the Convention was breached in the present case, the Court finds nothing that would justify a separate examination of the same facts from the standpoint of Article 13 of the Convention (see, for example, M.D. and M.A. v. Belgium, no. 58689/12, § 70, 19 January 2016, and Amerkhanov v. Russia, no. 16026/12, § 59, 5 June 2018).",
+            "uk": "131.  Враховуючи міркування, які призвели до висновку про порушення у цій справі статті 3 Конвенції, Суд не вбачає нічого, що б обґрунтувало окремий розгляд тих самих фактів з точки зору статті 13 Конвенції (див., наприклад, рішення у справах «M.Д. та M.A. проти Бельгії» (M.D. and M.A. v. Belgium), заява № 58689/12, пункт 70, \nвід 19 січня 2016 року та «Амерханов проти Росії» (Amerkhanov v. Russia), заява № 16026/12, пункт 59, від 05 червня 2018 року)."
+        }
+    },
+    {
+        "id": 180,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLE 5 § 1 OF THE CONVENTION BY UKRAINE",
+            "uk": "СТВЕРДЖУВАНЕ ПОРУШЕННЯ УКРАЇНОЮ ПУНКТУ 1 СТАТТІ 5 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 181,
+        "translation": {
+            "en": "132.  The applicant complained that his detention in Ukraine had been in breach of Article 5 § 1 of the Convention, which reads, insofar as relevant:",
+            "uk": "132.  Заявник скаржився, що тримання його під вартою в Україні було порушенням пункту 1 статті 5 Конвенції, відповідна частина якої передбачає:"
+        }
+    },
+    {
+        "id": 182,
+        "translation": {
+            "en": "“1.  Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+            "uk": "«1.  Кожен має право на свободу та особисту недоторканність. Нікого не може бути позбавлено свободи, крім таких випадків і відповідно до процедури, встановленої законом:"
+        }
+    },
+    {
+        "id": 183,
+        "translation": {
+            "en": "(f)  the lawful arrest or detention of a person to prevent his effecting an unauthorised entry into the country or of a person against whom action is being taken with a view to deportation or extradition.”",
+            "uk": "(f)  законний арешт або затримання особи з метою запобігання її недозволеному в’їзду в країну чи особи, щодо якої провадиться процедура депортації або екстрадиції.»"
+        }
+    },
+    {
+        "id": 184,
+        "translation": {
+            "en": "133.  The applicant submitted that the authorities had failed to consider alternatives to detention and had not pursued the proceedings for his deportation with requisite diligence: his identification by the Embassy of Afghanistan had not been carried out until 20 February 2011, months after his placement in detention (see paragraphs 12 to 22 above).",
+            "uk": "133.  Заявник стверджував, що органи державної влади не розглянули альтернатив триманню його під вартою і не провели процедуру його депортації з належною ретельністю: його ідентифікація Посольством Афганістану не здійснювалася \nдо 20 лютого 2011 року, протягом місяців після взяття його під варту (див. пункти 12 – 22)."
+        }
+    },
+    {
+        "id": 185,
+        "translation": {
+            "en": "134.  The Government of Ukraine did not submit any observations.",
+            "uk": "134.  Уряд України не надав жодних зауважень."
+        }
+    },
+    {
+        "id": 186,
+        "translation": {
+            "en": "135.  The Court is not convinced by the applicant’s arguments. Before ordering the applicant’s detention, the domestic court did consider factors specific to his case and concluded that his detention was necessary (see paragraph 18 above). Likewise, there is no indication that there were such delays in the proceedings as to show that the authorities did not pursue the applicant’s expulsion with requisite diligence.",
+            "uk": "135.  Суд не переконаний аргументами заявника. Перед ухваленням постанови про затримання заявника національний суд розглянув фактори, характерні для його справи, і дійшов висновку про необхідність його затримання (див. пункт 18). Аналогічно, ніщо не свідчить про наявність таких затримок у провадженні, які б довели, що органи державної влади не проводили процедуру видворення заявника з належною ретельністю."
+        }
+    },
+    {
+        "id": 187,
+        "translation": {
+            "en": "136.  Therefore, this part of the application is manifestly ill-founded and should be rejected pursuant to Article 35 §§ 3 (a) and 4 of the Convention.",
+            "uk": "136.  Отже, ця частина заяви є явно необґрунтованою та має бути відхилена на підставі підпункту «а» пункту 3 та пункту 4 статті 35 Конвенції."
+        }
+    },
+    {
+        "id": 188,
+        "translation": {
+            "en": "ALLEGED VIOLATIONS OF ARTICLE 5 §§ 2 AND 4 OF THE CONVENTION BY UKRAINE",
+            "uk": "СТВЕРДЖУВАНІ ПОРУШЕННЯ УКРАЇНОЮ ПУНКТІВ 2 ТА 4 СТАТТІ 5 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 189,
+        "translation": {
+            "en": "137.  The applicant further complained that he had not been informed of the reasons for his detention in Ukraine, in breach of Article 5 § 2 of the Convention, and that the proceedings for his detention had been in breach of Article 5 § 4 of the Convention. The latter provision reads:",
+            "uk": "137.  Заявник також скаржився, що в Україні у порушення пункту 2 статті 5 Конвенції його не поінформували про підстави його затримання, а провадження щодо його затримання здійснювалося з порушенням пункту 4 статті 5 Конвенції. Останнє положення передбачає:"
+        }
+    },
+    {
+        "id": 190,
+        "translation": {
+            "en": "“4.  Everyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful.”",
+            "uk": "«4.  Кожен, кого позбавлено свободи внаслідок арешту або тримання під вартою, має право ініціювати провадження, в ході якого суд без зволікання встановлює законність затримання і приймає рішення про звільнення, якщо затримання є незаконним.»"
+        }
+    },
+    {
+        "id": 191,
+        "translation": {
+            "en": "The parties’ submissions",
+            "uk": "Доводи сторін"
+        }
+    },
+    {
+        "id": 192,
+        "translation": {
+            "en": "139.  The Government of Ukraine did not submit any observations.",
+            "uk": "139.  Уряд України не надав жодних зауважень."
+        }
+    },
+    {
+        "id": 193,
+        "translation": {
+            "en": "The Court’s assessment",
+            "uk": "Оцінка Суду"
+        }
+    },
+    {
+        "id": 194,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 195,
+        "translation": {
+            "en": "140.  The Court notes that this part of the application is not manifestly ill-founded within the meaning of Article 35 § 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+            "uk": "140.  Суд зазначає, що ця частина заяви не є явно необґрунтованою у розумінні підпункту «а» пункту 3 статті 35 Конвенції. Він також зазначає, що вона не є неприйнятною з будь-яких інших підстав. Тому вона має бути визнана прийнятною."
+        }
+    },
+    {
+        "id": 196,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 197,
+        "translation": {
+            "en": "143.  It is also relevant that the applicant’s allegations are corroborated by the CPT report concerning limited access to legal advice and interpretation at the Border Guard detention facilities where the applicant was held at the time (see paragraph 39 above).",
+            "uk": "143.  Крім того, важливим є те, що твердження заявника підтверджуються доповіддю КЗК стосовно обмеженого доступу до правової допомоги та перекладу у пунктах тимчасового тримання Державної прикордонної служби України, де на той момент перебував заявник (див. пункт 39)."
+        }
+    },
+    {
+        "id": 198,
+        "translation": {
+            "en": "144.  There has, accordingly, been a violation of Article 5 §§ 2 and 4 of the Convention by Ukraine.",
+            "uk": "144.  Отже, Україною було порушено пункти 2 та 4 статті 5 Конвенції."
+        }
+    },
+    {
+        "id": 199,
+        "translation": {
+            "en": "ALLEGED INTERFERENCE BY UKRAINE WITH THE APPLICANT’S RIGHT OF INDIVIDUAL APPLICATION",
+            "uk": "СТВЕРДЖЕНе втручання УКРАЇНИ у право заявника НА ПОДАННЯ ІНДИВІДУАЛЬНОЇ ЗАЯВИ"
+        }
+    },
+    {
+        "id": 200,
+        "translation": {
+            "en": "145.  The applicant complained that the Ukrainian authorities had denied an NGO representative access to the applicant, thus preventing him from lodging a request for an interim measure with the Court (see paragraph 29 above). He relied on Article 34 of the Convention, which provides as follows:",
+            "uk": "145.  Заявник скаржився, що українські органи влади відмовили представнику НУО в отриманні доступу до заявника, таким чином перешкодивши заявнику в поданні до Суду заяви про застосування тимчасового заходу (див. пункт 29). Він посилався на статтю 34 Конвенції, яка передбачає:"
+        }
+    },
+    {
+        "id": 201,
+        "translation": {
+            "en": "“The Court may receive applications from any person, non-governmental organisation or group of individuals claiming to be the victim of a violation by one of the High Contracting Parties of the rights set forth in the Convention or the Protocols thereto. The High Contracting Parties undertake not to hinder in any way the effective exercise of this right.”",
+            "uk": "«Суд може приймати заяви від будь-якої особи, неурядової організації або групи осіб, які вважають себе потерпілими від допущеного однією з Високих Договірних Сторін порушення прав, викладених у Конвенції або протоколах до неї. Високі Договірні Сторони зобов’язуються не перешкоджати жодним чином ефективному здійсненню цього права.»"
+        }
+    },
+    {
+        "id": 202,
+        "translation": {
+            "en": "146.  The Court notes that the applicant’s allegations in this respect are not supported by any evidence and are couched in rather vague terms.",
+            "uk": "146.  Суд зазначає, що твердження заявника у зв’язку з цим не підтверджуються жодними доказами і викладені у доволі нечітких формулюваннях."
+        }
+    },
+    {
+        "id": 203,
+        "translation": {
+            "en": "147.  Accordingly, the Court finds that Ukraine has not failed to comply with its obligations under Article 34 of the Convention.",
+            "uk": "147.  Отже, Суд вважає, що Україна виконала свої зобов’язання за статтею 34 Конвенції."
+        }
+    },
+    {
+        "id": 204,
+        "translation": {
+            "en": "APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+            "uk": "ЗАСТОСУВАННЯ СТАТТІ 41 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 205,
+        "translation": {
+            "en": "148.  Article 41 of the Convention provides:",
+            "uk": "148.  Стаття 41 Конвенції передбачає:"
+        }
+    },
+    {
+        "id": 206,
+        "translation": {
+            "en": "“If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”",
+            "uk": "«Якщо Суд визнає факт порушення Конвенції або протоколів до неї і якщо внутрішнє право відповідної Високої Договірної Сторони передбачає лише часткове відшкодування, Суд, у разі необхідності, надає потерпілій стороні справедливу сатисфакцію.»"
+        }
+    },
+    {
+        "id": 207,
+        "translation": {
+            "en": "Damage",
+            "uk": "Шкода"
+        }
+    },
+    {
+        "id": 208,
+        "translation": {
+            "en": "149.  The applicant claimed 10,000 euros (EUR) in respect of non-pecuniary damage.",
+            "uk": "149.  Заявник вимагав 10 000 євро в якості відшкодування моральної шкоди."
+        }
+    },
+    {
+        "id": 209,
+        "translation": {
+            "en": "150.  The Government of Slovakia pointed out that the applicant had not specified against which State his claims were directed. In any event, they considered the claim to be unfounded and manifestly overstated. The Government of Ukraine did not submit any comments.",
+            "uk": "150.  Уряд Словаччини зазначив, що заявник не уточнив, до якої держави він висунув свої вимоги. У будь-якому випадку Уряд Словаччини вважав вимогу необґрунтованою та явно завищеною. Уряд України не подав жодних коментарів."
+        }
+    },
+    {
+        "id": 210,
+        "translation": {
+            "en": "151.  In view of the fact that the violation of Article 3 of the Convention found in the present case is of a procedural nature, the Court awards him EUR 2,300 in respect of non-pecuniary damage, to be paid by Ukraine.",
+            "uk": "151.  З огляду на те, що встановлене у цій справі порушення статті 3 Конвенції має процесуальний характер, Суд присуджує заявнику \n2 300 євро в якості відшкодування моральної шкоди, які повинна сплатити Україна."
+        }
+    },
+    {
+        "id": 211,
+        "translation": {
+            "en": "Default interest",
+            "uk": "Пеня"
+        }
+    },
+    {
+        "id": 212,
+        "translation": {
+            "en": "152.  The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+            "uk": "152.  Суд вважає за належне призначити пеню на підставі граничної позичкової ставки Європейського центрального банку, до якої має бути додано три відсоткові пункти."
+        }
+    },
+    {
+        "id": 213,
+        "translation": {
+            "en": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+            "uk": "за цих підстав суд одноголосно"
+        }
+    },
+    {
+        "id": 214,
+        "translation": {
+            "en": "Declares the complaints against Slovakia inadmissible;",
+            "uk": "Оголошує неприйнятними скарги проти Словаччини;"
+        }
+    },
+    {
+        "id": 215,
+        "translation": {
+            "en": "Declares the complaints against Ukraine under Article 3 and 13 of the Convention in respect of the applicant’s return to Afghanistan and under Article 5 §§ 2 and 4 admissible and the remainder of the complaints against Ukraine inadmissible;",
+            "uk": "Оголошує прийнятними скарги проти України за статтями 3 та 13 Конвенції у зв’язку з поверненням заявника до Афганістану, а також за пунктами 2 та 4 статті 5 Конвенції, а решту скарг у заяві проти України – неприйнятними;"
+        }
+    },
+    {
+        "id": 216,
+        "translation": {
+            "en": "Holds that there has been a procedural violation of Article 3 of the Convention by Ukraine on account of the Ukrainian authorities’ failure to examine in an appropriate fashion the applicant’s claims of fear of persecution in Afghanistan before returning him there;",
+            "uk": "Постановляє, що Україною було порушено процесуальний аспект статті 3 Конвенції у зв’язку з неналежним розглядом українськими органами влади тверджень заявника про страх стати жертвою переслідування в Афганістані перед його повернення туди;"
+        }
+    },
+    {
+        "id": 217,
+        "translation": {
+            "en": "Holds that there is no need to examine separately the applicant’s complaint under Article 13 of the Convention taken in conjunction with Article 3 against Ukraine;",
+            "uk": "Постановляє, що немає необхідності розглядати окремо скаргу заявника проти України за статтею 13 Конвенції у поєднанні зі статтею 3 Конвенції;"
+        }
+    },
+    {
+        "id": 218,
+        "translation": {
+            "en": "Holds that there has been a violation of Article 5 §§ 2 and 4 of the Convention by Ukraine;",
+            "uk": "Постановляє, що Україною було порушено пункти 2 та 4 статті 5 Конвенції;"
+        }
+    },
+    {
+        "id": 219,
+        "translation": {
+            "en": "Holds that Ukraine has not failed to comply with its obligations under Article 34 of the Convention;",
+            "uk": "Постановляє, що Україна виконала свої зобов’язання за статтею 34 Конвенції;"
+        }
+    },
+    {
+        "id": 220,
+        "translation": {
+            "en": "Holds",
+            "uk": "Постановляє, що:"
+        }
+    },
+    {
+        "id": 221,
+        "translation": {
+            "en": "that Ukraine is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, EUR 2,300 (two thousand three hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;",
+            "uk": "упродовж трьох місяців з дати, коли це рішення набуде статусу остаточного відповідно до пункту 2 статті 44 Конвенції, Україна повинна сплатити заявнику 2 300 (дві тисячі триста) євро та додаткового суму будь-якого податку, що може нараховуватись, в якості відшкодування моральної шкоди;"
+        }
+    },
+    {
+        "id": 222,
+        "translation": {
+            "en": "that from the expiry of the above-mentioned three months until settlement, simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period, plus three percentage points;",
+            "uk": "із закінченням зазначеного тримісячного строку до остаточного розрахунку на зазначену суму нараховуватиметься простий відсоток (simple interest) у розмірі граничної позичкової ставки Європейського центрального банку, яка діятиме в період несплати, до якої має бути додано три відсоткові пункти;"
+        }
+    },
+    {
+        "id": 223,
+        "translation": {
+            "en": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+            "uk": "Відхиляє решту вимог заявника щодо справедливої сатисфакції."
+        }
+    },
+    {
+        "id": 224,
+        "translation": {
+            "en": "Done in English, and notified in writing on 11 June 2020, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+            "uk": "Учинено англійською мовою та повідомлено письмово 11 червня 2020 року відповідно до пунктів 2 і 3 Правила 77 Регламенту Суду."
+        }
+    }
+]

@@ -1,0 +1,2235 @@
+[
+    {
+        "id": 0,
+        "translation": {
+            "en": "FIFTH SECTION",
+            "uk": "П’ЯТА СЕКЦІЯ"
+        }
+    },
+    {
+        "id": 1,
+        "translation": {
+            "en": "CASE OF YAKHYMOVYCH v. UKRAINE",
+            "uk": "СПРАВА «ЯХИМОВИЧ ПРОТИ УКРАЇНИ»"
+        }
+    },
+    {
+        "id": 2,
+        "translation": {
+            "en": "(Application no. 23476/15)",
+            "uk": "(Заява № 23476/15)"
+        }
+    },
+    {
+        "id": 3,
+        "translation": {
+            "en": "JUDGMENT",
+            "uk": "РІШЕННЯ"
+        }
+    },
+    {
+        "id": 4,
+        "translation": {
+            "en": "Art 6 § 1 (criminal) • Fair hearing • Domestic courts’ failure to address adequately the applicant’s plea of police incitement • Overall fairness of proceedings undermined",
+            "uk": "П.1 ст. 6 (кримінальний аспект) • Справедливий розгляд справи судом • Національні суди не розглянули належним чином скаргу заявника на підбурювання працівників міліції • Загальну справедливість провадження підірвано"
+        }
+    },
+    {
+        "id": 5,
+        "translation": {
+            "en": "STRASBOURG",
+            "uk": "СТРАСБУРГ"
+        }
+    },
+    {
+        "id": 6,
+        "translation": {
+            "en": "16 December 2021",
+            "uk": "16 грудня 2021 року"
+        }
+    },
+    {
+        "id": 7,
+        "translation": {
+            "en": "FINAL",
+            "uk": "ОСТАТОЧНЕ"
+        }
+    },
+    {
+        "id": 8,
+        "translation": {
+            "en": "09/05/2022",
+            "uk": "09.05.2022"
+        }
+    },
+    {
+        "id": 9,
+        "translation": {
+            "en": "This judgment has become final under Article 44 § 2 of the Convention. It may be subject to editorial revision.",
+            "uk": "Це рішення набуло статусу остаточного відповідно до пункту 2 статті 44 Конвенції. Його текст може підлягати редакційним виправлення."
+        }
+    },
+    {
+        "id": 10,
+        "translation": {
+            "en": "In the case of Yakhymovych v. Ukraine,",
+            "uk": "У справі «Яхимович проти України»"
+        }
+    },
+    {
+        "id": 11,
+        "translation": {
+            "en": "The European Court of Human Rights (Fifth Section), sitting as a Chamber composed of:",
+            "uk": "Європейський суд з прав людини (П’ята секція), засідаючи палатою, до складу якої увійшли:"
+        }
+    },
+    {
+        "id": 12,
+        "translation": {
+            "en": "Síofra O’Leary, President,\n\tGanna Yudkivska,\n\tStéphanie Mourou-Vikström,\n\tLətif Hüseynov,\n\tJovan Ilievski,\n\tArnfinn Bårdsen,\n\tMattias Guyomar, judges,\nand Victor Soloveytchik, Section Registrar,",
+            "uk": "Сіофра О’Лірі (Síofra O’Leary), Голова,\n\tГанна Юдківська (Ganna Yudkivska),\n\tСтефані Моро-Вікстром (Stéphanie Mourou-Vikström),\n\tЛятіф Гусейнов (Lətif Hüseynov),\n\tЙован Ілієвський (Jovan Ilievski),\n\tАрнфінн Бордсен (Arnfinn Bårdsen),\n\tМаттіас Гуйомар (Mattias Guyomar), судді,\nта Віктор Соловейчік (Victor Soloveytchik), Секретар секції,"
+        }
+    },
+    {
+        "id": 13,
+        "translation": {
+            "en": "Having regard to:",
+            "uk": "З огляду на:"
+        }
+    },
+    {
+        "id": 14,
+        "translation": {
+            "en": "the application (no. 23476/15) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Oleg Ignatiyovych Yakhymovych (“the applicant”), on 29 April 2015;",
+            "uk": "заяву (№ 23476/15), яку 29 квітня 2015 року подав до Суду проти України на підставі статті 34 Конвенції про захист прав людини і основоположних свобод (далі – Конвенція) громадянин України, \nпан Олег Ігнатійович Яхимович (далі – заявник);"
+        }
+    },
+    {
+        "id": 15,
+        "translation": {
+            "en": "the decision to give notice of the application to the Ukrainian Government (“the Government”);",
+            "uk": "рішення повідомити Уряд України (далі – Уряд) про заяву;"
+        }
+    },
+    {
+        "id": 16,
+        "translation": {
+            "en": "the parties’ observations;",
+            "uk": "зауваження сторін;"
+        }
+    },
+    {
+        "id": 17,
+        "translation": {
+            "en": "Having deliberated in private on 5 October and 9 November 2021,",
+            "uk": "після обговорення за зачиненими дверима 05 жовтня та \n09 листопада 2021 року"
+        }
+    },
+    {
+        "id": 18,
+        "translation": {
+            "en": "Delivers the following judgment, which was adopted on that date:",
+            "uk": "постановляє таке рішення, що було ухвалено у той день:"
+        }
+    },
+    {
+        "id": 19,
+        "translation": {
+            "en": "INTRODUCTION",
+            "uk": "ВСТУП"
+        }
+    },
+    {
+        "id": 20,
+        "translation": {
+            "en": "1.  The case concerns allegations of police entrapment raised under Article 6 of the Convention.",
+            "uk": "1.  Справа стосується тверджень про провокацію працівників міліції, висунутих за статтею 6 Конвенції."
+        }
+    },
+    {
+        "id": 21,
+        "translation": {
+            "en": "THE FACTS",
+            "uk": "ФАКТИ"
+        }
+    },
+    {
+        "id": 22,
+        "translation": {
+            "en": "2.  The applicant was born in 1954 and is being detained in Lozivskyy. He was represented before the Court by Mr O.V. Levytskyy, a lawyer practising in Kyiv.",
+            "uk": "2.  Заявник народився у 1954 році та відбуває покарання у с. Лозівське. У Суді його представляв пан О.В. Левицький, юрист, який практикує у м. Київ."
+        }
+    },
+    {
+        "id": 23,
+        "translation": {
+            "en": "3.  The Government were represented by their Agent, Mr I. Lishchyna.",
+            "uk": "3.  Уряд представляв його Уповноважений, пан І. Ліщина."
+        }
+    },
+    {
+        "id": 24,
+        "translation": {
+            "en": "4.  The facts of the case, as submitted by the parties, may be summarised as follows.",
+            "uk": "4.  Факти справи, надані сторонами, можуть бути узагальнені таким чином."
+        }
+    },
+    {
+        "id": 25,
+        "translation": {
+            "en": "5.  The applicant had a conflict with a certain Mr S., who, the applicant alleged, had fraudulently misappropriated a residential property from him. The applicant brought complaints in that connection with various authorities.",
+            "uk": "5.  У заявника виник конфлікт з певним паном С., який згідно з твердженнями заявника шляхом обману незаконно привласнив його житлову нерухомість. У зв’язку з цим заявник звертався зі скаргами до різних органів державної влади."
+        }
+    },
+    {
+        "id": 26,
+        "translation": {
+            "en": "6.  According to the domestic courts’ decisions, the applicant, who had no previous criminal record, ordered the contract killing of S. under the following circumstances.",
+            "uk": "6.  Згідно з рішеннями національних судів заявник, раніше не судимий, замовив вбивство С. за таких обставин."
+        }
+    },
+    {
+        "id": 27,
+        "translation": {
+            "en": "Ch. was a long-term acquaintance and family friend of the applicant’s.",
+            "uk": "Ч. був давнім знайомим і другом сім’ї заявника."
+        }
+    },
+    {
+        "id": 28,
+        "translation": {
+            "en": "When Ch. was released at the end of February 2012, he asked to borrow some clothes from the applicant. In reply the latter repeated his request for Ch.’s help in finding contract killers.",
+            "uk": "Коли Ч. звільнили наприкінці лютого 2012 року, він попросив заявника позичити йому одяг. У відповідь останній повторив своє прохання про допомогу Ч. у пошуку найманих вбивць."
+        }
+    },
+    {
+        "id": 29,
+        "translation": {
+            "en": "7.  During the pre-trial investigation, a confrontation was conducted between the applicant and I. in the presence of the applicant’s lawyer. The applicant was given an opportunity to put questions to I. but he did not do so.",
+            "uk": "7.  Під час досудового розслідування між заявником та І. була проведена очна ставка у присутності захисника заявника. Заявнику була надана можливість ставити запитання І., але він цього не зробив."
+        }
+    },
+    {
+        "id": 30,
+        "translation": {
+            "en": "8.  The applicant stood trial before the Horlivka Nikitovsky District Court.",
+            "uk": "8.  Справу заявника розглянув Микитівський районний суд міста Горлівки."
+        }
+    },
+    {
+        "id": 31,
+        "translation": {
+            "en": "11.  On 3 October 2013 the trial court convicted the applicant of organising an attempted murder and sentenced him to eleven years’ imprisonment. The trial court referred to Article 15 § 2 (completed attempt to commit an offence), Article 27 § 3 (organiser of an offence) and Article 115 § 2(11) (contract murder) of the Criminal Code (see paragraphs 19 to 21 below). The trial court relied on the following evidence:",
+            "uk": "11.  03 жовтня 2013 року суд першої інстанції визнав заявника винним в організації замаху на вбивство та обрав йому покарання у виді позбавлення волі на строк одинадцять років. Суд першої інстанції послався на частину другу статті 15 (закінчений замах на злочин), частину третю статті 27 (організатор злочину) та пункт 11 частини другої статті 115 (вбивство, вчинене на замовлення) Кримінального кодексу України (див. пункти 19 – 21). Суд першої інстанції послався на такі докази:"
+        }
+    },
+    {
+        "id": 32,
+        "translation": {
+            "en": "(i)  a pre-trial statement by I. and the in-court testimony of Ch. presenting the events largely as set out in paragraph 6 above. I. stated in particular that on 3 April 2012 he had been invited to the police station and told that the applicant was looking for a killer to murder S. and that he was to meet the applicant, clarify his intentions and, if the applicant asked him to kill S., to accept and act as a potential killer;",
+            "uk": "(i)  показання І., надані під час досудового розслідування, та показання Ч., надані у судовому засіданні, в яких події викладені головним чином так, як наведено в пункті 6. Зокрема, І. зазначив, як \n03 квітня 2012 року його запросили до відділу міліції та сказали, що заявник шукав вбивцю для вбивства С. і він мав зустрітися із заявником, уточнити його наміри та, якщо заявник запропонує йому вбити С., погодитися і поводитися як потенційний вбивця;"
+        }
+    },
+    {
+        "id": 33,
+        "translation": {
+            "en": "(ii)  video recordings of the conversations between the applicant, I. and Ch. on 3, 5 and 6 April 2012 and a transcript of them prepared by a forensic expert, according to which the relevant part of the conversation unfolded as follows in sub-paragraphs (a) to (d) below:",
+            "uk": "(ii)  відеозаписи розмов заявника з І. та Ч. 03, 05 та 06 квітня \n2012 року та їхні стенограми, підготовлені судовим експертом, згідно з якими відповідна частина розмов відбувалася, як зазначено у підпунктах «a» – «d»:"
+        }
+    },
+    {
+        "id": 34,
+        "translation": {
+            "en": "(a)  first conversation on 3 April 2012:",
+            "uk": "(a)  перша розмова 03 квітня 2012 року:"
+        }
+    },
+    {
+        "id": 35,
+        "translation": {
+            "en": "“Applicant [A.]: That is his [S.’s] car... He is going to his dacha...",
+            "uk": "«Заявник [З.]: Це його [С.] машина... Він поїхав на свою дачу..."
+        }
+    },
+    {
+        "id": 36,
+        "translation": {
+            "en": "I.: Oleg, I understand... Will we do it or not? Here is the situation... I am telling you, I need money to go to Russia... Let’s say five hundred...",
+            "uk": "I.: Олег, я тебе зрозумів... Ми будемо робити чи ні? Ситуація така... Я ж тобі кажу, мені потрібні гроші поїхати в Росію... Ну давай п’ятсот..."
+        }
+    },
+    {
+        "id": 37,
+        "translation": {
+            "en": "A.: Uh.",
+            "uk": "З.: У?"
+        }
+    },
+    {
+        "id": 38,
+        "translation": {
+            "en": "I.: Five hundred.",
+            "uk": "I.: П’ятсот."
+        }
+    },
+    {
+        "id": 39,
+        "translation": {
+            "en": "A: Dollars?",
+            "uk": "З: Баксів?"
+        }
+    },
+    {
+        "id": 40,
+        "translation": {
+            "en": "I.: Yes.",
+            "uk": "I.: Так."
+        }
+    },
+    {
+        "id": 41,
+        "translation": {
+            "en": "A.: I do not have the money right now. Ch. knows this.",
+            "uk": "З.: Зараз поки немає. Ч. знає."
+        }
+    },
+    {
+        "id": 42,
+        "translation": {
+            "en": "I.: How much can you give, realistically? Realistically?",
+            "uk": "I.: Ну скільки можеш реально дати? Тільки реально?"
+        }
+    },
+    {
+        "id": 43,
+        "translation": {
+            "en": "A.: Well, you...",
+            "uk": "З.: Так, ти..."
+        }
+    },
+    {
+        "id": 44,
+        "translation": {
+            "en": "I.: Because I need to leave [profanity]... Because, you understand, I have come from far away...",
+            "uk": "I.: Тому що мені треба поїхати [нецензурна лексика]... Тому що, ти сам знаєш, я приїхав здалеку..."
+        }
+    },
+    {
+        "id": 45,
+        "translation": {
+            "en": "A.: I understand all this. Well, this should be totally clean.",
+            "uk": "З.: Я все це розумію. Ну, це треба так, щоб було зовсім чисто."
+        }
+    },
+    {
+        "id": 46,
+        "translation": {
+            "en": "I.: It will all be clean, don’t worry. I will do everything so that [profanity].",
+            "uk": "I.: Буде все чисто, не хвилюйся. Все зроблю так, що [нецензурна лексика]."
+        }
+    },
+    {
+        "id": 47,
+        "translation": {
+            "en": "A.: You, understand, the time is now... I am really in trouble, you know...",
+            "uk": "З.: Розумієш, зараз такий час... Я влип по повній, ти знаєш..."
+        }
+    },
+    {
+        "id": 48,
+        "translation": {
+            "en": "I.:  Ok, really, how much money is ok for you? Really, don’t beat around the bush [profanity], tell me how much it is.",
+            "uk": "I.: Гаразд, реально, скільки для тебе грошей? Реально, давай без цього [нецензурна лексика], кажи як є."
+        }
+    },
+    {
+        "id": 49,
+        "translation": {
+            "en": "A.: So, you need the money for the trip?",
+            "uk": "З.: А тобі на дорогу треба, так?"
+        }
+    },
+    {
+        "id": 50,
+        "translation": {
+            "en": "I.: Yes, I need it for the trip.",
+            "uk": "I.: Так, мені треба на дорогу."
+        }
+    },
+    {
+        "id": 51,
+        "translation": {
+            "en": "Ch.: We need you to show where he spends his time....",
+            "uk": "Ч.: Треба, щоб ти показав, де він буває...."
+        }
+    },
+    {
+        "id": 52,
+        "translation": {
+            "en": "I.: Well, not to show, just say where.",
+            "uk": "I.: Ну як, не те, щоб показав, просто сказав де."
+        }
+    },
+    {
+        "id": 53,
+        "translation": {
+            "en": "A.: But do you know him by sight?",
+            "uk": "З.: А ти його хоч з виду знаєш?"
+        }
+    },
+    {
+        "id": 54,
+        "translation": {
+            "en": "I.: [profanity] Of course I know him. Who doesn’t know that ape? Really, how much money can you give?",
+            "uk": "I.: [нецензурна лексика] Звичайно знаю. Хто цю мавпу не знає? Реально, скільки ти можеш дати грошей?"
+        }
+    },
+    {
+        "id": 55,
+        "translation": {
+            "en": "A.: Do you need to go to Moscow?",
+            "uk": "З.: Тобі в Москву їхати?"
+        }
+    },
+    {
+        "id": 56,
+        "translation": {
+            "en": "I.: Yes.",
+            "uk": "I.: Так."
+        }
+    },
+    {
+        "id": 57,
+        "translation": {
+            "en": "A.: To move up in the world?",
+            "uk": "З.: Розкрутитися, так?"
+        }
+    },
+    {
+        "id": 58,
+        "translation": {
+            "en": "I.: Well, they’re waiting for me there. What difference does it make?",
+            "uk": "I.: Та мене там чекають. Ну яка різниця?"
+        }
+    },
+    {
+        "id": 59,
+        "translation": {
+            "en": "A.: I don’t need this.",
+            "uk": "З.: Та мені не треба."
+        }
+    },
+    {
+        "id": 60,
+        "translation": {
+            "en": "I.: I just need to get there, that is all. They will meet me there. This is not your problem. I don’t ask you about details... He crossed you, crossed other people, that’s all. That’s why I’m telling you: let me quickly do him in, let us whack him and that’s all. I just need money for the ticket and the food.",
+            "uk": "I.: Мені треба тільки туди дістатися. Мене там зустрінуть. Це вже не твої, якби-то, проблеми. Я ж тебе не розпитую там саме нюанси... Він перейшов дорогу тобі, перейшов дорогу людям, все. Тому я тобі і говорю: давай швиденько я його зараз прикінчу, швиденько його замочимо і все. Просто мені потрібні «бабки» на квиток і пожерти."
+        }
+    },
+    {
+        "id": 61,
+        "translation": {
+            "en": "A.: Do you need it quickly?",
+            "uk": "З.: Тобі чимшвидше?"
+        }
+    },
+    {
+        "id": 62,
+        "translation": {
+            "en": "I.: Yes, I will do him in today or tomorrow because I cannot stay here for long...",
+            "uk": "І.: Так, я прикінчу його сьогодні-завтра, тому що мені не можна тут довго затримуватись..."
+        }
+    },
+    {
+        "id": 63,
+        "translation": {
+            "en": "A.: Well, well. [to Ch.:] How much will you bring?",
+            "uk": "З.: Так-так. [до Ч.:] Скільки ти ще принесеш?"
+        }
+    },
+    {
+        "id": 64,
+        "translation": {
+            "en": "Ch.: Well, today five hundred.",
+            "uk": "Ч.: Ну, сьогодні п’ятисотку."
+        }
+    },
+    {
+        "id": 65,
+        "translation": {
+            "en": "A.: That is not enough for him. Give him another five hundred so that he can leave and settle in for the first few days and I will pay you back later. I will get money soon.",
+            "uk": "З.: Цього мало. Ще дай п’ятсот, я потім з тобою розрахуюсь, щоб він поїхав і на перший час. У мене будуть «бабки» от-от."
+        }
+    },
+    {
+        "id": 66,
+        "translation": {
+            "en": "Ch.: How much do you need?",
+            "uk": "Ч.: Скільки тобі потрібно?"
+        }
+    },
+    {
+        "id": 67,
+        "translation": {
+            "en": "A.: That is for [I.]. How much do you need? One thousand is not enough?",
+            "uk": "З.: Йому [І.]. Ну, скільки? Ну, тисячі тобі мало?"
+        }
+    },
+    {
+        "id": 68,
+        "translation": {
+            "en": "I.: Of course it is not enough.",
+            "uk": "І.: Ну, звісно мало."
+        }
+    },
+    {
+        "id": 69,
+        "translation": {
+            "en": "A.: Fifteen hundred?",
+            "uk": "З.: Півтори?"
+        }
+    },
+    {
+        "id": 70,
+        "translation": {
+            "en": "I.: Just the ticket costs twelve hundred and there is also food for twenty-four hours.",
+            "uk": "І.: Туди білет десь тисячу двісті, а ще ж пожерти треба і добу маринуватися."
+        }
+    },
+    {
+        "id": 71,
+        "translation": {
+            "en": "Ch.: It’s up to you to find it, I think.",
+            "uk": "Ч.: Скільки ти знайдеш, давай думай."
+        }
+    },
+    {
+        "id": 72,
+        "translation": {
+            "en": "A.: Well, I borrowed for my wife’s surgery...",
+            "uk": "З.: Так я дружині на операцію брав, позичав..."
+        }
+    },
+    {
+        "id": 73,
+        "translation": {
+            "en": "I.: Those are your problems.",
+            "uk": "І.: Це твої проблеми."
+        }
+    },
+    {
+        "id": 74,
+        "translation": {
+            "en": "A.: You understand there is a lot going on and now you two come along. All this crap.",
+            "uk": "З.: Розумієш, тут одне до одного ось все це сталося, а тут якраз ви підвернулись. Так ото вся дурня."
+        }
+    },
+    {
+        "id": 75,
+        "translation": {
+            "en": "I.: Well, we spoke about this long ago...",
+            "uk": "І.: Ну, якби-то, ми давно про це говорили..."
+        }
+    },
+    {
+        "id": 76,
+        "translation": {
+            "en": "A. to Ch.: I will pay you back; you know I pay my debts.",
+            "uk": "З. до Ч.: Я тобі віддам; Я не пустомеля."
+        }
+    },
+    {
+        "id": 77,
+        "translation": {
+            "en": "Ch. to I.: So, let us fix how much you need and I will bring [the applicant] as much dough as I can.",
+            "uk": "Ч. до I.: Давай ми з тобою визначимося, що там треба, я [заявнику] «бабок» привезу, скільки зможу."
+        }
+    },
+    {
+        "id": 78,
+        "translation": {
+            "en": "A.: Give it to him.",
+            "uk": "З.: Ти йому віддай."
+        }
+    },
+    {
+        "id": 79,
+        "translation": {
+            "en": "Ch.: No, I will give it to you and you will pay him...",
+            "uk": "Ч.: Ні, я краще тобі завезу, а ти вже сам заплати йому..."
+        }
+    },
+    {
+        "id": 80,
+        "translation": {
+            "en": "A.: I told you, give it to him.",
+            "uk": "З.: Я тобі сказав, віддай йому."
+        }
+    },
+    {
+        "id": 81,
+        "translation": {
+            "en": "I.: Look, let us do it this way, I will explain to you...",
+            "uk": "І.: Дивись, давай зробимо так, я тобі просто пояснюю..."
+        }
+    },
+    {
+        "id": 82,
+        "translation": {
+            "en": "A.: No need for all this.",
+            "uk": "З.: Цього всього не треба."
+        }
+    },
+    {
+        "id": 83,
+        "translation": {
+            "en": "I.: Look, let us do it the smart way. Let us go today... you will just show where he... I will be without my phone, you will leave your phone at home, do you understand? Because, you know, all kinds of stuff can happen. You know, the antennas will show where you went, where you passed by... And this way it’s just like you were sitting at home...",
+            "uk": "І.: Слухай, давай зробимо розумно. Поїдемо сьогодні... просто поїдеш покажеш де він... Я буду без телефону, ти телефон там дома залишиш, зрозумів? Тому що, ти сам розумієш, випадки в житті різні трапляються. Ну, знаєш, антени покажуть, де ти їздив, проїжджав... А так, телефон вдома, та «я вдома сидів»..."
+        }
+    },
+    {
+        "id": 84,
+        "translation": {
+            "en": "A.: I will find an alibi...",
+            "uk": "З.: Я алібі знайду..."
+        }
+    },
+    {
+        "id": 85,
+        "translation": {
+            "en": "I.: Let’s cut this short. Let’s agree like this: two thousand hryvnias. He gives me five hundred now...",
+            "uk": "І.: Коротше, давай домовимся так: дві тисячі гривень. Ось п’ятсот він мені дає..."
+        }
+    },
+    {
+        "id": 86,
+        "translation": {
+            "en": "A.: Get him one thousand five hundred... I will pay you back two thousand and the debt.",
+            "uk": "З.: Дістань йому півтори... Я тобі дві віддам і те, що взяв."
+        }
+    },
+    {
+        "id": 87,
+        "translation": {
+            "en": "I.: Look, I’ll stay with him, he will give me five hundred now, this is for our food, and then one thousand five hundred for the ticket... Well, I need to eat, right? Are you okay with this?",
+            "uk": "І.: Дивись, я в нього торможуся, ось п’ятисотку він мені зараз віддасть, це на пожерти, ну, і потім півтори на квиток... А то ж треба щось їсти, правильно? Влаштовує тебе таке?"
+        }
+    },
+    {
+        "id": 88,
+        "translation": {
+            "en": "A.: What are you...",
+            "uk": "З.: Про що ти..."
+        }
+    },
+    {
+        "id": 89,
+        "translation": {
+            "en": "I.: And well let’s... I am just talking to people. Well, you understand. I will just get down to business... Shall I bring you his ear, his head? A photo will be enough.",
+            "uk": "І.: І давай так... Я просто спілкуюсь, розумієш, з людьми. Просто берусь за справу... Що тобі вухо його привезти, голову? Фотки буде достатньо."
+        }
+    },
+    {
+        "id": 90,
+        "translation": {
+            "en": "A.: There is no need, there is no need for anything. Serezha, don’t...",
+            "uk": "З.: Не треба, нічого не треба. Сєрьожа, не треба..."
+        }
+    },
+    {
+        "id": 91,
+        "translation": {
+            "en": "I.: I’m just a person who...",
+            "uk": "І.: Я така людина..."
+        }
+    },
+    {
+        "id": 92,
+        "translation": {
+            "en": "A.: There is no need.",
+            "uk": "З.: Не треба."
+        }
+    },
+    {
+        "id": 93,
+        "translation": {
+            "en": "I.: Listen, let’s... Listen, listen, let’s, listen...",
+            "uk": "І.: Слухай, давай... Слухай, слухай, давай, слухай..."
+        }
+    },
+    {
+        "id": 94,
+        "translation": {
+            "en": "A.: He would call me the same day and say... you understand.",
+            "uk": "З.: Мені в той же день подзвонить і скаже... розумієш."
+        }
+    },
+    {
+        "id": 95,
+        "translation": {
+            "en": "I.: Yes, we would meet, you will understand and that is all. We will sort it out.",
+            "uk": "І.: Так, ми зустрінемось, ти зрозумієш і все. Ну розберемось."
+        }
+    },
+    {
+        "id": 96,
+        "translation": {
+            "en": "A.: Calm down. There is no need for any of this. I will know about it for sure, I’d be the first [to know]. I did nothing, but they say that I tried to stab him... He lodged a complaint against me with the prosecutor...",
+            "uk": "З.: Заспокойся. Нічого не треба. Я дізнаюсь сто відсотків, я найперший [дізнаюсь]. Я нічого не робив, а вони говорять, що його хтось зарізати хотів... Він на мене в прокуратуру написав..."
+        }
+    },
+    {
+        "id": 97,
+        "translation": {
+            "en": "I.: Well, Oleg, let’s cut this short.",
+            "uk": "І.: Так, Олег, давай коротше."
+        }
+    },
+    {
+        "id": 98,
+        "translation": {
+            "en": "A.: He complained that I set his door on fire.",
+            "uk": "З.: Він поскаржився, що я йому двері підпалив."
+        }
+    },
+    {
+        "id": 99,
+        "translation": {
+            "en": "I.: Look, let us now go and eat and then we can come back for you and you can show us where he lives and his route, do you understand?",
+            "uk": "І.: Давай ми зараз підем поїмо і потім ми за тобою заїдемо, ти покажеш де він живе, його маршрут, розумієш?"
+        }
+    },
+    {
+        "id": 100,
+        "translation": {
+            "en": "A.: And if I just tell you briefly?",
+            "uk": "З.: Якщо тобі розказати коротко?"
+        }
+    },
+    {
+        "id": 101,
+        "translation": {
+            "en": "Ch.: It would be better if we go there so you can show him.",
+            "uk": "Ч.: Давай проїдемо, краще покажеш йому."
+        }
+    },
+    {
+        "id": 102,
+        "translation": {
+            "en": "I.: And about the price. He has given me five hundred, and one thousand five hundred remains.",
+            "uk": "І.: Ще ціна. П’ятисотку він мені дав і потім півтори ще."
+        }
+    },
+    {
+        "id": 103,
+        "translation": {
+            "en": "A.: I, well...",
+            "uk": "З.: Я, коротше..."
+        }
+    },
+    {
+        "id": 104,
+        "translation": {
+            "en": "I.: Wait Oleg, I am just explaining it to you. If I do it today, let’s say, I would come tomorrow and say ‘Oleg, the work is done’.",
+            "uk": "І.: Почекай, Олег, я тобі просто пояснюю. Якщо я зроблю це сьогодні, припустимо, я приїхав завтра і сказав: «Олег, робота зроблена»."
+        }
+    },
+    {
+        "id": 105,
+        "translation": {
+            "en": "A.: Don’t do anything, don’t say anything. We... That’s all.",
+            "uk": "З.: Не треба нічого робити, говорити. Все, ми..."
+        }
+    },
+    {
+        "id": 106,
+        "translation": {
+            "en": "I.: So that you pay it right away, and don’t say ‘I don’t have it, come back tomorrow’. Because I need it, you understand, to leave this place, that’s all.",
+            "uk": "І.: Щоб ти зразу дістав і віддав, щоб не було: «Ось нема, ось завтра». Тому що мені треба, сам розумієш, щоб звідси поїхати. Все."
+        }
+    },
+    {
+        "id": 107,
+        "translation": {
+            "en": "A. (to Ch.): Give him five hundred today and one thousand five hundred that day.",
+            "uk": "З. (до Ч.): П’ятисотку дай йому сьогодні і півтори віддаси в той самий день."
+        }
+    },
+    {
+        "id": 108,
+        "translation": {
+            "en": "Ch.: You will give it to him yourself. I will leave the money with you because I might leave town by tomorrow. I have some business in Donetsk.",
+            "uk": "Ч.: Ти сам віддаси. Я тобі лишу, тому що мене може завтра не буде тут. Я зірвуся в Донецьк по своїм справам."
+        }
+    },
+    {
+        "id": 109,
+        "translation": {
+            "en": "I.: That’s all. We have agreed on the price.",
+            "uk": "І.: Ну все, про ціну домовились."
+        }
+    },
+    {
+        "id": 110,
+        "translation": {
+            "en": "A.: That’s all.",
+            "uk": "З.: Все."
+        }
+    },
+    {
+        "id": 111,
+        "translation": {
+            "en": "I.: I do not say goodbye, we will see each other later today... You watch out.",
+            "uk": "І.: Не прощаємось, сьогодні ще побачимось... Тільки ж дивись."
+        }
+    },
+    {
+        "id": 112,
+        "translation": {
+            "en": "A.: You give a sign, so that I can get out of town. I will go somewhere so that I have a 100% alibi.",
+            "uk": "З.: Натякнеш, що мене тут взагалі в місті не було. Я кудись метнусь, щоби було 100% алібі."
+        }
+    },
+    {
+        "id": 113,
+        "translation": {
+            "en": "I.: I understand. So long. Prepare the money.”",
+            "uk": "І.: Все я зрозумів. Все, давай. Тільки грошики готуй.»"
+        }
+    },
+    {
+        "id": 114,
+        "translation": {
+            "en": "(b)  second meeting on 3 April 2012:",
+            "uk": "(b)  друга зустріч 03 квітня 2012 року:"
+        }
+    },
+    {
+        "id": 115,
+        "translation": {
+            "en": "“I.: Oleg, sit in front so that you can show the way... Have you switched off your phone?",
+            "uk": "«І.: Олег, спереду сідай, ти ж будеш показувати дорогу... Телефон виключив?"
+        }
+    },
+    {
+        "id": 116,
+        "translation": {
+            "en": "A.: I completely removed the battery.",
+            "uk": "З.: Я батарею зняв взагалі."
+        }
+    },
+    {
+        "id": 117,
+        "translation": {
+            "en": "I.: Good man. Show us where this S. lives.",
+            "uk": "І.: Красунчик. Показуй, де цей С. живе."
+        }
+    },
+    {
+        "id": 118,
+        "translation": {
+            "en": "I.: Oleg, look, one question for you: we will kill him tomorrow or the day after. What should we do with the body?",
+            "uk": "І.: Олег, ще одне питання тобі: дивись, завтра-післязавтра вб’ємо ми його. Скажи, що робити з трупом?"
+        }
+    },
+    {
+        "id": 119,
+        "translation": {
+            "en": "A.: Well, about this...",
+            "uk": "З.: Про це..."
+        }
+    },
+    {
+        "id": 120,
+        "translation": {
+            "en": "I.: We all know each other here.",
+            "uk": "І.: Ну тут всі свої."
+        }
+    },
+    {
+        "id": 121,
+        "translation": {
+            "en": "A.: [unintelligible]",
+            "uk": "З.: [незрозуміло]"
+        }
+    },
+    {
+        "id": 122,
+        "translation": {
+            "en": "I.: Look, let us bury him or burn the body. That way he would disappear and nobody would know where. Do you agree?",
+            "uk": "І.: Дивись, давай тіло закопаємо або спалимо. Він пропаде безвісти і хто його знає, куди він дівся. Ти згоден?"
+        }
+    },
+    {
+        "id": 123,
+        "translation": {
+            "en": "A.: Serezha...",
+            "uk": "З.: Сєрьожа..."
+        }
+    },
+    {
+        "id": 124,
+        "translation": {
+            "en": "I.: Well, do you agree?",
+            "uk": "І.: Ну ти згоден?"
+        }
+    },
+    {
+        "id": 125,
+        "translation": {
+            "en": "A.: [unintelligible]",
+            "uk": "З.: [незрозуміло]"
+        }
+    },
+    {
+        "id": 126,
+        "translation": {
+            "en": "I.: Well the most important thing for you is that the job is done, correct? I am correct?",
+            "uk": "І.: Ну, тобі головне, щоб робота була зроблена, правильно? Правильно я кажу?"
+        }
+    },
+    {
+        "id": 127,
+        "translation": {
+            "en": "A.: [unintelligible]",
+            "uk": "З.: [незрозуміло]"
+        }
+    },
+    {
+        "id": 128,
+        "translation": {
+            "en": "I.: That’s all, no more questions. Don’t you worry. We all know each other here. If we undertake to do something, we do it... If he just disappears, there will be less trouble. But if his body is found...",
+            "uk": "І.: Все, без питань. Не хвилюйся. Тут всі свої люди. Якщо ми за щось беремось, ми це виконуємо... Якщо він просто пропав, це ж менше понтів. Інша справа, як знайдуть тіло..."
+        }
+    },
+    {
+        "id": 129,
+        "translation": {
+            "en": "A.: [unintelligible]",
+            "uk": "З.: [незрозуміло]"
+        }
+    },
+    {
+        "id": 130,
+        "translation": {
+            "en": "I.: We’ll see. Do you know where you’ll go when you leave town?",
+            "uk": "І.: Там вже визначимось. В тебе є куди поїхати з міста?"
+        }
+    },
+    {
+        "id": 131,
+        "translation": {
+            "en": "A.: Well, tomorrow I can spend time near my home. There are youngsters living there... A retired policeman lives across the street. I will be around my home, people will see me...",
+            "uk": "З.: Я можу вештатися навколо будинку. Там молоді пацани живуть... Навпроти міліціонер у відставці живе. Я буду біля будинку, на очах..."
+        }
+    },
+    {
+        "id": 132,
+        "translation": {
+            "en": "[There followed a discussion about where S. lived, where he drove with his car and the applicant’s alibi.]”",
+            "uk": "[Далі була дискусія про те, де жив С., куди він їздив на своєму автомобілі та про алібі заявника.]»"
+        }
+    },
+    {
+        "id": 133,
+        "translation": {
+            "en": "(c)  conversation on 5 April 2012:",
+            "uk": "(c)  розмова 05 квітня 2012 року:"
+        }
+    },
+    {
+        "id": 134,
+        "translation": {
+            "en": "“A.: Hello Serezha.",
+            "uk": "«З.: Привіт, Сєрьожа."
+        }
+    },
+    {
+        "id": 135,
+        "translation": {
+            "en": "I.: So, how is life going?",
+            "uk": "І.: Ну що ти, як життя молоде?"
+        }
+    },
+    {
+        "id": 136,
+        "translation": {
+            "en": "A.: All is normal.",
+            "uk": "З.: Нормально."
+        }
+    },
+    {
+        "id": 137,
+        "translation": {
+            "en": "I.: All normal? Let’s cut it short, look, Oleg...",
+            "uk": "І.: Нормально все? Коротше, дивись, Олег..."
+        }
+    },
+    {
+        "id": 138,
+        "translation": {
+            "en": "A.: I am not showing up anywhere.",
+            "uk": "З.: Я не показуюсь ніде."
+        }
+    },
+    {
+        "id": 139,
+        "translation": {
+            "en": "I.: I understand.",
+            "uk": "І.: Я зрозумів."
+        }
+    },
+    {
+        "id": 140,
+        "translation": {
+            "en": "A.: The only thing is that I will be at the car market on Saturday [7 April 2012].",
+            "uk": "З.: Тільки в суботу я буду на авторинку [07 квітня 2012 року]."
+        }
+    },
+    {
+        "id": 141,
+        "translation": {
+            "en": "I. - Well, most likely we will kill him, this Elgar [S.], today, do you understand? In short, do this – call a taxi. You have a wife or someone else in the hospital, right?",
+            "uk": "І. – Ну, скоріше за все, сьогодні його будемо мочити, Ельгара цього [С.], зрозумів? Коротше, візьми виклич таксі. У тебе ж дружина, чи хтось в лікарні лежить, так?"
+        }
+    },
+    {
+        "id": 142,
+        "translation": {
+            "en": "A.: Well, yes.",
+            "uk": "З.: Ну."
+        }
+    },
+    {
+        "id": 143,
+        "translation": {
+            "en": "I.: - Well, go to the hospital and stay there until evening, you understand, well, so that you have an alibi, so...",
+            "uk": "І.: Ну поїдь в лікарню і посидь до вечора, зрозумів, щоб у тебе алібі було, щоб..."
+        }
+    },
+    {
+        "id": 144,
+        "translation": {
+            "en": "Ch.: Yes. not here.",
+            "uk": "Ч.: Так, тут не треба."
+        }
+    },
+    {
+        "id": 145,
+        "translation": {
+            "en": "I.: Well, in short, yes, so that you are somewhere in sight, you know [profanity], you know, well, so that people [can see you]",
+            "uk": "І.: Ну, коротше, так, щоби ти був на виду, знаєш [нецензурна лексика], ну, знаєш, ну, у людей [які могли побачити тебе]"
+        }
+    },
+    {
+        "id": 146,
+        "translation": {
+            "en": "A.: You got him good?",
+            "uk": "З.: А зачепили його добре?"
+        }
+    },
+    {
+        "id": 147,
+        "translation": {
+            "en": "I.: Well, we will, we are going to get him today.",
+            "uk": "І.: Ну, тільки будемо сьогодні чіпляти."
+        }
+    },
+    {
+        "id": 148,
+        "translation": {
+            "en": "Ch.: Right now everything will be alright. Already..",
+            "uk": "Ч.: Зараз, сьогодні буде все в порядку. Вже.."
+        }
+    },
+    {
+        "id": 149,
+        "translation": {
+            "en": "A.: At home there?",
+            "uk": "З.: Дома там?"
+        }
+    },
+    {
+        "id": 150,
+        "translation": {
+            "en": "I.: Yes.",
+            "uk": "І.: Так."
+        }
+    },
+    {
+        "id": 151,
+        "translation": {
+            "en": "[There followed a discussion of how exactly Ch. was supposed to give money to the applicant.]",
+            "uk": "[Далі обговорювалося, як саме Ч. мав передати грошові кошти заявнику.]"
+        }
+    },
+    {
+        "id": 152,
+        "translation": {
+            "en": "Ch.: In short, I will call you as soon as I leave it [the money in the agreed place].",
+            "uk": "Ч.: Коротше, щойно залишу [гроші в узгодженому місці], я тебе наберу."
+        }
+    },
+    {
+        "id": 153,
+        "translation": {
+            "en": "A.: Everything is alright, do not worry about that. I am already...",
+            "uk": "З.: Та все нормально, ти щодо цього не хвилюйся. Я вже..."
+        }
+    },
+    {
+        "id": 154,
+        "translation": {
+            "en": "I.: I will tell him you said hello.",
+            "uk": "І.: Я йому вітання від тебе передам."
+        }
+    },
+    {
+        "id": 155,
+        "translation": {
+            "en": "A.: There is no need for anything.",
+            "uk": "З.: Не треба нічого."
+        }
+    },
+    {
+        "id": 156,
+        "translation": {
+            "en": "I.: But he will not exist anymore, what are you worrying about? A am telling you, he won’t be there anymore.",
+            "uk": "І.: Та його ж не буде більше, що ти хвилюєшся? Я кажу, його не буде."
+        }
+    },
+    {
+        "id": 157,
+        "translation": {
+            "en": "A.: Don’t.",
+            "uk": "З.: Не треба."
+        }
+    },
+    {
+        "id": 158,
+        "translation": {
+            "en": "I.: So that the [profanity] knows who he got it from.",
+            "uk": "І.: Щоб [нецензурна лексика] знав, що хоч від кого."
+        }
+    },
+    {
+        "id": 159,
+        "translation": {
+            "en": "A.: Nothing about that, nothing.",
+            "uk": "З.: Про це не треба нічого, нічого."
+        }
+    },
+    {
+        "id": 160,
+        "translation": {
+            "en": "Ch.: No need to tell him anything.",
+            "uk": "Ч.: Говорити йому нічого не треба."
+        }
+    },
+    {
+        "id": 161,
+        "translation": {
+            "en": "A.: Nothing, keep quiet Serezha, you know what they say: silence is golden.",
+            "uk": "З.: Нічого. Мовчи, Сєрьожа, знаєш як кажуть: мовчання – це золото."
+        }
+    },
+    {
+        "id": 162,
+        "translation": {
+            "en": "I.: Well, ok. It is time, take care.",
+            "uk": "І.: Ну добре. Тому що час, давай коротше."
+        }
+    },
+    {
+        "id": 163,
+        "translation": {
+            "en": "A.: Silence is golden.",
+            "uk": "З.: Мовчання – це золото."
+        }
+    },
+    {
+        "id": 164,
+        "translation": {
+            "en": "I.: Now you better call a taxi.",
+            "uk": "І.: Зараз виклич таксі, бажано."
+        }
+    },
+    {
+        "id": 165,
+        "translation": {
+            "en": "Ch.: You change your clothes and you go.",
+            "uk": "Ч.: Перевдягайся і їдь."
+        }
+    },
+    {
+        "id": 166,
+        "translation": {
+            "en": "I.: You have taxis here, right?",
+            "uk": "І.: Є ж у вас тут таксі?"
+        }
+    },
+    {
+        "id": 167,
+        "translation": {
+            "en": "A.: Yes, it’s all good. Here, I have called a taxi, it has been registered there.",
+            "uk": "З.: Так, все нормально. Ну ось, викликав таксі, щоб саме зареєструвалось."
+        }
+    },
+    {
+        "id": 168,
+        "translation": {
+            "en": "Ch.: Well, he has his own car, he will take it and go.",
+            "uk": "Ч.: Та ну, своя машина є, візьме свою машину і поїде."
+        }
+    },
+    {
+        "id": 169,
+        "translation": {
+            "en": "I.: [profanity] Better call the taxi [profanity] so that there is [a trace of] a telephone call so that, in case, you know, I’m just saying it in case.",
+            "uk": "І.: [нецензурна лексика] Краще викликати таксі [нецензурна лексика] щоб, якщо раптом, [відслідковували] телефонний дзвінок, ну, до прикладу, я тобі просто образно."
+        }
+    },
+    {
+        "id": 170,
+        "translation": {
+            "en": "A.: Well, I...",
+            "uk": "З.: Та я..."
+        }
+    },
+    {
+        "id": 171,
+        "translation": {
+            "en": "I.: Because you yourself are worried.",
+            "uk": "І.: Тому що ти ж сам хвилюєшся."
+        }
+    },
+    {
+        "id": 172,
+        "translation": {
+            "en": "A.: Look, I am not at all worried.",
+            "uk": "З.: Слухай, я не хвилююся ні краплі."
+        }
+    },
+    {
+        "id": 173,
+        "translation": {
+            "en": "I.: I hope you did not take your phone with you.",
+            "uk": "І.: Телефон ти ж із собою не брав, я надіюсь."
+        }
+    },
+    {
+        "id": 174,
+        "translation": {
+            "en": "A.: I turned it off.",
+            "uk": "З.: Я вимкнув його."
+        }
+    },
+    {
+        "id": 175,
+        "translation": {
+            "en": "I.: There you go. Well, I am without a phone, it doesn’t matter. Well, look, tomorrow...",
+            "uk": "І.: Ось. Ну, я без телефону, не важливо. Ну, коротше дивись, завтра..."
+        }
+    },
+    {
+        "id": 176,
+        "translation": {
+            "en": "A.: He has more enemies than a dog has lice.",
+            "uk": "З.: Там у нього ворогів більше, ніж у собаки бліх."
+        }
+    },
+    {
+        "id": 177,
+        "translation": {
+            "en": "I.: Well, that’s all. Then tomorrow at ten or nine, I think.",
+            "uk": "І.: Ну все. Завтра тоді зранку, я думаю, в годині десятій – дев’ятій."
+        }
+    },
+    {
+        "id": 178,
+        "translation": {
+            "en": "A.: Do not call, nothing. I will learn about everything myself. I...",
+            "uk": "З.: Не телефонуй нічого. Я про все сам дізнаюся. Я..."
+        }
+    },
+    {
+        "id": 179,
+        "translation": {
+            "en": "I.: That’s all.",
+            "uk": "І.: Все."
+        }
+    },
+    {
+        "id": 180,
+        "translation": {
+            "en": "A.: There will be rumours right away [Then the applicant discussed his family].",
+            "uk": "З.: Тут плітки поповзуть одразу [Далі заявник обговорює свою сім’ю]."
+        }
+    },
+    {
+        "id": 181,
+        "translation": {
+            "en": "I.: Well, that is all, don’t worry.",
+            "uk": "І.: Ну, все, не хвилюйся."
+        }
+    },
+    {
+        "id": 182,
+        "translation": {
+            "en": "A.: Well, I...",
+            "uk": "З.: Та я..."
+        }
+    },
+    {
+        "id": 183,
+        "translation": {
+            "en": "I.: So tomorrow...",
+            "uk": "І.: Тоді до завтра..."
+        }
+    },
+    {
+        "id": 184,
+        "translation": {
+            "en": "A.: It’s alright, Serezha.",
+            "uk": "З.: Все нормально, Сєрьожа."
+        }
+    },
+    {
+        "id": 185,
+        "translation": {
+            "en": "I.: That’s all. Do as I tell you. Now the taxi...",
+            "uk": "І.: Все. Зроби, як я тобі говорю. Зараз таксі..."
+        }
+    },
+    {
+        "id": 186,
+        "translation": {
+            "en": "A.: Everything will be...",
+            "uk": "З.: Все буде..."
+        }
+    },
+    {
+        "id": 187,
+        "translation": {
+            "en": "I.: And you went somewhere in town.",
+            "uk": "І.: Поїхав кудись в місто."
+        }
+    },
+    {
+        "id": 188,
+        "translation": {
+            "en": "A.: Don’t worry, don’t you worry about me.",
+            "uk": "З.: За мене, за мене не хвилюйся."
+        }
+    },
+    {
+        "id": 189,
+        "translation": {
+            "en": "I.: I’m not worrying about you. I...",
+            "uk": "І.: Ні, я за тебе не хвилююся. Мені..."
+        }
+    },
+    {
+        "id": 190,
+        "translation": {
+            "en": "A.: That’s all.",
+            "uk": "З.: І все."
+        }
+    },
+    {
+        "id": 191,
+        "translation": {
+            "en": "I.: See, you said it yourself: tell me when to arrange for an alibi.",
+            "uk": "І.: Ти ж сам казав: скажіть, коли мені робити алібі."
+        }
+    },
+    {
+        "id": 192,
+        "translation": {
+            "en": "A.: Ok, that’s all.",
+            "uk": "З.: Ну все."
+        }
+    },
+    {
+        "id": 193,
+        "translation": {
+            "en": "I.: Because, how to say it... I have some debt to [Ch.].",
+            "uk": "І.: Тому що воно як би... Я дечим зобов’язаний [Ч.]."
+        }
+    },
+    {
+        "id": 194,
+        "translation": {
+            "en": "A.: I have an alibi. You see, I am walking around at home.",
+            "uk": "З.: У мене алібі. Ти бачиш, що я по будинку ходжу."
+        }
+    },
+    {
+        "id": 195,
+        "translation": {
+            "en": "I.: Pasha [Ch.] asked me.",
+            "uk": "І.: Паша [Ч.] попросив мене."
+        }
+    },
+    {
+        "id": 196,
+        "translation": {
+            "en": "A.: [I am walking] in the street... I can be seen at the shop, at the kiosk, and the neighbours see me – like that old woman. I’m here and I’m there, you know.",
+            "uk": "З.: [Я ходжу] по вулиці... Мене і в магазині бачать, і в ларьку, і сусіди бачать – он бабця. І там і там я, знаєш."
+        }
+    },
+    {
+        "id": 197,
+        "translation": {
+            "en": "I.: Well, that’s all, until tomorrow then Oleg. So long.",
+            "uk": "І.: Ну, все, давай до завтра тоді, Олег. Давай, все."
+        }
+    },
+    {
+        "id": 198,
+        "translation": {
+            "en": "A.: Everything is ok. Do not call me. Later one day...",
+            "uk": "З.: Все нормально. Мені не дзвоніть. Потім якось..."
+        }
+    },
+    {
+        "id": 199,
+        "translation": {
+            "en": "I.: I’m not calling, everything is through Pasha. Until tomorrow. Pasha, let’s go.",
+            "uk": "І.: Ну, я ж не дзвоню, все через Пашу. Давай до завтра. Паш, поїхали."
+        }
+    },
+    {
+        "id": 200,
+        "translation": {
+            "en": "A.: I will learn everything myself. There, to put it short, if that happens there, when he is... no need to say anything.",
+            "uk": "З.: Я про все дізнаюсь сам. Там, коротше кажучи, коли станеться там... не треба нічого говорити."
+        }
+    },
+    {
+        "id": 201,
+        "translation": {
+            "en": "Ch.: Ok, Oleg, so long, goodbye.”",
+            "uk": "Ч.: Все, Олег, давай, до побачення.»"
+        }
+    },
+    {
+        "id": 202,
+        "translation": {
+            "en": "(d)  during the conversation on 6 April 2012 I. attempted to show the applicant the staged photograph of S.’s body on his mobile phone, but the applicant told him that he could not see the screen clearly;",
+            "uk": "(d)  під час розмови 06 квітня 2012 року І. намагався показати заявнику інсценовану фотографію тіла С. на своєму мобільному телефоні, але заявник сказав йому, що не бачить екран чітко;"
+        }
+    },
+    {
+        "id": 203,
+        "translation": {
+            "en": "(iii)  police reports documenting the handover of cash that I. had received from the applicant to the police and the preparation of the staged “dead body” photograph;",
+            "uk": "(iii)  протоколи, в яких документувалися передача працівникам міліції готівки, отриманої І. від заявника, та підготовка інсценованої фотографії «мертвого тіла»;"
+        }
+    },
+    {
+        "id": 204,
+        "translation": {
+            "en": "(iv)  the testimony of police witnesses who described how they had staged S.’s kidnapping and death. There is no indication in the case file that any authority outside of the organised crime unit in which the officers worked had authorised or been informed of the operation targeting the applicant; and",
+            "uk": "(iv)  показання свідків – працівників міліції, які описали, як вони інсценували викрадення та смерть С. У матеріалах справи ніщо не свідчить, що який-небудь орган державної влади, окрім управління по боротьбі з організованою злочинністю, в якому працювали ці працівники, санкціонував або був поінформований про негласні слідчі дії щодо заявника; та"
+        }
+    },
+    {
+        "id": 205,
+        "translation": {
+            "en": "(v)  various other less central pieces of evidence, notably:",
+            "uk": "(v)  інші різні менш ключові докази, зокрема:"
+        }
+    },
+    {
+        "id": 206,
+        "translation": {
+            "en": "- testimony of S. to the effect that Ch. had told him that the applicant wished to have him killed and that S. himself had subsequently participated in the staging of his own killing;",
+            "uk": "- показання С., що Ч. сказав йому про бажання заявника його вбити, і С. згодом самостійно брав участь в інсценуванні власного вбивства;"
+        }
+    },
+    {
+        "id": 207,
+        "translation": {
+            "en": "- testimony of K. (S.’s relative) to the effect that at the time S. had told him the same things.",
+            "uk": "- показання К. (родича С.), що на момент подій С. говорив йому те саме."
+        }
+    },
+    {
+        "id": 208,
+        "translation": {
+            "en": "“Pursuant to Article 27 § 3 of the Criminal Code of Ukraine, an organiser is a person who has organised a criminal offence or supervised its preparation or commission.",
+            "uk": "«Згідно зі статтею 27 ч. 3 КК України організатором є особа, яка організувала вчинення злочину або керувала його підготовкою чи вчиненням."
+        }
+    },
+    {
+        "id": 209,
+        "translation": {
+            "en": "It follows that a person who has organised an offence is an accomplice who initiates the commission of the offence, unites other accomplices, directs their actions, distributes roles between them, defines and develops the criminal plan, coordinates the actions of the participants, divides roles and functions between them and designates the future victim.",
+            "uk": "З цього випливає, що особа, яка організувала вчинення злочину, є співучасником злочину, яка ініціює вчинення злочину, об’єднує інших співучасників, скеровує їхні дії, розподіляє ролі між ними, намічає і розробляє план вчинення злочину, координує дії співучасників, розподіляє їхні обов’язки і функції, визначає майбутню жертву."
+        }
+    },
+    {
+        "id": 210,
+        "translation": {
+            "en": "The panel considers that, on the basis of the charges as found proven and as set out in the trial court’s judgment, there is no indication of the aforementioned characteristics of an organiser, the status attributed to [the applicant].",
+            "uk": "Колегія суддів вважає, що з огляду на формулювання обвинувачення визнаного судом доведеним, викладеному у вироку, ці ознаки організатора злочину, інкримінованого [заявнику], відсутні."
+        }
+    },
+    {
+        "id": 211,
+        "translation": {
+            "en": "Pursuant to Article 27 § 4 of the Criminal Code of Ukraine, an instigator is a person who has induced any other accomplice, by way of persuasion, bribery, threat, coercion or other means, to commit a criminal offence.",
+            "uk": "Згідно зі статтею 27 ч. 4 КК України підбурювачем є особа, яка умовлянням, підкупом, погрозою, примусом чи іншим чином схилила іншого співучасника до вчинення злочину."
+        }
+    },
+    {
+        "id": 212,
+        "translation": {
+            "en": "In view of the above, the panel considers that ... the part of the judgment in respect of [the applicant] concerning the classification of his actions and the sentence imposed should be amended.",
+            "uk": "Враховуючи наведене, колегія суддів вважає, що ... вирок стосовно [заявника] в частині кваліфікації його дій і призначеної міри покарання підлягає зміні."
+        }
+    },
+    {
+        "id": 213,
+        "translation": {
+            "en": "Therefore, [the applicant’s] actions should be reclassified from Article 27 § 3, Article 15 § 2 and Article 115 § 2(11) to Article 27 § 4, Article 15 § 2 and Article 115 § 2(11) of the Criminal Code of Ukraine.",
+            "uk": "Так, дії [заявника] необхідно перекваліфікувати зі статті 27 ч. 3, статті 15 ч.2, статті 115 ч.2 п.11 на статтю 27 ч.4, статтю 15 ч.2, статтю 115 ч. 2 п. 11 КК України."
+        }
+    },
+    {
+        "id": 214,
+        "translation": {
+            "en": "In view of the reduction of the gravity of the charges, the panel considers it possible to reduce the punishment ... to ten years’ imprisonment.”",
+            "uk": "У зв’язку зі зменшенням об’єму обвинувачення, колегія суддів вважає можливим пом’якшити покарання ... до десяти років позбавлення волі.»"
+        }
+    },
+    {
+        "id": 215,
+        "translation": {
+            "en": "14.  The applicant appealed on points of law. He reiterated his arguments concerning entrapment. He added that, despite his numerous requests, the lower courts had failed to examine I. even though in his pre-trial statement, used as evidence against the applicant, he had contradicted the content of the recordings.",
+            "uk": "14.  Заявник подав касаційну скаргу. Він повторив свої аргументи щодо провокації. Також додав, що, незважаючи на його численні запити, суди нижчих інстанцій не допитали І., хоча його показання, надані під час досудового розслідування та використані як доказ проти заявника, суперечили змісту записів."
+        }
+    },
+    {
+        "id": 216,
+        "translation": {
+            "en": "RELEVANT LEGAL FRAMEWORK AND PRACTICE",
+            "uk": "відповідні нормативно-правова база та практика"
+        }
+    },
+    {
+        "id": 217,
+        "translation": {
+            "en": "Codes of Criminal Procedure of 1960 and 2012",
+            "uk": "кримінально-процесуальний кодекс україни \n1960 року та кримінальний процесуальний кодекс україни 2012 року"
+        }
+    },
+    {
+        "id": 218,
+        "translation": {
+            "en": "17.  Article 271 § 3 of the 2012 Code prohibits incitement to commit an offence which would not otherwise be committed in the course of undercover police operations. Article 271 § 7 provides that undercover investigation activities such as a controlled purchase or simulation of an offence must be authorised by a prosecutor, who must state the reasons for the decision, in particular the circumstances indicating that there was no incitement.",
+            "uk": "17.  Частина третя статті 271 Кодексу 2012 року забороняє підбурювання особи до вчинення злочину, який вона би не вчинила, якби негласні слідчі дії не проводилися. Частина сьома статті 271 передбачає, що негласні слідчі дії, такі як контрольована закупка або імітування обстановки злочину, повинні бути санкціоновані прокурором, який зобов’язаний мотивувати своє рішення, зокрема викласти обставини, які свідчать про відсутність провокування особи."
+        }
+    },
+    {
+        "id": 219,
+        "translation": {
+            "en": "Criminal Code of 2001",
+            "uk": "кримінальний кодекс україни 2001 року"
+        }
+    },
+    {
+        "id": 220,
+        "translation": {
+            "en": "18.  The Criminal Code consists of the General Part and the Special Part. The General Part (Articles 1 to 108) contains general rules and principles of criminal liability. The Special Part (subsequent Articles) contains descriptions of specific offences and prescribes punishments for them.",
+            "uk": "18.  Кримінальний кодекс України складається із Загальної та Особливої частин. Загальна частина (статті 1 – 108) містить загальні норми та принципи кримінальної відповідальності. Особлива частина (подальші статті) містить опис конкретних кримінальних правопорушень та передбачає покарання за них."
+        }
+    },
+    {
+        "id": 221,
+        "translation": {
+            "en": "19.  Article 13 § 1 of the Criminal Code provides that a “completed offence” (закінчений злочин) is an offence which contains all the elements of the offence envisaged by the relevant provision of the Special Part of the Code. Article 13 § 2 provides that “an incomplete offence” (незакінчений злочин) can be in the form of either “preparation for an offence” (готування до злочину) or an “attempt to commit an offence” (замах на злочин). Articles 14 to 16 of the Code read as follows:",
+            "uk": "19.  Частина перша статті 13 Кримінального кодексу України передбачає, що «закінчений злочин» – це діяння, яке містить усі ознаки складу злочину, передбаченого відповідною статтею Особливої частини Кодексу. Частина друга статті 13 передбачає, що «незакінчений злочин» може бути у формі «готування до злочину» або «замаху на злочин». Статті 14 – 16 Кодексу передбачають:"
+        }
+    },
+    {
+        "id": 222,
+        "translation": {
+            "en": "Article 14. Preparation for an offence",
+            "uk": "Стаття 14. Готування до злочину"
+        }
+    },
+    {
+        "id": 223,
+        "translation": {
+            "en": "“1.  Preparation for an offence shall mean searching for or adapting means and tools, looking for accomplices to, or conspiring to commit, an offence, removing obstacles to an offence, or otherwise wilfully creating the conditions for an offence.",
+            "uk": "«1.  Готуванням до злочину є підшукування або пристосування засобів чи знарядь, підшукування співучасників або змова на вчинення злочину, усунення перешкод, а також інше умисне створення умов до вчинення злочину."
+        }
+    },
+    {
+        "id": 224,
+        "translation": {
+            "en": "Article 15. Attempt to commit an offence",
+            "uk": "Стаття 15. Замах на злочин"
+        }
+    },
+    {
+        "id": 225,
+        "translation": {
+            "en": "“1.  An attempt to commit an offence shall mean a directly intentional act (action or omission) carried out by a person and aimed directly at the commission of a criminal offence provided for by the relevant Article of the Special Part of this Code, where the criminal offence in question has not been completed for reasons beyond that person’s control.",
+            "uk": "«1.  Замахом на злочин є вчинення особою з прямим умислом діяння (дії чи бездіяльності), безпосередньо спрямованого на вчинення злочину, передбаченого відповідною статтею Особливої частини цього Кодексу, якщо при цьому злочин не було доведено до кінця з причин, що не залежали від її волі."
+        }
+    },
+    {
+        "id": 226,
+        "translation": {
+            "en": "2.  An attempt to commit an offence shall be deemed completed where a person has performed all the actions which he or she deemed necessary for carrying out the offence, but the offence was not completed for reasons beyond that person’s control.",
+            "uk": "2.  Замах на вчинення злочину є закінченим, якщо особа виконала усі дії, які вважала необхідними для доведення злочину до кінця, але злочин не було закінчено з причин, які не залежали від її волі."
+        }
+    },
+    {
+        "id": 227,
+        "translation": {
+            "en": "3.  An attempt to commit an offence shall be deemed incomplete where a person has not performed all the actions which he or she deemed necessary for carrying out the offence, for reasons beyond that person’s control.”",
+            "uk": "3.  Замах на вчинення злочину є незакінченим, якщо особа з причин, що не залежали від її волі, не вчинила усіх дій, які вважала необхідними для доведення злочину до кінця.»"
+        }
+    },
+    {
+        "id": 228,
+        "translation": {
+            "en": "Article 16. Criminal liability for an incomplete criminal offence",
+            "uk": "Стаття 16. Кримінальна відповідальність за незакінчений злочин"
+        }
+    },
+    {
+        "id": 229,
+        "translation": {
+            "en": "“Criminal liability for preparation for an offence and an attempted offence shall be based on Articles 14 or 15 and the Article of the Special Part of this Code which prescribes liability for the completed offence.”",
+            "uk": "«Кримінальна відповідальність за готування до злочину і замах на злочин настає за статтею 14 або 15 і за тією статтею Особливої частини цього Кодексу, яка передбачає відповідальність за закінчений злочин.»"
+        }
+    },
+    {
+        "id": 230,
+        "translation": {
+            "en": "20.  Article 26 of the Criminal Code defines criminal complicity as the wilful co-participation of several offenders in an intended criminal offence.",
+            "uk": "20.  Стаття 26 Кримінального кодексу України визначає співучасть у злочині як умисну спільну участь декількох суб’єктів злочину у вчиненні умисного злочину."
+        }
+    },
+    {
+        "id": 231,
+        "translation": {
+            "en": "Article 27 § 1 of the Code defines four types of accomplices (principal offender, organiser, instigator and accessory). Paragraphs 2-5 define their roles as follows:",
+            "uk": "У частині першій статті 27 Кодексу визначено чотири види співучасників (виконавець, організатор, підбурювач і пособник). У частинах другій – п’ятій їхні ролі визначено так:"
+        }
+    },
+    {
+        "id": 232,
+        "translation": {
+            "en": "“2.  A principal offender (or co-principal offender) is a person who, in association with other criminal offenders, has committed a criminal offence under this Code, directly or through other persons who cannot be held criminally liable.",
+            "uk": "«2.  Виконавцем (співвиконавцем) є особа, яка у співучасті з іншими суб’єктами злочину безпосередньо чи шляхом використання інших осіб, що відповідно до закону не підлягають кримінальній відповідальності за скоєне, вчинила злочин, передбачений цим Кодексом."
+        }
+    },
+    {
+        "id": 233,
+        "translation": {
+            "en": "3.  An organiser is a person who has organised a criminal offence or offences or supervised its (their) preparation or commission. An organiser is also a person who has created, supervised or financed an organised group or criminal organisation, or who has organised the covering up of the criminal activity of an organised group or criminal organisation.",
+            "uk": "3.  Організатором є особа, яка організувала вчинення злочину (злочинів) або керувала його (їх) підготовкою чи вчиненням. Організатором також є особа, яка утворила організовану групу чи злочинну організацію або керувала нею, або особа, яка забезпечувала фінансування чи організовувала приховування злочинної діяльності організованої групи або злочинної організації."
+        }
+    },
+    {
+        "id": 234,
+        "translation": {
+            "en": "4.  An instigator is a person who has induced any other accomplice to a criminal offence by way of persuasion, bribery, threat, coercion or other means.",
+            "uk": "4.  Підбурювачем є особа, яка умовлянням, підкупом, погрозою, примусом або іншим чином схилила іншого співучасника до вчинення злочину."
+        }
+    },
+    {
+        "id": 235,
+        "translation": {
+            "en": "5.  An accessory is a person who has facilitated the commission of a criminal offence by other accomplices by way of advice or instructions, or by supplying the means or tools, or by removing obstacles. An accessory is also a person who has promised in advance to conceal a criminal offender, tools or means, traces of crime or criminally obtained items, or who has promised to buy or sell such items or to otherwise facilitate the covering up of a criminal offence.”",
+            "uk": "5.  Пособником є особа, яка порадами, вказівками, наданням засобів чи знарядь або усуненням перешкод сприяла вчиненню злочину іншими співучасниками, а також особа, яка заздалегідь обіцяла переховати злочинця, знаряддя чи засоби вчинення злочину, сліди злочину чи предмети, здобуті злочинним шляхом, придбати чи збути такі предмети, або іншим чином сприяти приховуванню злочину.»"
+        }
+    },
+    {
+        "id": 236,
+        "translation": {
+            "en": "21.  Article 115 § 2 of the Code provides for a maximum sentence of life imprisonment for murders aggravated by certain circumstances, in particular, contract murder (point (11) of that paragraph).",
+            "uk": "21.  Частина друга статті 115 Кодексу передбачає максимальне покарання у виді довічного позбавлення волі за вчинення вбивств, обтяжених певними обставинами, зокрема вбивства на замовлення (пункт 11 цієї частини)."
+        }
+    },
+    {
+        "id": 237,
+        "translation": {
+            "en": "THE LAW",
+            "uk": "Право"
+        }
+    },
+    {
+        "id": 238,
+        "translation": {
+            "en": "ALLEGED VIOLATIONS OF ARTICLE 6 OF THE CONVENTION",
+            "uk": "стверджуване порушення статті 6 конвенції"
+        }
+    },
+    {
+        "id": 239,
+        "translation": {
+            "en": "22.  The applicant complained that he had been a victim of police entrapment and that he had not been able to examine I., a witness against him, during the trial. He relied on Article 6 §§ 1 and 3 (d) of the Convention, which reads, in so far as relevant, as follows:",
+            "uk": "22.  Заявник скаржився, що він став потерпілим від провокації працівників міліції, а також не зміг допитати свідка сторони обвинувачення І. під час судового розгляду. Він посилався на пункт 1 та підпункт «d» пункту 3 статті 6 Конвенції, відповідна частина якої передбачає:"
+        }
+    },
+    {
+        "id": 240,
+        "translation": {
+            "en": "“1.  In the determination of ... any criminal charge against him, everyone is entitled to a fair ... hearing ... by [a] ... tribunal ...",
+            "uk": "«1.  Кожен має право на справедливий ... розгляд його справи ... судом, ...який ... встановить обґрунтованість будь-якого висунутого проти нього кримінального обвинувачення..."
+        }
+    },
+    {
+        "id": 241,
+        "translation": {
+            "en": "3.  Everyone charged with a criminal offence has the following minimum rights:",
+            "uk": "3.  Кожний обвинувачений у вчиненні кримінального правопорушення має щонайменше такі права:"
+        }
+    },
+    {
+        "id": 242,
+        "translation": {
+            "en": "(d)  to examine or have examined witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him;",
+            "uk": "(d)  допитувати свідків обвинувачення або вимагати, щоб їх допитали, а також вимагати виклику й допиту свідків захисту на тих самих умовах, що й свідків обвинувачення;"
+        }
+    },
+    {
+        "id": 243,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 244,
+        "translation": {
+            "en": "23.  The Court notes that the application is neither manifestly ill-founded nor inadmissible on any other grounds listed in Article 35 of the Convention. It must therefore be declared admissible.",
+            "uk": "23.  Суд зазначає, що ця заява не є ні явно необґрунтованою, ні неприйнятною з будь-яких інших підстав, перелічених у статті 35 Конвенції. Отже, вона має бути визнана прийнятною."
+        }
+    },
+    {
+        "id": 245,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 246,
+        "translation": {
+            "en": "The parties’ submissions",
+            "uk": "Доводи сторін"
+        }
+    },
+    {
+        "id": 247,
+        "translation": {
+            "en": "26.  Concerning the examination of I., the Government submitted that there had been a good reason for his absence from the trial, as he had been in prison during that time. His evidence had not been decisive for the outcome of the case. The applicant had had an opportunity to put questions to I. during the pre-trial investigation but had not taken up that opportunity. The defence had not asked for that witness to be summoned during the trial.",
+            "uk": "26.  Стосовно допиту І. Уряд стверджував про наявність поважної причини його неявки у судове засідання, оскільки у цей час він перебував під вартою. Його показання не мали вирішального значення для результату розгляду справи. Заявник мав можливість поставити запитання І. під час досудового розслідування, але не скористався нею. Сторона захисту не заявляла клопотання про виклик цього свідка під час судового розгляду."
+        }
+    },
+    {
+        "id": 248,
+        "translation": {
+            "en": "The Court’s assessment",
+            "uk": "Оцінка Суду"
+        }
+    },
+    {
+        "id": 249,
+        "translation": {
+            "en": "Relevant general principles",
+            "uk": "Відповідні загальні принципи"
+        }
+    },
+    {
+        "id": 250,
+        "translation": {
+            "en": "Definition of entrapment and prohibition on the use of evidence obtained as a result of entrapment",
+            "uk": "Визначення провокації та заборона використання доказів, отриманих у результаті провокації"
+        }
+    },
+    {
+        "id": 251,
+        "translation": {
+            "en": "Substantive test of entrapment",
+            "uk": "Перевірка матеріального аспекту провокації"
+        }
+    },
+    {
+        "id": 252,
+        "translation": {
+            "en": "35.  Indeed, a lack of procedural safeguards in the ordering of an undercover operation generates a risk of arbitrariness and police entrapment (see Nosko and Nefedov v. Russia, nos. 5753/09 and 11789/10, § 64, 30 October 2014).",
+            "uk": "35.  Дійсно, відсутність процесуальних гарантій під час санкціонування негласних слідчих дій створює ризик свавілля та провокації з боку працівників поліції (див. рішення у справі «Носко і Нефьодов проти Росії» (Nosko and Nefedov v. Russia), заяви № 5753/09 та № 11789/10, пункт 64, від 30 жовтня 2014 року)."
+        }
+    },
+    {
+        "id": 253,
+        "translation": {
+            "en": "Procedural test of entrapment",
+            "uk": "Перевірка процесуального аспекту провокації"
+        }
+    },
+    {
+        "id": 254,
+        "translation": {
+            "en": "36.  As a second step, the Court will examine the way the domestic courts dealt with the applicant’s plea of incitement, which is the procedural part of its examination of the agent provocateur complaint (see Bannikova, cited above, §§ 51-65, with further references).",
+            "uk": "36.  В якості другого кроку Суд розгляне як національні суди відреагували на скаргу заявника стосовно підбурювання, що є процесуальною частиною розгляду ним скарги на використання «таємного агента» (agent provocateur) (див. згадане рішення у справі «Баннікова проти Росії» (Bannikova v. Russia), пункти 51 – 65 з подальшими посиланнями)."
+        }
+    },
+    {
+        "id": 255,
+        "translation": {
+            "en": "38.  In particular, the questions to be addressed by the judicial authority when deciding on an entrapment plea were set out in Ramanauskas (cited above, § 71):",
+            "uk": "38.  Зокрема, в згаданому рішенні у справі «Раманаускас проти Литви» (Ramanauskas v. Lithuania), пункт 71) були наведені питання, які мають вивчатися судовим органом під час розгляду скарги на провокацію:"
+        }
+    },
+    {
+        "id": 256,
+        "translation": {
+            "en": "39.  In this connection, the Court has also found that a guilty plea as regards criminal charges does not dispense the trial court from the duty to examine allegations of incitement (ibid., § 72).",
+            "uk": "39.  У зв’язку з цим Суд також встановив, що визнання винуватості за кримінальними обвинуваченнями не звільняє суд першої інстанції від обов’язку розглядати скарги на підбурювання (там само, пункт 72)."
+        }
+    },
+    {
+        "id": 257,
+        "translation": {
+            "en": "40.  Moreover, the principles of adversarial proceedings and equality of arms are indispensable in the determination of an agent provocateur claim, as well as the procedural guarantees relating to the disclosure of evidence and questioning of the undercover agents and other witnesses who could testify on the issue of incitement (see Bannikova, cited above, §§ 58-65).",
+            "uk": "40.  Крім того, принципи змагальності та рівності сторін є необхідними під час розгляду скарги на «таємного агента» (agent provocateur), так само як процесуальні гарантії щодо розкриття доказів і допиту таємних агентів та інших свідків, які могли б дати показання щодо підбурювання (див. згадане рішення у справі «Баннікова проти Росії» (Bannikova v. Russia), пункти 58 – 65)."
+        }
+    },
+    {
+        "id": 258,
+        "translation": {
+            "en": "Methodology of the Court’s assessment",
+            "uk": "Методологія оцінки Суду"
+        }
+    },
+    {
+        "id": 259,
+        "translation": {
+            "en": "42.  If the Court is satisfied that the applicant’s complaint falls to be examined within the category of “entrapment cases”, it will proceed, as a first step, with the assessment under the substantive test of incitement (see Matanović, cited above, § 132).",
+            "uk": "42.  Якщо Суд переконається, що скарга заявника підлягає розгляду в межах категорії «справ про провокацію злочину», він перейде, в якості першого кроку, до оцінки матеріального аспекту підбурювання (див. згадане рішення у справі «Матановіч проти Хорватії» (Matanović v. Croatia), пункт 132)."
+        }
+    },
+    {
+        "id": 260,
+        "translation": {
+            "en": "Application of the above principles to the present case",
+            "uk": "Застосування зазначених принципів у цій справі"
+        }
+    },
+    {
+        "id": 261,
+        "translation": {
+            "en": "50.  It is also true, however, that the applicant’s words could be interpreted as hesitation concerning certain modalities of the planned crime and its coverup rather than about his wish to have the murder committed.",
+            "uk": "50.  Проте насправді слова заявника можна тлумачити і як вагання щодо певних аспектів вчинення запланованого злочину та його приховування, а не бажання вчинити вбивство."
+        }
+    },
+    {
+        "id": 262,
+        "translation": {
+            "en": "51.  The recordings also contained exchanges which could indicate that I. and Ch. did not remain totally passive and that they could be seen as taking charge of the situation in the face of the applicant’s passive attitude. In particular, I. framed the payment as financial help for a trip rather than the price of the killing and stressed his own dislike of S., the urgency of the situation and his need for money. Ch. advanced the funds to be paid to I.",
+            "uk": "51.  Записи також містили репліки, які могли свідчити, що І. та Ч. не залишалися повністю пасивними і могли розглядатися як такі, що керували ситуацією у випадках пасивного ставлення заявника. Зокрема, І. визначив оплату як фінансову допомогу для здійснення поїздки, а не як ціну за вчинення вбивства, а також підкреслив свою неприязнь до С., невідкладність ситуації та потребу в грошових коштах. Ч. мав надати кошти для сплати І."
+        }
+    },
+    {
+        "id": 263,
+        "translation": {
+            "en": "52.  However, another relevant element is, in the Court’s view, the fact that the applicant was convicted only as the “instigator”, not the “organiser” of the crime (see paragraphs 13 and 20 above). Consequently, the fact that I. and Ch. appeared to have displayed a more active attitude than the applicant himself as the matters advanced may be seen as less significant.",
+            "uk": "52.  Проте іншим відповідним елементом, на думку Суду, є той факт, що заявника засудили лише як «підбурювача», а не «організатора» злочину (див. пункти 13 і 20). Отже, те, що І. та Ч. очевидно проявили більш активну участь, ніж сам заявник під час планування, можна вважати менш важливим."
+        }
+    },
+    {
+        "id": 264,
+        "translation": {
+            "en": "53.  In the light of the above inconclusive elements, the Court cannot establish definitively, on the basis of the substantive test alone, whether the applicant was subjected to incitement contrary to Article 6 of the Convention and will proceed, therefore, with the procedural test of incitement (see Edwards and Lewis v. the United Kingdom [GC], nos. 39647/98 and 40461/98, § 46, ECHR 2004-X).",
+            "uk": "53.  З огляду на наведені непереконливі елементи Суд не може остаточно встановити лише на підставі перевірки матеріального аспекту, чи був заявник підданий підбурюванню всупереч статті 6 Конвенції, і, таким чином, він перейде до перевірки процесуального аспекту підбурювання (див. рішення у справі «Едвардс і Левіс проти Сполученого Королівства» [ВП] (Edwards and Lewis v. the United Kingdom) [GC], заяви № 39647/98 і № 40461/98, пункт 46, ЄСПЛ 2004-X)."
+        }
+    },
+    {
+        "id": 265,
+        "translation": {
+            "en": "55.  The domestic courts did, to an extent, address those elements. They concluded, notably on the basis of Ch.’s statements, that it had been the applicant who had initiated the search for a contract killer. They also pointed to the applicant’s subsequent conduct, in particular the fact that he had indicated the potential victim’s address and his efforts to secure an alibi, as evidence that he had indeed intended to have S. killed (see paragraph 15 above).",
+            "uk": "55.  Насправді національні суди певною мірою розглянули ці елементи. Вони дійшли висновку, зокрема на підставі показань Ч., що саме заявник розпочав пошук найманого вбивці. Суди також вказали на подальшу поведінку заявника, зокрема на зазначення ним адреси потенційного потерпілого та його зусилля для забезпечення алібі, як докази, що він дійсно мав намір убити С. (див. пункт 15)."
+        }
+    },
+    {
+        "id": 266,
+        "translation": {
+            "en": "56.  However, as to the domestic courts’ reliance on the argument that the applicant had first contacted Ch. to organise the murder, the Court cannot find, given the above-mentioned flaws in the procedure which led to the undercover operation and the lack of relevant records (see paragraph 48 above), that the procedure by which the courts arrived at that conclusion was surrounded by sufficient safeguards.",
+            "uk": "56.  Проте стосовно посилання національних судів на аргумент, що заявник першим зв’язався з Ч. для організації вбивства, Суд не може встановити з огляду на наведені недоліки порядку, відповідно до якого було проведено негласні слідчі дії, та відсутність відповідних документів (див. пункт 48), що процедура, за допомогою якої суди дійшли такого висновку, супроводжувалася достатніми гарантіями."
+        }
+    },
+    {
+        "id": 267,
+        "translation": {
+            "en": "58.  However, despite the central role that I. had played in the events, no good reasons were given for his absence from the trial: the fact that he was detained, far from meaning that he was unavailable, meant instead that he was under the authorities’ control and could therefore in principle have been brought to court.",
+            "uk": "58.  Проте, незважаючи на ключову роль, яку І. відіграв у подіях, не було наведено поважних підстав для його відсутності у судовому засіданні: факт його перебування під вартою не означав, що він був недоступний, а означав, що він перебував під контролем органів державної влади і тому, в принципі, міг бути доставлений до суду."
+        }
+    },
+    {
+        "id": 268,
+        "translation": {
+            "en": "59.  While convicting the applicant as an “instigator” (that is one who induces another to commit a crime), the domestic courts provided little comment on how precisely that role squared with his apparent hesitations and I.’s and Ch.’s apparently proactive conduct: the courts did not clearly comment on whether they considered those hesitations as relating to certain modalities of the planned crime and its coverup or to the applicant’s wish to have the murder committed as such (see paragraph 50 above).",
+            "uk": "59.  Засудивши заявника як «підбурювача» (тобто того, хто спонукає іншого до вчинення злочину), національні суди майже не прокоментували, наскільки точно ця роль узгоджувалася з його очевидними ваганнями та очевидною активною поведінкою І. та Ч.: суди не надали чітких коментарів, чи вважали вони ці вагання пов’язаними з певними аспектами вчинення запланованого злочину та його приховування чи бажанням заявника вчинити вбивство як таке (див. пункт 50)."
+        }
+    },
+    {
+        "id": 269,
+        "translation": {
+            "en": "60.  Given the complexity of those matters in the present case (as described above in the context of the substantive test), they required more detailed comment from the domestic courts to satisfy an objective observer that they subjected the applicant’s incitement plea to adequate scrutiny.",
+            "uk": "60.  З огляду на складність зазначених питань у цій справі (як описано в контексті перевірки матеріального аспекту), від національних судів вимагалося надати більш детальне обґрунтування, аби переконати об’єктивного спостерігача у належному розгляді ними скарги заявника на підбурювання."
+        }
+    },
+    {
+        "id": 270,
+        "translation": {
+            "en": "61.  Although the above-mentioned procedural shortcomings, taken individually, may not have been sufficient to undermine the overall fairness of the criminal proceedings against the applicant, taken in combination they had such an effect.",
+            "uk": "61.  Хоча наведених процесуальних недоліків, взятих окремо, могло бути недостатньо, щоб підірвати загальну справедливість кримінального провадження щодо заявника, у сукупності вони мали такий ефект."
+        }
+    },
+    {
+        "id": 271,
+        "translation": {
+            "en": "62.  The Court concludes that the domestic courts did not appropriately address the applicant’s allegations of police incitement.",
+            "uk": "62.  Суд доходить висновку, що національні суди належним чином не розглянули твердження заявника про підбурювання працівників міліції."
+        }
+    },
+    {
+        "id": 272,
+        "translation": {
+            "en": "63.  There has, accordingly, been a violation of Article 6 § 1 of the Convention on account of the domestic courts’ failure to address adequately the applicant’s plea of police incitement.",
+            "uk": "63.  Отже, було порушено пункт 1 статті 6 Конвенції у зв’язку з неналежним розглядом національними судами скарги заявника на підбурювання працівників міліції."
+        }
+    },
+    {
+        "id": 273,
+        "translation": {
+            "en": "64.  In view of the above considerations, there is no need to examine separately the applicant’s complaint under Article 6 §§ 1 and 3 (d) of the Convention concerning the admission of evidence from I., whom the applicant had not been able to examine during the trial.",
+            "uk": "64.  З огляду на наведені міркування немає необхідності окремо розглядати скаргу заявника за пунктом 1 і підпунктом «d» пункту 3 статті 6 Конвенції щодо визнання допустимим доказом показань І., якого заявник не зміг допитати під час судового розгляду."
+        }
+    },
+    {
+        "id": 274,
+        "translation": {
+            "en": "APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+            "uk": "ІІ. ЗАСТОСУВАННЯ СТАТТІ 41 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 275,
+        "translation": {
+            "en": "65.  Article 41 of the Convention provides:",
+            "uk": "65.  Стаття 41 Конвенції передбачає:"
+        }
+    },
+    {
+        "id": 276,
+        "translation": {
+            "en": "“If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”",
+            "uk": "«Якщо Суд визнає факт порушення Конвенції або протоколів до неї і якщо внутрішнє право відповідної Високої Договірної Сторони передбачає лише часткове відшкодування, Суд, у разі необхідності, надає потерпілій стороні справедливу сатисфакцію.»"
+        }
+    },
+    {
+        "id": 277,
+        "translation": {
+            "en": "Damage",
+            "uk": "Шкода"
+        }
+    },
+    {
+        "id": 278,
+        "translation": {
+            "en": "66.  The applicant claimed 10,000 euros (EUR) in respect of nonpecuniary damage.",
+            "uk": "66.  Заявник вимагав 10 000 євро в якості відшкодування моральної шкоди."
+        }
+    },
+    {
+        "id": 279,
+        "translation": {
+            "en": "67.  The Government considered that claim unjustified and excessive.",
+            "uk": "67.  Уряд вважав вимогу необґрунтованою та надмірною."
+        }
+    },
+    {
+        "id": 280,
+        "translation": {
+            "en": "68.  The Court awards the applicant EUR 3,600 in respect of nonpecuniary damage, plus any tax that may be chargeable.",
+            "uk": "68.  Суд присуджує заявнику 3 600 євро в якості відшкодування моральної шкоди та додатково суму будь-якого податку, що може нараховуватися."
+        }
+    },
+    {
+        "id": 281,
+        "translation": {
+            "en": "Costs and expenses",
+            "uk": "Судові та інші витрати"
+        }
+    },
+    {
+        "id": 282,
+        "translation": {
+            "en": "69.  The applicant also claimed EUR 6,000 in respect of costs and expenses incurred before the domestic courts and EUR 9,800 in respect of those incurred before the Court. He submitted a copy of the agreement with his representative, under which he undertook to pay the representative’s legal fees at EUR 100 per hour, and a detailed statement of time spent by the representative on the case, amounting in total to 158 hours.",
+            "uk": "69.  Заявник також вимагав 6 000 євро в якості компенсації судових та інших витрат, понесених під час провадження у національних судах, і 9 800 євро компенсації витрат, понесених під час провадження у Суді. Він подав копію договору, укладеного зі своїм представником, згідно з яким заявник зобов’язувався сплатити представнику за надану правову допомогу 100 євро за годину, та детальну інформацію про час, витрачений представником на справу, який становив загалом 158 годин."
+        }
+    },
+    {
+        "id": 283,
+        "translation": {
+            "en": "70.  The Government considered that claim unjustified and excessive.",
+            "uk": "70.  Уряд вважав вимогу необґрунтованою та надмірною."
+        }
+    },
+    {
+        "id": 284,
+        "translation": {
+            "en": "71.  According to the Court’s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these were actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the documents in its possession and the above criteria, the Court considers it reasonable to award the sum of EUR 5,000 covering all costs under this head, plus any tax that may be chargeable to the applicant.",
+            "uk": "71.  Згідно з практикою Суду заявник має право на компенсацію судових та інших витрат, лише якщо буде доведено, що такі витрати були фактичними і неминучими, а їхній розмір – обґрунтованим. У цій справі з огляду на наявні у нього документи та зазначені критерії Суд вважає за належне присудити суму у розмірі 5 000 євро, яка охоплює витрати за всіма аспектами, а також додатково суму будь-якого податку, що може нараховуватися заявнику."
+        }
+    },
+    {
+        "id": 285,
+        "translation": {
+            "en": "Default interest",
+            "uk": "Пеня"
+        }
+    },
+    {
+        "id": 286,
+        "translation": {
+            "en": "72.  The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+            "uk": "72.  Суд вважає за належне призначити пеню на підставі граничної позичкової ставки Європейського центрального банку, до якої має бути додано три відсоткові пункти."
+        }
+    },
+    {
+        "id": 287,
+        "translation": {
+            "en": "FOR THESE REASONS, THE COURT",
+            "uk": "ЗА ЦИХ ПІДСТАВ СУД"
+        }
+    },
+    {
+        "id": 288,
+        "translation": {
+            "en": "Declares, unanimously, the application admissible;",
+            "uk": "Оголошує одноголосно заяву прийнятною;"
+        }
+    },
+    {
+        "id": 289,
+        "translation": {
+            "en": "Holds, by six votes to one, that there has been a violation of Article 6 §1 of the Convention on account of the domestic courts’ failure to address adequately the applicant’s plea of police incitement;",
+            "uk": "Постановляє шістьма голосами проти одного, що було порушено пункт 1 статті 6 Конвенції у зв’язку з неналежним розглядом національними судами скарги заявника на підбурювання працівників міліції;"
+        }
+    },
+    {
+        "id": 290,
+        "translation": {
+            "en": "Holds, by six votes to one, that there is no need to examine separately the applicant’s complaint under Article 6 §§ 1 and 3 (d) of the Convention concerning the admission of evidence from I., whom the applicant had not been able to examine during the trial;",
+            "uk": "Постановляє шістьма голосами проти одного, що немає необхідності розглядати окремо скаргу заявника за пунктом 1 і підпунктом «d» пункту 3 статті 6 Конвенції щодо визнання допустимим доказом показань І., якого заявник не зміг допитати під час судового розгляду;"
+        }
+    },
+    {
+        "id": 291,
+        "translation": {
+            "en": "Holds, by six votes to one,",
+            "uk": "Постановляє шістьма голосами проти одного, що:"
+        }
+    },
+    {
+        "id": 292,
+        "translation": {
+            "en": "that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+            "uk": "упродовж трьох місяців з дати, коли це рішення набуде статусу остаточного відповідно до пункту 2 статті 44 Конвенції, держава-відповідач повинна сплатити заявнику такі суми, які мають бути конвертовані в національну валюту держави-відповідача за курсом на день здійснення платежу"
+        }
+    },
+    {
+        "id": 293,
+        "translation": {
+            "en": "EUR 3,600 (three thousand six hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;",
+            "uk": "3 600 (три тисячі шістсот) євро та додатково суму будь-якого податку, що може нараховуватися, в якості відшкодування моральної шкоди;"
+        }
+    },
+    {
+        "id": 294,
+        "translation": {
+            "en": "EUR 5,000 (five thousand euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+            "uk": "5 000 (п’ять тисяч) євро та додатково суму будь-якого податку, що може нараховуватися заявнику, в якості компенсації судових та інших витрат;"
+        }
+    },
+    {
+        "id": 295,
+        "translation": {
+            "en": "that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+            "uk": "із закінченням зазначеного тримісячного строку до остаточного розрахунку на зазначені суми нараховуватиметься простий відсоток (simple interest) у розмірі граничної позичкової ставки Європейського центрального банку, яка діятиме в період несплати, до якої має бути додано три відсоткові пункти;"
+        }
+    },
+    {
+        "id": 296,
+        "translation": {
+            "en": "Dismisses, unanimously, the remainder of the applicant’s claim for just satisfaction.",
+            "uk": "Відхиляє одноголосно решту вимог заявника щодо справедливої сатисфакції."
+        }
+    },
+    {
+        "id": 297,
+        "translation": {
+            "en": "Done in English, and notified in writing on 16 December 2021, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+            "uk": "Учинено англійською мовою та повідомлено письмово 16 грудня 2021 року відповідно до пунктів 2 та 3 Правила 77 Регламенту Суду."
+        }
+    },
+    {
+        "id": 298,
+        "translation": {
+            "en": "{signature_p",
+            "uk": "Віктор Соловейчік (Victor Soloveytchik) Секретар"
+        }
+    },
+    {
+        "id": 299,
+        "translation": {
+            "en": "Victor Soloveytchik Registrar",
+            "uk": "Сіофра О’Лірі (Síofra O’Leary)Голова"
+        }
+    },
+    {
+        "id": 300,
+        "translation": {
+            "en": "Síofra O’Leary President",
+            "uk": "Відповідно до пункту 2 статті 45 Конвенції та пункту 2 Правила 74 Регламенту Суду до цього рішення додається окрема думка судді Юдківської."
+        }
+    },
+    {
+        "id": 301,
+        "translation": {
+            "en": "In accordance with Article 45 § 2 of the Convention and Rule 74 § 2 of the Rules of Court, the separate opinion of Judge Yudkivska is annexed to this judgment.",
+            "uk": "С.О.Л.\nВ.С."
+        }
+    },
+    {
+        "id": 302,
+        "translation": {
+            "en": "S.O.L.\nV.S.",
+            "uk": "ОКРЕМА ДУМКА СУДДІ ЮДКІВСЬКОЇ"
+        }
+    },
+    {
+        "id": 303,
+        "translation": {
+            "en": "DISSENTING OPINION OF JUDGE YUDKIVSKA",
+            "uk": "Перший в історії відомий захист у зв’язку з провокацією був невдалий – Господь Бог не пробачив Єві, що вона з’їла заборонений плід з дерева пізнання добра і зла, а також дала Адаму з’їсти цей заборонений плід, – незважаючи на твердження Єви, що її спровокував змій: «Змій спокусив мене, і я їла» ."
+        }
+    },
+    {
+        "id": 304,
+        "translation": {
+            "en": "The first known entrapment defence in history failed – the Lord God did not forgive Eve for eating the forbidden fruit from the tree of the knowledge of good and evil, and for giving Adam its forbidden fruit to eat, despite Eve claiming that she had been provoked by the serpent: “The serpent beguiled me, and I did eat”.",
+            "uk": "Тисячоліття потому правова доктрина, враховуючи піддатливість людської природи до маніпуляцій та величезні ресурси влади для впливу на особу і схиляння її стати злочинцем, дійшла висновку, що органи розслідування не повинні перевіряти здатність особи чинити опір спокусі скоїти злочин, якщо у неї з’явиться така можливість. Свободу волі особи можна підірвати і нею можна маніпулювати, а тому особа не може відповідати за дії, вчинені в результаті маніпулювання її волею. Це називається «провокація»."
+        }
+    },
+    {
+        "id": 305,
+        "translation": {
+            "en": "The relevant part of the conversation is the following (emphasis added, and the applicant’s words that made the majority believe in his “non-committal” attitude are underlined):",
+            "uk": "«І.: І давай так... Я просто спілкуюсь, розумієш, з людьми. Просто берусь за справу... Що тобі вухо його привезти, голову? Фотки буде достатньо."
+        }
+    },
+    {
+        "id": 306,
+        "translation": {
+            "en": "“I.: And well let’s... I am just talking to people. Well, you understand. I will just get down to business... Shall I bring you his ear, his head? A photo will be enough.",
+            "uk": "З.: Не треба, нічого не треба. Сєрьожа, не треба..."
+        }
+    },
+    {
+        "id": 307,
+        "translation": {
+            "en": "A.: There is no need, there is no need for anything. Serezha, don’t...",
+            "uk": "І.: Я така людина..."
+        }
+    },
+    {
+        "id": 308,
+        "translation": {
+            "en": "I.: I’m just a person who...",
+            "uk": "З.: Не треба."
+        }
+    },
+    {
+        "id": 309,
+        "translation": {
+            "en": "A.: There is no need.",
+            "uk": "І.: Слухай, давай... Слухай, слухай, давай, слухай..."
+        }
+    },
+    {
+        "id": 310,
+        "translation": {
+            "en": "I.: Listen, let’s... Listen, listen, let’s, listen...",
+            "uk": "З.: Мені в той же день подзвонить і скаже... розумієш."
+        }
+    },
+    {
+        "id": 311,
+        "translation": {
+            "en": "A.: He would call me the same day and say... you understand.",
+            "uk": "І.: Так, ми зустрінемось, ти зрозумієш і все. Ну розберемось."
+        }
+    },
+    {
+        "id": 312,
+        "translation": {
+            "en": "I.: Yes, we would meet, you will understand and that is all. We will sort it out.",
+            "uk": "З.: Заспокойся. Нічого не треба. Я дізнаюсь сто відсотків, я найперший [дізнаюсь]. Я нічого не робив, а вони говорять, шо його хтось зарізати хотів... Він на мене в прокуратуру написав...»"
+        }
+    },
+    {
+        "id": 313,
+        "translation": {
+            "en": "A.: Calm down. There is no need for any of this. I will know about it for sure, I’d be the first [to know]. I did nothing, but they say that I tried to stab him... He lodged a complaint against me with the prosecutor...”",
+            "uk": "Тут очевидно, що репліка заявника «не треба» є відповіддю на «люб’язну» пропозицію І. принести йому вухо або голову С., як доказ, що вбивство було вчинено. Заявник просто сказав, що йому не потрібні такі докази. Подальша розмова та прохання заявника «заспокоїтися» щодо надання будь-яких доказів вбивства пояснюють, чому йому не потрібні були якісь докази вчинення вбивства – якби С. помер, заявник був би першим, хто б дізнався про це."
+        }
+    },
+    {
+        "id": 314,
+        "translation": {
+            "en": "It is clear here that the applicant’s “there is no need” remarks are a reply to I.’s “kind” proposal to bring him S.’s ear or head as proof that the murder has been completed. The applicant merely said that he did not need that kind of proof. The further conversation and the applicant’s plea to “calm down” in relation to providing any proof of the murder explain why he did not need any sort of proof that the murder had been carried out – if S. was dead, the applicant would be the first to find out.",
+            "uk": "У наступному фрагменті репліка заявника «Не треба нічого робити, говорити» – це відповідь на наполегливі зусилля І. надати йому підтверджуючі докази вчиненого вбивства:"
+        }
+    },
+    {
+        "id": 315,
+        "translation": {
+            "en": "In a further fragment, the applicant’s remark “don’t do anything, don’t say anything” is a reply to I.’s unwearying efforts to provide him with an account of the completed murder:",
+            "uk": "«І.: Почекай, Олег, я тобі просто пояснюю. Якщо я зроблю це сьогодні, припустимо, я приїхав завтра і сказав: «Олег, робота зроблена»."
+        }
+    },
+    {
+        "id": 316,
+        "translation": {
+            "en": "“I.: Wait Oleg, I am just explaining it to you. If I do it today, let’s say, I would come tomorrow and say ‘Oleg, the work is done’.",
+            "uk": "З.: Не треба нічого робити, говорити. Все, ми...»"
+        }
+    },
+    {
+        "id": 317,
+        "translation": {
+            "en": "A.: Don’t do anything, don’t say anything. We... That’s all.”",
+            "uk": "Як пояснювалося раніше, заявник не потребував, щоб І. надавав йому якісь докази вбивства, а його репліки не вказували на його бажання «ухилитися» від підбурювання. Як вбачається з пункту 50 рішення, більшість справді інакше оцінила наведені репліки. Решта розмови стосувалася забезпечення алібі заявника та практичних заходів щодо надання винагороди І., що ще більше підтверджує активну участь заявника у злочині."
+        }
+    },
+    {
+        "id": 318,
+        "translation": {
+            "en": "On the other hand, it is hard to imagine that someone can be “induced” or “encouraged” or “persuaded” to incite and pay for a murder that he never envisaged. Deprivation of a human life is, to use Leo Tolstoy’s words, “the last most terrible crime, the most repugnant to any not completely depraved human heart”, so I am unable to believe that the authorities’ omnipotence in manipulating people’s minds goes so far as to be able to turn an innocent person into a murderer by way of simple persuasion.",
+            "uk": "Не погоджуючись з тим, що у цій справі заявник був підданий підбуренню всупереч статті 6 Конвенції, я, тим не менш, мушу визнати, що немає лиха без добра – це перше рішення проти України щодо провокації, а тому детальне роз’яснення принципів стосовно підбурювання працівників поліції, необхідні перевірки та обов’язкові критерії для ефективного розгляду будь-якої скарги на провокацію злочину, я сподіваюсь, стануть важливим керівництвом для національних судів."
+        }
+    }
+]

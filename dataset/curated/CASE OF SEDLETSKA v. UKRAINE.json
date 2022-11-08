@@ -1,0 +1,1374 @@
+[
+    {
+        "id": 0,
+        "translation": {
+            "en": "FIFTH SECTION",
+            "uk": "П’ЯТА СЕКЦІЯ"
+        }
+    },
+    {
+        "id": 1,
+        "translation": {
+            "en": "CASE OF SEDLETSKA v. UKRAINE",
+            "uk": "СПРАВА «СЕДЛЕЦЬКА ПРОТИ УКРАЇНИ»"
+        }
+    },
+    {
+        "id": 2,
+        "translation": {
+            "en": "(Application no. 42634/18)",
+            "uk": "(Заява № 42634/18)"
+        }
+    },
+    {
+        "id": 3,
+        "translation": {
+            "en": "JUDGMENT",
+            "uk": "РІШЕННЯ"
+        }
+    },
+    {
+        "id": 4,
+        "translation": {
+            "en": "Art 10 • Freedom of expression • Protection of journalistic sources • Interference with applicant’s rights due to judicially authorised access to her mobile telephone communications data not “necessary in a democratic society”: grossly disproportionate and not justified by an “overriding requirement in the public interest”",
+            "uk": "Ст. 10 • Свобода вираження поглядів • Захист журналістських джерел інформації • Втручання у права заявниці у зв’язку з наданим судами доступом до інформації щодо вхідних і вихідних з’єднань з її мобільного телефону, яке не було «необхідним у демократичному суспільстві»: надмірно непропорційне та невиправдане «головною вимогою в інтересах суспільства»"
+        }
+    },
+    {
+        "id": 5,
+        "translation": {
+            "en": "STRASBOURG",
+            "uk": "СТРАСБУРГ"
+        }
+    },
+    {
+        "id": 6,
+        "translation": {
+            "en": "1 April 2021",
+            "uk": "01 квітня 2021 року"
+        }
+    },
+    {
+        "id": 7,
+        "translation": {
+            "en": "FINAL",
+            "uk": "ОСТАТОЧНЕ"
+        }
+    },
+    {
+        "id": 8,
+        "translation": {
+            "en": "01/07/2021",
+            "uk": "01.07.2021"
+        }
+    },
+    {
+        "id": 9,
+        "translation": {
+            "en": "This judgment has become final under Article 44 § 2 of the Convention. It may be subject to editorial revision.",
+            "uk": "Це рішення набуло статусу остаточного відповідно до пункту 2 статті 44 Конвенції. Його текст може підлягати редакційним виправленням."
+        }
+    },
+    {
+        "id": 10,
+        "translation": {
+            "en": "In the case of Sedletska v. Ukraine,",
+            "uk": "У справі «Седлецька проти України»"
+        }
+    },
+    {
+        "id": 11,
+        "translation": {
+            "en": "The European Court of Human Rights (Fifth Section), sitting as a Chamber composed of:",
+            "uk": "Європейський суд з прав людини (П’ята секція), засідаючи палатою, до складу якої увійшли:"
+        }
+    },
+    {
+        "id": 12,
+        "translation": {
+            "en": "Síofra O’Leary, President,",
+            "uk": "Сіофра О’Лірі (Síofra O’Leary), Голова,"
+        }
+    },
+    {
+        "id": 13,
+        "translation": {
+            "en": "Stéphanie Mourou-Vikström,",
+            "uk": "Стефані Моро-Вікстром (Stéphanie Mourou-Vikström),"
+        }
+    },
+    {
+        "id": 14,
+        "translation": {
+            "en": "Lətif Hüseynov,",
+            "uk": "Лятіф Гусейнов (Lətif Hüseynov),"
+        }
+    },
+    {
+        "id": 15,
+        "translation": {
+            "en": "Lado Chanturia,",
+            "uk": "Ладо Чантурія (Lado Chanturia),"
+        }
+    },
+    {
+        "id": 16,
+        "translation": {
+            "en": "Ivana Jelić,",
+            "uk": "Івана Джеліч (Ivana Jelić),"
+        }
+    },
+    {
+        "id": 17,
+        "translation": {
+            "en": "Arnfinn Bårdsen, judges,",
+            "uk": "Арнфінн Бордсен (Arnfinn Bårdsen), судді,"
+        }
+    },
+    {
+        "id": 18,
+        "translation": {
+            "en": "Sergiy Goncharenko, ad hoc judge,",
+            "uk": "Сергій Гончаренко (Sergiy Goncharenko), суддя ad hoc"
+        }
+    },
+    {
+        "id": 19,
+        "translation": {
+            "en": "and Victor Soloveytchik, Section Registrar,",
+            "uk": "та Віктор Соловейчік (Victor Soloveytchik), Секретар секції,"
+        }
+    },
+    {
+        "id": 20,
+        "translation": {
+            "en": "Having regard to: the application (no. 42634/18) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Ms Nataliya Yuriyivna Sedletska (“the applicant”), on 10 September 2018;",
+            "uk": "З огляду на: заяву (№ 42634/18), яку 10 вересня 2018 року подала до Суду проти України на підставі статті 34 Конвенції про захист прав людини і основоположних свобод (далі – Конвенція) громадянка України, пані Наталія Юріївна Седлецька (далі – заявниця);"
+        }
+    },
+    {
+        "id": 21,
+        "translation": {
+            "en": "the decision to give notice of the application to the Ukrainian Government (“the Government”);",
+            "uk": "рішення повідомити Уряд України (далі – Уряд) про заяву;"
+        }
+    },
+    {
+        "id": 22,
+        "translation": {
+            "en": "the decision to indicate an interim measure to the respondent Government under Rule 39 of the Rules of Court;",
+            "uk": "рішення вказати Уряду держави-відповідача на тимчасовий захід згідно з Правилом 39 Регламенту Суду;"
+        }
+    },
+    {
+        "id": 23,
+        "translation": {
+            "en": "the withdrawal of Ganna Yudkivska, the judge elected in respect of Ukraine, from sitting in the case (Rule 28 § 3 of the Rules of Court) and the decision of the President of the Section to appoint Mr Sergiy Goncharenko to sit as an ad hoc judge (Article 26 § 4 of the Convention and Rule 29 § 1 (a));",
+            "uk": "відвід Ганни Юдківської, судді, обраної від України, від участі в засіданнях у справі (пункт 3 Правила 28 Регламенту Суду) та рішення Голови секції про призначення пана Сергія Гончаренка суддею ad hoc (пункт 4 статті 26 Конвенції та підпункт «а» пункту 1 Правила 29 Регламенту Суду);"
+        }
+    },
+    {
+        "id": 24,
+        "translation": {
+            "en": "the observations submitted by the respondent Government and the observations in reply submitted by the applicant;",
+            "uk": "зауваження, подані Урядом держави-відповідача, та зауваження, подані заявницею у відповідь;"
+        }
+    },
+    {
+        "id": 25,
+        "translation": {
+            "en": "the comments submitted by the Media Legal Defence Initiative and Human Rights Platform, who were granted leave to intervene by the President of the Section under Article 36 § 2 of the Convention and Rule 44 § 3 of the Rules of Court;",
+            "uk": "коментарі, подані організаціями «Ініціатива правового захисту засобів масової інформації» та «Платформа прав людини», які отримали дозвіл Голови секції на участь у провадженні на підставі пункту 2 статті 36 Конвенції та пункту 3 Правила 44 Регламенту Суду;"
+        }
+    },
+    {
+        "id": 26,
+        "translation": {
+            "en": "Having deliberated in private on 9 March 2021,",
+            "uk": "після обговорення за зачиненими дверима 09 березня 2021 року"
+        }
+    },
+    {
+        "id": 27,
+        "translation": {
+            "en": "Delivers the following judgment, which was adopted on that date:",
+            "uk": "постановляє таке рішення, що було ухвалено у той день:"
+        }
+    },
+    {
+        "id": 28,
+        "translation": {
+            "en": "INTRODUCTION",
+            "uk": "ВСТУП"
+        }
+    },
+    {
+        "id": 29,
+        "translation": {
+            "en": "1.  The present case concerns complaints raised under Articles 10 and 13 of the Convention of interference with the protection of journalistic sources as a result of judicial authorisation being given to the investigative authorities to access the applicant’s communications data stored by her mobile telephone operator and lack of effective remedies in respect of her relevant complaint.",
+            "uk": "1.  Ця справа стосується скарг, поданих за статтями 10 та 13 Конвенції на втручання у захист журналістських джерел інформації внаслідок надання судами органам досудового розслідування дозволу на доступ до інформації щодо вхідних і вихідних з’єднань з телефону заявниці, які зберігалися її оператором мобільного зв’язку, а також на відсутність ефективного засобу юридичного захисту у зв’язку з її відповідною скаргою."
+        }
+    },
+    {
+        "id": 30,
+        "translation": {
+            "en": "THE FACTS",
+            "uk": "ФАКТИ"
+        }
+    },
+    {
+        "id": 31,
+        "translation": {
+            "en": "2.  The applicant was born in 1987 and lives in Kyiv. She was represented by Mr S. Zayets and Ms L. Pankratova, lawyers practising in Irpin and Kyiv respectively.",
+            "uk": "2.  Заявниця народилася у 1987 році та проживає у м. Київ. Її представляли пан С. Заєць та пані Л. Панкратова, юристи, які практикують у м. Ірпінь і м. Київ відповідно."
+        }
+    },
+    {
+        "id": 32,
+        "translation": {
+            "en": "3.  The Government were represented by their Agent, Mr I. Lishchyna.",
+            "uk": "3.  Уряд представляв його Уповноважений, пан І. Ліщина."
+        }
+    },
+    {
+        "id": 33,
+        "translation": {
+            "en": "4.  The facts of the case, as submitted by the parties, may be summarised as follows.",
+            "uk": "4.  Факти справи, надані сторонами, можуть бути узагальнені таким чином."
+        }
+    },
+    {
+        "id": 34,
+        "translation": {
+            "en": "The circumstances of the case",
+            "uk": "ОБСТАВИНИ СПРАВИ"
+        }
+    },
+    {
+        "id": 35,
+        "translation": {
+            "en": "Background of the case",
+            "uk": "Події, що передували справі"
+        }
+    },
+    {
+        "id": 36,
+        "translation": {
+            "en": "5.  The applicant is a journalist at the Kyiv office of Radio Free Europe/Radio Liberty. She is also the editor-in-chief of the “Schemes: Corruption in Detail” television programme. The programme has been running since 2014 and many of its issues concern senior prosecutors and politicians.",
+            "uk": "5.  Заявниця – журналістка київського представництва «Радіо вільна Європа/Радіо Свобода». Вона також є головним редактором телевізійної програми «Схеми: корупція в деталях». Програма виходить в ефір з 2014 року, і багато висвітлених у ній питань стосуються високопосадових прокурорів і політиків."
+        }
+    },
+    {
+        "id": 37,
+        "translation": {
+            "en": "6.  In 2015 the National Anticorruption Bureau of Ukraine (“the NABU”) instituted criminal proceedings against a prosecutor, K., on suspicion of unjust enrichment. In the framework of those proceedings, in the period between May and July 2016, the NABU tapped the telephone of Ms N., K.’s partner.",
+            "uk": "6.  У 2015 році Національне антикорупційне бюро України (далі – НАБУ) порушило кримінальне провадження щодо прокурора К. за підозрою у незаконному збагаченні. У межах цього провадження у період з травня до липня 2016 року НАБУ прослуховувало телефон цивільної дружини К., пані Н."
+        }
+    },
+    {
+        "id": 38,
+        "translation": {
+            "en": "7.  In 2017 K. started working at the Prosecutor General’s Office (“the PGO”).",
+            "uk": "7.  У 2017 році К. почав працювати в Генеральній прокуратурі України (далі – ГПУ)."
+        }
+    },
+    {
+        "id": 39,
+        "translation": {
+            "en": "9.  The same day M., a Member of Parliament, complained to the Prosecutor General that the above article was unlawful and had indicated that S. had also breached the rules of confidentiality pertaining to ongoing criminal proceedings, as well as Ms N.’s right to respect for her private life in divulging information about her to the journalists.",
+            "uk": "9.  Того ж дня народний депутат М. звернулася до Генерального прокурора України зі скаргою на незаконність зазначеної статті і, крім того, вказала на порушення С. норм щодо нерозголошення таємниці триваючого кримінального провадження, а також порушення права пані Н. на повагу до її приватного життя у результаті повідомлення журналістам інформації про неї."
+        }
+    },
+    {
+        "id": 40,
+        "translation": {
+            "en": "10.  On 15 November 2017 Ms N. also complained to the PGO about the same matter, asking that criminal proceedings be instituted against S. and his colleagues for breaching her privacy and making public the material of the ongoing criminal investigations.",
+            "uk": "10.  15 листопада 2017 року пані Н. також поскаржилася до ГПУ з цього ж питання, вимагаючи порушити кримінальне провадження щодо С. та його колег за втручання у її приватне життя та розголошення матеріалів триваючих кримінальних проваджень."
+        }
+    },
+    {
+        "id": 41,
+        "translation": {
+            "en": "Criminal investigation of alleged misconduct by S.",
+            "uk": "Розслідування стверджуваної неправомірної поведінки С."
+        }
+    },
+    {
+        "id": 42,
+        "translation": {
+            "en": "11.  On 16 November 2017 the PGO instituted criminal proceedings against S. under Articles 163, 182, 328 and 387 of the Criminal Code for violation of privacy and disclosure of confidential information concerning ongoing criminal investigations.",
+            "uk": "11.  16 листопада 2017 року ГПУ порушила кримінальне провадження щодо С. на підставі статей 163, 182, 328 та 387 Кримінального кодексу України за фактом порушення недоторканності приватного життя та розголошення таємної інформації стосовно триваючих кримінальних проваджень."
+        }
+    },
+    {
+        "id": 43,
+        "translation": {
+            "en": "12.  On 22 November 2017 the PGO requested that the Security Service of Ukraine (“the SSU”) conduct a voice recognition analysis of those present at the purported meeting with S. using the audio recording featured in the article on the Obozrevatel media website.",
+            "uk": "12.  22 листопада 2017 року ГПУ звернулася до Служби безпеки України (далі – СБУ) з дорученням провести розпізнавання голосу осіб, присутніх на стверджуваній зустрічі із С., використовуючи аудіозапис, розміщений у статті на вебсайті інтернет-видання «Обозреватель»."
+        }
+    },
+    {
+        "id": 44,
+        "translation": {
+            "en": "13.  On 4 December 2017 the SSU informed the PGO of the results of the voice recognition analysis. It was mentioned that the voices on the recording were likely to belong to S., his deputy U. and two journalists, B. and the applicant. There were also several other voices which could not be identified.",
+            "uk": "13.  04 грудня 2017 року СБУ повідомила ГПУ про результати розпізнавання голосу. Зазначалося, що голоси на записі, ймовірно, належали С., його заступнику У. та двом журналістам Б. і заявниці. Також було декілька інших голосів, які не можна було ідентифікувати."
+        }
+    },
+    {
+        "id": 45,
+        "translation": {
+            "en": "PGO’s request for access to the applicant’s communications data and ensuing events",
+            "uk": "Клопотання ГПУ про доступ до інформації щодо вхідних і вихідних з’єднань з телефону заявниці та подальші події"
+        }
+    },
+    {
+        "id": 46,
+        "translation": {
+            "en": "18.  On 4 September 2018 the PGO investigator wrote a letter to the mobile service provider JSC “Kyivstar” referring to the District Court’s order of 27 August 2018 and informing the addressee that data was only required about the dates, times and location of the mobile telephones of the applicant and one other person - apparently, B., - near the six specified streets and places in Kyiv. It was also indicated that this information should be provided without any other data being disclosed.",
+            "uk": "18.  04 вересня 2018 року слідчий ГПУ надіслав лист оператору мобільного зв’язку ПрАТ «Київстар», в якому посилався на ухвалу районного суду від 27 серпня 2018 року та повідомляв адресата про необхідність надати йому лише відомості про дати, час та місцезнаходження мобільних телефонів заявниці та ще однієї особи – вочевидь, Б. – поблизу шести вказаних вулиць та місць у м. Київ. Також було зазначено, що ця інформація мала надаватися без розголошення будь-яких інших відомостей."
+        }
+    },
+    {
+        "id": 47,
+        "translation": {
+            "en": "19.  On 7 September 2018 the applicant and her lawyer asked the District Court for a copy of the order of 27 August 2018. The request was refused on 10 September 2018.",
+            "uk": "19.  07 вересня 2018 року заявниця та її захисник звернулися до районного суду із заявою про надання їм копії ухвали від 27 серпня 2018 року. 10 вересня 2018 року у задоволенні заяви було відмовлено."
+        }
+    },
+    {
+        "id": 48,
+        "translation": {
+            "en": "20.  On 11 September 2018 the applicant, notwithstanding the fact that the order of 27 August 2018 indicated that it was not possible to lodge an appeal against it, challenged it before the Kyiv City Court of Appeal (“the Court of Appeal”) and requested its suspension.",
+            "uk": "20.  11 вересня 2018 року, незважаючи на зазначення в ухвалі від 27 серпня 2018 року про неможливість її оскарження, заявниця звернулася до Апеляційного суду міста Києва (далі – апеляційний суд) з апеляційною скаргою та просила скасувати цю ухвалу."
+        }
+    },
+    {
+        "id": 49,
+        "translation": {
+            "en": "“... as correctly noted by the appellant, and as the judicial panel agrees, the investigative judge issued the order for temporary access ... without due reason, failing to comply with legislative requirements, in breach of the [applicant’s] rights, as a journalist, protected by law.",
+            "uk": "«... як правильно зазначила автор апеляційної скарги, з чим погоджується колегія суддів, слідчим суддею постановлено ухвалу про тимчасовий доступ ... без належного на те обґрунтування, без додержання вимог законодавства, у порушення прав [заявниці], як журналіста, які охороняються законами."
+        }
+    },
+    {
+        "id": 50,
+        "translation": {
+            "en": "At the same time, as the prosecutor explained at the hearing, such measures were used with a view to achieving efficiency in the aforementioned criminal proceedings, in particular, in order to establish more exactly the time and place of the commission of an offence, ... since, being questioned as a witness, [the applicant] had refused to give a statement to the investigation in this regard.",
+            "uk": "Разом з тим, як пояснив у судовому засіданні прокурор, такі заходи було застосовано з метою досягнення дієвості вищеназваного кримінального провадження, зокрема встановлення більш точного часу та місця скоєння кримінального правопорушення, ... оскільки, будучи допитаною як свідок, [заявниця] відмовилась надати слідству будь-які показання з цього приводу."
+        }
+    },
+    {
+        "id": 51,
+        "translation": {
+            "en": "The judicial panel considers that allowing the aforementioned request by the investigator in this particular aspect shall correspond to the task of the criminal investigation to ensure a prompt, comprehensive and unbiased inquiry and will sufficiently safeguard the protected rights and lawful interests of the [applicant] as a journalist.”",
+            "uk": "На думку колегії суддів задоволення вищезгаданого клопотання слідчого саме в такій частині в повній мірі буде відповідати завданню кримінального провадження щодо забезпечення його швидкого, повного та неупередженого розслідування і в достатній мірі забезпечить охоронювані права, свободи та законні інтереси журналіста [заявниці].»"
+        }
+    },
+    {
+        "id": 52,
+        "translation": {
+            "en": "23.  On 20 September 2018 the applicant and her lawyer asked the mobile service provider JSC “Kyivstar” and the PGO whether the investigation had had access to the applicant’s mobile telephone data in accordance with the orders of 27 August and 18 September 2018. Fifteen NGOs and the media made a “flash mob” requesting the same information from the PGO. All these requests were refused on the basis of the confidentiality of the ongoing investigation.",
+            "uk": "23.  20 вересня 2018 року заявниця та її захисник надіслали запит до оператора мобільного зв’язку ПрАТ «Київстар» та ГПУ стосовно отримання слідством доступу до даних мобільного телефону заявниці на підставі ухвал від 27 серпня та 18 вересня 2018 року. П’ятнадцять громадських організацій та засобів масової інформації влаштували «флешмоб», надіславши запити з того самого питання до ГПУ. У задоволенні всіх цих запитів було відмовлено у зв’язку з нерозголошенням таємниці триваючого кримінального провадження."
+        }
+    },
+    {
+        "id": 53,
+        "translation": {
+            "en": "Procedure before the Court",
+            "uk": "ПРОЦЕДУРА РОЗГЛЯДУ СПРАВИ У СУДІ"
+        }
+    },
+    {
+        "id": 54,
+        "translation": {
+            "en": "24.  On 10 September 2018 the applicant asked the Court for the indication of an interim measure under Rule 39 of the Rules of the Court.",
+            "uk": "24.  10 вересня 2018 року заявниця звернулася до Суду з клопотанням про застосування тимчасового заходу згідно з Правилом 39 Регламенту Суду."
+        }
+    },
+    {
+        "id": 55,
+        "translation": {
+            "en": "25.  On 18 September 2018 the Court indicated to the Government under Rule 39 of the Rules of the Court that, in the interests of the parties and the proper conduct of the proceedings, they should ensure that the public authorities abstain from accessing any of the data specified in the order of 27 August 2018 concerning the applicant.",
+            "uk": "25.  18 вересня 2018 року згідно з Правилом 39 Регламенту Суду Суд вказав Уряду, що в інтересах сторін і для належного провадження у справі він мав забезпечити, аби органи державної влади утрималися від доступу до будь-яких відомостей, зазначених в ухвалі від 27 серпня 2018 року щодо заявниці."
+        }
+    },
+    {
+        "id": 56,
+        "translation": {
+            "en": "26.  On 27 September 2018, when interviewed during a visit to Parliament, the Prosecutor General stated that no data had been received from the mobile telephone operator, that they had complied with the decision of the Court [regarding the indicated interim measure] but that they would need the data to investigate a serious crime and would try to explain this to the Court.",
+            "uk": "26.  27 вересня 2018 року, відповідаючи на питання у Верховній Раді України, Генеральний прокурор України зазначив, що від оператора мобільного зв’язку не було одержано жодних відомостей, рішення Суду [щодо вказаного тимчасового заходу] було виконано, але ГПУ потребувала ці відомості для розслідування тяжкого злочину та хотіла спробувати пояснити це Суду."
+        }
+    },
+    {
+        "id": 57,
+        "translation": {
+            "en": "27.  On 16 October 2018 the Court extended the aforementioned interim measure indicating to the Government of Ukraine to ensure that the public authorities abstain from accessing any data mentioned in the ruling of 18 September 2018 by the Kyiv City Court of Appeal concerning the applicant until further notice.",
+            "uk": "27.  16 жовтня 2018 року Суд продовжив строк дії зазначеного тимчасового заходу, вказавши Уряду України забезпечити, щоб до подальшого повідомлення органи державної влади утрималися від доступу до будь-яких відомостей, зазначених в ухвалі від 18 вересня \n2018 року Апеляційного суду міста Києва щодо заявниці."
+        }
+    },
+    {
+        "id": 58,
+        "translation": {
+            "en": "28.  On 12 February 2019 the PGO informed the Government’s Agent within the framework of the present proceedings that they had not carried out any of the actions authorised by the orders of 27 August and 18 September 2018 in the applicant’s case, taking into account the requirements imposed under Rule 39.",
+            "uk": "28.  12 лютого 2019 року в межах цього провадження ГПУ повідомила Уповноваженого у справах Європейського суду з прав людини, що з огляду на накладені згідно з Правилом 39 Регламенту Суду вимоги ГПУ не здійснювала жодних дій, санкціонованих ухвалами від 27 серпня та 18 вересня 2018 року у справі заявниці."
+        }
+    },
+    {
+        "id": 59,
+        "translation": {
+            "en": "RELEVANT LEGAL FRAMEWORK",
+            "uk": "ВІДПОВІДНА НОРМАТИВНО-ПРАВОВА БАЗА"
+        }
+    },
+    {
+        "id": 60,
+        "translation": {
+            "en": "Relevant domestic law",
+            "uk": "ВІДПОВІДНЕ НАЦІОНАЛЬНЕ ЗКОНОДАВСТВО"
+        }
+    },
+    {
+        "id": 61,
+        "translation": {
+            "en": "Constitution of Ukraine",
+            "uk": "Конституція України"
+        }
+    },
+    {
+        "id": 62,
+        "translation": {
+            "en": "29.  Article 34 of the Constitution of Ukraine reads:",
+            "uk": "29.  Стаття 34 Конституції України передбачає:"
+        }
+    },
+    {
+        "id": 63,
+        "translation": {
+            "en": "“Everyone is guaranteed the right to freedom of thought and speech, and to the free expression of his or her views and beliefs.",
+            "uk": "«Кожному гарантується право на свободу думки і слова, на вільне вираження своїх поглядів і переконань."
+        }
+    },
+    {
+        "id": 64,
+        "translation": {
+            "en": "Everyone has the right to freely collect, store, use and disseminate information by oral, written or other means of his or her choice.",
+            "uk": "Кожен має право вільно збирати, зберігати, використовувати і поширювати інформацію усно, письмово або в інший спосіб – на свій вибір."
+        }
+    },
+    {
+        "id": 65,
+        "translation": {
+            "en": "The exercise of these rights may be restricted by law in the interests of national security, territorial indivisibility or public order, with the purpose of preventing disturbances or crimes, protecting the health of the population, the reputation or rights of other persons, preventing the publication of information received confidentially, or supporting the authority and impartiality of justice.”",
+            "uk": "Здійснення цих прав може бути обмежене законом в інтересах національної безпеки, територіальної цілісності або громадського порядку з метою запобігання заворушенням чи злочинам, для охорони здоров’я населення, для захисту репутації або прав інших людей, для запобігання розголошенню інформації, одержаної конфіденційно, або для підтримання авторитету і неупередженості правосуддя.»"
+        }
+    },
+    {
+        "id": 66,
+        "translation": {
+            "en": "Criminal Code",
+            "uk": "Кримінальний кодекс України"
+        }
+    },
+    {
+        "id": 67,
+        "translation": {
+            "en": "30.  The relevant provisions of the Code concern the following offences:",
+            "uk": "30.  Відповідні положення Кодексу стосуються таких кримінальних правопорушень:"
+        }
+    },
+    {
+        "id": 68,
+        "translation": {
+            "en": "- Article 163: Violation of privacy of mail, telephone conversations, telegraphs and other correspondence conveyed by means of communication or via computers;",
+            "uk": "- Стаття 163: Порушення таємниці листування, телефонних розмов, телеграфної чи іншої кореспонденції, що передаються засобами зв’язку або через комп’ютер;"
+        }
+    },
+    {
+        "id": 69,
+        "translation": {
+            "en": "- Article 182: Violation of personal privacy;",
+            "uk": "- Стаття 182: Порушення недоторканності приватного життя;"
+        }
+    },
+    {
+        "id": 70,
+        "translation": {
+            "en": "- Article 328: Disclosure of State secrets;",
+            "uk": "- Стаття 328: Розголошення державної таємниці;"
+        }
+    },
+    {
+        "id": 71,
+        "translation": {
+            "en": "- Article 387: Disclosure of information on pre-trial investigation or inquiry.",
+            "uk": "- Стаття 387: Розголошення даних оперативно-розшукової діяльності або досудового розслідування."
+        }
+    },
+    {
+        "id": 72,
+        "translation": {
+            "en": "Code of Criminal Procedure (“the CCP”)",
+            "uk": "Кримінальний процесуальний кодекс України (далі – КПК України)"
+        }
+    },
+    {
+        "id": 73,
+        "translation": {
+            "en": "31.  The relevant provisions of the Code provide as follows:",
+            "uk": "31.  Відповідні положення Кодексу передбачають:"
+        }
+    },
+    {
+        "id": 74,
+        "translation": {
+            "en": "Article 65 – Witness",
+            "uk": "Стаття 65 – Свідок"
+        }
+    },
+    {
+        "id": 75,
+        "translation": {
+            "en": "2. The following persons may not be interviewed as witnesses:",
+            "uk": "2. Не можуть бути допитані як свідки:"
+        }
+    },
+    {
+        "id": 76,
+        "translation": {
+            "en": "(6) journalists, about confidential information of a professional nature provided on condition of non-disclosure of its author or source ...”",
+            "uk": "(6) журналісти – про відомості, які містять конфіденційну інформацію професійного характеру, надану за умови нерозголошення авторства або джерела інформації...»"
+        }
+    },
+    {
+        "id": 77,
+        "translation": {
+            "en": "Article 163 – Consideration of a request for provisional access to items and documents",
+            "uk": "Стаття 163 – Розгляд клопотання про тимчасовий доступ до речей і документів"
+        }
+    },
+    {
+        "id": 78,
+        "translation": {
+            "en": "“1. Upon receiving a request for provisional access to items and documents, the investigating judge or court shall summon the person in possession of the items and documents, except in the case specified in [paragraph 2] of this Article.",
+            "uk": "«1. Після отримання клопотання про тимчасовий доступ до речей і документів слідчий суддя, суд здійснює судовий виклик особи, у володінні якої знаходяться такі речі і документи, за винятком випадку, встановленого [частиною другою] цієї статті."
+        }
+    },
+    {
+        "id": 79,
+        "translation": {
+            "en": "2. If the party to criminal proceedings that filed the request proves that there are sufficient grounds to believe that a real threat exists of the items and documents concerned being altered or destroyed, the request may be considered by the investigating judge or court without the person in possession of them being summoned ... ”",
+            "uk": "2. Якщо сторона кримінального провадження, яка звернулася з клопотанням, доведе наявність достатніх підстав вважати, що існує реальна загроза зміни або знищення речей чи документів, клопотання може бути розглянуто слідчим суддею, судом без виклику особи, у володінні якої вони знаходяться ...»"
+        }
+    },
+    {
+        "id": 80,
+        "translation": {
+            "en": "Article 309 – Rulings by an investigative judge, which can be appealed at the pre-trial investigation stage",
+            "uk": "Стаття 309 – Ухвали слідчого судді, які можуть бути оскаржені під час досудового розслідування"
+        }
+    },
+    {
+        "id": 81,
+        "translation": {
+            "en": "“1. The following rulings by an investigative judge may be appealed at the pre-trial investigation stage:",
+            "uk": "«1. Під час досудового розслідування можуть бути оскаржені в апеляційному порядку ухвали слідчого судді про:"
+        }
+    },
+    {
+        "id": 82,
+        "translation": {
+            "en": "10) [concerning] provisional access to items and documents, which authorise seizure of items and documents, ... in absence of which an individual entrepreneur or a legal entity will be deprived of an opportunity to carry out their activity; ...",
+            "uk": "10) тимчасовий доступ до речей і документів, яким дозволено вилучення речей і документів, ... за відсутності яких фізична особа-підприємець чи юридична особа позбавляються можливості здійснювати свою діяльність; ..."
+        }
+    },
+    {
+        "id": 83,
+        "translation": {
+            "en": "3. Other rulings by an investigative judge may not be appealed against and objections against them may be submitted during preparatory hearing in court.”",
+            "uk": "3. Скарги на інші ухвали слідчого судді оскарженню не підлягають і заперечення проти них можуть бути подані під час підготовчого провадження в суді.»"
+        }
+    },
+    {
+        "id": 84,
+        "translation": {
+            "en": "State Support of Mass Media and Social Protection of Journalists Act of 23 September 1997",
+            "uk": "Закон України «Про державну підтримку засобів масової інформації та соціальний захист журналістів» від 23 вересня 1997 року"
+        }
+    },
+    {
+        "id": 85,
+        "translation": {
+            "en": "32.  The relevant part of section 17 of the Act provides as follows:",
+            "uk": "32.  Відповідна частина статті 17 Закону передбачає:"
+        }
+    },
+    {
+        "id": 86,
+        "translation": {
+            "en": "Section 17 – Liability for trespass or other actions against the life and health of a journalist and a journalist’s liability for non-pecuniary damage caused by him/her",
+            "uk": "Стаття 17 – Відповідальність за посягання на життя і здоров’я журналіста, інші дії проти нього та відповідальність журналіста за завдану ним моральну (немайнову) шкоду"
+        }
+    },
+    {
+        "id": 87,
+        "translation": {
+            "en": "“... The professional activities of a journalist shall not serve as grounds for his or her arrest and detention, or for the seizure of material collected, processed and prepared by him or her or technical [equipment] that he or she uses in his or her work...”.",
+            "uk": "«... Службова діяльність журналіста не може бути підставою для його арешту, затримання, а також вилучення зібраних, опрацьованих, підготовлених ним матеріалів та технічних [засобів], якими він користується у своїй роботі...»."
+        }
+    },
+    {
+        "id": 88,
+        "translation": {
+            "en": "Relevant International Material",
+            "uk": "ВІДПОВІДНІ МІЖНАРОДНІ ДОКУМЕНТИ"
+        }
+    },
+    {
+        "id": 89,
+        "translation": {
+            "en": "33.  Several international documents concern the protection of journalistic sources, including the Resolution on Journalistic Freedoms and Human Rights, adopted at the 4th European Ministerial Conference on Mass Media Policy (Prague, 7-8 December 1994) and the European Parliament’s Resolution on Confidentiality for Journalists’ Sources (18 January 1994, Official Journal of the European Communities No. C 44/34).",
+            "uk": "33.  Захисту журналістських джерел інформації присвячені декілька міжнародних документів, у тому числі Резолюція про журналістські свободи та права людини, ухвалена на 4-й Європейській конференції міністрів з питань політики в галузі засобів масової інформації (Прага, 07 – 08 грудня 1994 року), та Резолюція Європейського парламенту про конфіденційність журналістських джерел інформації (18 січня 1994 року, Офіційний вісник Європейських Співтовариств, № C 44/34)."
+        }
+    },
+    {
+        "id": 90,
+        "translation": {
+            "en": "34.  Recommendation No. R (2000) 7 on the right of journalists not to disclose their sources of information was adopted by the Committee of Ministers of the Council of Europe on 8 March 2000. The appendix contains principles concerning the right of journalists not to disclose their sources of information, including the following:",
+            "uk": "34.  08 березня 2000 року Комітет міністрів Ради Європи ухвалив Рекомендацію № R (2000) 7 про право журналістів не розкривати свої джерела інформації. Додаток містить принципи щодо права журналістів не розголошувати свої джерела інформації, у тому числі такі:"
+        }
+    },
+    {
+        "id": 91,
+        "translation": {
+            "en": "Definitions",
+            "uk": "Визначення"
+        }
+    },
+    {
+        "id": 92,
+        "translation": {
+            "en": "“For the purposes of this Recommendation:",
+            "uk": "«Для цілей цієї Рекомендації:"
+        }
+    },
+    {
+        "id": 93,
+        "translation": {
+            "en": "a. the term ‘journalist’ means any natural or legal person who is regularly or professionally engaged in the collection and dissemination of information to the public via any means of mass communication;",
+            "uk": "a. термін «журналіст» означає будь-яку фізичну або юридичну особу, яка регулярно або професійно задіяна у зборі та публічному поширенні інформації через будь-які засоби масової комунікації;"
+        }
+    },
+    {
+        "id": 94,
+        "translation": {
+            "en": "b. the term ‘information’ means any statement of fact, opinion or idea in the form of text, sound and/or picture;",
+            "uk": "b. термін «інформація» означає будь-яке фактичне твердження, думку або ідею у формі тексту, звуку та/або зображення;"
+        }
+    },
+    {
+        "id": 95,
+        "translation": {
+            "en": "c. the term ‘source’ means any person who provides information to a journalist;",
+            "uk": "c. термін «джерело» означає будь-яку особу, яка передає інформацію журналісту;"
+        }
+    },
+    {
+        "id": 96,
+        "translation": {
+            "en": "d. the term ‘information identifying a source’ means, as far as this is likely to lead to the identification of a source:",
+            "uk": "d. термін «інформація, що ідентифікує джерело», означає, оскільки це може призвести до ідентифікації джерела:"
+        }
+    },
+    {
+        "id": 97,
+        "translation": {
+            "en": "i. the name and personal data as well as voice and image of a source,",
+            "uk": "i. ім’я та особисті дані, а також голос і зображення джерела,"
+        }
+    },
+    {
+        "id": 98,
+        "translation": {
+            "en": "ii. the factual circumstances of acquiring information from a source by a journalist,",
+            "uk": "ii. фактичні обставини одержання журналістом інформації від джерела,"
+        }
+    },
+    {
+        "id": 99,
+        "translation": {
+            "en": "iii. the unpublished content of the information provided by a source to a journalist, and",
+            "uk": "iii. неопублікований зміст переданої журналісту від джерела інформації , та"
+        }
+    },
+    {
+        "id": 100,
+        "translation": {
+            "en": "iv. personal data of journalists and their employers related to their professional work.",
+            "uk": "iv. персональні дані журналістів та їхніх роботодавців, пов’язані з їхньою професійною діяльністю."
+        }
+    },
+    {
+        "id": 101,
+        "translation": {
+            "en": "Principle 1 (Right of non-disclosure of journalists)",
+            "uk": "Принцип 1 (Право журналістів на нерозголошення)"
+        }
+    },
+    {
+        "id": 102,
+        "translation": {
+            "en": "Domestic law and practice in member States should provide for explicit and clear protection of the right of journalists not to disclose information identifying a source in accordance with Article 10 of the Convention for the Protection of Human Rights and Fundamental Freedoms (hereinafter: the Convention) and the principles established herein, which are to be considered as minimum standards for the respect of this right.",
+            "uk": "Національне законодавство та практика держав-членів мають забезпечувати чіткий і прозорий захист права журналістів не розголошувати інформацію, що ідентифікує джерело, згідно зі статтею 10 Конвенції про захист прав і основних свобод людини (далі – Конвенція) та встановленими у ній принципами, які мають вважатися мінімальними стандартами поваги до цього права."
+        }
+    },
+    {
+        "id": 103,
+        "translation": {
+            "en": "Principle 3 (Limits to the right of non-disclosure)",
+            "uk": "Принцип 3 (Обмеження права на нерозголошення)"
+        }
+    },
+    {
+        "id": 104,
+        "translation": {
+            "en": "b. The disclosure of information identifying a source should not be deemed necessary unless it can be convincingly established that:",
+            "uk": "b. Розголошення інформації, що ідентифікує джерело, не вважатиметься необхідним, якщо не може бути переконливо встановлено, що:"
+        }
+    },
+    {
+        "id": 105,
+        "translation": {
+            "en": "i. reasonable alternative measures to the disclosure do not exist or have been exhausted by the persons or public authorities that seek the disclosure, and",
+            "uk": "i. розумні альтернативні розголошенню заходи не існують чи були вичерпані особами чи органами державної влади, які вимагають розголошення, та"
+        }
+    },
+    {
+        "id": 106,
+        "translation": {
+            "en": "ii. the legitimate interest in the disclosure clearly outweighs the public interest in the non-disclosure, bearing in mind that:",
+            "uk": "ii. законний інтерес у розголошенні очевидно переважає суспільний інтерес у нерозголошенні, враховуючи, що:"
+        }
+    },
+    {
+        "id": 107,
+        "translation": {
+            "en": "• an overriding requirement of the need for disclosure is proved,",
+            "uk": "• доведена головна вимога необхідності розголошення,"
+        }
+    },
+    {
+        "id": 108,
+        "translation": {
+            "en": "• the circumstances are of a sufficiently vital and serious nature,",
+            "uk": "• обставини обґрунтовано мають надзвичайно важливий та серйозний характер,"
+        }
+    },
+    {
+        "id": 109,
+        "translation": {
+            "en": "• the necessity of the disclosure is identified as responding to a pressing social need, and",
+            "uk": "• необхідність такого розголошення визначена як така, що відповідає нагальній суспільній потребі, та"
+        }
+    },
+    {
+        "id": 110,
+        "translation": {
+            "en": "• member States enjoy a certain margin of appreciation in assessing this need, but this margin goes hand in hand with the supervision by the European Court of Human Rights.",
+            "uk": "• держави-члени користуються певною свободою розсуду, оцінюючи таку потребу, але ця свобода розсуду йде пліч-о-пліч з контролем Європейського суду з прав людини."
+        }
+    },
+    {
+        "id": 111,
+        "translation": {
+            "en": "c. The above requirements should be applied at all stages of any proceedings where the right of non-disclosure might be invoked.",
+            "uk": "c. Наведені вимоги застосовуються на всіх етапах будь-якого провадження, в якому можна посилатися на право не розголошувати джерела інформації."
+        }
+    },
+    {
+        "id": 112,
+        "translation": {
+            "en": "Principle 4 (Alternative evidence to journalists’ sources)",
+            "uk": "Принцип 4 (Докази, альтернативні журналістським джерелам)"
+        }
+    },
+    {
+        "id": 113,
+        "translation": {
+            "en": "In legal proceedings against a journalist on grounds of an alleged infringement of the honour or reputation of a person, authorities should consider, for the purpose of establishing the truth or otherwise of the allegation, all evidence which is available to them under national procedural law and may not require for that purpose the disclosure of information identifying a source by the journalist.",
+            "uk": "Під час провадження щодо журналіста за фактом стверджуваного посягання на честь або репутацію особи з метою встановлення правдивості чи, навпаки, голослівності твердження органи державної влади повинні розглянути відповідно до національного процесуального законодавства всі наявні у них докази, і не можуть вимагати з цією метою розголошення інформації, що ідентифікує журналістське джерело."
+        }
+    },
+    {
+        "id": 114,
+        "translation": {
+            "en": "Principle 6 (Interception of communication, surveillance and judicial search and seizure)",
+            "uk": "Принцип 6 (Перехоплення інформації, спостереження, обшук та вилучення за дозволом суду)"
+        }
+    },
+    {
+        "id": 115,
+        "translation": {
+            "en": "a. The following measures should not be applied if their purpose is to circumvent the right of journalists, under the terms of these principles, not to disclose information identifying a source:",
+            "uk": "a. З метою порушення права журналістів згідно з цими принципами не розголошувати інформацію, що ідентифікує джерело, не мають застосовуватися такі заходи:"
+        }
+    },
+    {
+        "id": 116,
+        "translation": {
+            "en": "i. interception orders or actions concerning communication or correspondence of journalists or their employers,",
+            "uk": "i. накази або дії щодо перехоплення інформації з каналів зв’язку чи листування журналістів або їхніх роботодавців,"
+        }
+    },
+    {
+        "id": 117,
+        "translation": {
+            "en": "ii. surveillance orders or actions concerning journalists, their contacts or their employers, or",
+            "uk": "ii. накази або дії щодо спостереження за журналістами, їхніми контактами чи їхніми роботодавцями, або"
+        }
+    },
+    {
+        "id": 118,
+        "translation": {
+            "en": "iii. search or seizure orders or actions concerning the private or business premises, belongings or correspondence of journalists or their employers or personal data related to their professional work.",
+            "uk": "iii. накази або дії щодо проведення обшуку чи вилучення у приватних або офісних приміщеннях, речей чи листування журналістів або їхніх роботодавців, чи персональних даних, пов’язаних з їхньою діяльністю."
+        }
+    },
+    {
+        "id": 119,
+        "translation": {
+            "en": "b. Where information identifying a source has been properly obtained by police or judicial authorities by any of the above actions, although this might not have been the purpose of these actions, measures should be taken to prevent the subsequent use of this information as evidence before courts, unless the disclosure would be justified under Principle 3.”",
+            "uk": "b. Якщо інформація, що ідентифікує джерело, дійсно була належним чином одержана поліцією або судовими органами за допомогою будь-якої з перелічених дій, хоча це могло і не бути метою таких дій, мають бути вжиті заходи для запобігання подальшому використанню цієї інформації як доказу в суді, якщо таке розголошення не буде виправдано згідно з Принципом 3.»"
+        }
+    },
+    {
+        "id": 120,
+        "translation": {
+            "en": "35.  On 25 January 2011 the Parliamentary Assembly of the Council of Europe adopted Recommendation 1950 (2011), The protection of journalists’ sources, which, inter alia, indicated as follows:",
+            "uk": "35.  25 січня 2011 року Парламентська асамблея Ради Європи ухвалила Рекомендацію 1950 (2011) «Захист журналістських джерел інформації», в якій, inter alia, вказувалося:"
+        }
+    },
+    {
+        "id": 121,
+        "translation": {
+            "en": "“5. Public authorities must not demand the disclosure of information identifying a source unless the requirements of Article 10, paragraph 2, of the Convention are met and unless it can be convincingly established that reasonable alternative measures to disclosure do not exist or have been exhausted, the legitimate interest in the disclosure clearly outweighs the public interest in the non-disclosure, and an overriding requirement of the need for disclosure is proved.",
+            "uk": "«5. Органи державної влади не повинні вимагати розголошення інформації, яка ідентифікує джерело, якщо не виконуються вимоги пункту 2 статті 10 Конвенції, і якщо неможливо переконливо довести, що розумні альтернативні розголошенню інформації заходи не існують або були вичерпані, законний інтерес у розголошенні інформації явно переважає суспільний інтерес у нерозголошенні, і доведена наявність першочергової вимоги необхідності розголошення інформації."
+        }
+    },
+    {
+        "id": 122,
+        "translation": {
+            "en": "8. The right of journalists not to disclose their sources applies also to sources from within the police or judicial authorities. Where such provision of information to journalists was illegal, police and judicial authorities must pursue internal investigations instead of asking journalists to disclose their sources.",
+            "uk": "8. Право журналістів на нерозголошення їхніх джерел поширюється також на джерела в поліції або судових органах. Якщо таке надання інформації журналістам було незаконним, поліція і судові органи мають проводити службові розслідування, а не вимагати від журналістів розголосити свої джерела."
+        }
+    },
+    {
+        "id": 123,
+        "translation": {
+            "en": "36.  On 8 September 2015 the Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression submitted a report to the UN General Assembly (A/70/361), which stated, inter alia (footnotes omitted):",
+            "uk": "36.  08 вересня 2015 року Спеціальний доповідач з питань сприяння та захисту права на свободу переконань і вираження поглядів представив Генеральній Асамблеї ООН доповідь (A/70/361), в якій, inter alia, зазначалося (посилання опущено):"
+        }
+    },
+    {
+        "id": 124,
+        "translation": {
+            "en": "“C. Nature and scope of protection",
+            "uk": "«C. Характер та межі захисту"
+        }
+    },
+    {
+        "id": 125,
+        "translation": {
+            "en": "THE LAW",
+            "uk": "ПРАВО"
+        }
+    },
+    {
+        "id": 126,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLE 10 OF THE CONVENTION",
+            "uk": "Стверджуване порушення статті 10 конвенції"
+        }
+    },
+    {
+        "id": 127,
+        "translation": {
+            "en": "37.  The applicant complained that the court orders allowing the PGO to access her mobile telephone communications data had constituted an unjustified interference with her right to the protection of journalistic sources. She relied on Article 10 of the Convention, which reads as follows:",
+            "uk": "37.  Заявниця скаржилася, що ухвали суду, якими ГПУ було надано дозвіл на доступ до інформації щодо вхідних і вихідних з’єднань з її мобільного телефону, становили невиправдане втручання у її право на захист журналістських джерел інформації. Вона посилалася на статтю 10 Конвенції, яка передбачає:"
+        }
+    },
+    {
+        "id": 128,
+        "translation": {
+            "en": "“1. Everyone has the right to freedom of expression. This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers. This Article shall not prevent States from requiring the licensing of broadcasting, television or cinema enterprises.",
+            "uk": "«1. Кожен має право на свободу вираження поглядів. Це право включає свободу дотримуватися своїх поглядів, одержувати і передавати інформацію та ідеї без втручання органів державної влади і незалежно від кордонів. Ця стаття не перешкоджає державам вимагати ліцензування діяльності радіомовних, телевізійних або кінематографічних підприємств."
+        }
+    },
+    {
+        "id": 129,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 130,
+        "translation": {
+            "en": "38.  The Government argued that the complaint was manifestly illfounded, alleging that the measures of interference complained of had been duly justified under Article 10 § 2 of the Convention.",
+            "uk": "38.  Уряд стверджував, що скарга була явно необґрунтованою, оскільки оскаржувані заходи втручання були належним чином виправдані за пунктом 2 статті 10 Конвенції."
+        }
+    },
+    {
+        "id": 131,
+        "translation": {
+            "en": "39.  The Court finds that the complaint raises an issue which lends itself to be examined on the merits. It further notes that it is not inadmissible on any other grounds listed in Article 35 of the Convention. It must therefore be declared admissible.",
+            "uk": "39.  Суд вважає, що скарга порушує питання, яке саме собою підлягає розгляду по суті. Він також зазначає, що вона не є неприйнятною з будь-яких інших підстав, перелічених у статті 35 Конвенції. Отже, вона має бути визнана прийнятною."
+        }
+    },
+    {
+        "id": 132,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 133,
+        "translation": {
+            "en": "Submissions by the parties",
+            "uk": "Доводи сторін"
+        }
+    },
+    {
+        "id": 134,
+        "translation": {
+            "en": "The applicant",
+            "uk": "Заявниця"
+        }
+    },
+    {
+        "id": 135,
+        "translation": {
+            "en": "40.  The applicant argued that the disputed court orders of 27 August and 18 September 2018, which had allowed the PGO to access her mobile telephone communications data, had constituted an unjustified interference with her rights under Article 10.",
+            "uk": "40.  Заявниця стверджувала, що оскаржувані ухвали суду від \n27 серпня та 18 вересня 2018 року, якими ГПУ було надано доступ до інформації щодо вхідних і вихідних з’єднань з її мобільного телефону, становили невиправдане втручання у її права за статтею 10 Конвенції."
+        }
+    },
+    {
+        "id": 136,
+        "translation": {
+            "en": "42.  She further argued that both of the aforementioned court orders had not been necessary in a democratic society.",
+            "uk": "42.  Вона також стверджувала, що обидві зазначені ухвали суду не були необхідними у демократичному суспільстві."
+        }
+    },
+    {
+        "id": 137,
+        "translation": {
+            "en": "46.  According to the applicant, both the measure of interference authorised by domestic courts and the persistent uncertainty as to whether or not the respective court orders had been enforced and whether the confidentiality of the applicant’s sources could be compromised had had a prohibitive chilling effect on her activity as an investigative journalist.",
+            "uk": "46.  На думку заявниці, як санкціонований національними судами захід втручання, так і постійна невизначеність, чи були виконані відповідні ухвали суду та чи могла бути порушена конфіденційність джерел інформації заявниці, особливо негативно вплинули на її діяльність як журналіста-розслідувача."
+        }
+    },
+    {
+        "id": 138,
+        "translation": {
+            "en": "The Government",
+            "uk": "Уряд"
+        }
+    },
+    {
+        "id": 139,
+        "translation": {
+            "en": "47.  The Government argued that there had been no breach of the applicant’s rights under Article 10 in the present case.",
+            "uk": "47.  Уряд стверджував, що у цій справі не було порушено права заявниці за статтею 10 Конвенції."
+        }
+    },
+    {
+        "id": 140,
+        "translation": {
+            "en": "49.  The Government argued that the judicial authorisation given to the PGO to access the applicant’s communications data in accordance with the provisions of the CCP had been lawful. They further argued that the disputed interference had pursued legitimate aims, in particular, investigation of a serious crime and protection of the rights of Ms N.",
+            "uk": "49.  Уряд стверджував, що відповідно до положень КПК України надані судом ГПУ дозволи на доступ до інформації щодо вхідних і вихідних з’єднань з телефону заявниці були законними. Уряд також доводив, що оскаржуване втручання переслідувало законні цілі, зокрема, проведення розслідування тяжкого злочину та захист прав пані Н."
+        }
+    },
+    {
+        "id": 141,
+        "translation": {
+            "en": "52.  The Government considered that the applicant’s allegations that the disputed measure could result in the identification of her journalistic sources and that her communications data could be used for ulterior motives were unsubstantiated and very general.",
+            "uk": "52.  Уряд стверджував про необґрунтованість та занадто загальний характер тверджень заявниці, що оскаржуваний захід міг призвести до розголошення її журналістських джерел, а інформація щодо вхідних і вихідних з’єднань з її телефону могла бути використана з прихованими мотивами."
+        }
+    },
+    {
+        "id": 142,
+        "translation": {
+            "en": "The third parties",
+            "uk": "Треті сторони"
+        }
+    },
+    {
+        "id": 143,
+        "translation": {
+            "en": "The Court’s assessment",
+            "uk": "Оцінка Суду"
+        }
+    },
+    {
+        "id": 144,
+        "translation": {
+            "en": "General principles concerning the protection of journalistic sources",
+            "uk": "Загальні принципи щодо захисту журналістських джерел інформації"
+        }
+    },
+    {
+        "id": 145,
+        "translation": {
+            "en": "Application of the above principles in the present case",
+            "uk": "Застосування зазначених принципів у цій справі"
+        }
+    },
+    {
+        "id": 146,
+        "translation": {
+            "en": "Whether there was an interference with the applicant’s freedom of expression",
+            "uk": "Чи мало місце втручання у свободу вираження поглядів заявниці"
+        }
+    },
+    {
+        "id": 147,
+        "translation": {
+            "en": "56.  In the present case, the national courts authorised the PGO to access the applicant’s communications data stored by her mobile telephone operator. The parties agreed that the impugned authorisation, regardless of whether either of the two relevant court orders had been enforced, had amounted to an “interference” with the applicant’s rights under Article 10 of the Convention. The Court sees no reason to hold otherwise.",
+            "uk": "56.  У цій справі національні суди надали ГПУ дозвіл на доступ до інформації щодо вхідних і вихідних з’єднань з телефону заявниці, що зберігалися її оператором мобільного зв’язку. Сторони погодилися, що оскаржуваний дозвіл, незалежно від виконання будь-якої з двох відповідних ухвал суду, становив «втручання» у права заявниці за статтею 10 Конвенції. Суд не вбачає підстав для іншого висновку."
+        }
+    },
+    {
+        "id": 148,
+        "translation": {
+            "en": "57.  The Court must therefore examine whether the interference was justified under the second paragraph of Article 10 of the Convention, that is, whether it was “prescribed by law”, pursued one or more legitimate aims and was “necessary in a democratic society” (see, among other authorities, Satakunnan Markkinapörssi Oy and Satamedia Oy v. Finland [GC], no. 931/13, § 141, 27 June 2017).",
+            "uk": "57.  Отже, Суд повинен встановити, чи було втручання виправданим за пунктом 2 статті 10 Конвенції, тобто чи було воно «встановлено законом», переслідувало одну або кілька законних цілей і було «необхідним у демократичному суспільстві» (див. серед інших джерел рішення у справі «Компанії «Сатакуннан Марккінапьорссі Ой» та «Сатамедіа Ой» проти Фінляндії» [ВП] (Satakunnan Markkinapörssi Oy and Satamedia Oy v. Finland) [GC], заява № 931/13, пункт 141, від 27 червня 2017 року)."
+        }
+    },
+    {
+        "id": 149,
+        "translation": {
+            "en": "Whether the interference was justified",
+            "uk": "Чи було втручання виправданим"
+        }
+    },
+    {
+        "id": 150,
+        "translation": {
+            "en": "Whether there was “a legitimate aim” for the interference",
+            "uk": "Чи існувала «законна мета» втручання"
+        }
+    },
+    {
+        "id": 151,
+        "translation": {
+            "en": "Whether the interference was “prescribed by law”",
+            "uk": "Чи було втручання «встановлено законом»"
+        }
+    },
+    {
+        "id": 152,
+        "translation": {
+            "en": "60.  It appears that in the applicant’s case, this safeguard was not implemented owing to the particular interpretation of Article 163 of the CCP by the District Court. Rather than enunciating specific reasons for considering the PGO’s request without summoning the applicant, the District Court made a formulaic reference to the “threat of the information sought being altered or destroyed” (see paragraph 16 above).",
+            "uk": "60.  Вбачається, що у справі заявниці ця гарантія не була реалізована внаслідок своєрідного тлумачення районним судом статті 163 КПК України. Замість того, аби вказати конкретні підстави для розгляду клопотання ГПУ без виклику заявниці, районний суд навів шаблонне посилання на «реальну загрозу зміни або знищення такої інформації» (див. Пункт 16)."
+        }
+    },
+    {
+        "id": 153,
+        "translation": {
+            "en": "Whether the interference was “necessary in a democratic society”",
+            "uk": "Чи було втручання «необхідним у демократичному суспільстві»"
+        }
+    },
+    {
+        "id": 154,
+        "translation": {
+            "en": "General principles",
+            "uk": "Загальні принципи"
+        }
+    },
+    {
+        "id": 155,
+        "translation": {
+            "en": "Application of those principles in the present case",
+            "uk": "Застосування зазначених принципів у цій справі"
+        }
+    },
+    {
+        "id": 156,
+        "translation": {
+            "en": "64.  Examining the present case in the light of the aforementioned principles, the Court considers that the reasons given by the domestic judicial authorities for the interference with the applicant’s rights under Article 10 were not sufficient to demonstrate that the interference was proportionate and that it corresponded to a pressing social need.",
+            "uk": "64.  Розглядаючи цю справу в контексті наведених принципів, Суд вважає наведені національними судовими органами підстави для втручання у права заявниці за статтею 10 Конвенції недостатніми, аби довести, що втручання було пропорційним і відповідало нагальній суспільній потребі."
+        }
+    },
+    {
+        "id": 157,
+        "translation": {
+            "en": "66.  The Government argued that the flaws in the District Court’s order had been rectified since the Court of Appeal had accepted the applicant’s appeal for consideration and had quashed that order, which remained unenforced. However, the Court considers that the first order nevertheless provides relevant and important context in the present case.",
+            "uk": "66.  Уряд стверджував про виправлення недоліків в ухвалі районного суду, оскільки апеляційний суд прийняв апеляційну скаргу заявниці до розгляду та скасував цю ухвалу, яка залишилася невиконаною. Однак Суд вважає, що перша ухвала все таки вказує на відповідний та важливий контекст у цій справі."
+        }
+    },
+    {
+        "id": 158,
+        "translation": {
+            "en": "72.  In view of the above considerations, the Court is not convinced that the data access authorisation given by the domestic courts was justified by an “overriding requirement in the public interest” and, therefore, necessary in a democratic society (see Goodwin, cited above, § 45; Voskuil, cited above, § 72; and Becker, cited above, § 83).",
+            "uk": "72.  З огляду на наведені міркування Суд не переконаний, що наданий національними судами дозвіл на доступ до даних був виправданий «першочерговою вимогою в інтересах суспільства» і тому був необхідний у демократичному суспільстві (див. згадані рішення у справах «Гудвін проти Сполученого Королівства» (Goodwin v. the United Kingdom), пункт 45; «Воскуїл проти Нідерландів» (Voskuil v. the Netherlands), пункт 72 та «Беккер проти Норвегії» (Becker v. Norway), пункт 83)."
+        }
+    },
+    {
+        "id": 159,
+        "translation": {
+            "en": "73.  There has accordingly been a breach of Article 10 of the Convention in the present case.",
+            "uk": "73.  Отже, у цій справі було порушено статтю 10 Конвенції."
+        }
+    },
+    {
+        "id": 160,
+        "translation": {
+            "en": "ALLEGED VIOLATION OF ARTICLE 13 OF THE CONVENTION",
+            "uk": "стверджуване порушення статті 13 конвенції"
+        }
+    },
+    {
+        "id": 161,
+        "translation": {
+            "en": "74.  The applicant also argued that the same considerations as those which she had mentioned in respect of Article 10 also gave basis for finding a violation of Article 13 of the Convention concerning the absence of effective remedies for her complaints under Article 10.",
+            "uk": "74.  Заявниця також стверджувала, що ті самі наведені нею міркування за статтею 10 Конвенції також були підставою для встановлення порушення статті 13 Конвенції у зв’язку з відсутністю ефективних засобів юридичного захисту щодо її скарг за статтею 10 Конвенції."
+        }
+    },
+    {
+        "id": 162,
+        "translation": {
+            "en": "75.  The Government argued that there had been no breach of Article 13 in the present case. They submitted that while the data access authorisation issued by the District Court had been too broad, the applicant had been able to have it quashed on appeal.",
+            "uk": "75.  Уряд стверджував, що у цій справі не було порушено статтю 13 Конвенції. Уряд доводив, що, хоча обсяг наданого районним судом дозволу на доступ до даних був занадто широким, заявниця змогла домогтися його скасування в апеляційному порядку."
+        }
+    },
+    {
+        "id": 163,
+        "translation": {
+            "en": "76.  The Court considers that in view of its relevant findings under Article 10 of the Convention, it is not necessary to address this complaint in the present case.",
+            "uk": "76.  Суд вважає, що у цій справі з огляду на відповідні висновки за статтею 10 Конвенції немає необхідності розглядати цю скаргу."
+        }
+    },
+    {
+        "id": 164,
+        "translation": {
+            "en": "RULE 39 OF THE RULES OF COURT",
+            "uk": "ПРАВИЛО 39 РЕГЛАМЕНТУ СУДУ"
+        }
+    },
+    {
+        "id": 165,
+        "translation": {
+            "en": "77.  Regard being had that the authorisation to access the applicant’s communications data given by the domestic courts to the PGO has expired, the Court considers that it is appropriate to discontinue the interim measure indicated to the Government under Rule 39 of the Rules of Court (see Konovalchuk v. Ukraine, no. 31928/15, § 100, 13 October 2016).",
+            "uk": "77.  З огляду на закінчення строку дії наданого національними судами ГПУ дозволу на доступ до інформації щодо вхідних і вихідних з’єднань з телефону заявниці Суд вважає за доцільне скасувати вказаний Уряду згідно з Правилом 39 Регламенту Суду тимчасовий захід (див. рішення у справі «Коновальчук проти України» (Konovalchuk v. Ukraine), заява № 31928/15, пункт 100, від 13 жовтня 2016 року)."
+        }
+    },
+    {
+        "id": 166,
+        "translation": {
+            "en": "APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+            "uk": "ЗАСТОСУВАННЯ СТАТТІ 41 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 167,
+        "translation": {
+            "en": "78.  Article 41 of the Convention provides:",
+            "uk": "78.  Стаття 41 Конвенції передбачає:"
+        }
+    },
+    {
+        "id": 168,
+        "translation": {
+            "en": "“If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”",
+            "uk": "«Якщо Суд визнає факт порушення Конвенції або протоколів до неї і якщо внутрішнє право відповідної Високої Договірної Сторони передбачає лише часткове відшкодування, Суд, у разі необхідності, надає потерпілій стороні справедливу сатисфакцію.»"
+        }
+    },
+    {
+        "id": 169,
+        "translation": {
+            "en": "Damage",
+            "uk": "Шкода"
+        }
+    },
+    {
+        "id": 170,
+        "translation": {
+            "en": "79.  The applicant claimed EUR 10,000 euros (EUR) in respect of nonpecuniary damage.",
+            "uk": "79.  Заявниця вимагала 10 000 євро в якості відшкодування моральної шкоди."
+        }
+    },
+    {
+        "id": 171,
+        "translation": {
+            "en": "80.  The Government submitted that the applicant’s claim for damage was unsubstantiated.",
+            "uk": "80.  Уряд стверджував про необґрунтованість вимоги заявниці щодо відшкодування шкоди."
+        }
+    },
+    {
+        "id": 172,
+        "translation": {
+            "en": "81.  The Court, ruling on an equitable basis, awards the applicant EUR 4,500 in respect of non-pecuniary damage, plus any tax that may be chargeable.",
+            "uk": "81.  Ухвалюючи рішення на засадах справедливості, Суд присуджує заявниці 4 500 євро в якості відшкодування моральної шкоди та додатково суму будь-якого податку, що може нараховуватися."
+        }
+    },
+    {
+        "id": 173,
+        "translation": {
+            "en": "Costs and expenses",
+            "uk": "Судові та інші витрати"
+        }
+    },
+    {
+        "id": 174,
+        "translation": {
+            "en": "82.  The applicant also claimed EUR 2,350 for the costs and expenses incurred before the Court, comprising legal fees of EUR 1,400 and EUR 950 for her representation by Mr S. Zayets and Ms L. Pankratova respectively. The applicant provided time sheets stating that her representatives spent 14 and 9.5 hours on working on the present case and each charged EUR 100 per hour.",
+            "uk": "82.  Заявниця також вимагала 2 350 євро в якості компенсації судових та інших витрат, понесених під час провадження у Суді, які охоплювали витрати на правову допомогу у розмірі 1 400 євро та 950 євро за представництво її інтересів паном С. Зайцем і пані Л. Панкратовою відповідно. Заявниця надала акти виконаних робіт, в яких зазначалося, що її представники працювали над цією справою 14 і 9,5 годин з погодинною оплатою у розмірі 100 євро кожен."
+        }
+    },
+    {
+        "id": 175,
+        "translation": {
+            "en": "83.  The Government submitted that the applicant’s claim was not supported by the appropriate documents. In particular, she had not provided copies of legal services contracts with Mr Zayets and Ms Pankratova.",
+            "uk": "83.  Уряд доводив, що зазначена вимога заявниці не підтверджувалася відповідними документами. Зокрема, вона не подала копії договорів про надання правової допомоги паном Зайцем і пані Панкратовою."
+        }
+    },
+    {
+        "id": 176,
+        "translation": {
+            "en": "84.  According to the Court’s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these were actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the above criteria and the documents in the Court’s possession, the Court considers it reasonable to award the applicant EUR 2,350 for legal fees, plus any tax that may be chargeable on that amount.",
+            "uk": "84.  Відповідно до практики Суду заявниця має право на компенсацію судових та інших витрат, лише якщо буде доведено, що такі витрати були фактичними і неминучими, а їхній розмір – обґрунтованим. У цій справі з огляду на зазначені критерії та наявні у нього документи Суд вважає за належне присудити заявниці 2 350 євро в якості компенсації витрат на правову допомогу та додатково суму будь-якого податку, що може нараховуватися на цю суму."
+        }
+    },
+    {
+        "id": 177,
+        "translation": {
+            "en": "Default interest",
+            "uk": "Пеня"
+        }
+    },
+    {
+        "id": 178,
+        "translation": {
+            "en": "85.  The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+            "uk": "85.  Суд вважає за належне призначити пеню на підставі граничної позичкової ставки Європейського центрального банку, до якої має бути додано три відсоткові пункти."
+        }
+    },
+    {
+        "id": 179,
+        "translation": {
+            "en": "ARTICLE 46 OF THE CONVENTION",
+            "uk": "СТАТТЯ 46 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 180,
+        "translation": {
+            "en": "86.  The applicant also asked the Court to indicate to the Government, under Article 46 of the Convention, to implement general measures addressing the protection of journalistic sources, for example, by amending legislation. The applicant did not make any further concrete proposals in this regard.",
+            "uk": "86.  Заявниця також просила Суд вказати Уряду на підставі статті 46 Конвенції вжити загальні заходи для вирішення питання захисту журналістських джерел інформації, наприклад, шляхом внесення змін до законодавства. Заявниця не надала жодних додаткових конкретних пропозицій у зв’язку з цим."
+        }
+    },
+    {
+        "id": 181,
+        "translation": {
+            "en": "87.  The Government argued that the Ukrainian legislation had sufficient safeguards for the protection of journalistic sources and there was no need for amending it.",
+            "uk": "87.  Уряд стверджував, що законодавство України передбачало достатні гарантії для захисту журналістських джерел інформації і не було необхідності вносити до нього зміни."
+        }
+    },
+    {
+        "id": 182,
+        "translation": {
+            "en": "89.  The Court reiterates that its judgments are essentially declaratory in nature and that, in general, it is primarily for the State concerned to choose, subject to supervision by the Committee of Ministers, the means to be used in its domestic legal order in order to discharge its obligation under Article 46 of the Convention, provided that such means are compatible with the conclusions set out in the Court’s judgment (ibid., § 295).",
+            "uk": "89.  Суд нагадує, що його рішення є по суті установлюючими за своїм характером, і за загальним правилом, саме відповідна держава повинна обирати під наглядом Комітету міністрів заходи, які мають бути вжиті у її внутрішньому правовому порядку для виконання свого зобов’язання за статтею 46 Конвенції, за умови, що такі заходи сумісні з висновками, викладеними у рішенні Суду (там само, пункт 295)."
+        }
+    },
+    {
+        "id": 183,
+        "translation": {
+            "en": "90.  Only exceptionally, with a view to helping the respondent State to fulfil its obligations under Article 46, will the Court seek to indicate the type of measure that might be taken in order to put an end to a violation it has found (ibid., § 296).",
+            "uk": "90.  Лише у виняткових випадках для допомоги державі-відповідачу у виконанні свого зобов’язання за статтею 46 Конвенції Суд може вказати вид заходу, який може бути вжито для усунення встановленого ним порушення (там само, пункт 296)."
+        }
+    },
+    {
+        "id": 184,
+        "translation": {
+            "en": "91.  Regard being had to the circumstances of the present case and the submissions by the parties, the Court does not consider it necessary to indicate any individual or general measures that the State has to adopt for the execution of the present judgment.",
+            "uk": "91.  З огляду на обставини цієї справи та доводи сторін Суд не вважає за необхідне вказувати будь-які індивідуальні чи загальні заходи, які держава має вжити для виконання цього рішення."
+        }
+    },
+    {
+        "id": 185,
+        "translation": {
+            "en": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+            "uk": "ЗА ЦИХ ПІДСТАВ СУД ОДНОГОЛОСНО"
+        }
+    },
+    {
+        "id": 186,
+        "translation": {
+            "en": "Declares the complaint under Article 10 of the Convention admissible;",
+            "uk": "Оголошує прийнятною скаргу за статтею 10 Конвенції;"
+        }
+    },
+    {
+        "id": 187,
+        "translation": {
+            "en": "Holds that there has been a violation of Article 10 of the Convention;",
+            "uk": "Постановляє, що було порушено статтю 10 Конвенції;"
+        }
+    },
+    {
+        "id": 188,
+        "translation": {
+            "en": "Holds that it is not necessary to examine the complaint under Article 13 of the Convention;",
+            "uk": "Постановляє, що немає необхідності розглядати скаргу за статтею 13 Конвенції;"
+        }
+    },
+    {
+        "id": 189,
+        "translation": {
+            "en": "Holds",
+            "uk": "Постановляє, що:"
+        }
+    },
+    {
+        "id": 190,
+        "translation": {
+            "en": "that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+            "uk": "упродовж трьох місяців з дати, коли це рішення набуде статусу остаточного відповідно до пункту 2 статті 44 Конвенції, держава-відповідач повинна сплатити заявниці такі суми, які мають бути конвертовані в національну валюту держави-відповідача за курсом на день здійснення платежу:"
+        }
+    },
+    {
+        "id": 191,
+        "translation": {
+            "en": "EUR 4,500 (four thousand five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;",
+            "uk": "4 500 (чотири тисячі п’ятсот) євро та додатково суму будь-якого податку, що може нараховуватися, в якості відшкодування моральної шкоди;"
+        }
+    },
+    {
+        "id": 192,
+        "translation": {
+            "en": "EUR 2,350 (two thousand three hundred and fifty euros), plus any tax that may be chargeable to the applicant, in respect of legal fees;",
+            "uk": "2 350 (дві тисячі триста п’ятдесят) євро та додатково суму будь-якого податку, що може нараховуватися заявниці, в якості компенсації витрат на правову допомогу;"
+        }
+    },
+    {
+        "id": 193,
+        "translation": {
+            "en": "that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+            "uk": "із закінченням зазначеного тримісячного строку до остаточного розрахунку на зазначені суми нараховуватиметься простий відсоток (simple interest) у розмірі граничної позичкової ставки Європейського центрального банку, яка діятиме в період несплати, до якої має бути додано три відсоткові пункти;"
+        }
+    },
+    {
+        "id": 194,
+        "translation": {
+            "en": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+            "uk": "Відхиляє решту вимог заявниці щодо справедливої сатисфакції."
+        }
+    },
+    {
+        "id": 195,
+        "translation": {
+            "en": "Done in English, and notified in writing on 1 April 2021, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+            "uk": "Учинено англійською мовою та повідомлено письмово 01 квітня 2021 року відповідно до пунктів 2 і 3 Правила 77 Регламенту Суду."
+        }
+    }
+]

@@ -1,0 +1,534 @@
+[
+    {
+        "id": 0,
+        "translation": {
+            "en": "INTRODUCTION",
+            "uk": "ВСТУП"
+        }
+    },
+    {
+        "id": 1,
+        "translation": {
+            "en": "1.  The applicant complained under Article 5 §§ 1 and 4 of the Convention of the unlawfulness of his pre-trial detention and the lack of appropriate review of the lawfulness of his detention.",
+            "uk": "1.  Заявник скаржився за пунктами 1 та 4 статті 5 Конвенції на незаконність тримання його під вартою під час досудового розслідування та відсутність належної перевірки законності тримання його під вартою."
+        }
+    },
+    {
+        "id": 2,
+        "translation": {
+            "en": "THE FACTS",
+            "uk": "ФАКТИ"
+        }
+    },
+    {
+        "id": 3,
+        "translation": {
+            "en": "2.  The applicant was born in 1980 and lives in Nizhyn. He was represented by Mr O.V. Zarutskyy, a lawyer practising in Kyiv.",
+            "uk": "2.  Заявник народився у 1980 році та проживає у м. Ніжин. Його представляв пан О.В. Заруцький, юрист, який практикує у м. Київ."
+        }
+    },
+    {
+        "id": 4,
+        "translation": {
+            "en": "3.  The Government were represented by their Agent, most recently Mr I. Lishchyna.",
+            "uk": "3.  Уряд України представляв його Уповноважений, на останніх етапах провадження пан І. Ліщина з Міністерства юстиції."
+        }
+    },
+    {
+        "id": 5,
+        "translation": {
+            "en": "4.  The facts of the case, as submitted by the parties, may be summarised as follows.",
+            "uk": "4.  Факти справи, надані сторонами, можуть бути узагальнені таким чином."
+        }
+    },
+    {
+        "id": 6,
+        "translation": {
+            "en": "5.  On 13 April 2010 the applicant was arrested by the police on suspicion of extortion.",
+            "uk": "5.  13 квітня 2010 року працівники міліції затримали заявника за підозрою у вимаганні."
+        }
+    },
+    {
+        "id": 7,
+        "translation": {
+            "en": "6.  On 16 April 2010 the Nizhynskyy Local Court ordered the applicant’s detention on the grounds that he was suspected of having committed a serious crime, that he might interfere with justice, or that he might abscond and continue his criminal activities.",
+            "uk": "6.  16 квітня 2010 року Ніжинський міськрайонний суд ухвалив постанову про обрання заявнику запобіжного заходу у вигляді тримання під вартою, оскільки його підозрювали у скоєнні тяжкого злочину, він міг перешкоджати встановленню істини, або ухилятися та продовжувати свою злочинну діяльність."
+        }
+    },
+    {
+        "id": 8,
+        "translation": {
+            "en": "7.  On 9 June 2010 the same court extended the period of the applicant’s pre-trial detention to four months.",
+            "uk": "7.  09 червня 2010 року той самий суд продовжив строк тримання заявника під вартою до чотирьох місяців."
+        }
+    },
+    {
+        "id": 9,
+        "translation": {
+            "en": "8.  On 11 August 2010 the Chernihiv Regional Court of Appeal extended the period of the applicant’s pre-trial detention to six months, until 13 October 2010.",
+            "uk": "8.  11 серпня 2010 року Апеляційний суд Чернігівської області продовжив строк тримання заявника під вартою до шести місяців, до 13 жовтня 2010 року."
+        }
+    },
+    {
+        "id": 10,
+        "translation": {
+            "en": "9.  On 23 September 2010 the applicant and his lawyer were given the case file for studying.",
+            "uk": "9.  23 вересня 2010 року заявнику та його захиснику надали матеріали справи для ознайомлення."
+        }
+    },
+    {
+        "id": 11,
+        "translation": {
+            "en": "10.  On 29 September 2010 the investigators referred the applicant’s case with a bill of indictment to the Desnyanskyy District Court of Chernihiv (“the District Court”).",
+            "uk": "10.  29 вересня 2010 року слідчі направили справу заявника з обвинувальним висновком до Деснянського районного суду міста Чернігова (далі – районний суд) для розгляду по суті."
+        }
+    },
+    {
+        "id": 12,
+        "translation": {
+            "en": "11.  On 4 October 2010 the applicant’s case was received by the District Court.",
+            "uk": "11.  04 жовтня 2010 року районний суд отримав справу заявника."
+        }
+    },
+    {
+        "id": 13,
+        "translation": {
+            "en": "12.  On 13 October 2010 the detention order of 11 August 2010 expired, but the applicant remained in detention in view of the fact that, following referral of his case to the District Court, he had been regarded as having been placed at the disposal of the latter.",
+            "uk": "12.  13 жовтня 2010 року закінчився строк дії постанови про тримання під вартою від 11 серпня 2010 року, проте заявник залишався під вартою, оскільки після направлення його справи до районного суду вважалося, що вирішення таких питань стосовно заявника відносилося до повноважень останнього."
+        }
+    },
+    {
+        "id": 14,
+        "translation": {
+            "en": "13.  On 19 October 2010 the District Court, sitting in a single judge formation composed of Judge S., held a committal hearing and scheduled the case for trial to commence on 4 November 2010. In its decision to commit the applicant to trial, the court noted that there were no grounds for replacing the applicant’s detention with a different preventive measure.",
+            "uk": "13.  19 жовтня 2010 року районний суд, у складі одного судді С., провів попереднє судове засідання і призначив справу до судового розгляду на 04 листопада 2010 року. У постанові про призначення справи до судового розгляду суд зазначив, що підстав для зміни запобіжного заходу у вигляді тримання заявника під вартою іншим запобіжним заходом не було."
+        }
+    },
+    {
+        "id": 15,
+        "translation": {
+            "en": "16.  On 10 August 2011 the applicant’s lawyer again requested the District Court to have the applicant released with similar arguments as in his request of 30 May 2011. On 14 September 2011 Judge S. rejected the request of 10 August 2011 for lack of grounds for granting the request.",
+            "uk": "16.  10 серпня 2011 року захисник заявника повторно звернувся до районного суду з клопотанням про звільнення заявника, вказавши аргументи, аналогічні наведеним у його клопотанні від 30 травня 2011 року. 14 вересня 2011 року суддя С. відхилив клопотання від 10 серпня 2011 року у зв’язку з відсутністю підстав для його задоволення."
+        }
+    },
+    {
+        "id": 16,
+        "translation": {
+            "en": "17.  On 1 August 2011 the Novozavodkyy District Court of Chernihiv rejected the applicant’s complaint against the decision of the Prosecutor’s Office of 30 May 2011 having found that the Prosecutor’s Office had acted in accordance with law. This decision was upheld by the Chernihiv Regional Court of Appeal and the High Court in Criminal and Civil Matters on 19 August 2011 and 9 February 2012 respectively.",
+            "uk": "17.  01 серпня 2011 року Новозаводський районний суд \nміста Чернігова залишив без задоволення скаргу заявника на постанову прокуратури від 30 травня 2011 року, встановивши, що прокуратура діяла згідно із законодавством. 19 серпня 2011 року та \n09 лютого 2012 року Апеляційний суд Чернігівської області та Вищий спеціалізований суд України з розгляду цивільних і кримінальних справ відповідно залишили без змін цю постанову."
+        }
+    },
+    {
+        "id": 17,
+        "translation": {
+            "en": "18.  No information about the outcome of the above-mentioned criminal proceedings against the applicant or about his release or continued detention after 7 August 2012 is available.",
+            "uk": "18.  Жодної інформації про результат розгляду зазначеної кримінальної справи щодо заявника, а також про його звільнення з-під варти або продовження строку тримання під вартою після 07 серпня 2012 року надано не було."
+        }
+    },
+    {
+        "id": 18,
+        "translation": {
+            "en": "RELEVANT DOMESTIC LAW",
+            "uk": "ВІДПОВІДНЕ НАЦІОНАЛЬНЕ ЗАКОНОДАВСТВО"
+        }
+    },
+    {
+        "id": 19,
+        "translation": {
+            "en": "Code of Criminal Procedure (1960)",
+            "uk": "КРИМІНАЛЬНО-ПРОЦЕСУАЛЬНИЙ КОДЕКС УКРАЇНИ \n(1960 року)"
+        }
+    },
+    {
+        "id": 20,
+        "translation": {
+            "en": "THE LAW",
+            "uk": "ПРАВО"
+        }
+    },
+    {
+        "id": 21,
+        "translation": {
+            "en": "ALLEGED VIOLATIONS OF ARTICLE 5 OF THE CONVENTION",
+            "uk": "СТВЕРДЖУВАНі ПОРУШЕННЯ СТАтТІ 5 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 22,
+        "translation": {
+            "en": "22.  The relevant parts of Article 5 of the Convention read as follows:",
+            "uk": "22.  Відповідні частини статті 5 Конвенції передбачають:"
+        }
+    },
+    {
+        "id": 23,
+        "translation": {
+            "en": "“1.  Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:",
+            "uk": "«1.  Кожен має право на свободу та особисту недоторканність. Нікого не може бути позбавлено свободи, крім таких випадків і відповідно до процедури, встановленої законом:"
+        }
+    },
+    {
+        "id": 24,
+        "translation": {
+            "en": "(c)  the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;",
+            "uk": "(c)  законний арешт або затримання особи, здійснене з метою допровадження її до компетентного судового органу за наявності обґрунтованої підозри у вчиненні нею правопорушення або якщо обґрунтовано вважається необхідним запобігти вчиненню нею правопорушення чи її втечі після його вчинення;"
+        }
+    },
+    {
+        "id": 25,
+        "translation": {
+            "en": "4.  Everyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful...”",
+            "uk": "4.  Кожен, кого позбавлено свободи внаслідок арешту або тримання під вартою, має право ініціювати провадження, в ході якого суд без зволікання встановлює законність затримання і приймає рішення про звільнення, якщо затримання є незаконним...»"
+        }
+    },
+    {
+        "id": 26,
+        "translation": {
+            "en": "Admissibility",
+            "uk": "Прийнятність"
+        }
+    },
+    {
+        "id": 27,
+        "translation": {
+            "en": "Compliance with the six-month time-limit under Article 35 § 1 of the Convention",
+            "uk": "Дотримання шестимісячного строку відповідно до пункту 1 статті 35 Конвенції"
+        }
+    },
+    {
+        "id": 28,
+        "translation": {
+            "en": "23.  The parties did not submit any observations on the admissibility of the case. Therefore, in the absence of an objection by the respondent Government, the Court is not required to deal with the question whether the applicant has exhausted all domestic remedies as required by Article 35 § 1 of the Convention.",
+            "uk": "23.  Сторони не подали жодних зауважень щодо прийнятності справи. Отже, за відсутності заперечення Уряду держави-відповідача Суд не зобов’язаний розглядати питання, чи вичерпав заявник усі національні засоби юридичного захисту, як вимагає пункт 1 статті 35 Конвенції."
+        }
+    },
+    {
+        "id": 29,
+        "translation": {
+            "en": "25.  The Court notes that the six-month rule is a mandatory one and that, consequently, it has jurisdiction to examine compliance with it of its own motion (Assanidze v. Georgia [GC], no. 71503/01, § 160, ECHR 2004II). The Court will examine the application of this rule in the present case.",
+            "uk": "25.  Суд зазначає, що правило шестимісячного строку є обов’язковим, і тому він має юрисдикцію перевіряти його дотримання за власною ініціативою (див. рішення у справі «Ассанідзе проти Грузії» [ВП] (Assanidze v. Georgia) [GC], заява № 71503/01, пункт 160, ЄСПЛ 2004-II). Суд розгляне питання про застосування зазначеного правила у цій справі."
+        }
+    },
+    {
+        "id": 30,
+        "translation": {
+            "en": "27.  Seeing that the applicant introduced his application on 16 July 2011 and that some of the domestic decisions complained of date from more than six months earlier, the question arises about the starting point of the six months in the circumstances of the present case.",
+            "uk": "27.  З огляду на те, що заявник подав свою заяву 16 липня 2011 року, а деякі оскаржувані постанови були ухвалені на національному рівні більш ніж за шість місяців до цього, виникає питання про початковий момент перебігу шести місяців за обставин цієї справи."
+        }
+    },
+    {
+        "id": 31,
+        "translation": {
+            "en": "Compliance with the six-month period in relation to the complaints under Article 5 § 1",
+            "uk": "Дотримання правила шестимісячного строку у зв’язку зі скаргами за пунктом 1 статті 5 Конвенції"
+        }
+    },
+    {
+        "id": 32,
+        "translation": {
+            "en": "28.  The applicant complained that after 13 October 2010 his detention had become unlawful. The mentioned date was the expiry date of the last detention order given by the domestic courts during the investigation stage in the criminal proceedings against the applicant (see paragraph 12 above).",
+            "uk": "28.  Заявник скаржився, що після 13 жовтня 2010 року тримання його під вартою стало незаконним. Вказана дата була датою закінчення строку дії останньої постанови про тримання під вартою, ухваленої національними судами на стадії досудового розслідування кримінальної справи щодо заявника (див. пункт 12)."
+        }
+    },
+    {
+        "id": 33,
+        "translation": {
+            "en": "29.  The Court notes that even though the applicant complained about the unlawfulness of his detention, only one of his arguments was actually about a violation of the domestic law, namely paragraph 7 of Article 156 of the Code of Criminal Procedure. The substance of his complaints under Article 5 § 1 of the Convention was the lack of a clear legal basis governing certain periods of his pre-trial detention that contravened the requirements of Article 5 of the Convention.",
+            "uk": "29.  Суд зазначає, що хоча заявник скаржився на незаконність тримання його під вартою, лише один із його аргументів дійсно стосувався порушення національного законодавства, а саме: частини сьомої статті 156 Кримінально-процесуального кодексу України. Суть його скарг за пунктом 1 статті 5 Конвенції полягала у відсутності чітких правових підстав стосовно певних періодів тримання його під вартою під час досудового розслідування, що суперечило вимогам статті 5 Конвенції."
+        }
+    },
+    {
+        "id": 34,
+        "translation": {
+            "en": "32.  Despite the above distinction, both issues and respective periods were part of one and the same structural problem - lack of sufficient guarantees against arbitrariness of detention at the trial stage. As the Court explained in the above Kharchenko judgment (ibid., § 98):",
+            "uk": "32.  Незважаючи на наведену різницю, обидва питання та відповідні періоди були частиною тієї самої структурної проблеми – відсутності достатніх гарантій проти свавільності тримання під вартою на стадії судового розгляду. Як Суд пояснив у згаданому рішенні у справі «Харченко проти України» (Kharchenko v. Ukraine) (там само, пункт 98):"
+        }
+    },
+    {
+        "id": 35,
+        "translation": {
+            "en": "33.  In the light of the above considerations and having regard to the substance of the applicant’s complaints, the Court considers that they must be examined as covering an uninterrupted period of his pre-trial detention that can be described as a continuous situation which was still ongoing when he lodged his application before this Court.",
+            "uk": "33.  З огляду на наведені міркування та суть скарг заявника Суд вважає, що вони повинні розглядатися як такі, що охоплюють безперервний період тримання заявника під вартою під час досудового розслідування, яке може бути охарактеризоване як триваюча ситуація, яка існувала на момент подання ним заяви до Суду."
+        }
+    },
+    {
+        "id": 36,
+        "translation": {
+            "en": "34.  It follows that the six-month period regarding the applicant’s complaints about lack of any judicial order governing his detention between 13 and 19 October 2010 did not start to run on the latter date and that, therefore, being part of his general complaint about the whole period of his pre-trial detention, cannot be rejected as being submitted too late.",
+            "uk": "34.  З цього випливає, що перебіг шестимісячного строку у зв’язку зі скаргами заявника на відсутність будь-якого судового рішення про тримання його під вартою з 13 до 19 жовтня 2010 року не розпочався в останню дату, і, таким чином, ця скарга є частиною його загальної скарги на строк тримання його під вартою під час досудового розслідування, і не може бути відхилена у зв’язку з її поданням з пропущенням строку."
+        }
+    },
+    {
+        "id": 37,
+        "translation": {
+            "en": "Compliance with the six-month period in relation to the complaints under Article 5 § 4",
+            "uk": "Дотримання шестимісячного строку у зв’язку зі скаргами за пунктом 4 статті 5 Конвенції"
+        }
+    },
+    {
+        "id": 38,
+        "translation": {
+            "en": "35.  The Court observes that the applicant’s complaints under Article 5 § 4 of the Convention concern the lack of possibility to initiate a review of lawfulness of his detention between the end of the investigation (29 September 2010) and the committal hearing (19 October 2010) and about the alleged lack of impartiality of the judge who decided on the applicant’s detention on 19 October 2010, 30 May and 14 September 2011 and the fact that his decisions of the above dates lacked adequate reasoning.",
+            "uk": "35.  Суд зауважує, що скарги заявника за пунктом 4 статті 5 Конвенції стосуються відсутності можливості ініціювати перевірку законності тримання його під вартою у період від закінчення розслідування (29 вересня 2010 року) до проведення попереднього судового засідання (19 жовтня 2010 року), стверджуваної упередженості судді, який 19 жовтня 2010 року, 30 травня та 14 вересня 2011 року ухвалював постанови про тримання заявника під вартою, а також відсутності у постановах за ці дати належного обґрунтування."
+        }
+    },
+    {
+        "id": 39,
+        "translation": {
+            "en": "36.  The question arises, therefore, whether the Court is barred from dealing with the period dating before 16 January 2011, i.e. more than six months prior to the introduction of the application.",
+            "uk": "36.  Таким чином, виникає питання, чи може Суд розглядати період, який передує 16 січня 2011 року, тобто більш ніж за шість місяців до подання заяви."
+        }
+    },
+    {
+        "id": 40,
+        "translation": {
+            "en": "38.  On the other hand, in the case of Molodorych v. Ukraine (no. 2161/02, §§ 104-106, 28 October 2010), the Court made the following findings concerning the substance of complaints under Article 5 § 4 with respect to the same legal framework as in the case at hand:",
+            "uk": "38.  З іншого боку, в рішенні у справі «Молодорич проти України» (Molodorych v. Ukraine), заява № 2161/02, пункти 104 – 106, від 28 жовтня 2010 року), Суд дійшов таких висновків щодо суті скарг за пунктом 4 статті 5 Конвенції у зв’язку з аналогічною цій справі нормативно-правовою базою:"
+        }
+    },
+    {
+        "id": 41,
+        "translation": {
+            "en": "“104.  The Court considers that the issue under Article 5 § 4 of the Convention raised in the present case does not merely concern an incidental failure of the domestic courts to address properly the lawfulness of the applicant’s continued detention. It stems from a more general problem of a lack of clear and foreseeable domestic procedure of judicial review of the lawfulness of detention.",
+            "uk": "«104.  Суд вважає, що порушене у цій справі питання за пунктом 4 статті 5 Конвенції стосується не просто епізодичної відсутності належного розгляду національними судами питання законності продовження строку тримання заявника під вартою. Це випливає із більш загальної проблеми відсутності чіткої та передбачуваної національної процедури судового перегляду законності тримання під вартою."
+        }
+    },
+    {
+        "id": 42,
+        "translation": {
+            "en": "106.  In this respect, the Court notes that it has found on a number of occasions in other cases against Ukraine which concerned the same legal framework, though in the context of Article 5 § 1 complaints, that Ukrainian detention procedures did not afford applicants adequate protection from arbitrariness (see, for instance, Yeloyev, cited above, § 54).",
+            "uk": "106.  У зв’язку з цим Суд зазначає, що неодноразово встановлював в інших справах проти України, які стосувалися тієї самої нормативно-правової бази, хоча і в контексті скарг за пунктом 1 статті 5 Конвенції, що законодавство України стосовно тримання під вартою не забезпечувало заявникам належний захист від свавілля (див., наприклад, згадане рішення у справі «Єлоєв проти України» (Yeloyev v. Ukraine), пункт 54)."
+        }
+    },
+    {
+        "id": 43,
+        "translation": {
+            "en": "108.  ... For the reasons stated in paragraphs 105 and 106 above, the Court further finds that on the whole the domestic law does not provide for the procedure of review of the lawfulness of continued detention after the completion of pre-trial investigations satisfying the requirements of Article 5 § 4 of the Convention.”",
+            "uk": "108.  ... З наведених у пунктах 105 і 106 підстав Суд також доходить висновку, що загалом національне законодавство не передбачає процедуру перевірки законності продовження строку тримання під вартою після закінчення досудового розслідування, як вимагає пункт 4 статті 5 Конвенції.»"
+        }
+    },
+    {
+        "id": 44,
+        "translation": {
+            "en": "Conclusion on admissibility",
+            "uk": "Висновок щодо прийнятності"
+        }
+    },
+    {
+        "id": 45,
+        "translation": {
+            "en": "43.  Having found that the applicant has complied with the six-month time limit, the Court also notes that the complaints under Article 5 §§ 1 and 4 are neither manifestly ill-founded nor inadmissible on any other grounds listed in Article 35 of the Convention. They must therefore be declared admissible.",
+            "uk": "43.  Встановивши дотримання заявником шестимісячного строку, Суд також зазначає, що скарги за пунктами 1 та 4 статті 5 Конвенції не є ні явно необґрунтованими, ні неприйнятними з будь-яких інших підстав, перелічених у статті 35 Конвенції. Отже, вони мають бути визнані прийнятними."
+        }
+    },
+    {
+        "id": 46,
+        "translation": {
+            "en": "Merits",
+            "uk": "Суть"
+        }
+    },
+    {
+        "id": 47,
+        "translation": {
+            "en": "1.  Article 5 § 1",
+            "uk": "1.  Пункт 1 статті 5 Конвенції"
+        }
+    },
+    {
+        "id": 48,
+        "translation": {
+            "en": "44.  The applicant maintained that he had been detained even after the last detention order had expired on 13 October 2010. He also complained that at the committal hearing of 19 October 2010 the trial court had not properly decided on his further detention, which made it unlawful too.",
+            "uk": "44.  Заявник стверджував, що він тримався під вартою навіть після закінчення строку дії останньої постанови про тримання його під вартою, 13 жовтня 2010 року. Він також скаржився, що під час попереднього судового засідання 19 жовтня 2010 року суд першої інстанції належним чином не вирішив питання продовження строку тримання його під вартою, що також зробило тримання під вартою незаконним."
+        }
+    },
+    {
+        "id": 49,
+        "translation": {
+            "en": "48.  There has accordingly been a violation of Article 5 § 1 of the Convention in relation to the period following 13 October 2010.",
+            "uk": "48.  Отже, було порушено пункт 1 статті 5 Конвенції у зв’язку з періодом, який розпочався після 13 жовтня 2010 року."
+        }
+    },
+    {
+        "id": 50,
+        "translation": {
+            "en": "2.  Article 5 § 4",
+            "uk": "2.  Пункт 4 статті 5 Конвенції"
+        }
+    },
+    {
+        "id": 51,
+        "translation": {
+            "en": "49.  The applicant complained that he could not make any requests for release prior to the committal hearing and that, thereafter, the trial court had failed to conduct a proper review of the lawfulness of his detention. He also challenged the impartiality of the judge who examined his requests for release.",
+            "uk": "49.  Заявник скаржився, що не зміг подати жодних клопотань про звільнення з-під варти до початку попереднього судового засідання, а також що після цього суд першої інстанції не здійснив належної перевірки законності тримання його під вартою. Він також поставив під сумнів неупередженість судді, який розглядав його клопотання про звільнення."
+        }
+    },
+    {
+        "id": 52,
+        "translation": {
+            "en": "50.  The Government submitted that the domestic legislation in force at the material time had provided the applicant with the opportunity to have the lawfulness of his detention reviewed. The Government pointed out that the applicant’s requests for release had been examined and dismissed on 30 May and 14 September 2011.",
+            "uk": "50.  Уряд стверджував, що чинне на момент подій національне законодавство надавало заявнику можливість ініціювати перевірку законності тримання його під вартою. Уряд вказав, що 30 травня та 14 вересня 2011 року клопотання заявника про звільнення були розглянуті та залишені без задоволення."
+        }
+    },
+    {
+        "id": 53,
+        "translation": {
+            "en": "54.  The Court considers accordingly that there has been a violation of Article 5 § 4 of the Convention.",
+            "uk": "54.  Отже, Суд вважає, що було порушено пункт 4 статті 5 Конвенції."
+        }
+    },
+    {
+        "id": 54,
+        "translation": {
+            "en": "APPLICATION OF ARTICLE 41 OF THE CONVENTION",
+            "uk": "ЗАСТОСУВАННЯ СТАТТІ 41 КОНВЕНЦІЇ"
+        }
+    },
+    {
+        "id": 55,
+        "translation": {
+            "en": "55.  Article 41 of the Convention provides:",
+            "uk": "55.  Стаття 41 Конвенції передбачає:"
+        }
+    },
+    {
+        "id": 56,
+        "translation": {
+            "en": "“If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”",
+            "uk": "«Якщо Суд визнає факт порушення Конвенції або протоколів до неї і якщо внутрішнє право відповідної Високої Договірної Сторони передбачає лише часткове відшкодування, Суд, у разі необхідності, надає потерпілій стороні справедливу сатисфакцію.»"
+        }
+    },
+    {
+        "id": 57,
+        "translation": {
+            "en": "Damage",
+            "uk": "Шкода"
+        }
+    },
+    {
+        "id": 58,
+        "translation": {
+            "en": "56.  The applicant claimed 10,000 euros (EUR) in respect of nonpecuniary damage.",
+            "uk": "56.  Заявник вимагав 10 000 євро в якості відшкодування моральної шкоди."
+        }
+    },
+    {
+        "id": 59,
+        "translation": {
+            "en": "57.  The Government considered the sum claimed to be excessive.",
+            "uk": "57.  Уряд вважав суму, яка вимагалася, надмірною."
+        }
+    },
+    {
+        "id": 60,
+        "translation": {
+            "en": "58.  Regard being had to the documents in its possession and to its caselaw, the Court considers it reasonable to award the applicant EUR 5,900.",
+            "uk": "58.  З огляду на наявні документи та його практику Суд вважає за належне присудити заявнику 5 900 євро."
+        }
+    },
+    {
+        "id": 61,
+        "translation": {
+            "en": "Costs and expenses",
+            "uk": "Судові та інші витрати"
+        }
+    },
+    {
+        "id": 62,
+        "translation": {
+            "en": "59.  In respect of the costs and expenses incurred at the domestic level and before the Court, the applicant claimed EUR 1,000 or any other sum that the Court might find reasonable.",
+            "uk": "59.  Стосовно судових та інших витрат, понесених під час провадження на національному рівні та у Суді, заявник вимагав 1 000 євро або будь-яку іншу суму, яку Суд вважатиме обґрунтованою."
+        }
+    },
+    {
+        "id": 63,
+        "translation": {
+            "en": "60.  The Government submitted that the applicant’s claim was unsubstantiated and excessive.",
+            "uk": "60.  Уряд стверджував про необґрунтованість та надмірність вимоги заявника."
+        }
+    },
+    {
+        "id": 64,
+        "translation": {
+            "en": "61.  According to the Court’s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum.",
+            "uk": "61.  Відповідно до практики Суду заявник має право на компенсацію судових та інших витрат, лише якщо буде доведено, що такі витрати були фактичними і неминучими, а їхній розмір – обґрунтованим."
+        }
+    },
+    {
+        "id": 65,
+        "translation": {
+            "en": "Default interest",
+            "uk": "Пеня"
+        }
+    },
+    {
+        "id": 66,
+        "translation": {
+            "en": "63.  The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.",
+            "uk": "63.  Суд вважає за належне призначити пеню на підставі граничної позичкової ставки Європейського центрального банку, до якої має бути додано три відсоткові пункти."
+        }
+    },
+    {
+        "id": 67,
+        "translation": {
+            "en": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+            "uk": "ЗА ЦИХ ПІДСТАВ СУД ОДНОГОЛОСНО"
+        }
+    },
+    {
+        "id": 68,
+        "translation": {
+            "en": "Declares the application admissible;",
+            "uk": "Оголошує заяву прийнятною;"
+        }
+    },
+    {
+        "id": 69,
+        "translation": {
+            "en": "Holds that there has been a violation of Article 5 § 1 of the Convention;",
+            "uk": "Постановляє, що було порушено пункт 1 статті 5 Конвенції;"
+        }
+    },
+    {
+        "id": 70,
+        "translation": {
+            "en": "Holds that there has been a violation of Article 5 § 4 of the Convention;",
+            "uk": "Постановляє, що було порушено пункт 4 статті 5 Конвенції;"
+        }
+    },
+    {
+        "id": 71,
+        "translation": {
+            "en": "Holds",
+            "uk": "Постановляє, що:"
+        }
+    },
+    {
+        "id": 72,
+        "translation": {
+            "en": "that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+            "uk": "упродовж трьох місяців з дати, коли це рішення набуде статусу остаточного відповідно до пункту 2 статті 44 Конвенції, держава-відповідач повинна сплатити заявнику такі суми, які мають бути конвертовані в національну валюту держави-відповідача за курсом на день здійснення платежу:"
+        }
+    },
+    {
+        "id": 73,
+        "translation": {
+            "en": "EUR 5,900 (five thousand nine hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;",
+            "uk": "5 900 (п’ять тисяч дев’ятсот) євро та додатково суму будь-якого податку, що може нараховуватися, в якості відшкодування моральної шкоди;"
+        }
+    },
+    {
+        "id": 74,
+        "translation": {
+            "en": "EUR 250 (two hundred and fifty euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+            "uk": "250 (двісті п’ятдесят) євро та додатково суму будь-якого податку, що може нараховуватися заявнику, в якості компенсації судових та інших витрат;"
+        }
+    },
+    {
+        "id": 75,
+        "translation": {
+            "en": "that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+            "uk": "із закінченням зазначеного тримісячного строку до остаточного розрахунку на зазначені суми нараховуватиметься простий відсоток (simple interest) у розмірі граничної позичкової ставки Європейського центрального банку, яка діятиме в період несплати, до якої має бути додано три відсоткові пункти;"
+        }
+    }
+]
