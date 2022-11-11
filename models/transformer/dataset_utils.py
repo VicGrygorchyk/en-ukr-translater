@@ -1,7 +1,12 @@
-from datasets import load_dataset
+from typing import TYPE_CHECKING
+
+from datasets import load_dataset, DatasetDict
+
+if TYPE_CHECKING:
+    from transformers import PreTrainedTokenizerBase
 
 
-def get_dataset(path):
+def get_dataset(path: str) -> 'DatasetDict':
     """
     Dataset of kind
     {\'id\': \'92924\', \'translation\': {\'en\': "", \'uk\': ""}}
@@ -13,7 +18,11 @@ def get_dataset(path):
     return split_datasets
 
 
-def get_tokenized_dataset(tokenizer, datasets, max_length):
+def get_tokenized_dataset(
+        tokenizer: 'PreTrainedTokenizerBase',
+        datasets: 'DatasetDict',
+        max_length: int) -> 'DatasetDict':
+
     def preprocess_function(examples=None):
         inputs = [ex['en'] for ex in examples['translation']]
         targets = [ex['uk'] for ex in examples['translation']]
