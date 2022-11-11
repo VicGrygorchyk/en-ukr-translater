@@ -1,4 +1,16 @@
+from typing import TypedDict
+
 from transformers import Seq2SeqTrainer, Seq2SeqTrainingArguments, DataCollatorForSeq2Seq
+from mlflow import log_metric
+
+
+class EvalMetrics(TypedDict):
+    eval_loss: float
+    eval_bleu: float
+    eval_runtime: float
+    eval_samples_per_second: float
+    eval_steps_per_second: float
+    epoch: float
 
 
 class TrainerManager:
@@ -39,6 +51,12 @@ class TrainerManager:
                                        compute_metrics=compute_metrics)
 
     def train(self, max_length):
-        print(f'''BLEU score before training {self.trainer.evaluate(max_length=max_length)}''')
+        metrics: EvalMetrics = self.trainer.evaluate(max_length=max_length)
+        log_metric('BLEU score before training', metrics['eval_bleu'])
+        print(f'''score before training {metrics}''')
         self.trainer.train()
-        print(f'''BLUE score after training {self.trainer.evaluate(max_length=max_length)}''')
+        metrics: EvalMetrics = self.trainer.evaluate(max_length=max_length)
+        print(f'''BLEU score after training {metrics}''')
+        log_metric('score after training', metrics['eval_bleu'])
+
+
