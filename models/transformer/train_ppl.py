@@ -1,12 +1,11 @@
-import os
-
-from mlflow import log_artifacts
-
 from dataset_utils import get_dataset, get_tokenized_dataset
 from tokenizer import get_tokenizer
 from get_model import get_model
-from metric_eval import compute_bleu_metrics
 from trainer import TrainerManager
+import sys
+
+sys.path.append('/home/mudro/Documents/Projects/en-ukr-translater')
+print(sys.path)
 from globals import MAX_LEN, MODEL_ABS_PATH, CURATED_DATASET_PATH
 
 
@@ -24,14 +23,7 @@ if __name__ == "__main__":
     trainer = TrainerManager(
         save_path,
         model,
-        tokenizer
+        tokenizer,
+        tokenized_dataset
     )
-    trainer.set_trainer(tokenized_dataset, lambda preds: compute_bleu_metrics(tokenizer, preds))
     trainer.train(MAX_LEN)
-
-    # Log an artifact (output file)
-    # output_path = f'{os.getcwd()}/outputs'
-    # if not os.path.exists(output_path):
-    #     os.makedirs(output_path)
-    #
-    # log_artifacts(output_path)
