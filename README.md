@@ -19,7 +19,7 @@ MLFlow is used to track experiments with training and model performance progress
 Raw files with legal text loaded from the various sources in Web, 
 e.g. HUDOC database, zakon.rada.gov.ua.
 Files are preprocessed and split into JSONs in format 
-{'id': int, 'translation': {'en': string, 'uk': string}}.
+`{'id': int, 'translation': {'en': string, 'uk': string}}`.
 HuggingFace pipeline wrapper is used to convert JSONs into Arrow format 
 for later use to train a model.
 
