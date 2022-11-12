@@ -6,21 +6,30 @@ main {
 
 .container {
     display: flex;
+    padding: 5px;
     flex-direction: column;
     text-align: left;
     gap: 10px 0px;
     width: fit-content;
 }
 
+.row-trans {
+  
+}
+
+.column-trans {
+  height: 100%;
+  width: 100%;
+}
+
 .translate-btn {
-  width: 90%;
   height: auto;
   align-items: center;
-  background-color: #fff;
+  background-color: #177d4f !important;
   border-radius: 12px;
-  box-shadow: transparent 0 0 0 3px,rgba(18, 18, 18, .1) 0 3px 10px;
+  box-shadow: transparent 0 0 0 3px,rgba(18, 18, 18, .1) 0 5px 10px;
   box-sizing: border-box;
-  color: #121212;
+  color: #fff !important;
   cursor: pointer;
   display: inline-flex;
   flex: 1 1 auto;

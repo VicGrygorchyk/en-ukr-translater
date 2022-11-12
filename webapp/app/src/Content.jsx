@@ -16,7 +16,8 @@ export class Content extends React.Component {
       isLoaded: false,
       engText: 'Вкладіть сюди англійський текст',
       textAreaValue: '',
-      translated: "Тут з'явиться текст перекладений українською мовою"
+      translated: "Тут з'явиться текст перекладений українською мовою",
+      spinnerClass: 'hidden'
     };
     this.handleClick = this.handleClick.bind(this);
     this.handleChangeEng = this.handleChangeEng.bind(this);
@@ -32,7 +33,14 @@ export class Content extends React.Component {
   }
 
   async handleClick() {
-    console.log(this.state)
+    this.setState(state => ({
+      error: state.error,
+      isLoaded: state.isLoaded,
+      translated: state.translated,
+      textAreaValue: state.value,
+      spinnerClass: "spinner-border spinner-border-sm"
+    }));
+    
     try {
       const response = await fetch('/translate', {
         method: 'POST',
@@ -52,14 +60,16 @@ export class Content extends React.Component {
         error: null,
         isLoaded: true,
         translated: translated,
-        textAreaValue: state.textAreaValue
+        textAreaValue: state.textAreaValue,
+        spinnerClass: "hidden"
       }));
     } catch (err) {
       this.setState(state => ({
         error: err,
         isLoaded: true,
         translated: '',
-        textAreaValue: state.textAreaValue
+        textAreaValue: state.textAreaValue,
+        spinnerClass: "hidden"
       }));
     }
   };
@@ -69,20 +79,30 @@ export class Content extends React.Component {
       <main className='main'>
       <Container className='container container-fluid'>
         <Instruction />
-        <Row>
-          <Col className='col-5'>
-            <Box text={this.state.engText} onChangeHandler={this.handleChangeEng}/>
-          </Col>
-          <Col className='col-2'>
-            <button onClick={this.handleClick} className='btn translate-btn'>Перекласти</button>
-            <button className='btn translate-btn'>&#60;- Змінити мову -&#62;</button>
-          </Col>
-          <Col className='col-5'>
-            <div className='box'>
-              { this.state.translated }
-            </div>
-          </Col>
-        </Row>
+          <Row  className='row-trans'>
+            <Col className='col-5 '>
+              <div className='column-trans'>
+                <Box className='box' text={this.state.engText} onChangeHandler={this.handleChangeEng}>   
+                </Box>
+              </div>
+            </Col>
+            <Col className='col-2'>
+              <div className='column-trans'>
+                <button onClick={this.handleClick} className='btn translate-btn'>
+                  Перекласти
+                  <span className={this.state.spinnerClass} role="status" aria-hidden="true"></span>
+                </button>
+                <button className='btn translate-btn'>&#60;- Змінити мову -&#62;</button>
+              </div>
+              </Col>
+            <Col className='col-5'>
+              <div className='column-trans'>
+                <div className='box'>
+                  { this.state.translated }
+                </div>
+              </div>
+            </Col>
+          </Row>
       </Container>
     </main>
     );
