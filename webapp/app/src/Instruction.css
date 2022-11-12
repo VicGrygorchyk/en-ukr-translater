@@ -1,0 +1,11 @@
+
+.instruction-card {
+    border: 0;
+    border-radius: 12px;
+    box-shadow: transparent 0 0 0 3px,rgba(18, 18, 18, .1) 0 3px 10px;
+    box-sizing: border-box;
+}
+
+.card-title {
+    border: 0;
+}

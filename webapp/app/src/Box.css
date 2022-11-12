@@ -1,5 +1,5 @@
 .box {
-  min-height: 300px;
-  min-width: 500px;
+  height: auto;
+  width: auto;
   border: 1px solid #c2c2c2;
 }

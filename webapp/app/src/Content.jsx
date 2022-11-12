@@ -1,4 +1,9 @@
 import React from 'react';
+
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+
 import { Instruction } from './Instruction';
 import { Box } from './Box';
 import './Content.css';
@@ -62,20 +67,23 @@ export class Content extends React.Component {
   render() {
     return (
       <main className='main'>
-      <div className='container'>
-        <div className="row-1">
-          <Instruction />
-        </div>
-        <div className='row-2'>
-          <Box text={this.state.engText} onChangeHandler={this.handleChangeEng}/>
-          <div className="box">
-            { this.state.translated }
-          </div>
-        </div>
-        <div className='row-3'>
-          <button onClick={this.handleClick} className='translate-btn'>Перекласти</button>
-        </div>
-      </div>
+      <Container className='container container-fluid'>
+        <Instruction />
+        <Row>
+          <Col className='col-5'>
+            <Box text={this.state.engText} onChangeHandler={this.handleChangeEng}/>
+          </Col>
+          <Col className='col-2'>
+            <button onClick={this.handleClick} className='btn translate-btn'>Перекласти</button>
+            <button className='btn translate-btn'>&#60;- Змінити мову -&#62;</button>
+          </Col>
+          <Col className='col-5'>
+            <div className='box'>
+              { this.state.translated }
+            </div>
+          </Col>
+        </Row>
+      </Container>
     </main>
     );
   }
