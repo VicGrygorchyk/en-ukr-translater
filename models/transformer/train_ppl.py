@@ -2,16 +2,15 @@ from dataset_utils import get_dataset, get_tokenized_dataset
 from tokenizer import get_tokenizer
 from get_model import get_model
 from trainer import TrainerManager
-import sys
 
-sys.path.append('/home/mudro/Documents/Projects/en-ukr-translater')
-print(sys.path)
-from globals import MAX_LEN, MODEL_ABS_PATH, CURATED_DATASET_PATH
+from dataset import datasets_globals
+from models import models_globals
 
 
-DATASET_PATH = CURATED_DATASET_PATH
-model_checkpoint = MODEL_ABS_PATH
-save_path = '/home/mudro/Documents/Projects/en-ukr-translater/models/saved'  # "Helsinki-NLP/opus-mt-en-uk"
+DATASET_PATH = datasets_globals.CURATED_DATASET_PATH
+MAX_LEN = datasets_globals.MAX_LEN
+model_checkpoint = models_globals.MODEL_ABS_PATH  # "Helsinki-NLP/opus-mt-en-uk"
+save_path = '/home/mudro/Documents/Projects/en-ukr-translater/models/saved'
 
 
 if __name__ == "__main__":
