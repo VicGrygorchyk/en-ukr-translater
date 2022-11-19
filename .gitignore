@@ -161,5 +161,4 @@ cython_debug/
 models/saved/*
 **/mlruns/*
 /dataset/raw/*
-/dataset/currated/*
-
+/dataset/curated/*
