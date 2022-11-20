@@ -11,7 +11,7 @@ from metric_eval import get_bleu_metrics
 
 LEARNING_RATE = 2e-5
 WEIGHT_DECAY = 0.01
-num_train_epochs = 10
+num_train_epochs = 1
 metric = get_bleu_metrics()
 
 
@@ -76,10 +76,10 @@ class TrainerManager:
         for epoch in range(num_train_epochs):
             # Training
             self.model.train()
+            last_loss = None
             for batch in self.train_dataloader:
                 outputs = self.model(**batch)
                 loss = outputs.loss
-                log_metric('train loss', loss, epoch)
                 self.accelerator.backward(loss)
 
                 self.optimizer.step()
@@ -88,6 +88,10 @@ class TrainerManager:
                 log_metric('current train lr', cur_lr, epoch)
                 self.optimizer.zero_grad()
                 progress_bar.update(1)
+                last_loss = loss
+
+            log_metric('train loss', last_loss, epoch)
+            print(f"epoch {epoch}, loss: {last_loss:.2f}")
 
             # Evaluation
             self.model.eval()
@@ -119,7 +123,9 @@ class TrainerManager:
 
             results = metric.compute()
             log_metric('Bleu score for epoch', results['score'])
-            print(f"epoch {epoch}, BLEU score: {results['score']:.2f}")
+            precisions = np.average(results.get('precisions', [0]))
+            log_metric('Precision score for epoch', precisions)
+            print(f"epoch {epoch}, BLEU score: {results['score']:.2f}. Precision {precisions}")
 
             # Save the model and tokenizer
             self.accelerator.wait_for_everyone()
