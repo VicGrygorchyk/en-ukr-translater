@@ -4,8 +4,6 @@ from typing import List, Iterator
 from pathlib import Path
 from dataclasses import dataclass, field
 
-from translate.storage.tmx import tmxfile
-
 
 dots_pattern = re.compile(r'^(«|"|“)?\.\.(\.)?(\.)?(»|"|”)?$')
 match_parag = re.compile(r'^[0-9]+\.')
@@ -19,42 +17,34 @@ class ParsedResult:
     result_list: List = field(default_factory=list)
 
 
-def get_tmx(file_path) -> 'tmxfile':
-    with open(file_path, 'rb') as file:
-        tmx_file = tmxfile(file, 'en', 'uk')
-    return tmx_file
+def get_lines_from_txt(file_path):
+    with open(file_path, 'r+', encoding='utf-8') as file:
+        full_text = file.readlines()
+    return full_text
 
 
-def tmx_to_json(files: List[str], path_to_save: str, max_len: int):
-    for file_ in files:
-        for res in parse(file_, max_len):
-            save(res.result_list, path_to_save, res.file_name)
+def single_txt_to_json(file_path: str, path_to_save: str):
+    for res in parse(file_path):
+        save(res.result_list, path_to_save, res.file_name)
 
 
-def parse(file_name: str, max_len: int) -> Iterator[ParsedResult]:
-    print(f'file {file_name}')
-    file_part = file_name.split('/')[-1].replace('.tmx', '')
-    tmx_file = get_tmx(file_name)
+def parse(file_path: str) -> Iterator[ParsedResult]:
+    print(f'file {file_path}')
+    file_part = file_path.split('/')[-1].replace('.txt', '')
+    _lines = get_lines_from_txt(file_path)
     # pair en and ukr lines
     en_to_ukr_list = []
     max_length = 0
     file_parts = 1
 
-    for unit in tmx_file.unit_iter():
-        en_line = unit.source
-        ukr_line = unit.target
-        en_res = match_parag.match(en_line)
-        ukr_res = match_parag.match(ukr_line)
+    for _line in _lines:
+        en_line, ukr_line = _line.split('	')
+        en_line = en_line.replace('\n', '')
+        ukr_line = ukr_line.replace('\n', '')
+
         eng_len = len(en_line)
         uk_len = len(ukr_line)
         max_iter_len = max(eng_len, uk_len)
-        # if paragraph starts with num, expect ukr_line to start as well
-        if en_res:
-            print('===================')
-            if not ukr_res:
-                print(f"File {file_name}. HELP!!! ------Eng line is = {en_line} \n Ukr line is {ukr_line}\n")
-            elif en_res.group(0) != ukr_res.group(0):
-                print(f" HELP!!! ------Eng line is = {en_line} \n Ukr line is {ukr_line}\n")
 
         en_to_ukr_list.append(
             {"en": en_line, "uk": ukr_line}
