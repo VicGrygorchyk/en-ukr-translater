@@ -11,7 +11,7 @@ from metric_eval import get_bleu_metrics
 
 LEARNING_RATE = 2e-5
 WEIGHT_DECAY = 0.01
-num_train_epochs = 1
+num_train_epochs = 4
 metric = get_bleu_metrics()
 
 
@@ -48,10 +48,10 @@ class TrainerManager:
             tokenized_datasets["train"],
             shuffle=True,
             collate_fn=self.data_collator,
-            batch_size=8,
+            batch_size=3,
         )
         self.eval_dataloader = DataLoader(
-            tokenized_datasets["validation"], collate_fn=self.data_collator, batch_size=8
+            tokenized_datasets["validation"], collate_fn=self.data_collator, batch_size=6
         )
         self.accelerator = Accelerator()
         # override model, optim and dataloaders to allow Accelerator to autohandle `device`

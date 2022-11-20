@@ -38,9 +38,12 @@ class TesterManager:
         self.test_dataloader = DataLoader(
             tokenized_datasets,
             collate_fn=self.data_collator,
-            batch_size=8,
+            batch_size=4,
         )
         self.accelerator = Accelerator()
+        self.test_dataloader = self.accelerator.prepare(
+            self.test_dataloader
+        )
 
     def test(self, max_length):
         self.model.eval()
@@ -70,7 +73,7 @@ class TesterManager:
             metric.add_batch(predictions=decoded_preds, references=decoded_labels)
 
         results = metric.compute()
-        log_metric('Test: bleu score for epoch', results['score'])
+        log_metric('Bleu score for test dataset', results['score'])
         precisions = np.average(results.get('precisions', [0]))
-        log_metric('Test: precision score for epoch', precisions)
+        log_metric('Precision score for dataset', precisions)
         print(f"Test: BLEU score: {results['score']:.2f}. Precision {precisions}")
