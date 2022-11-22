@@ -1,1 +1,1 @@
-MODEL_ABS_PATH = '/home/mudro/Documents/Projects/en-ukr-translater/models/saved/en_uk_legal_translater'
+MODEL_ABS_PATH = '/models/saved/en_uk_legal_translater1'

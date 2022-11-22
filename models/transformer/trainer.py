@@ -11,7 +11,7 @@ from metric_eval import get_bleu_metrics
 
 LEARNING_RATE = 2e-5
 WEIGHT_DECAY = 0.01
-num_train_epochs = 4
+num_train_epochs = 10
 metric = get_bleu_metrics()
 
 
@@ -33,7 +33,7 @@ def preprocess_preds_and_labels(tokenizer, predictions, labels):
 
 class TrainerManager:
 
-    def __init__(self, output_dir, model, tokenizer, tokenized_datasets):
+    def __init__(self, output_dir, model, tokenizer, tokenized_datasets, batch_size=3):
         self.model = model
         self.output_dir = output_dir
         self.tokenizer = tokenizer
@@ -48,16 +48,22 @@ class TrainerManager:
             tokenized_datasets["train"],
             shuffle=True,
             collate_fn=self.data_collator,
-            batch_size=3,
+            batch_size=batch_size,
         )
         self.eval_dataloader = DataLoader(
             tokenized_datasets["validation"], collate_fn=self.data_collator, batch_size=6
         )
+        self.test_dataloader = DataLoader(
+            tokenized_datasets["test"],
+            collate_fn=self.data_collator,
+            batch_size=batch_size
+        )
         self.accelerator = Accelerator()
         # override model, optim and dataloaders to allow Accelerator to autohandle `device`
-        self.model, self.optimizer, self.train_dataloader, self.eval_dataloader = self.accelerator.prepare(
-            self.model, self.optimizer, self.train_dataloader, self.eval_dataloader
-        )
+        self.model, self.optimizer, self.train_dataloader, self.eval_dataloader, self.test_dataloader = \
+            self.accelerator.prepare(
+                self.model, self.optimizer, self.train_dataloader, self.eval_dataloader, self.test_dataloader
+            )
         len_train_dataloader = len(self.train_dataloader)
         log_metric('Length of training dataloader', len_train_dataloader)
         num_update_steps_per_epoch = len_train_dataloader
@@ -132,3 +138,36 @@ class TrainerManager:
             unwrapped_model.save_pretrained(self.output_dir, save_function=self.accelerator.save)
             if self.accelerator.is_main_process:
                 self.tokenizer.save_pretrained(self.output_dir)
+
+    def test(self, max_length):
+        self.model.eval()
+        for batch in self.test_dataloader:
+            with torch_no_grad():
+                generated_tokens = self.model.generate(
+                    batch["input_ids"],
+                    attention_mask=batch["attention_mask"],
+                    max_length=max_length,
+                )
+            labels = batch["labels"]
+
+            # Necessary to pad predictions and labels for being gathered
+            generated_tokens = self.accelerator.pad_across_processes(
+                generated_tokens, dim=1, pad_index=self.tokenizer.pad_token_id
+            )
+            labels = self.accelerator.pad_across_processes(labels, dim=1, pad_index=-100)
+
+            predictions_gathered = self.accelerator.gather(generated_tokens)
+            labels_gathered = self.accelerator.gather(labels)
+
+            decoded_preds, decoded_labels = preprocess_preds_and_labels(
+                self.tokenizer,
+                predictions_gathered,
+                labels_gathered
+            )
+            metric.add_batch(predictions=decoded_preds, references=decoded_labels)
+
+        results = metric.compute()
+        log_metric('Bleu score for test dataset', results['score'])
+        precisions = np.average(results.get('precisions', [0]))
+        log_metric('Precision score for dataset', precisions)
+        print(f"Test: BLEU score: {results['score']:.2f}. Precision {precisions}")
