@@ -6,36 +6,49 @@ main {
 
 .container {
     display: flex;
+    padding: 5px;
     flex-direction: column;
     text-align: left;
     gap: 10px 0px;
     width: fit-content;
 }
 
-.row-1 {
-    display: flex;
-    justify-content: left;
-    gap: 0 20px;
+.row-trans {
+  
 }
 
-.row-2 {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    gap: 0 20px;
-}
-
-.row-3 {
-    display: flex;
-    flex-direction: row;
-    justify-content: left;
-    gap: 20px 20px;
+.column-trans {
+  height: 100%;
+  width: 100%;
 }
 
 .translate-btn {
-    width: fit-content;
-    block-size: fit-content;
-    font-size: calc(10px + 1vmin);
-    color: #000;
-    margin: 10px;
+  height: auto;
+  align-items: center;
+  background-color: #177d4f !important;
+  border-radius: 12px;
+  box-shadow: transparent 0 0 0 3px,rgba(18, 18, 18, .1) 0 5px 10px;
+  box-sizing: border-box;
+  color: #fff !important;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 1 1 auto;
+  font-size: calc(10px + 1vmin);
+  justify-content: center;
+  line-height: 1;
+  margin: 10px;
+  outline: none;
+  padding: 1rem 1.2rem;
+  text-align: center;
+  text-decoration: none;
+  transition: box-shadow .2s,-webkit-box-shadow .2s;
+  white-space: nowrap;
+  border: 0;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.translate-btn:hover {
+  box-shadow: #121212 0 0 0 1px, transparent 0 0 0 0;
 }

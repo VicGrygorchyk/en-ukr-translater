@@ -1,10 +1,12 @@
 from typing import List
+import sys
 
 import uvicorn
 from pydantic import BaseModel
 from fastapi import FastAPI
 from transformers import pipeline
 
+sys.path.append('/home/mudro/Documents/Projects/en-ukr-translater')
 from globals import MODEL_ABS_PATH
 
 

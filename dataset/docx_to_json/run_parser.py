@@ -1,6 +1,9 @@
+import sys
 import glob
 
 from parse_docx_to_json import docx_to_json
+
+sys.path.append('/home/mudro/Documents/Projects/en-ukr-translater')
 from globals import MAX_LEN, CURATED_DATASET_PATH
 
 curated_path = CURATED_DATASET_PATH
