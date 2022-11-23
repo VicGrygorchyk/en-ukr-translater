@@ -11,6 +11,7 @@ main {
     text-align: left;
     gap: 10px 0px;
     width: fit-content;
+    min-height: 80vh;
 }
 
 .row-trans {
@@ -19,26 +20,25 @@ main {
 
 .column-trans {
   height: 100%;
+  min-height: 30vh;
   width: 100%;
 }
 
 .translate-btn {
-  height: auto;
+  width: 100%;
   align-items: center;
-  background-color: #177d4f !important;
+  background-color: #177d4f;
   border-radius: 12px;
   box-shadow: transparent 0 0 0 3px,rgba(18, 18, 18, .1) 0 5px 10px;
   box-sizing: border-box;
-  color: #fff !important;
+  color: #fff;
   cursor: pointer;
-  display: inline-flex;
-  flex: 1 1 auto;
   font-size: calc(10px + 1vmin);
   justify-content: center;
   line-height: 1;
   margin: 10px;
   outline: none;
-  padding: 1rem 1.2rem;
+  padding: 1rem;
   text-align: center;
   text-decoration: none;
   transition: box-shadow .2s,-webkit-box-shadow .2s;
@@ -49,6 +49,41 @@ main {
   touch-action: manipulation;
 }
 
+.loading {
+  user-select: none;
+  pointer-events: none;
+  -webkit-user-select: none;
+  margin: 0 10px;
+}
+
 .translate-btn:hover {
+  background-color: #0b693f;
   box-shadow: #121212 0 0 0 1px, transparent 0 0 0 0;
+}
+
+.select-lang-btn {
+  background-color: #fff;
+  border: 3px solid #0b693f;
+  box-shadow: transparent 0 0 0 3px,rgba(18, 18, 18, .1) 0 5px 10px;
+  color: #000;
+  margin: 0 5px;
+  border-radius: 12px;
+}
+
+.select-lang-btn:hover {
+  color: #fff !important;
+  background-color: #0b693f !important;
+  border: 3px solid #0b693f !important;
+}
+
+.select-lang-btn:focus {
+  color: #fff !important;
+  background-color: #0b693f !important;
+  border: 3px solid #0b693f !important;
+}
+
+.select-lang-btn:checked {
+  color: #fff !important;
+  background-color: #2510e8 !important;
+  border: 3px solid #0b693f !important;
 }

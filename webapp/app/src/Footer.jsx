@@ -4,11 +4,11 @@ import './Footer.css';
 export class Footer extends React.Component {
     render() {
       return (
-        <header className="footer">
+        <footer className="footer">
             <p>
                 Віктор Григорчук, 2022
             </p>
-        </header>
+        </footer>
       );
     }
   }
