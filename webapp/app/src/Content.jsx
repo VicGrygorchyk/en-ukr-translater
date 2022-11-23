@@ -19,7 +19,7 @@ export class Content extends React.Component {
       engText: 'Вкладіть сюди текст для перекладу',
       textAreaValue: '',
       translated: "Тут з'явиться перекладений текст",
-      checked: false
+      selectLangOptions: false
     };
     this.handleClick = this.handleClick.bind(this);
     this.handleChangeEng = this.handleChangeEng.bind(this);
@@ -37,12 +37,12 @@ export class Content extends React.Component {
 
 
   handleLangSelected(event) {
-    this.setState(state => ({
-      error: state.error,
-      isLoaded: state.isLoaded,
-      translated: state.translated,
-      textAreaValue: event.target.value
-    }));
+    const target = event.target
+    const checked = target.checked
+    const name = target.name
+    this.setState({
+        [name]: checked,
+    });
     console.log('Test ' + event.target)
   }
 
@@ -97,21 +97,21 @@ export class Content extends React.Component {
            </Col>
            <Col className='col-4'>
             <ToggleButtonGroup 
-              type="radio" name="options" defaultValue={1} onChange={this.handleLangSelected}
+              type="radio" name="selectLangOptions" defaultValue={1} onClick={this.handleLangSelected}
             >
               <ToggleButton 
                 className='select-lang-btn'
                 variant='outline-success'
-                id="tbg-radio-1"
-                value={1}
+                // id="tbg-radio-1"
+                // value={1}
               >
                 З англійської на українську
               </ToggleButton>
               <ToggleButton 
                 className='select-lang-btn'
                 variant='outline-success'
-                id="tbg-radio-2"
-                value={2}
+                // id="tbg-radio-2"
+                // value={2}
               > З української на англійську
               </ToggleButton>
             </ToggleButtonGroup>
