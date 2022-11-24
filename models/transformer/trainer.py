@@ -11,7 +11,7 @@ from metric_eval import get_bleu_metrics
 
 LEARNING_RATE = 2e-5
 WEIGHT_DECAY = 0.01
-num_train_epochs = 10
+num_train_epochs = 7
 metric = get_bleu_metrics()
 
 
@@ -51,7 +51,7 @@ class TrainerManager:
             batch_size=batch_size,
         )
         self.eval_dataloader = DataLoader(
-            tokenized_datasets["validation"], collate_fn=self.data_collator, batch_size=6
+            tokenized_datasets["validation"], collate_fn=self.data_collator, batch_size=8
         )
         self.test_dataloader = DataLoader(
             tokenized_datasets["test"],

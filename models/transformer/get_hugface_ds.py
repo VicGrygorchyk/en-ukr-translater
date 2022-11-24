@@ -58,12 +58,9 @@ def get_pat_dataset() -> DatasetDict:
     'uk': "Знімна ручка до кухонного приладдя містить бакелітову ручку з наявним у ній з'єднувальним механізмом, пластикову частину, яка включає верхню секцію і нижню секцію, пружину, алюмінієву частину, яка включає верхню секцію і нижню секцію."}}
     """
     pat = load_dataset('para_pat', 'en-uk')
-    split_datasets = pat['train'].train_test_split(train_size=0.9, seed=20)
+    split_datasets = pat['train'].train_test_split(train_size=0.95, seed=42)
     pat['train'] = split_datasets.pop('train')
-    split_test_ds = split_datasets['test'].train_test_split(train_size=0.5, seed=20)
+    split_test_ds = split_datasets['test'].train_test_split(train_size=0.5, seed=42)
     pat['test'] = split_test_ds.pop('train')
     pat['validation'] = split_test_ds.pop('test')
     return pat
-
-
-r = get_pat_dataset()
