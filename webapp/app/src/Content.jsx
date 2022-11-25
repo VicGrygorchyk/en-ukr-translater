@@ -3,12 +3,25 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import ToggleButtonGroup from 'react-bootstrap/ButtonGroup';
-import ToggleButton from 'react-bootstrap/ToggleButton';
 
 import { Instruction } from './Instruction';
 import { Box } from './Box';
 import './Content.css';
+import { ReactComponent as SwitchArrows } from './assets/exchange-svgrepo-com.svg';
+
+
+const languagesLabels = {
+  eng: 'Англійська',
+  ukr: 'Українська'
+}
+
+function getSourceLang(sourceLangIsEng) {
+  return sourceLangIsEng == true ? languagesLabels.eng : languagesLabels.ukr;
+}
+
+function getTargetLang(sourceLangIsEng) {
+  return sourceLangIsEng == true ? languagesLabels.ukr : languagesLabels.eng;
+}
 
 export class Content extends React.Component {
   constructor(props) {
@@ -19,7 +32,7 @@ export class Content extends React.Component {
       engText: 'Вкладіть сюди текст для перекладу',
       textAreaValue: '',
       translated: "Тут з'явиться перекладений текст",
-      selectLangOptions: false
+      sourceLangIsEng: true
     };
     this.handleClick = this.handleClick.bind(this);
     this.handleChangeEng = this.handleChangeEng.bind(this);
@@ -36,14 +49,11 @@ export class Content extends React.Component {
   }
 
 
-  handleLangSelected(event) {
-    const target = event.target
-    const checked = target.checked
-    const name = target.name
-    this.setState({
-        [name]: checked,
-    });
-    console.log('Test ' + event.target)
+  handleLangSelected() {
+    this.setState(state => ({
+      ...state,
+      sourceLangIsEng: !state.sourceLangIsEng
+    }));
   }
 
   async handleClick() {
@@ -91,32 +101,25 @@ export class Content extends React.Component {
       <Container className='container container-fluid'>
         <Instruction />
           <Row  className='row-trans'>
-           <Col className='col-3'></Col>
            <Col className='col-2'>
-            <p>Виберіть варіант перекладу</p>
            </Col>
-           <Col className='col-4'>
-            <ToggleButtonGroup 
-              type="radio" name="selectLangOptions" defaultValue={1} onClick={this.handleLangSelected}
-            >
-              <ToggleButton 
-                className='select-lang-btn'
-                variant='outline-success'
-                // id="tbg-radio-1"
-                // value={1}
-              >
-                З англійської на українську
-              </ToggleButton>
-              <ToggleButton 
-                className='select-lang-btn'
-                variant='outline-success'
-                // id="tbg-radio-2"
-                // value={2}
-              > З української на англійську
-              </ToggleButton>
-            </ToggleButtonGroup>
+           <Col className='col-3'>
+            <h4 className='sourceLang'>{getSourceLang(this.state.sourceLangIsEng)}</h4>
            </Col>
-           <Col className='col-3'></Col>
+           <Col className='col-2'>
+           <button className='select-lang-btn' onClick={this.handleLangSelected}>
+            <SwitchArrows 
+              className='switch-arrows'
+              // viewBox="0 0 100 100"
+              // preserveAspectRatio="x200Y200 meet"
+            /> <p>змінити мову</p>
+           </button>
+           </Col>
+           <Col className='col-3'>
+            <h4 className='targetLang'>{getTargetLang(this.state.sourceLangIsEng)}</h4>
+           </Col>
+           <Col className='col-2'>
+           </Col>
           </Row>
           <Row  className='row-trans'>
             <Col className='col-6'>
