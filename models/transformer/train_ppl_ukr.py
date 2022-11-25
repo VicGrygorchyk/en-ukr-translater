@@ -1,3 +1,6 @@
+"""
+Train ukr - eng model
+"""
 import os
 import sys
 from typing import TypedDict, List
@@ -15,7 +18,7 @@ from dataset import datasets_globals
 
 DATASET_PATH = datasets_globals.CURATED_DATASET_PATH
 MAX_LEN = datasets_globals.MAX_LEN
-save_path = '/home/mudro/Documents/Projects/en-ukr-translater/models/saved'
+save_path = '/home/mudro/Documents/Projects/en-ukr-translater/models/saved_ukr'
 
 
 class ModelToPhaseMap(TypedDict):
@@ -30,17 +33,17 @@ if __name__ == "__main__":
     # train the model in phases: 1) on articles from internet, 2) on small legal acts, 3) on courts decisions
     dataset_phases: List[ModelToPhaseMap] = [
         {
-            'model': 'Helsinki-NLP/opus-mt-en-uk',
+            'model': 'Helsinki-NLP/opus-mt-uk-en',
             'phase_path': 'get_all_datasets',
             'save_path': f'{save_path}/modelv1',
-            'descr': 'Run on the flores dataset',
+            'descr': 'Train ukr on the web dataset',
             'batch_size': 3
         },
         {
             'model': f'{save_path}/modelv1',
             'phase_path': f'{DATASET_PATH}/phase2',
             'save_path': f'{save_path}/modelv_2',
-            'descr': 'Run on the dataset of legal acts and courts decisions',
+            'descr': 'Train ukr on the dataset of legal acts and courts decisions',
             'batch_size': 3
         }
     ]
@@ -60,7 +63,7 @@ if __name__ == "__main__":
             dataset_func = datasets_map.get(phase_path, lambda: get_dataset(phase_path))
             full_ds = dataset_func()
             tokenizer = get_tokenizer(model_path)
-            tokenized_datasets = get_tokenized_datasets(tokenizer, full_ds, MAX_LEN)
+            tokenized_datasets = get_tokenized_datasets(tokenizer, full_ds, MAX_LEN, input_lang='uk', target_lang='en')
             # train
             trainer = TrainerManager(
                 phase_['save_path'],

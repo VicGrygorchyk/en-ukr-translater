@@ -3,7 +3,7 @@ import sys
 from typing import TypedDict, List
 
 from dataset_utils import get_dataset, get_tokenized_datasets
-from get_hugface_ds import get_flores_dataset, get_ted_dataset, get_pat_dataset
+from get_hugface_ds import get_all_datasets
 from tokenizer import get_tokenizer
 from get_model import get_model
 from trainer import TrainerManager
@@ -29,29 +29,15 @@ class ModelToPhaseMap(TypedDict):
 if __name__ == "__main__":
     # train the model in phases: 1) on articles from internet, 2) on small legal acts, 3) on courts decisions
     dataset_phases: List[ModelToPhaseMap] = [
-        # {
-        #     'model': 'Helsinki-NLP/opus-mt-en-uk',
-        #     'phase_path': 'get_flores_dataset',
-        #     'save_path': f'{save_path}/modelv1',
-        #     'descr': 'Run on the flores dataset',
-        #     'batch_size': 6
-        # },
-        # {
-        #     'model': f'{save_path}/modelv1',
-        #     'phase_path': 'get_ted_dataset',
-        #     'save_path': f'{save_path}/modelv1_1',
-        #     'descr': 'Run on the TED talk 2016 dataset',
-        #     'batch_size': 6
-        # },
-        # {
-        #     'model': f'{save_path}/modelv1_1',
-        #     'phase_path': 'get_pat_dataset',
-        #     'save_path': f'{save_path}/modelv1_2',
-        #     'descr': 'Run on wikinews pat dataset',
-        #     'batch_size': 3
-        # },
         {
-            'model': f'{save_path}/modelv1_2',
+            'model': 'Helsinki-NLP/opus-mt-en-uk',
+            'phase_path': 'get_all_datasets',
+            'save_path': f'{save_path}/modelv1',
+            'descr': 'Run on the flores dataset',
+            'batch_size': 3
+        },
+        {
+            'model': f'{save_path}/modelv1',
             'phase_path': f'{DATASET_PATH}/phase2',
             'save_path': f'{save_path}/modelv_2',
             'descr': 'Run on the dataset of legal acts and courts decisions',
@@ -60,9 +46,7 @@ if __name__ == "__main__":
     ]
 
     datasets_map = {
-        'get_flores_dataset': get_flores_dataset,
-        'get_ted_dataset': get_ted_dataset,
-        'get_pat_dataset': get_pat_dataset
+        'get_all_datasets': get_all_datasets
     }
 
     for phase_ in dataset_phases:

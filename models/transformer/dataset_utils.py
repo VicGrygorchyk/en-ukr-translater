@@ -1,9 +1,11 @@
-from typing import TYPE_CHECKING
+from typing import TYPE_CHECKING, Literal
 
 from datasets import load_dataset, DatasetDict
 
 if TYPE_CHECKING:
     from transformers import PreTrainedTokenizerBase
+
+langs_key = Literal['en', 'uk']
 
 
 def get_dataset(path: str) -> 'DatasetDict':
@@ -23,8 +25,8 @@ def get_tokenized_datasets(
         tokenizer: 'PreTrainedTokenizerBase',
         datasets: 'DatasetDict',
         max_length: int,
-        input_lang='en',
-        target_lang='uk') -> 'DatasetDict':
+        input_lang: langs_key = 'en',
+        target_lang: langs_key = 'uk') -> 'DatasetDict':
 
     def preprocess_function(examples):
         inputs = [ex[input_lang] for ex in examples['translation']]

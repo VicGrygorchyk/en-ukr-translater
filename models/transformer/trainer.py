@@ -11,7 +11,7 @@ from metric_eval import get_bleu_metrics
 
 LEARNING_RATE = 2e-5
 WEIGHT_DECAY = 0.01
-num_train_epochs = 7
+num_train_epochs = 10
 metric = get_bleu_metrics()
 
 
