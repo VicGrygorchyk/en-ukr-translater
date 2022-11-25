@@ -3,6 +3,8 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import ToggleButtonGroup from 'react-bootstrap/ButtonGroup';
+import ToggleButton from 'react-bootstrap/ToggleButton';
 
 import { Instruction } from './Instruction';
 import { Box } from './Box';
@@ -14,13 +16,14 @@ export class Content extends React.Component {
     this.state = {
       error: null,
       isLoaded: false,
-      engText: 'Вкладіть сюди англійський текст',
+      engText: 'Вкладіть сюди текст для перекладу',
       textAreaValue: '',
-      translated: "Тут з'явиться текст перекладений українською мовою",
-      spinnerClass: 'hidden'
+      translated: "Тут з'явиться перекладений текст",
+      selectLangOptions: false
     };
     this.handleClick = this.handleClick.bind(this);
     this.handleChangeEng = this.handleChangeEng.bind(this);
+    this.handleLangSelected = this.handleLangSelected.bind(this);
   }
 
   handleChangeEng(event) {
@@ -32,13 +35,23 @@ export class Content extends React.Component {
     }));
   }
 
+
+  handleLangSelected(event) {
+    const target = event.target
+    const checked = target.checked
+    const name = target.name
+    this.setState({
+        [name]: checked,
+    });
+    console.log('Test ' + event.target)
+  }
+
   async handleClick() {
     this.setState(state => ({
       error: state.error,
       isLoaded: state.isLoaded,
       translated: state.translated,
       textAreaValue: state.value,
-      spinnerClass: "spinner-border spinner-border-sm"
     }));
     
     try {
@@ -61,7 +74,6 @@ export class Content extends React.Component {
         isLoaded: true,
         translated: translated,
         textAreaValue: state.textAreaValue,
-        spinnerClass: "hidden"
       }));
     } catch (err) {
       this.setState(state => ({
@@ -69,7 +81,6 @@ export class Content extends React.Component {
         isLoaded: true,
         translated: '',
         textAreaValue: state.textAreaValue,
-        spinnerClass: "hidden"
       }));
     }
   };
@@ -80,28 +91,57 @@ export class Content extends React.Component {
       <Container className='container container-fluid'>
         <Instruction />
           <Row  className='row-trans'>
-            <Col className='col-5 '>
+           <Col className='col-3'></Col>
+           <Col className='col-2'>
+            <p>Виберіть варіант перекладу</p>
+           </Col>
+           <Col className='col-4'>
+            <ToggleButtonGroup 
+              type="radio" name="selectLangOptions" defaultValue={1} onClick={this.handleLangSelected}
+            >
+              <ToggleButton 
+                className='select-lang-btn'
+                variant='outline-success'
+                // id="tbg-radio-1"
+                // value={1}
+              >
+                З англійської на українську
+              </ToggleButton>
+              <ToggleButton 
+                className='select-lang-btn'
+                variant='outline-success'
+                // id="tbg-radio-2"
+                // value={2}
+              > З української на англійську
+              </ToggleButton>
+            </ToggleButtonGroup>
+           </Col>
+           <Col className='col-3'></Col>
+          </Row>
+          <Row  className='row-trans'>
+            <Col className='col-6'>
               <div className='column-trans'>
                 <Box className='box' text={this.state.engText} onChangeHandler={this.handleChangeEng}>   
                 </Box>
               </div>
             </Col>
-            <Col className='col-2'>
-              <div className='column-trans'>
-                <button onClick={this.handleClick} className='btn translate-btn'>
-                  Перекласти
-                  <span className={this.state.spinnerClass} role="status" aria-hidden="true"></span>
-                </button>
-                <button className='btn translate-btn'>&#60;- Змінити мову -&#62;</button>
-              </div>
-              </Col>
-            <Col className='col-5'>
+            <Col className='col-6'>
               <div className='column-trans'>
                 <div className='box'>
                   { this.state.translated }
                 </div>
               </div>
             </Col>
+          </Row>
+          <Row className='row-trans'>
+            <Col className='col-4'></Col>
+            <Col className='col-4'>
+                <button onClick={this.handleClick} className='translate-btn'>
+                    { this.state.isLoaded? 'Зачекайте...' : 'Перекласти'}
+                    <span className={ !this.state.isLoaded? 'hidden' : 'spinner-border spinner-border-sm loading'}></span>
+                </button>
+            </Col>
+            <Col className='col-4'></Col>
           </Row>
       </Container>
     </main>

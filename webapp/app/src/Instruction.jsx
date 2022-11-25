@@ -14,7 +14,7 @@ export class Instruction extends React.Component {
             <Card className='h-100 border-black-50 instruction-card'>
               <CardHeader className="card-title">Крок 1:</CardHeader>
               <div className="card-body">
-                <p className="card-text">Виберіть з якої мови перекласти</p>
+                <p className="card-text">Виберіть з якої мови перекласти (англійська чи українська)</p>
               </div>
             </Card>
           </Col>

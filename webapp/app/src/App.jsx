@@ -6,7 +6,7 @@ import { Footer } from './Footer';
 function App() {
   return (
     <div className="App">
-      <Header title='Англійсько-український онлайн перекладач'/>
+      <Header title='Англійсько-український юридичний перекладач'/>
       <Content />
       <Footer />
     </div>
