@@ -1,20 +1,28 @@
-from typing import List
+from typing import List, Literal
 import os
+import re
 
 import uvicorn
 from pydantic import BaseModel
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from transformers import pipeline
 
 
 app = FastAPI()
 
-model_checkpoint = os.getenv('MODEL_ABS_PATH')
-translator = pipeline("translation", model=model_checkpoint)
+model_en_checkpoint = os.getenv('MODEL_EN_ABS_PATH')
+model_uk_checkpoint = os.getenv('MODEL_UK_ABS_PATH')
+
+translator_en = pipeline("translation", model=model_en_checkpoint)
+translator_uk = pipeline("translation", model=model_uk_checkpoint)
+
+EN_LANG = 'en'
+UK_LANG = 'uk'
 
 
 class TranslateInput(BaseModel):
     input: str = 'TranslateInput'
+    source_lang: str = Literal['en', 'uk']
 
 
 class TranslatedText(BaseModel):
@@ -22,11 +30,13 @@ class TranslatedText(BaseModel):
 
 
 @app.post('/translate', response_model=List[TranslatedText])
-def translate(translate_input: TranslateInput) -> List[TranslatedText]:
-    print(translate_input.dict())
+async def translate(translate_input: TranslateInput) -> List[TranslatedText]:
     input_to_translate = translate_input.input
-    result = translator(input_to_translate)
-    print(result)
+    source_lang = translate_input.source_lang
+    if not input_to_translate:
+        raise HTTPException(status_code=400, detail="Nothing to translate")
+
+    result = translator_en(input_to_translate) if source_lang == EN_LANG else translator_uk(input_to_translate)
     return result
 
 

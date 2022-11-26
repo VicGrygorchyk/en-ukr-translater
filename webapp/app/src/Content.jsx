@@ -8,7 +8,7 @@ import { Instruction } from './Instruction';
 import { Box } from './Box';
 import './Content.css';
 import { ReactComponent as SwitchArrows } from './assets/exchange-svgrepo-com.svg';
-
+import { ApiClient } from './api/apiClient';
 
 const languagesLabels = {
   eng: 'Англійська',
@@ -16,11 +16,11 @@ const languagesLabels = {
 }
 
 function getSourceLang(sourceLangIsEng) {
-  return sourceLangIsEng == true ? languagesLabels.eng : languagesLabels.ukr;
+  return sourceLangIsEng === true ? languagesLabels.eng : languagesLabels.ukr;
 }
 
 function getTargetLang(sourceLangIsEng) {
-  return sourceLangIsEng == true ? languagesLabels.ukr : languagesLabels.eng;
+  return sourceLangIsEng === true ? languagesLabels.ukr : languagesLabels.eng;
 }
 
 export class Content extends React.Component {
@@ -28,7 +28,7 @@ export class Content extends React.Component {
     super(props);
     this.state = {
       error: null,
-      isLoaded: false,
+      isLoaded: true,
       engText: 'Вкладіть сюди текст для перекладу',
       textAreaValue: '',
       translated: "Тут з'явиться перекладений текст",
@@ -37,13 +37,13 @@ export class Content extends React.Component {
     this.handleClick = this.handleClick.bind(this);
     this.handleChangeEng = this.handleChangeEng.bind(this);
     this.handleLangSelected = this.handleLangSelected.bind(this);
+
+    this.apiClient = new ApiClient();
   }
 
   handleChangeEng(event) {
     this.setState(state => ({
-      error: state.error,
-      isLoaded: state.isLoaded,
-      translated: state.translated,
+      ...state,
       textAreaValue: event.target.value
     }));
   }
@@ -57,27 +57,24 @@ export class Content extends React.Component {
   }
 
   async handleClick() {
+    const textAreaValue = this.state.textAreaValue;
+    if (/^\s+$/.test(textAreaValue) || textAreaValue === '') {
+      return;
+    }
+
     this.setState(state => ({
-      error: state.error,
-      isLoaded: state.isLoaded,
+      error: null,
+      isLoaded: false,
       translated: state.translated,
-      textAreaValue: state.value,
+      textAreaValue
     }));
-    
+
     try {
-      const response = await fetch('/translate', {
-        method: 'POST',
-        body: JSON.stringify({
-          input: this.state.textAreaValue
-        }),
-        headers: {
-          'Content-Type': 'application/json',
-          Accept: 'application/json',
-        },
-      });
-      console.log(response);
-      const result = await response.json();
-      const translated = result.map((text) => text.translation_text).join(' ');
+      const body = {
+          input: textAreaValue,
+          source_lang: this.state.sourceLangIsEng ? 'en' : 'uk'
+      }
+      const translated = await this.apiClient.translate(body);
 
       this.setState(state => ({
         error: null,
@@ -86,6 +83,7 @@ export class Content extends React.Component {
         textAreaValue: state.textAreaValue,
       }));
     } catch (err) {
+      console.log(err);
       this.setState(state => ({
         error: err,
         isLoaded: true,
@@ -140,8 +138,8 @@ export class Content extends React.Component {
             <Col className='col-4'></Col>
             <Col className='col-4'>
                 <button onClick={this.handleClick} className='translate-btn'>
-                    { this.state.isLoaded? 'Зачекайте...' : 'Перекласти'}
-                    <span className={ !this.state.isLoaded? 'hidden' : 'spinner-border spinner-border-sm loading'}></span>
+                    { !this.state.isLoaded? 'Зачекайте...' : 'Перекласти'}
+                    <span className={ this.state.isLoaded? 'hidden' : 'spinner-border spinner-border-sm loading'}></span>
                 </button>
             </Col>
             <Col className='col-4'></Col>
