@@ -1,9 +1,11 @@
-from typing import TYPE_CHECKING
+from typing import TYPE_CHECKING, Literal
 
 from datasets import load_dataset, DatasetDict
 
 if TYPE_CHECKING:
     from transformers import PreTrainedTokenizerBase
+
+langs_key = Literal['en', 'uk']
 
 
 def get_dataset(path: str) -> 'DatasetDict':
@@ -12,20 +14,23 @@ def get_dataset(path: str) -> 'DatasetDict':
     {\'id\': \'92924\', \'translation\': {\'en\': "", \'uk\': ""}}
     :return:
     """
-    raw_datasets = load_dataset(path, 'law')
-    split_datasets = raw_datasets['train'].train_test_split(train_size=0.9, seed=20)
-    split_datasets['validation'] = split_datasets.pop('test')
-    return split_datasets
+    raw_datasets = load_dataset(path)
+    split_datasets = raw_datasets['train'].train_test_split(train_size=0.92, seed=42)
+    raw_datasets['train'] = split_datasets.pop('train')
+    raw_datasets['validation'] = split_datasets.pop('test')
+    return raw_datasets
 
 
-def get_tokenized_dataset(
+def get_tokenized_datasets(
         tokenizer: 'PreTrainedTokenizerBase',
         datasets: 'DatasetDict',
-        max_length: int) -> 'DatasetDict':
+        max_length: int,
+        input_lang: langs_key = 'en',
+        target_lang: langs_key = 'uk') -> 'DatasetDict':
 
-    def preprocess_function(examples=None):
-        inputs = [ex['en'] for ex in examples['translation']]
-        targets = [ex['uk'] for ex in examples['translation']]
+    def preprocess_function(examples):
+        inputs = [ex[input_lang] for ex in examples['translation']]
+        targets = [ex[target_lang] for ex in examples['translation']]
         model_inputs = tokenizer(inputs, text_target=targets, max_length=max_length, truncation=True)
         return model_inputs
 

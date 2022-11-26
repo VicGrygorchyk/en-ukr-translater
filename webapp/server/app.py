@@ -1,18 +1,15 @@
 from typing import List
-import sys
+import os
 
 import uvicorn
 from pydantic import BaseModel
 from fastapi import FastAPI
 from transformers import pipeline
 
-sys.path.append('/home/mudro/Documents/Projects/en-ukr-translater')
-from globals import MODEL_ABS_PATH
-
 
 app = FastAPI()
 
-model_checkpoint = MODEL_ABS_PATH
+model_checkpoint = os.getenv('MODEL_ABS_PATH')
 translator = pipeline("translation", model=model_checkpoint)
 
 

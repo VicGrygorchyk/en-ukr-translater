@@ -33,7 +33,7 @@ def preprocess_preds_and_labels(tokenizer, predictions, labels):
 
 class TrainerManager:
 
-    def __init__(self, output_dir, model, tokenizer, tokenized_datasets):
+    def __init__(self, output_dir, model, tokenizer, tokenized_datasets, batch_size=3):
         self.model = model
         self.output_dir = output_dir
         self.tokenizer = tokenizer
@@ -48,16 +48,22 @@ class TrainerManager:
             tokenized_datasets["train"],
             shuffle=True,
             collate_fn=self.data_collator,
-            batch_size=8,
+            batch_size=batch_size,
         )
         self.eval_dataloader = DataLoader(
             tokenized_datasets["validation"], collate_fn=self.data_collator, batch_size=8
         )
+        self.test_dataloader = DataLoader(
+            tokenized_datasets["test"],
+            collate_fn=self.data_collator,
+            batch_size=batch_size
+        )
         self.accelerator = Accelerator()
         # override model, optim and dataloaders to allow Accelerator to autohandle `device`
-        self.model, self.optimizer, self.train_dataloader, self.eval_dataloader = self.accelerator.prepare(
-            self.model, self.optimizer, self.train_dataloader, self.eval_dataloader
-        )
+        self.model, self.optimizer, self.train_dataloader, self.eval_dataloader, self.test_dataloader = \
+            self.accelerator.prepare(
+                self.model, self.optimizer, self.train_dataloader, self.eval_dataloader, self.test_dataloader
+            )
         len_train_dataloader = len(self.train_dataloader)
         log_metric('Length of training dataloader', len_train_dataloader)
         num_update_steps_per_epoch = len_train_dataloader
@@ -76,10 +82,10 @@ class TrainerManager:
         for epoch in range(num_train_epochs):
             # Training
             self.model.train()
+            last_loss = None
             for batch in self.train_dataloader:
                 outputs = self.model(**batch)
                 loss = outputs.loss
-                log_metric('train loss', loss, epoch)
                 self.accelerator.backward(loss)
 
                 self.optimizer.step()
@@ -88,6 +94,10 @@ class TrainerManager:
                 log_metric('current train lr', cur_lr, epoch)
                 self.optimizer.zero_grad()
                 progress_bar.update(1)
+                last_loss = loss
+
+            log_metric('train loss', last_loss, epoch)
+            print(f"epoch {epoch}, loss: {last_loss:.2f}")
 
             # Evaluation
             self.model.eval()
@@ -119,10 +129,45 @@ class TrainerManager:
 
             results = metric.compute()
             log_metric('Bleu score for epoch', results['score'])
-            print(f"epoch {epoch}, BLEU score: {results['score']:.2f}")
+            precisions = np.average(results.get('precisions', [0]))
+            log_metric('Precision score for epoch', precisions)
+            print(f"epoch {epoch}, BLEU score: {results['score']:.2f}. Precision {precisions}")
 
             # Save the model and tokenizer
             self.accelerator.wait_for_everyone()
             unwrapped_model.save_pretrained(self.output_dir, save_function=self.accelerator.save)
             if self.accelerator.is_main_process:
                 self.tokenizer.save_pretrained(self.output_dir)
+
+    def test(self, max_length):
+        self.model.eval()
+        for batch in self.test_dataloader:
+            with torch_no_grad():
+                generated_tokens = self.model.generate(
+                    batch["input_ids"],
+                    attention_mask=batch["attention_mask"],
+                    max_length=max_length,
+                )
+            labels = batch["labels"]
+
+            # Necessary to pad predictions and labels for being gathered
+            generated_tokens = self.accelerator.pad_across_processes(
+                generated_tokens, dim=1, pad_index=self.tokenizer.pad_token_id
+            )
+            labels = self.accelerator.pad_across_processes(labels, dim=1, pad_index=-100)
+
+            predictions_gathered = self.accelerator.gather(generated_tokens)
+            labels_gathered = self.accelerator.gather(labels)
+
+            decoded_preds, decoded_labels = preprocess_preds_and_labels(
+                self.tokenizer,
+                predictions_gathered,
+                labels_gathered
+            )
+            metric.add_batch(predictions=decoded_preds, references=decoded_labels)
+
+        results = metric.compute()
+        log_metric('Bleu score for test dataset', results['score'])
+        precisions = np.average(results.get('precisions', [0]))
+        log_metric('Precision score for dataset', precisions)
+        print(f"Test: BLEU score: {results['score']:.2f}. Precision {precisions}")
