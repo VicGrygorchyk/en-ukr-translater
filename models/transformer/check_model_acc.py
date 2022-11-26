@@ -39,7 +39,7 @@ def check_transl_score(predictions: List[str], references: List[str], eng_orig, 
         score = result['score']
         if score < 25:
             print(f'+++ {json_file_path} +++\n')
-            print(f'======================\nLow score {score}\nfor {pred}.\nref {ref}.\norigin {eng}\n')
+            print(f'======================\nLow score {score}\nfor {pred}\nref {ref}\norigin {eng}\n')
             # raise Exception(f'Low score {score}\nfor {pred}.\nref {ref}')
 
 
