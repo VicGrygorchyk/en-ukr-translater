@@ -62,6 +62,7 @@ main {
 }
 
 .select-lang-btn {
+  width: 80%;;
   background-color: #fff;
   border: 3px solid #0b693f;
   box-shadow: transparent 0 0 0 3px,rgba(18, 18, 18, .1) 0 5px 10px;
@@ -76,14 +77,15 @@ main {
   border: 3px solid #0b693f !important;
 }
 
-.select-lang-btn:focus {
-  color: #fff !important;
-  background-color: #0b693f !important;
-  border: 3px solid #0b693f !important;
+.switch-arrows {
+  width: 30%;
+  height: 30%;
 }
 
-.select-lang-btn:checked {
-  color: #fff !important;
-  background-color: #2510e8 !important;
-  border: 3px solid #0b693f !important;
+.sourceLang {
+  text-align: right;
+}
+
+.targetLang {
+  text-align: left;
 }
