@@ -65,7 +65,7 @@ class TrainerManager:
                 self.model, self.optimizer, self.train_dataloader, self.eval_dataloader, self.test_dataloader
             )
         len_train_dataloader = len(self.train_dataloader)
-        log_metric('Length of training dataloader', len_train_dataloader)
+        log_param('Length of training dataloader', len_train_dataloader)
         num_update_steps_per_epoch = len_train_dataloader
         self.num_training_steps = num_train_epochs * num_update_steps_per_epoch
         # create scheduler with changing learning rate

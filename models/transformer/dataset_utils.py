@@ -15,7 +15,7 @@ def get_dataset(path: str) -> 'DatasetDict':
     :return:
     """
     raw_datasets = load_dataset(path)
-    split_datasets = raw_datasets['train'].train_test_split(train_size=0.92, seed=42)
+    split_datasets = raw_datasets['train'].train_test_split(train_size=0.8, seed=42)
     raw_datasets['train'] = split_datasets.pop('train')
     raw_datasets['validation'] = split_datasets.pop('test')
     return raw_datasets
