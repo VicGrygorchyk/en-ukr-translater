@@ -3,6 +3,8 @@ The aim of this work is to create an online translator for legal English-Ukraini
 We will try Transformers models for it. We also learn how to preprocess data for the dataset and create 
 a ML pipeline according to MLOps level 1 (aim to achieve 2 in future) principles.
 
+__Fine-tuned models and dataset can be found here__ [google drive](https://drive.google.com/drive/folders/121XLy7M0DzjLbNJ_8NfLBaOuA75EUlqs?usp=sharing)
+
 # Project
 This is ML project aimed to train NLP Transformer model for English-Ukrainian translation. 
 The trained model would be served via API. The front-end would be provided as well.
