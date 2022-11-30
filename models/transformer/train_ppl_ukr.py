@@ -30,7 +30,7 @@ class ModelToPhaseMap(TypedDict):
 
 
 if __name__ == "__main__":
-    # train the model in phases: 1) on articles from internet, 2) on small legal acts, 3) on courts decisions
+    # train the model in phases: 1) on articles from internet, 2) on  legal acts and courts decisions
     dataset_phases: List[ModelToPhaseMap] = [
         {
             'model': 'Helsinki-NLP/opus-mt-uk-en',

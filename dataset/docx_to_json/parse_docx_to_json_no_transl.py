@@ -14,7 +14,9 @@ match_parag = re.compile(r'^[0-9]+\.')
 end_of_sent1 = re.compile(r'(?<=[\w0-9][^(v.)(no.)])\)?\. (?=[A-ZА-Я0-9])', re.UNICODE)
 end_of_sent2 = re.compile(r'(?<=[\w0-9])[)"»”]?\. (?=[A-ZА-Я0-9])', re.UNICODE)
 
-translator = pipeline("translation", model='/home/mudro/Documents/Projects/en-ukr-translater/models/saved/en_uk_legal_translater')
+translator = pipeline("translation",
+                      device='cudo:0',
+                      model='/home/mudro/Documents/Projects/en-ukr-translater/models/saved/en_uk_legal_translater')
 
 
 @dataclass
