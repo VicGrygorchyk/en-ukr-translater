@@ -9,8 +9,8 @@ from itertools import islice
 from transformers import pipeline
 import evaluate
 
-curated_path = '/home/mudro/Documents/Projects/en-ukr-translater/dataset/curated/1243/*'
-json_files = glob.glob(curated_path)
+ds_path = '/home/mudro/Documents/Projects/en-ukr-translater/dataset/curated/1243/*'
+json_files = glob.glob(ds_path)
 
 splitted = Literal["splitted"]
 model_checkpoint = "/home/mudro/Documents/Projects/en-ukr-translater/models/saved/modelv_2"

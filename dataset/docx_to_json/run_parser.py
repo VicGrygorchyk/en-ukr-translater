@@ -20,12 +20,12 @@ tmx_files = glob.glob('/home/mudro/Documents/Projects/en-ukr-translater/dataset/
 
 no_transl_files = glob.glob('/home/mudro/Documents/Projects/en-ukr-translater/dataset/raw/no_transl/*.docx')
 
-# single_txt_to_json(
-#     '/home/mudro/Documents/Projects/en-ukr-translater/dataset/raw/english_ukranian_legal_dictionary.txt',
-#     path_to_save=f'{curated_path}/phase1'
-# )
-# txt_to_json(eng_files_txt, ukr_files_txt, path_to_save=f'{curated_path}/phase2', max_len=MAX_LEN)
-# tmx_to_json(tmx_files, path_to_save=f'{curated_path}/phase2', max_len=MAX_LEN)
+single_txt_to_json(
+    '/home/mudro/Documents/Projects/en-ukr-translater/dataset/raw/english_ukranian_legal_dictionary.txt',
+    path_to_save=f'{curated_path}/phase1'
+)
+txt_to_json(eng_files_txt, ukr_files_txt, path_to_save=f'{curated_path}/phase2', max_len=MAX_LEN)
+tmx_to_json(tmx_files, path_to_save=f'{curated_path}/phase2', max_len=MAX_LEN)
 docx_to_json(eng_files_docx, ukr_files_docx, path_to_save=f'{curated_path}/phase2', max_len=MAX_LEN)
 
-# docx_no_transl_to_json(no_transl_files, path_to_save=f'{curated_path}/phase3', max_len=MAX_LEN)
+docx_no_transl_to_json(no_transl_files, path_to_save=f'{curated_path}/phase3', max_len=MAX_LEN)
