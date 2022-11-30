@@ -1,6 +1,5 @@
 from typing import List, Literal
 import os
-import re
 
 import uvicorn
 from pydantic import BaseModel
