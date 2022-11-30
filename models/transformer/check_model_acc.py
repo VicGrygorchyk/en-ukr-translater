@@ -9,7 +9,7 @@ from itertools import islice
 from transformers import pipeline
 import evaluate
 
-curated_path = '/home/mudro/Documents/Projects/en-ukr-translater/dataset/curated/lit/train/*'
+curated_path = '/home/mudro/Documents/Projects/en-ukr-translater/dataset/curated/1243/*'
 json_files = glob.glob(curated_path)
 
 splitted = Literal["splitted"]
@@ -37,7 +37,7 @@ def check_transl_score(predictions: List[str], references: List[str], eng_orig, 
     for pred, ref, eng in zip(predictions, references, eng_orig):
         result = metric.compute(predictions=[pred], references=[ref])
         score = result['score']
-        if score < 25:
+        if score < 20:
             print(f'+++ {json_file_path} +++\n')
             print(f'======================\nLow score {score}\nfor {pred}\nref {ref}\norigin {eng}\n')
             # raise Exception(f'Low score {score}\nfor {pred}.\nref {ref}')
@@ -62,8 +62,14 @@ def validate_each_item():
             ukr_refs = []
             for item in res_dict:
                 translation = item["translation"]
-                eng_orig.append(translation['en'])
-                ukr_refs.append(translation['uk'])
+                eng_line = translation['en']
+                ukr_line = translation['uk']
+                if len(eng_line) > 512:
+                    raise Exception(f'file {json_file_path}\n{len(eng_line)} for {eng_line}')
+                if len(ukr_line) > 512:
+                    raise Exception(f'file {json_file_path}\n{len(ukr_line)} for {ukr_line}')
+                eng_orig.append(eng_line)
+                ukr_refs.append(ukr_line)
             if eng_orig:
                 preds = get_pred(eng_orig)
                 check_transl_score(preds, ukr_refs, eng_orig, json_file_path)
