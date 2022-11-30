@@ -8,7 +8,6 @@ from selen_kaa.webdriver import SeWebDriver
 class PWManager:
 
     def __init__(self):
-        self.playwright = None
         self.options = Options()
         self.options.add_argument("user-data-dir=/home/mudro/Documents/Projects/driver_/")
         custom_driver = webdriver.Chrome(
