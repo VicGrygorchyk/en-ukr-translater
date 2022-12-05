@@ -1,0 +1,28 @@
+version: "3.9"
+services:
+  webapp:
+    image: webapp
+    build:
+      context: ./
+      dockerfile: Dockerfile_webapp
+    depends_on:
+      - server
+    ports:
+      - "3000:3000"
+    networks:
+      - en_ukr_net
+
+  server:
+    image: server
+    restart: on-failure
+    build:
+      context: ./
+      dockerfile: Dockerfile_server
+    networks:
+      - en_ukr_net
+    ports:
+      - "8007:8007"
+
+networks:
+  en_ukr_net:
+    driver: host

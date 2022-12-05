@@ -1,0 +1,6 @@
+FROM node:16.18-slim
+WORKDIR ~/app
+COPY ./webapp/app .
+RUN npm run build && npm install -g serve
+EXPOSE 3000
+ENTRYPOINT ["serve", "-s", "build"]
