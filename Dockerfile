@@ -8,4 +8,4 @@ RUN pip install -U transformers==4.23.1 fastapi==0.85.1 pydantic==1.10.2 uvicorn
 ARG MODEL_EN_ABS_PATH=./model_en
 ARG MODEL_UK_ABS_PATH=./model_ukr
 EXPOSE 8007
-CMD ["python"]
+CMD ["python", "app.py"]
