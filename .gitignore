@@ -163,3 +163,4 @@ models/saved_ukr/*
 **/mlruns/*
 /dataset/raw/*
 /dataset/curated/*
+**/*.zip

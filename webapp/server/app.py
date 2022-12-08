@@ -4,6 +4,7 @@ import os
 import uvicorn
 from pydantic import BaseModel
 from fastapi import FastAPI, HTTPException
+from fastapi.staticfiles import StaticFiles
 from transformers import pipeline
 
 
@@ -38,6 +39,7 @@ async def translate(translate_input: TranslateInput) -> List[TranslatedText]:
     result = translator_en(input_to_translate) if source_lang == EN_LANG else translator_uk(input_to_translate)
     return result
 
+app.mount("/", StaticFiles(directory="build", html=True), name="build")
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8007)
