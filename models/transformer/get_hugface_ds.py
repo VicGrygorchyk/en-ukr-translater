@@ -1,7 +1,7 @@
 """
 Reformat datasets to train, test, validation with schema {\'id\': \'92924\', \'translation\': {\'en\': "", \'uk\': ""}}
 """
-from datasets import load_dataset, DatasetDict, Dataset
+from datasets import load_dataset, DatasetDict
 
 
 def get_flores_dataset() -> DatasetDict:
