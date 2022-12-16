@@ -64,25 +64,3 @@ def get_pat_dataset() -> DatasetDict:
     pat['test'] = split_test_ds.pop('train')
     pat['validation'] = split_test_ds.pop('test')
     return pat
-
-
-def get_all_datasets() -> DatasetDict:
-    pat = get_pat_dataset()
-    flore = get_flores_dataset()
-    ted = get_ted_dataset()
-    for item in flore['train']:
-        pat['train'].add_item(item)
-    for item in ted['train']:
-        pat['train'].add_item(item)
-
-    for item in flore['test']:
-        pat['test'].add_item(item)
-    for item in ted['test']:
-        pat['test'].add_item(item)
-
-    for item in flore['validation']:
-        pat['validation'].add_item(item)
-    for item in ted['validation']:
-        pat['validation'].add_item(item)
-
-    return pat

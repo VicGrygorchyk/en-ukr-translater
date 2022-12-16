@@ -2,6 +2,8 @@ from typing import TYPE_CHECKING, Literal
 
 from datasets import load_dataset, DatasetDict
 
+from get_hugface_ds import get_pat_dataset, get_flores_dataset, get_ted_dataset
+
 if TYPE_CHECKING:
     from transformers import PreTrainedTokenizerBase
 
@@ -19,6 +21,38 @@ def get_dataset(path: str) -> 'DatasetDict':
     raw_datasets['train'] = split_datasets.pop('train')
     raw_datasets['validation'] = split_datasets.pop('test')
     return raw_datasets
+
+
+def get_all_datasets(path) -> DatasetDict:
+    pat = get_pat_dataset()
+    flore = get_flores_dataset()
+    ted = get_ted_dataset()
+    custom_dataset = get_dataset(path)
+
+    for item in flore['train']:
+        pat['train'].add_item(item)
+    for item in ted['train']:
+        pat['train'].add_item(item)
+    for item in custom_dataset['train']:
+        pat['train'].add_item(item)
+
+    pat['train'].shuffle(seed=42)
+
+    for item in flore['test']:
+        pat['test'].add_item(item)
+    for item in ted['test']:
+        pat['test'].add_item(item)
+    for item in custom_dataset['test']:
+        pat['test'].add_item(item)
+
+    for item in flore['validation']:
+        pat['validation'].add_item(item)
+    for item in ted['validation']:
+        pat['validation'].add_item(item)
+    for item in custom_dataset['validation']:
+        pat['validation'].add_item(item)
+
+    return pat
 
 
 def get_tokenized_datasets(
