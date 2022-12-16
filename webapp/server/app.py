@@ -2,6 +2,7 @@ from typing import List, Literal
 import os
 
 import uvicorn
+from torch import no_grad as torch_no_grad
 from pydantic import BaseModel
 from fastapi import FastAPI, HTTPException
 from fastapi.staticfiles import StaticFiles
@@ -35,8 +36,8 @@ async def translate(translate_input: TranslateInput) -> List[TranslatedText]:
     source_lang = translate_input.source_lang
     if not input_to_translate:
         raise HTTPException(status_code=400, detail="Nothing to translate")
-
-    result = translator_en(input_to_translate) if source_lang == EN_LANG else translator_uk(input_to_translate)
+    with torch_no_grad():
+        result = translator_en(input_to_translate) if source_lang == EN_LANG else translator_uk(input_to_translate)
     return result
 
 app.mount("/", StaticFiles(directory="build", html=True), name="build")
