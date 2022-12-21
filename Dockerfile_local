@@ -1,0 +1,18 @@
+FROM node:16.18.1 as node_build
+WORKDIR /project
+COPY webapp/app ./app
+RUN cd /project/app && npm i && npm run build
+
+
+FROM python:3.10.8
+WORKDIR /app
+COPY webapp/server ./webapp/server
+COPY --from=node_build /project/app/build ./webapp/server/build
+COPY requirements.txt .
+COPY models ./models
+COPY start_server.sh .
+RUN apt-get update && apt-get install -y git
+RUN pip install -U -r requirements.txt && pip install jupyterlab
+EXPOSE 8888 8007
+VOLUME app
+CMD ["bash", "start_server.sh"]
